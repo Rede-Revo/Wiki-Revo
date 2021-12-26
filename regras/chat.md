@@ -19,7 +19,7 @@ Além do alerta temporário também há o sistema de avisos, o(a) jogador(a) que
 
 ## Regra 01 - Ofensa <a href="#01" id="01"></a>
 
-Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores, será punido por ofensa todo jogador que agredir o outro verbalmente por meio de xingamentos, insultos, até mesmo com abreviações ou em outras idiomas, além disso, evite brincadeiras de mal gosto com outros jogadores (a staff não é obrigada a saber se está falando pra um "amigo" ou se trata de um "meme").
+Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores, será punido por ofensa todo jogador que agredir o outro verbalmente por meio de xingamentos, insultos, até mesmo com abreviações ou em outras idiomas, além disso, evite brincadeiras de mal gosto com outros jogadores (a staff não levará em conta se as palavras proferidas são para um amigo ou se tratam de meme").
 
 {% hint style="info" %}
 Ameaças a outros jogadores(as) sejam elas com relação à sua pessoa, sua família, seus bens ou sua conta também são incluídos neste tópico.
@@ -47,10 +47,10 @@ Também se aplica a discriminação social, nem todos jogadores possuem condiç�
 
 ### Lista de Punições <a href="#lista-de-punicoes-1" id="lista-de-punicoes-1"></a>
 
-| Incidência |                   Punição                   |
-| :--------: | :-----------------------------------------: |
-|      1     | Aviso + Silenciamento temporário de 7 dias; |
-|      2     |             Banimento permanente            |
+| Incidência |                  Punição                 |
+| :--------: | :--------------------------------------: |
+|      1     | Aviso + Banimento temporário de 15 dias; |
+|      2     |           Banimento permanente           |
 
 {% hint style="warning" %}
 A staff se reserva ao direito de julgar o que será tratado como xingamento, bullyng, racismo, homofobia, apologia a crimes da forma que achar melhor.
