@@ -29,8 +29,10 @@ Ameaças a outros jogadores(as) sejam elas com relação à sua pessoa, sua fam�
 
 ### Lista de Punições <a href="#lista-de-punicoes" id="lista-de-punicoes"></a>
 
-| Incidência |   |   |
-| :--------: | - | - |
-|            |   |   |
-|            |   |   |
-|            |   |   |
+| Incidência |                    Punição                    |
+| :--------: | :-------------------------------------------: |
+|      1     |      Silenciamento temporário de 1 hora;      |
+|      2     |      Silenciamento temporário de 6 horas;     |
+|      3     | Aviso + Silenciamento temporário de 12 horas; |
+|      4     |    Aviso + Banimento temporário de 3 dias;    |
+|      5     |    Aviso + Banimento Permanente automático.   |
