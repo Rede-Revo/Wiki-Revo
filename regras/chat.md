@@ -37,7 +37,7 @@ Ameaças a outros jogadores(as) sejam elas com relação à sua pessoa, sua fam�
 
 ## Regra 02 - **Discriminação** <a href="#01" id="01"></a>
 
-Será Punido por Discriminação o(a) jogador(a) que intimidar outro jogador agredindo verbalmente / ofendendo/ humilhando com palavras fortes que estimulem o cyberbullying, preconceito racial, xenofóbico, homofóbico, entre outros.
+Será Punido por Discriminação o(a) jogador(a) que intimidar outro jogador agredindo verbalmente/ofendendo/humilhando com palavras fortes que estimulem o cyberbullying, preconceito racial, xenofóbico, homofóbico, entre outros.
 
 > **Cyberbullying** é um tipo de **violência** praticada contra alguém **através da internet** ou de outras tecnologias relacionadas. Praticar _cyberbullying_ significa usar o espaço virtual para intimidar e hostilizar uma pessoa difamando, insultando ou atacando covardemente.
 
@@ -62,13 +62,13 @@ Divulgação de coisas sem afins ao servidor tais como: discords paralelos, víd
 
 ### Lista de Punições <a href="#lista-de-punicoes" id="lista-de-punicoes"></a>
 
-| Incidência |                    Punição                   |
-| :--------: | :------------------------------------------: |
-|      1     |     Silenciamento temporário de 6 horas;     |
-|      2     |      Silenciamento temporário de 3 dias;     |
-|      3     |  Aviso + Silenciamento temporário de 7 dias; |
-|      4     | Aviso + Silenciamento temporário de 15 dias; |
-|      5     |   Aviso + Banimento Permanente automático.   |
+| Incidência |                    Punição                    |
+| :--------: | :-------------------------------------------: |
+|      1     |      Silenciamento temporário de 3 horas;     |
+|      2     |     Silenciamento temporário de 12 horas;     |
+|      3     | Aviso + Silenciamento temporário de 24 horas; |
+|      4     |  Aviso + Silenciamento temporário de 3 dias;  |
+|      5     |    Aviso + Banimento Permanente automático.   |
 
 ## Regra 04 - **Divulgação Grave** <a href="#02" id="02"></a>
 
@@ -83,7 +83,9 @@ Fazer divulgação de outros servidores de Minecraft ou lojas do gênero como fe
 
 ## Regra 05 - **Desordem no Chat** <a href="#02" id="02"></a>
 
-Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um campo de aplicação amplo, como **Spam**, **Flood**, **Iniciativa de Flood** e **Chat falso**, além disso, tentativas de burlar a punição alterando a frase mas com o mesmo sentido também gera punição.
+Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um campo de aplicação amplo, como **Spam**, **Flood**, **Iniciativa de Flood, Palavras de baixo calão** e **Chat falso**, além disso, tentativas de burlar a punição alterando a frase mas com o mesmo sentido também gera punição.
+
+> **Palavras de baixo calão:** Proferir excessivamente o uso de palavras de baixo calão ou de conteúdo adulto no chat
 
 > **Poluição visual:** Consiste em utilizar caracteres de forma aleatória no chat.
 
