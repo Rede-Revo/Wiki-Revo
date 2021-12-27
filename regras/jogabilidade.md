@@ -7,6 +7,8 @@ description: >-
 
 # Jogabilidade
 
+
+
 {% hint style="danger" %}
 Sistema de avisos: Jogadores que atingirem 3 avisos serão automaticamente banidos permanentemente pelo sistema.
 
@@ -19,15 +21,18 @@ A staff a qualquer momento pode solicitar o compartilhamento de tela através de
 _OBS: Desconectar enquanto congelado por um STAFF também será interpretado como recusa._
 {% endhint %}
 
-## Regra 08 - Nick Impróprio <a href="#01" id="01"></a>
+## Regra 08 - Nick ou Skin Inadequada <a href="#01" id="01"></a>
 
 Criar uma conta com nickname com mensagem sexual, discriminatória, ofensiva aos jogadores ou ao servidor ou com ataques à pessoas ou grupos.
 
+Utilizar uma skin sexual ou discriminatória.
+
 ### Lista de Punições <a href="#lista-de-punicoes" id="lista-de-punicoes"></a>
 
-| Incidência |        Punição       |
-| :--------: | :------------------: |
-|      1     | Banimento permanente |
+| Incidência |                                             Punição                                            |
+| :--------: | :--------------------------------------------------------------------------------------------: |
+|      1     | Banimento temporário de 7 dias (em caso de não atender o pedido de alterar a skin inadequada); |
+|      2     |                                      Banimento permanente                                      |
 
 ## Regra 09 - Abuso de Bug
 
