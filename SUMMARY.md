@@ -7,6 +7,10 @@
   * [Discord](regras/discord.md)
   * [MODs e Clients permitidos](regras/mods-e-clients-permitidos.md)
 
+## Eventos
+
+* [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
+
 ## Outros
 
 * [Fale Conosco](outros/fale-conosco.md)
