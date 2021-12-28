@@ -10,8 +10,11 @@
 ## Eventos
 
 * [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
+* [Vencedores de Guerras e Eventos Construção](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
 
 ## Outros
 
 * [Fale Conosco](outros/fale-conosco.md)
-* [Vencedores de Guerras e Eventos Construção](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
+* [Faça Parte da Equipe](outros/faca-parte-da-equipe/README.md)
+  * [Formulário para Ajudante](outros/faca-parte-da-equipe/formulario-para-ajudante.md)
+  * [Formulário para Construtor(a)](outros/faca-parte-da-equipe/formulario-para-construtor-a.md)
