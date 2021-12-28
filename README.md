@@ -1,5 +1,5 @@
 ---
-description: Bem vindo a Wiki da Rede Revoa!
+description: Bem vindo a Wiki da Rede Revo!
 ---
 
 # 📃 Introdução
