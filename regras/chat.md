@@ -85,7 +85,7 @@ Fazer divulgação de outros servidores de Minecraft ou lojas do gênero como fe
 
 Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um campo de aplicação amplo, como **Spam**, **Flood**, **Iniciativa de Flood, Palavras de baixo calão** e **Chat falso**, além disso, tentativas de burlar a punição alterando a frase mas com o mesmo sentido também gera punição.
 
-> **Palavras de baixo calão:** Proferir excessivamente o uso de palavras de baixo calão ou de conteúdo adulto no chat
+> **Palavras de baixo calão:** Proferir excessivamente o uso de palavras de baixo calão ou de conteúdo adulto no chat (mesmo utilizando abreviações).
 
 > **Poluição visual:** Consiste em utilizar caracteres de forma aleatória no chat.
 
