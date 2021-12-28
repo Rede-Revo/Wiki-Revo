@@ -2,7 +2,7 @@
 description: Bem vindo a Wiki da Rede Revo!
 ---
 
-# Introdução
+# 📃 Introdução
 
 Aqui você aprenderá tudo que precisa sobre o vosso servidor, desde os sistemas básicos aos mais avançados, eventos, comandos e muito mais!
 
@@ -10,4 +10,10 @@ Aqui você aprenderá tudo que precisa sobre o vosso servidor, desde os sistemas
 
 {% content-ref url="regras/" %}
 [regras](regras/)
+{% endcontent-ref %}
+
+## <mark style="color:blue;">Entrar em contato com a equipe:</mark>
+
+{% content-ref url="outros/fale-conosco.md" %}
+[fale-conosco.md](outros/fale-conosco.md)
 {% endcontent-ref %}

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introdução](README.md)
+* [📃 Introdução](README.md)
 * [Regras](regras/README.md)
   * [Chat](regras/chat.md)
   * [Jogabilidade](regras/jogabilidade.md)
@@ -9,4 +9,5 @@
 
 ## Outros
 
+* [Fale Conosco](outros/fale-conosco.md)
 * [Vencedores de Guerras e Eventos Construção](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
