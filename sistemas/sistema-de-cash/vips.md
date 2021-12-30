@@ -22,6 +22,44 @@ Quando maior for o VIP mais cash ele vai custar, os valores são:\
 
 ## Benefícios no Survival
 
+|               Benefícios              | **Legend** | **Ultra** | **Super** |
+| :-----------------------------------: | :--------: | :-------: | --------- |
+|                 Coins                 |   150.000  |  100.000  | 50.000    |
+|           Blocos de Proteção          |   15.000   |   10.000  | 5.000     |
+|     Bônus na loja (compra e venda)    |     10%    |    7.5%   | 5%        |
+|         Sem delay de teleporte        |     SIM    |    SIM    | SIM       |
+|     Remover spawner (Toque Suave)     |     50%    |    40%    | 30%       |
+|         Cores no Chat e Placas        |     SIM    |    SIM    | SIM       |
+|     Conectar com o servidor lotado    |     SIM    |    SIM    | SIM       |
+| Tempo AFK até ser movido para o spawn |   6 horas  |  4 horas  | 2 horas   |
+|         Não perde XP ao morrer        |     SIM    |    SIM    | SIM       |
+
+### Comandos <a href="#comandos" id="comandos"></a>
+
+|                                       Comando                                       |             **Legend**             |         **Ultra**         | **Super** |
+| :---------------------------------------------------------------------------------: | :--------------------------------: | :-----------------------: | :-------: |
+|                     <p>/ec</p><p>Abrir o baú do fim virtual</p>                     |                 SIM                |            SIM            |    SIM    |
+|               <p>/craft</p><p>Abrir a bancada de trabalho virtual</p>               |                 SIM                |            SIM            |    SIM    |
+|                <p>/hat</p><p>Adicionar o item na mão como chapéu</p>                |                 SIM                |            SIM            |    SIM    |
+|                       <p>/nick</p><p>Alterar a cor do nick</p>                      |      SIM (pode alterar o nick)     | SIM (pode alterar o nick) |    SIM    |
+|                 <p>/compactar</p><p>Transformar itens em blocos</p>                 |                 SIM                |            SIM            |    SIM    |
+|                          /bigorna Acessa a bigorna virtual                          |                 SIM                |            SIM            |    SIM    |
+|                             /tear Acessa o tear virtual                             |                 SIM                |            SIM            |    SIM    |
+|                         /cortador Acessa o cortador virtual                         |                 SIM                |            SIM            |    SIM    |
+|                    /ferraria Acessa a bancada de ferraria virtual                   |                 SIM                |            SIM            |    SIM    |
+|                 /cartografia Acessa a bancada de cartografia virtual                |                 SIM                |            SIM            |    SIM    |
+|                           /rebolo Acessa o rebolo virtual                           |                 SIM                |            SIM            |    SIM    |
+|                    /organizar Acessa o organizados de containers                    | SIM (com todas as funcionalidades) |            SIM            |    SIM    |
+| /back Volta ao ultimo lugar que esteve (delay de 5 minutos para utilizar novamente) |                 SIM                |            SIM            |    SIM    |
+
+### Limites
+
+|        Limites       | **Legend** | **Ultra** | **Super** |
+| :------------------: | :--------: | :-------: | :-------: |
+|         Homes        |     100    |     50    |     25    |
+|        pWarps        |      5     |     4     |     3     |
+| Anúncios no /mercado |     10     |     7     |     5     |
+
 ### Kit Ativação <a href="#kit-ativacao" id="kit-ativacao"></a>
 
 |                         **Legend**                        |                    **Ultra**                    |                **Super**                |
