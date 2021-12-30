@@ -22,21 +22,21 @@ Quando maior for o VIP mais cash ele vai custar, os valores são:\
 
 ## Benefícios no Survival
 
-|               Benefícios              | **Legend** | **Ultra** | **Super** |
-| :-----------------------------------: | :--------: | :-------: | --------- |
-|                 Coins                 |   150.000  |  100.000  | 50.000    |
-|           Blocos de Proteção          |   15.000   |   10.000  | 5.000     |
-|     Bônus na loja (compra e venda)    |     10%    |    7.5%   | 5%        |
-|         Sem delay de teleporte        |     SIM    |    SIM    | SIM       |
-|     Remover spawner (Toque Suave)     |     50%    |    40%    | 30%       |
-|         Cores no Chat e Placas        |     SIM    |    SIM    | SIM       |
-|     Conectar com o servidor lotado    |     SIM    |    SIM    | SIM       |
-| Tempo AFK até ser movido para o spawn |   6 horas  |  4 horas  | 2 horas   |
-|         Não perde XP ao morrer        |     SIM    |    SIM    | SIM       |
+|             **Benefício**             | **Legend** | **Ultra** | **Super** |
+| :-----------------------------------: | :--------: | :-------: | :-------: |
+|                 Coins                 |   150.000  |  100.000  |   50.000  |
+|           Blocos de Proteção          |   15.000   |   10.000  |   5.000   |
+|     Bônus na loja (compra e venda)    |     10%    |    7.5%   |     5%    |
+|         Sem delay de teleporte        |     SIM    |    SIM    |    SIM    |
+|     Remover spawner (Toque Suave)     |     50%    |    40%    |    30%    |
+|         Cores no Chat e Placas        |     SIM    |    SIM    |    SIM    |
+|     Conectar com o servidor lotado    |     SIM    |    SIM    |    SIM    |
+| Tempo AFK até ser movido para o spawn |   6 horas  |  4 horas  |  2 horas  |
+|         Não perde XP ao morrer        |     SIM    |    SIM    |    SIM    |
 
 ### Comandos <a href="#comandos" id="comandos"></a>
 
-|                                       Comando                                       |             **Legend**             |         **Ultra**         | **Super** |
+|                                     **Comando**                                     |             **Legend**             |         **Ultra**         | **Super** |
 | :---------------------------------------------------------------------------------: | :--------------------------------: | :-----------------------: | :-------: |
 |                     <p>/ec</p><p>Abrir o baú do fim virtual</p>                     |                 SIM                |            SIM            |    SIM    |
 |               <p>/craft</p><p>Abrir a bancada de trabalho virtual</p>               |                 SIM                |            SIM            |    SIM    |
@@ -54,11 +54,21 @@ Quando maior for o VIP mais cash ele vai custar, os valores são:\
 
 ### Limites
 
-|        Limites       | **Legend** | **Ultra** | **Super** |
+|      **Limites**     | **Legend** | **Ultra** | **Super** |
 | :------------------: | :--------: | :-------: | :-------: |
 |         Homes        |     100    |     50    |     25    |
 |        pWarps        |      5     |     4     |     3     |
 | Anúncios no /mercado |     10     |     7     |     5     |
+
+### mcMMO
+
+|      **mcMMO**     | **Legend** | **Ultra** | **Super** |
+| :----------------: | :--------: | :-------: | :-------: |
+| Reparar sem falhar |     SIM    |    SIM    |    SIM    |
+|         EXP        |    1,25x   |   1,10x   |    NÃO    |
+|       Duração      |     +12    |     +8    |     +4    |
+|  Tempo de Recarga  |    -33%    |    -25%   |    NÃO    |
+|        Sorte       |    +33%    |    NÃO    |    NÃO    |
 
 ### Kit Ativação <a href="#kit-ativacao" id="kit-ativacao"></a>
 
