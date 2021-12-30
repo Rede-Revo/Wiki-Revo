@@ -96,7 +96,7 @@ Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um cam
 
 > **Iniciativa de Flood**: Quaisquer ação que provoque flood por parte de outros jogadores, exemplo, "o primeiro a falar eu ganha 10.000 coins".
 
-> **Caps Lock**: Consiste no envio de mensagens com uso excessivo de caixa alta.
+> **Caps Lock**: Consiste no envio de frases com uso excessivo de caixa alta.
 
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
