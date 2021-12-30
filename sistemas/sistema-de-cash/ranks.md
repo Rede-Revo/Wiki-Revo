@@ -12,7 +12,7 @@ Todos os Ranks possuem duração de 30 dias.
 
 ### Kit Ativação <a href="#kit-ativacao" id="kit-ativacao"></a>
 
-|                           Legend                          |                      Ultra                      |                  Super                  |
+|                         **Legend**                        |                    **Ultra**                    |                **Super**                |
 | :-------------------------------------------------------: | :---------------------------------------------: | :-------------------------------------: |
 |      Armadura \[Legend] `(Prot 4, Inq 3 e Remendo)`       |      Armadura \[Ultra] `(Prot 4 e Inq 3)`       |      Armadura \[Super] `(Prot 4)`       |
 |    Picareta \[Legend] `(Ef 5, Fort 3, Inq 3 e Remendo)`   |    Picareta \[Ultra] `(Ef 5, Fort 3 e Inq 3)`   |    Picareta \[Super] `(Ef 5 e Inq 3)`   |
@@ -32,7 +32,7 @@ Todos os Ranks possuem duração de 30 dias.
 
 ### Kit Semanal <a href="#kit-ativacao" id="kit-ativacao"></a>
 
-|              Legend              |               Ultra              |              Super              |
+|            **Legend**            |             **Ultra**            |            **Super**            |
 | :------------------------------: | :------------------------------: | :-----------------------------: |
 |    Armadura `(Prot 3, Inq 3)`    |   Armadura `(Prot 2 e Inq 2)`    |  Armadura `(Prot 1 e Inq 1)`    |
 |          Espada `(Af 3)`         |          Espada `(Af 2)`         |         Espada `(Af 1)`         |
