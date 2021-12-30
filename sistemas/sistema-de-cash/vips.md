@@ -55,3 +55,13 @@ Quando maior for o VIP mais cash ele vai custar, os valores são:\
 | 3 packs de Frasco de experiência | 2 packs de Frasco de experiência | 1 pack de Frasco de experiência |
 |   2 Chaves Misteriosas \[Rara]   |    1 Chave Misteriosa \[Rara]    |    1 Chave Misteriosa \[Rara]   |
 |    1 Chave Misteriosa \[Épica]   |    1 Chave Misteriosa \[Épica]   |     ~~-------------------~~     |
+
+### Kit Diário <a href="#kit-ativacao" id="kit-ativacao"></a>
+
+|          **Legend**         |          **Ultra**          |         **Super**        |
+| :-------------------------: | :-------------------------: | :----------------------: |
+|     32 Cenouras douradas    |     16 Cenouras douradas    |    8 Cenouras douradas   |
+|    32 Fogos de artificio    |    16 Fogos de artificio    |   8 Fogos de artificio   |
+| 3 Maças douradas encantadas | 2 Maças douradas encantadas | 1 Maça dourada encantada |
+|       16 Maças douradas     |       8 Maças douradas      |     4 Maças douradas     |
+|  16 Frascos de experiência  |   8 Frascos de experiência  | 4 Frascos de experiência |
