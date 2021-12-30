@@ -2,15 +2,23 @@
 description: Lista de benefícios de cada Rank.
 ---
 
-# Ranks
+# VIPs
 
 {% hint style="info" %}
 Todos os Ranks possuem duração de 30 dias.
 {% endhint %}
 
-## O que são Ranks?
+## O que são VIPs?
 
-Ranks são cargos que você pode adquirir através do Cash em nossos servidores e quanto maior for o cargo mais vantagens você vai receber
+VIPs são cargos que você pode adquirir através do Cash em nossos servidores e quanto maior for o cargo mais vantagens você vai receber
+
+## Quais são os valores dos VIPs?
+
+Quando maior for o VIP mais cash ele vai custar, os valores são:\
+\
+**Super:** 1500 Cash\
+**Ultra:** 3000 Cash\
+**Legend:** 4500 Cash
 
 ## Benefícios no Survival
 

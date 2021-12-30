@@ -6,6 +6,20 @@ description: >-
 
 # Sistema de Cash
 
+## Onde posso conseguir Cash?
+
+Cash é uma recompensa que você recebe em troca de apoiar o nosso servidor com doações, você pode doar em nosso site oficial: [https://rederevo.com/itens](https://rederevo.com/itens)
+
+## **Por que precisamos das doações?**
+
+Manter um servidor de minecraft online não é barato. Existe vários custos mensais envolvidos, hospedagem, compra de plugins e pagamento de serviços. Para hospedar nosso servidor, possuímos uma máquina **dedicada e hospedada em Miami,** nossa máquina possui um processador Ryzen 5600x com 64GB de memória RAM e disco de armazenamento de 580GB NVMe.
+
+### **O que eu posso fazer para apoiar o servidor?**
+
+Literalmente qualquer aquisição realizada na loja ajuda a manter o servidor online e sempre melhorando! As compras realizadas não são pelos serviços prestados e sim uma doação para ajudar o servidor a continuar online, em troca, nada mais justo você receber prêmios por isso, certo?
+
+#### Sua doação é o que mantém o servidor online!
+
 ## Prazos
 
 ### Como funciona a ativação dos produtos?
@@ -29,8 +43,8 @@ Se o prazo de entrega tiver passado, entre em contato conosco através do nosso 
 
 ## Para mais informações selecione uma das seções abaixo:
 
-{% content-ref url="ranks.md" %}
-[ranks.md](ranks.md)
+{% content-ref url="vips.md" %}
+[vips.md](vips.md)
 {% endcontent-ref %}
 
 {% content-ref url="chaves.md" %}

@@ -10,7 +10,7 @@
 ## Sistemas
 
 * [Sistema de Cash](sistemas/sistema-de-cash/README.md)
-  * [Ranks](sistemas/sistema-de-cash/ranks.md)
+  * [VIPs](sistemas/sistema-de-cash/vips.md)
   * [Chaves](sistemas/sistema-de-cash/chaves.md)
   * [TAGS](sistemas/sistema-de-cash/tags.md)
   * [Adquirir Cash](https://rederevo.com/itens)
