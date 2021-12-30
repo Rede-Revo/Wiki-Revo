@@ -6,4 +6,16 @@ description: >-
 
 # Sistema de Cash
 
-Para mais informações selecione uma das seções abaixo
+Para mais informações selecione uma das seções abaixo:
+
+{% content-ref url="ranks.md" %}
+[ranks.md](ranks.md)
+{% endcontent-ref %}
+
+{% content-ref url="chaves.md" %}
+[chaves.md](chaves.md)
+{% endcontent-ref %}
+
+{% content-ref url="tags.md" %}
+[tags.md](tags.md)
+{% endcontent-ref %}
