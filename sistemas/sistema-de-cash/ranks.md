@@ -8,6 +8,10 @@ description: Lista de benefícios de cada Rank.
 Todos os Ranks possuem duração de 30 dias.
 {% endhint %}
 
+## O que são Ranks?
+
+Ranks são cargos que você pode adquirir através do Cash em nossos servidores e quanto maior for o cargo mais vantagens você vai receber
+
 ## Benefícios no Survival
 
 ### Kit Ativação <a href="#kit-ativacao" id="kit-ativacao"></a>
