@@ -14,11 +14,14 @@
   * [Chaves](sistemas/sistema-de-cash/chaves.md)
   * [TAGS](sistemas/sistema-de-cash/tags.md)
   * [Adquirir Cash](https://rederevo.com/itens)
+* [Sistema de Proteção](sistemas/sistema-de-protecao/README.md)
+  * [Proteção Abandonada](sistemas/sistema-de-protecao/protecao-abandonada.md)
+* [Sistema de Loja](sistemas/sistema-de-loja.md)
 
 ## Eventos
 
-* [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
-* [Eventos do Servidor](eventos/eventos-do-servidor.md)
+* [Eventos do Servidor](eventos/eventos-do-servidor/README.md)
+  * [🏆 Agenda de Eventos](eventos/eventos-do-servidor/agenda-de-eventos.md)
 * [Vencedores de Guerras e Eventos Construção](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
 
 ## Outros
