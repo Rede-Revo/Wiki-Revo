@@ -6,3 +6,8 @@ description: >-
 
 # Sistema de Proteção
 
+## Tempo offline necessário para perda da proteção.
+
+{% content-ref url="protecao-abandonada.md" %}
+[protecao-abandonada.md](protecao-abandonada.md)
+{% endcontent-ref %}
