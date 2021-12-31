@@ -18,6 +18,7 @@
 ## Eventos
 
 * [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
+* [Eventos do Servidor](eventos/eventos-do-servidor.md)
 * [Vencedores de Guerras e Eventos Construção](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
 
 ## Outros
