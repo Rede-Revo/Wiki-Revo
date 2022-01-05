@@ -18,4 +18,6 @@ description: >-
 
 {% hint style="warning" %}
 Todas as regras de Chat valem também para o discord.
+
+(OBS: Todos os banimentos do discord são permanentes)
 {% endhint %}
