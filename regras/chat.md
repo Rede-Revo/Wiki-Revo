@@ -53,7 +53,7 @@ Também se aplica a discriminação social, nem todos jogadores possuem condiç�
 |      2     |       Banimento permanente       |
 
 {% hint style="warning" %}
-A staff se reserva ao direito de julgar o que será tratado como xingamento, bullyng, racismo, homofobia, apologia a crimes da forma que achar melhor.
+A staff se reserva ao direito de julgar o que será tratado como xingamento, bullying, racismo, homofobia, apologia a crimes da forma que achar melhor.
 {% endhint %}
 
 ## Regra 03 - **Divulgação Simples** <a href="#02" id="02"></a>
