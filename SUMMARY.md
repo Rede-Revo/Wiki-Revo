@@ -18,6 +18,8 @@
 * [Sistema de Proteção](sistemas/sistema-de-protecao/README.md)
   * [Proteção Abandonada](sistemas/sistema-de-protecao/protecao-abandonada.md)
 * [Sistema de Loja](sistemas/sistema-de-loja.md)
+* [Sistema de Cabeças](sistemas/sistema-de-cabecas/README.md)
+  * [Chance de drop das Cabeças](sistemas/sistema-de-cabecas/chance-de-drop-das-cabecas.md)
 
 ## Eventos
 
