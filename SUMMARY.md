@@ -9,6 +9,7 @@
 
 ## Sistemas
 
+* [Sistema de Temporadas](sistemas/sistema-de-temporadas.md)
 * [Sistema de Cash](sistemas/sistema-de-cash/README.md)
   * [VIPs](sistemas/sistema-de-cash/vips.md)
   * [Chaves](sistemas/sistema-de-cash/chaves.md)
@@ -23,6 +24,12 @@
 * [Eventos do Servidor](eventos/eventos-do-servidor/README.md)
   * [🏆 Agenda de Eventos](eventos/eventos-do-servidor/agenda-de-eventos.md)
 * [Vencedores de Guerras e Eventos Construção](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
+
+## Ajuda
+
+* [TLauncher](ajuda/tlauncher/README.md)
+  * [Como entrar sem conta do TLauncher no Servidor?](ajuda/tlauncher/como-entrar-sem-conta-do-tlauncher-no-servidor.md)
+  * [Problemas com skin no Tlauncher?](ajuda/tlauncher/problemas-com-skin-no-tlauncher.md)
 
 ## Outros
 
