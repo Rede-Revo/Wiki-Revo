@@ -27,6 +27,7 @@
 
 ## Ajuda
 
+* [Cores HEX](ajuda/cores-hex.md)
 * [TLauncher](ajuda/tlauncher/README.md)
   * [Como entrar sem conta do TLauncher no Servidor?](ajuda/tlauncher/como-entrar-sem-conta-do-tlauncher-no-servidor.md)
   * [Problemas com skin no Tlauncher?](ajuda/tlauncher/problemas-com-skin-no-tlauncher.md)
