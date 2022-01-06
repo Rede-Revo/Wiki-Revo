@@ -1,8 +1,8 @@
 ---
-description: Como colorir mensagens ou nick?
+description: Como colorir suas mensagens ou seu nick?
 ---
 
-# Cores HEX
+# Cores RGB
 
 #### Para criar degradês [clique aqui](https://www.simplymc.art/Gradients/)!  Uso de cores RGB no nick para VIP's:&#x20;
 
