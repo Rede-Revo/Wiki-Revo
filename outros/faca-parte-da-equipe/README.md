@@ -29,6 +29,10 @@ Nosso principal objetivo é selecionar os jogadores mais bem capacitados e adequ
 [formulario-para-ajudante.md](formulario-para-ajudante.md)
 {% endcontent-ref %}
 
+{% content-ref url="formulario-para-construtor-a.md" %}
+[formulario-para-construtor-a.md](formulario-para-construtor-a.md)
+{% endcontent-ref %}
+
 {% hint style="danger" %}
 
 
