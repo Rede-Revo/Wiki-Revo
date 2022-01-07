@@ -1,5 +1,5 @@
 ---
-description: Como colorir suas mensagens ou seu nick?
+description: Como colorir suas mensagens ou seu nick
 ---
 
 # Cores RGB

@@ -8,4 +8,4 @@ description: >-
 
 Basta desmarcar a opção "Contas" na área de login.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
