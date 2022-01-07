@@ -10,6 +10,7 @@
 ## Sistemas
 
 * [Sistema de Temporadas](sistemas/sistema-de-temporadas.md)
+* [Sistema de Liga](sistemas/sistema-de-liga.md)
 * [Sistema de Cash](sistemas/sistema-de-cash/README.md)
   * [VIPs](sistemas/sistema-de-cash/vips.md)
   * [Chaves](sistemas/sistema-de-cash/chaves.md)
