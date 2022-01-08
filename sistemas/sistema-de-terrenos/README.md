@@ -1,10 +1,10 @@
 ---
 description: >-
-  Tutorial sobre o sistema de proteção do servidor. Saiba como criar, expandir,
+  Tutorial sobre o sistema de terrenos do servidor. Saiba como criar, expandir,
   compartilhar permissões, criar sub proteções e abandonar proteções.
 ---
 
-# Sistema de Proteção
+# Sistema de Terrenos
 
 ## Tempo offline necessário para perda da proteção.
 
