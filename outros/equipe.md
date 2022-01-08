@@ -65,7 +65,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 * [x] Moderar o chat dos servidores e discord;
 * [x] Trabalho de prevenção junto aos jogadores, conscientizando-os sobre os riscos que correm ao desrespeitar as [regras](../regras/).
 
-#### Lista de Administradores
+#### Lista de Moderadores
 
 * N/A
 
@@ -79,7 +79,7 @@ O termo "GC-Detector" é derivado de "Detector de Ghost Clients", que consiste e
 
 #### Lista de Moderadores GC
 
-* #### ![](<../.gitbook/assets/image (9).png>) cn007
+* #### ![](<../.gitbook/assets/image (9).png>) **cn007**
 
 ## Construtor
 
@@ -89,7 +89,7 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 
 * [x] Construir estruturas para os servidores;
 * [x] Atualizar construções existentes nos servidores;
-* [x] Possui modo de jogo criativo apenas no servidor dos construtores**.**
+* [x] Recursos para uso em construções em servidores é disponibilizado apenas em um servidor exclusivo para a staff.
 
 #### Lista de Construtores
 
@@ -109,7 +109,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 #### Lista de Ajudantes
 
-* #### ![](<../.gitbook/assets/image (1).png>) Allyz\_
-* #### ![](<../.gitbook/assets/image (2).png>) Guga\_S2
-* ![](<../.gitbook/assets/image (8).png>) **Nathyline**
-* #### ![](<../.gitbook/assets/image (11).png>) PataAssada
+* #### ![](<../.gitbook/assets/image (1).png>) **Allyz\_**
+* #### ****![](<../.gitbook/assets/image (2).png>) **Guga\_S2**
+* ****![](<../.gitbook/assets/image (8).png>) **Nathyline**
+* #### ****![](<../.gitbook/assets/image (11).png>) **PataAssada**
