@@ -21,11 +21,11 @@ TAGs dos eventos e torneios semanais são temporárias e duram 7 dias.\
 TAGs dos eventos mensais são temporárias e duram 30 dias.
 {% endhint %}
 
-| Evento Semanal    | TAG                                                |
-| ----------------- | -------------------------------------------------- |
-| Evento Arqueiro   | ![](<../../.gitbook/assets/Screenshot\_1 (1).png>) |
-| Evento Guerreiro  | \[Guerreiro] e \[Guerreira]                        |
-| Evento Killer     | \[Killer]                                          |
+| Evento Semanal    | TAG                         |
+| ----------------- | --------------------------- |
+| Evento Arqueiro   | \[Sniper]                   |
+| Evento Guerreiro  | \[Guerreiro] e \[Guerreira] |
+| Evento Killer     | \[Killer]                   |
 
 | Evento Mensal     | TAG                         |
 | ----------------- | --------------------------- |
