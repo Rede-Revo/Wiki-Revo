@@ -27,7 +27,7 @@
 * [Eventos do Servidor](eventos/eventos-do-servidor/README.md)
   * [Evento Arqueiro](eventos/eventos-do-servidor/evento-arqueiro.md)
 * [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
-* [Vencedores de Guerras e Eventos Construção](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
+* [Vencedores de Eventos ](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
 
 ## Ajuda
 
