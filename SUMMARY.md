@@ -14,7 +14,7 @@
 * [Sistema de Cash](sistemas/sistema-de-cash/README.md)
   * [VIPs](sistemas/sistema-de-cash/vips.md)
   * [Chaves](sistemas/sistema-de-cash/chaves.md)
-  * [TAGS](sistemas/sistema-de-cash/tags.md)
+  * [TAGs](sistemas/sistema-de-cash/tags.md)
   * [Adquirir Cash](https://rederevo.com/itens)
 * [Sistema de Terrenos](sistemas/sistema-de-terrenos/README.md)
   * [Proteção Abandonada](sistemas/sistema-de-terrenos/protecao-abandonada.md)
@@ -25,7 +25,8 @@
 ## Eventos
 
 * [Eventos do Servidor](eventos/eventos-do-servidor/README.md)
-  * [🏆 Agenda de Eventos](eventos/eventos-do-servidor/agenda-de-eventos.md)
+  * [Evento Arqueiro](eventos/eventos-do-servidor/evento-arqueiro.md)
+* [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
 * [Vencedores de Guerras e Eventos Construção](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
 
 ## Ajuda

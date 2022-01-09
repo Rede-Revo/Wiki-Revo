@@ -71,7 +71,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 ## Moderador GC
 
-O termo "GC-Detector" é derivado de "Detector de Ghost Clients", que consiste em uma pessoa que dentro de um "universo" de Minecraft/Servidores tenha um conhecimento avançado em detecção de trapaças "incomuns", sendo elas: "JavaEdit, Injection Client, Ghos't Client" entre outras trapaças.
+O termo "GC-Detector" é derivado de "Detector de Ghost Clients", que consiste em uma pessoa que dentro de um "universo" de Minecraft/Servidores tenha um conhecimento avançado em detecção de trapaças "incomuns", sendo elas: "JavaEdit, Injection Client, Ghost Client" entre outras trapaças.
 
 #### Funções:
 
@@ -89,7 +89,7 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 
 * [x] Construir estruturas para os servidores;
 * [x] Atualizar construções existentes nos servidores;
-* [x] Recursos para uso em construções em servidores é disponibilizado apenas em um servidor exclusivo para a staff.
+* [x] Recursos para uso em construções é disponibilizado apenas em um servidor exclusivo para a staff.
 
 #### Lista de Construtores
 
