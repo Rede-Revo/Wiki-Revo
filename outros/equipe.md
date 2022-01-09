@@ -19,7 +19,7 @@ Dirige, planeja, organiza e controla as atividades de diversas áreas, fixando p
 
 #### Lista de Diretores
 
-* [![](<../.gitbook/assets/image (3).png>)](https://minotar.net/helm/Nevisk/100.png) **Nevisk**
+* [![](<../.gitbook/assets/image (3) (1).png>)](https://minotar.net/helm/Nevisk/100.png) **Nevisk**
 * ****![](<../.gitbook/assets/image (5).png>) **thiagogebrim**
 
 ## Gerente
@@ -35,8 +35,8 @@ O cargo de gerente tem muita relevância e sempre possui muitas responsabilidade
 
 #### Lista de Gerentes
 
-* ![](<../.gitbook/assets/image (7).png>) **Gutoh\_**
-* ****![](<../.gitbook/assets/image (12).png>) **julgzin**
+* ![](<../.gitbook/assets/image (7) (1).png>) **Gutoh\_**
+* ****![](<../.gitbook/assets/image (12) (1).png>) **julgzin**
 
 ## Administrador
 
@@ -93,8 +93,8 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 
 #### Lista de Construtores
 
-* #### ![](<../.gitbook/assets/image (6) (1).png>) **Junatus**
-* ![](<../.gitbook/assets/image (10).png>) **Swafer**
+* #### ![](<../.gitbook/assets/image (6) (1) (1).png>) **Junatus**
+* ![](<../.gitbook/assets/image (10) (1).png>) **Swafer**
 
 ## Ajudante
 
@@ -109,7 +109,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 #### Lista de Ajudantes
 
-* #### ![](<../.gitbook/assets/image (6).png>) **Allyz\_**
+* #### ![](<../.gitbook/assets/image (6) (1).png>) **Allyz\_**
 * #### ****![](<../.gitbook/assets/image (2).png>) **Guga\_S2**
 * ****![](<../.gitbook/assets/image (8).png>) **Nathyline**
-* #### ****![](<../.gitbook/assets/image (11).png>) **PataAssada**
+* #### ****![](<../.gitbook/assets/image (11) (1).png>) **PataAssada**
