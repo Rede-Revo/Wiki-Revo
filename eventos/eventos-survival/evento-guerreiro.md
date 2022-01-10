@@ -16,12 +16,12 @@ description: Tudo sobre o evento guerreiro!
 ## Como Participar
 
 1. Entrada para o evento;
-   * O tempo de entrada do evento é de **10 minutos**, entre **20:00** até **20:10h**.
+   * O tempo de entrada do evento é de 10 minutos, entre 20:00 até 20:10hs.
    * Enquanto o evento estiver aberto, **limpe seu inventário** e use o comando `/warp eventos` e entre no portal de água a frente;
    * Saia do evento com `/batalha sair`&#x20;
 2. Preparação para o evento;
    * Após o evento ser fechado você será teleportado para a arena.
-   * Você terá 15 segundos para se preparar para a batalha.&#x20;
+   * Você terá 30 segundos para se preparar para a batalha.&#x20;
 3. Inicio da batalha;
    * Após passar o tempo de preparação será iniciado o combate 1v1.
 
@@ -39,7 +39,7 @@ Qualquer suspeita de utilização de programas ou mods que deem vantagens deslea
 
 #### 🥇 **1° Lugar**
 
-* 💰 Premiação de **150.000 Coins**.
+* 💰 Premiação de 1**50.000 Coins**.
 * ![](<../../.gitbook/assets/image (14).png>) TAG **\[Guerreiro(a)]** durante 7 dias.
 
 #### [🥈](https://emojipedia.org/2nd-place-medal/) **2° Lugar**

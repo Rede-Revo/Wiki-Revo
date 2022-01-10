@@ -18,7 +18,7 @@ description: Tudo sobre o evento arqueiro!
 ## Como Participar
 
 1. Entrada para o evento;
-   * O tempo de entrada do evento é de **10 minutos**, entre **18:00** até **18:10h**.
+   * O tempo de entrada do evento é de 10 minutos, entre 20:00 até 20:10hs.
    * Enquanto o evento estiver aberto, **limpe seu inventário** e use o comando `/warp eventos` e entre no portal de água a frente;
    * Saia do evento com `/batalha sair`&#x20;
 2. Preparação para o evento;

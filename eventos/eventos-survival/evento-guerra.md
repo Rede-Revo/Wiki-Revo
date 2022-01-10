@@ -19,7 +19,7 @@ description: Tudo sobre o evento guerra de clãs!
 ## Como Participar
 
 1. Entrada para o evento;
-   * O tempo de entrada do evento é de **10 minutos**, entre **19:00** até **19:10h**.
+   * O tempo de entrada do evento é de 10 minutos, entre 19:00 até 19:10hs.
    * Enquanto o evento estiver aberto envie `/warp eventos` e entre no portal de água a frente.
    * Saia do evento com `/batalha sair`.
 2. Preparação para o evento;

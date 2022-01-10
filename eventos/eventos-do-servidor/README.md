@@ -11,3 +11,7 @@ description: Guia com todas as informações necessárias sobre os eventos do Su
 {% content-ref url="../eventos-survival/evento-guerra.md" %}
 [evento-guerra.md](../eventos-survival/evento-guerra.md)
 {% endcontent-ref %}
+
+{% content-ref url="../eventos-survival/evento-guerreiro.md" %}
+[evento-guerreiro.md](../eventos-survival/evento-guerreiro.md)
+{% endcontent-ref %}
