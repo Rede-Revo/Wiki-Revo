@@ -33,7 +33,7 @@ O **desenvolvedor** é o profissional que desenvolve _plugins e os demais sistem
 
 #### Lista de Desenvolvedores
 
-* ![](<../.gitbook/assets/image (7).png>) Soekd
+* ![](<../.gitbook/assets/image (7).png>) **Soekd**
 
 ## Gerente
 
