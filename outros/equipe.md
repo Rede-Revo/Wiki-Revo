@@ -6,7 +6,7 @@ description: Lista com cargos e funções da equipe do servidor.
 
 ## Diretor
 
-Dirige, planeja, organiza e controla as atividades de diversas áreas, fixando políticas de gestão dos recursos financeiros, administrativos, estruturação, racionalização, e adequação dos serviços diversos. Desenvolve planejamento estratégico, identifica oportunidades, avalia a viabilidade e faz recomendações sobre novos investimentos ou desenvolvimento de novos negócios.
+**Dirige**, **planeja**, **organiza** e controla as atividades de diversas áreas, fixando políticas de gestão dos recursos financeiros, administrativos, estruturação, racionalização, e adequação dos serviços diversos. Desenvolve planejamento estratégico, identifica oportunidades, avalia a viabilidade e faz recomendações sobre novos investimentos ou desenvolvimento de novos negócios.
 
 #### Funções:
 
@@ -37,7 +37,7 @@ O **desenvolvedor** é o profissional que cria _plugins e os demais sistemas do 
 
 ## Gerente
 
-O cargo de gerente tem muita relevância e sempre possui muitas responsabilidades. Ele é responsável por manter a organização dos processos e, normalmente, está sempre tomando decisões muito importantes para o desenvolvimento do servidor.
+O cargo de **gerente** tem muita relevância e sempre possui muitas responsabilidades. Ele é responsável por manter a organização dos processos e, normalmente, está sempre tomando decisões muito importantes para o desenvolvimento do servidor.
 
 #### Funções:
 
@@ -84,7 +84,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 ## Moderador GC
 
-O termo "GC-Detector" é derivado de "Detector de Ghost Clients", que consiste em uma pessoa que dentro de um "universo" de Minecraft/Servidores tenha um conhecimento avançado em detecção de trapaças "incomuns", sendo elas: "JavaEdit, Injection Client, Ghost Client" entre outras trapaças.
+O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que consiste em uma pessoa que dentro de um "universo" de Minecraft/Servidores tenha um conhecimento avançado em detecção de trapaças "incomuns", sendo elas: "JavaEdit, Injection Client, Ghost Client" entre outras trapaças.
 
 #### Funções:
 
