@@ -24,8 +24,9 @@
 
 ## Eventos
 
-* [Eventos do Servidor](eventos/eventos-do-servidor/README.md)
-  * [Evento Arqueiro](eventos/eventos-do-servidor/evento-arqueiro.md)
+* [Eventos Survival](eventos/eventos-survival/README.md)
+  * [Evento Arqueiro](eventos/eventos-survival/evento-arqueiro.md)
+* [Evento Guerra](eventos/evento-guerra.md)
 * [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
 * [Vencedores de Eventos ](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
 

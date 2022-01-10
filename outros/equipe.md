@@ -124,5 +124,5 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 * #### ![](<../.gitbook/assets/image (6) (1).png>) **Allyz\_**
 * #### ****![](<../.gitbook/assets/image (2).png>) **Guga\_S2**
-* ****![](<../.gitbook/assets/image (8).png>) **Nathyline**
+* ****![](<../.gitbook/assets/image (8) (1).png>) **Nathyline**
 * #### ****![](<../.gitbook/assets/image (11) (1).png>) **PataAssada**

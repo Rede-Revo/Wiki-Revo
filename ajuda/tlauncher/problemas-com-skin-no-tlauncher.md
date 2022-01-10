@@ -8,4 +8,4 @@ description: >-
 
 Desative o sistema de skins(peles) do TLauncher desmarcando a opção `Use peles TLauncher` para visualizar as skins corretas dos jogadores.
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
