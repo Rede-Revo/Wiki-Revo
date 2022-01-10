@@ -24,7 +24,7 @@ Dirige, planeja, organiza e controla as atividades de diversas áreas, fixando p
 
 ## Desenvolvedor
 
-O **desenvolvedor** é o profissional que cria _plugins e os demais sistemas do servidor._ Seu trabalho envolve o entendimento, uso e aplicação de diferentes linguagens de programação, como html, java, kotlin, além da análise de dados e atualizações sobre o Minecraft que podem ser fundamentais na atualização e/ou melhorias nos sistemas do servidor.
+O **desenvolvedor** é o profissional que cria _plugins e os demais sistemas do servidor._ Seu trabalho envolve o entendimento, uso e aplicação de diferentes linguagens de programação, como java, kotlin, scala, além da análise de dados e atualizações sobre o Minecraft que podem ser fundamentais na atualização e/ou melhorias nos sistemas do servidor.
 
 #### Funções:
 
