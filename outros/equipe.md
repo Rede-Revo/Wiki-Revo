@@ -22,6 +22,19 @@ Dirige, planeja, organiza e controla as atividades de diversas áreas, fixando p
 * [![](<../.gitbook/assets/image (3) (1).png>)](https://minotar.net/helm/Nevisk/100.png) **Nevisk**
 * ****![](<../.gitbook/assets/image (5).png>) **thiagogebrim**
 
+## Desenvolvedor
+
+O **desenvolvedor** é o profissional que cria _plugins e os demais sistemas do servidor._ Seu trabalho envolve o entendimento, uso e aplicação de diferentes linguagens de programação, como html, java, kotlin, além da análise de dados e atualizações sobre o Minecraft que podem ser fundamentais na atualização e/ou melhorias nos sistemas do servidor.
+
+#### Funções:
+
+* [x] Desenvolver sistemas para o servidor;
+* [x] Auxiliar os diretores na resolução de problemas.
+
+#### Lista de Desenvolvedores
+
+* ![](<../.gitbook/assets/image (7).png>) Soekd
+
 ## Gerente
 
 O cargo de gerente tem muita relevância e sempre possui muitas responsabilidades. Ele é responsável por manter a organização dos processos e, normalmente, está sempre tomando decisões muito importantes para o desenvolvimento do servidor.
@@ -35,7 +48,7 @@ O cargo de gerente tem muita relevância e sempre possui muitas responsabilidade
 
 #### Lista de Gerentes
 
-* ![](<../.gitbook/assets/image (7) (1).png>) **Gutoh\_**
+* ![](<../.gitbook/assets/image (7) (1) (1).png>) **Gutoh\_**
 * ****![](<../.gitbook/assets/image (12) (1).png>) **julgzin**
 
 ## Administrador
