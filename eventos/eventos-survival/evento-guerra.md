@@ -38,14 +38,20 @@ Para uma guerra mais dinâmica o efeito de invisibilidade foi desativado durante
 
 #### **2. Não será tolerado acusações ou reclamações sem fundamentos.**
 
-Infelizmente vários jogadores ao perder em combate ficam frustrados e começam a xingar ou acusar outros jogadores e/ou Staff. Essa atitude além de ser infantil (a nível criança que não deveria estar jogando minecraft online ou qualquer outro jogo) não será tolerada porque viola a [Regra 01](https://wiki.rederevo.com/regras/chat#01) do servidor, saiba todas as regras em [**Regras**](../regras/).
+Infelizmente vários jogadores ao perder em combate ficam frustrados e começam a xingar ou acusar outros jogadores e/ou Staff. Essa atitude além de ser infantil (a nível criança que não deveria estar jogando minecraft online ou qualquer outro jogo) não será tolerada porque viola a [Regra 01](https://wiki.rederevo.com/regras/chat#01) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
 #### **3. Utilização de programas ou mods hackers que deem vantagens no combate.**
 
-Qualquer suspeita de utilização de programas ou mods que deem vantagens desleais no combate, a Staff poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../regras/).
+Qualquer suspeita de utilização de programas ou mods que deem vantagens desleais no combate, a Staff poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
 ## Premiação
 
+#### 🥇 **Clã Vencedor**
+
 * :moneybag: Premiação de **1.000.000 Coins** depositados no banco do clã.
-* ![](<../.gitbook/assets/trofeurevo (1).png>) gu **Troféu personalizado** para recordação adicionado no inventario do líder do clã.
+* ![](<../../.gitbook/assets/trofeurevo (1).png>) **Troféu personalizado** para recordação adicionado no inventario do líder do clã.
 * :flag\_black: Será listado como clã campeão na [lista de vencedores](https://onedrive.live.com/redir?resid=AB6453A639BE0984!37870\&authkey=!AErctpzFzdYXLVg\&ithint=file%2cxlsx\&e=PXkG61).
+
+#### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
+
+* ![](<../../.gitbook/assets/image (14).png>) TAG **\[Mito]** até o matador ser morto.

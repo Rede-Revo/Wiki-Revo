@@ -1,7 +1,5 @@
 ---
 description: Tudo sobre o evento arqueiro!
-cover: ../../.gitbook/assets/arqueiro.png
-coverY: 14.600231749710312
 ---
 
 # Evento Arqueiro
@@ -9,16 +7,25 @@ coverY: 14.600231749710312
 ## Como Funciona
 
 * Usando apenas Arco e Flecha, mate todos os inimigos da arena e seja o único vivo;
-* Itens: armadura de ferro, escudo, 16 maças dourada, 64 salmões assados, arco com infinidade, força 1, durabilidade 3 e uma flecha;&#x20;
+* Itens definidos pela Staff; (armadura de ferro, escudo, 16 maças dourada, 64 salmões assados, arco com infinidade, força 1, durabilidade 3 e uma flecha)
 
 ![](../../.gitbook/assets/image.png)
 
 * Habilidades do mcMMO serão desativadas durante o evento.
 
+##
+
 ## Como Participar
 
-1. Após abertura do evento, **limpe seu inventário** e use o comando `/warp eventos` e entre no portal de água a frente;
-2. Aguarde o inicio no lobby do evento.
+1. Entrada para o evento;
+   * O tempo de entrada do evento é de 10 minutos, entre 20:00 até 20:10hs.
+   * Enquanto o evento estiver aberto, **limpe seu inventário** e use o comando `/warp eventos` e entre no portal de água a frente;
+   * Saia do evento com `/batalha sair`&#x20;
+2. Preparação para o evento;
+   * Após o evento ser fechado você será teleportado para a arena.
+   * Você terá 30 segundos para se preparar para a batalha.&#x20;
+3. Inicio da batalha;
+   * Após passar o tempo de preparação será iniciado o combate todos x todos.
 
 ## Regras Gerais
 
@@ -40,8 +47,8 @@ Qualquer suspeita de utilização de programas ou mods que deem vantagens deslea
 
 * 💰 Premiação de **100.000 Coins**.
 
-#### 🥇 **Matador**
+#### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
 * 💰 Premiação de **50.000 Coins**.
-* ![](<../../.gitbook/assets/image (14).png>) TAG \[**Sniper**] durante 7 dias.
+* ![](<../../.gitbook/assets/image (14).png>) TAG **\[Sniper]** durante 7 dias.
 * ![](<../../.gitbook/assets/image (8).png>) **Contador de Sacrifícios**&#x20;
