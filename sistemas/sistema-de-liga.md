@@ -1,18 +1,20 @@
 ---
 description: >-
-  Reúna membros e crie seu império e destaquem-se no servidor, ações realizadas
+  Reúna membros, crie seu império e destaquem-se no servidor, ações realizadas
   pelos membros dos clã geram pontos de liga, os melhores clãs são
   recompensados!
 ---
 
 # Sistema de Liga
 
-Liga consiste em um pontos gerados por ações dos jogadores tanto positivos quanto negativos ranqueando-os respectivamente pela quantidade de pontos, que se divide em 2 fases:
+Liga consiste em pontos gerados por ações dos jogadores tanto positivas quanto negativas ranqueando-os respectivamente pela quantidade de pontos, que se divide em 2 fases:
 
 * `Liga Mensal:` Percorre um período de 30 dias, premia e reinicia no fim do período.
 * `Liga de Temporada:` Acumula os pontos do clã gerados na liga mensal durante toda a temporada, saiba mais sobre temporadas clicando [aqui](https://wiki.rederevo.com/sistemas/sistema-de-temporadas).
 
+{% hint style="info" %}
 Visualize todas informações com o comando `/liga` e visualize o desempenho de um respectivo clã com o comando `/liga <clã>`.
+{% endhint %}
 
 ## Pontuação Positiva
 
@@ -23,8 +25,6 @@ Visualize todas informações com o comando `/liga` e visualize o desempenho de 
 | Evento (Presencial - Time) |    3   |
 |     Evento (Presencial)    |    5   |
 
-
-
 |   Evento Agendado   |              Pontos              |
 | :-----------------: | :------------------------------: |
 |      Guerreiro      |                50                |
@@ -33,6 +33,7 @@ Visualize todas informações com o comando `/liga` e visualize o desempenho de 
 | Pré Guerra (MC OFF) |                100               |
 |  Pré Guerra (MC ON) |                150               |
 |        Guerra       |                250               |
+|       Torneio       |    1º: 50 \| 2º: 25 \| 3º: 10    |
 |  Construção do Mês  |  1º: 500 \| 2º: 250 \| 3º: 100   |
 |      Dominador      |            **EM BREVE**          |
 |      Mob Arena      |           **EM BREVE**           |
@@ -79,11 +80,15 @@ Jogadores que tentarem burlar a punição ao clã saindo do mesmo, implicarão e
 
 ## Recompensas
 
+### Recompensa liga (Mensal)
+
 |     Posição    |                        Recompensa                       |
 | :------------: | :-----------------------------------------------------: |
 | Primeiro Lugar | 5M Coins + Tag Especial (30d) \[10 Membros] + 4500 Cash |
 |  Segundo Lugar |                  2.5M Coins + 3000 Cash                 |
 | Terceiro Lugar |                   1M Coins + 1500 Cash                  |
+
+### Recompensa liga (Temporada)
 
 |     Posição    |                          Recompensa                          |
 | :------------: | :----------------------------------------------------------: |
