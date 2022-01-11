@@ -18,12 +18,19 @@ Visualize todas informações com o comando `/liga` e visualize o desempenho de 
 
 ## Pontuação Positiva
 
-|            Ação            | Pontos |
-| :------------------------: | :----: |
-|        Dragão do Fim       |    1   |
-|        Evento (Chat)       |    2   |
-| Evento (Presencial - Time) |    3   |
-|     Evento (Presencial)    |    5   |
+Pontos que podem ser obtidos a qualquer momento:
+
+|                Ação               | Pontos |
+| :-------------------------------: | :----: |
+|       Abater o Dragão do Fim      |    1   |
+|     Votar 10 vezes no servidor    |    2   |
+|        Vencer Evento (Chat)       |    2   |
+| Vencer Evento (Presencial - Time) |    3   |
+|     Vencer Evento (Presencial)    |    5   |
+
+### Eventos Agendados
+
+Consulte os horários dos eventos clicando[ aqui](https://wiki.rederevo.com/eventos/agenda-de-eventos).
 
 |   Evento Agendado   |              Pontos              |
 | :-----------------: | :------------------------------: |
