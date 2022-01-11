@@ -16,6 +16,10 @@ OBS: Quando o jogador é permanentemente banido os avisos são removidos.
 {% endhint %}
 
 {% hint style="danger" %}
+Os avisos expiram automaticamente ao chegar a 30 dias.
+{% endhint %}
+
+{% hint style="danger" %}
 A staff a qualquer momento pode solicitar o compartilhamento de tela através de AnyDesk, a recusa será interpretada como atividade atividade suspeita e o(a) jogador(a) será punido(a).
 
 _OBS: Desconectar enquanto congelado por um STAFF também será interpretado como recusa._
@@ -128,12 +132,12 @@ Em hipótese alguma aceite pedidos de teleportes de jogadores desconhecidos, est
 
 ### Lista de Punições <a href="#lista-de-punicoes-7" id="lista-de-punicoes-7"></a>
 
-| Incidência |              Punição             |
-| :--------: | :------------------------------: |
-|      1     |  Banimento temporário de 3 dias; |
-|      2     |  Banimento temporário de 7 dias; |
-|      3     | Banimento temporário de 15 dias; |
-|      4     |       Banimento Permanente       |
+| Incidência |                  Punição                 |
+| :--------: | :--------------------------------------: |
+|      1     |      Banimento temporário de 3 dias;     |
+|      2     |  Aviso - Banimento temporário de 7 dias; |
+|      3     | Aviso - Banimento temporário de 15 dias; |
+|      4     |       Aviso - Banimento Permanente       |
 
 ## Regra 16 - Griefing <a href="#01" id="01"></a>
 
@@ -141,11 +145,11 @@ Construir de forma aleatória pelo mapa colocando lava, água etc. (Principalmen
 
 ### Lista de Punições <a href="#lista-de-punicoes-8" id="lista-de-punicoes-8"></a>
 
-| Incidência |             Punição             |
-| :--------: | :-----------------------------: |
-|      1     | Banimento temporário de 3 dias; |
-|      2     | Banimento temporário de 7 dias; |
-|      3     |       Banimento Permanente      |
+| Incidência |                 Punição                 |
+| :--------: | :-------------------------------------: |
+|      1     |     Banimento temporário de 3 dias;     |
+|      2     | Aviso - Banimento temporário de 7 dias; |
+|      3     |       Aviso - Banimento Permanente      |
 
 ## Regra 17 - Cúmplice de Infrator <a href="#01" id="01"></a>
 
