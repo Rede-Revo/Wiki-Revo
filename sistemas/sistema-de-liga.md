@@ -97,11 +97,11 @@ Jogadores que tentarem burlar a punição ao clã saindo do mesmo, implicarão e
 
 ### Recompensa liga (Temporada)
 
-|     Posição    |                          Recompensa                          |
-| :------------: | :----------------------------------------------------------: |
-| Primeiro Lugar | Troféu (Banner com nome do Clã) + 50k Cash ou Troféu + 300R$ |
-|  Segundo Lugar |                       25k Cash ou 150R$                      |
-| Terceiro Lugar |                       10k Cash ou 50R$                       |
+|     Posição    |                                 Recompensa                                |
+| :------------: | :-----------------------------------------------------------------------: |
+| Primeiro Lugar | <p>Troféu (Banner editado de clã) + 50k Cash ou </p><p>Troféu + 300R$</p> |
+|  Segundo Lugar |                             25k Cash ou 150R$                             |
+| Terceiro Lugar |                              10k Cash ou 50R$                             |
 
 {% hint style="info" %}
 Sempre ao fim de um ciclo de liga, as recompensas deverão ser reivindicadas por um **Líder** do clã através de **Ticket** no discord do servidor.&#x20;
