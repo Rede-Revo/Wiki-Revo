@@ -15,7 +15,7 @@ description: >-
 
 | Incidência |        Punição       |
 | :--------: | :------------------: |
-|      1     | Expulsão do Discord; |
+|      1     |  Expulsão do Discord |
 |      2     | Banimento permanente |
 
 {% hint style="warning" %}

@@ -33,10 +33,10 @@ Utilizar uma skin sexual ou discriminatória.
 
 ### Lista de Punições <a href="#lista-de-punicoes" id="lista-de-punicoes"></a>
 
-| Incidência |                                             Punição                                            |
-| :--------: | :--------------------------------------------------------------------------------------------: |
-|      1     | Banimento temporário de 7 dias (em caso de não atender o pedido de alterar a skin inadequada); |
-|      2     |                                      Banimento permanente                                      |
+| Incidência |                                            Punição                                            |
+| :--------: | :-------------------------------------------------------------------------------------------: |
+|      1     | Banimento temporário de 7 dias (em caso de não atender o pedido de alterar a skin inadequada) |
+|      2     |                                      Banimento permanente                                     |
 
 ## Regra 09 - Abuso de Bug
 
@@ -50,10 +50,10 @@ Jogadores(as) que reportarem quaisquer bug que afetem a jogabilidade do servidor
 
 ### Lista de Punições <a href="#lista-de-punicoes-1" id="lista-de-punicoes-1"></a>
 
-| Incidência |              Punição             |
-| :--------: | :------------------------------: |
-|      1     | Banimento temporário de 15 dias; |
-|      2     |       Banimento permanente       |
+| Incidência |             Punição             |
+| :--------: | :-----------------------------: |
+|      1     | Banimento temporário de 15 dias |
+|      2     |       Banimento permanente      |
 
 ## Regra 10 - Conta falsa <a href="#01" id="01"></a>
 
@@ -61,10 +61,10 @@ Criar uma conta secundária com intuito de cometer qualquer infração, para ben
 
 ### Lista de Punições <a href="#lista-de-punicoes-2" id="lista-de-punicoes-2"></a>
 
-| Incidência |             Punição             |
-| :--------: | :-----------------------------: |
-|      1     | Banimento temporário de 7 dias; |
-|      2     |       Banimento permanente      |
+| Incidência |             Punição            |
+| :--------: | :----------------------------: |
+|      1     | Banimento temporário de 7 dias |
+|      2     |      Banimento permanente      |
 
 ## Regra 11 - Estorno de pagamento <a href="#01" id="01"></a>
 
@@ -86,11 +86,11 @@ Consiste na tentativa de negociação de itens ou vantagens no servidor em troca
 
 ### Lista de Punições <a href="#lista-de-punicoes-4" id="lista-de-punicoes-4"></a>
 
-| Incidência |              Punição             |
-| :--------: | :------------------------------: |
-|      1     |  Banimento temporário de 7 dias; |
-|      2     | Banimento temporário de 15 dias; |
-|      3     |       Banimento Permanente       |
+| Incidência |             Punição             |
+| :--------: | :-----------------------------: |
+|      1     |  Banimento temporário de 7 dias |
+|      2     | Banimento temporário de 15 dias |
+|      3     |       Banimento Permanente      |
 
 ## Regra 13 - AFK Farm
 
@@ -102,11 +102,11 @@ Jogadores(as) com atividade suspeita que não atenderem o chamado no período de
 
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
-| Incidência |                                       Punição                                      |
-| :--------: | :--------------------------------------------------------------------------------: |
-|      1     | Banimento temporário de 7 dias + Habilidade específica redefinida pra 50% (mcMMO); |
-|      2     |  Banimento temporário de 15 dias + Todas habilidades redefinidas pra 50% (mcMMO);  |
-|      3     |        Banimento permanente + Todas habilidades redefinidas pra 25% (mcMMO)        |
+| Incidência |                                      Punição                                      |
+| :--------: | :-------------------------------------------------------------------------------: |
+|      1     | Banimento temporário de 7 dias + Habilidade específica redefinida pra 50% (mcMMO) |
+|      2     |  Banimento temporário de 15 dias + Todas habilidades redefinidas pra 50% (mcMMO)  |
+|      3     |        Banimento permanente + Todas habilidades redefinidas pra 25% (mcMMO)       |
 
 ## Regra 14 - Falsificação de Provas
 
@@ -132,12 +132,12 @@ Em hipótese alguma aceite pedidos de teleportes de jogadores desconhecidos, est
 
 ### Lista de Punições <a href="#lista-de-punicoes-7" id="lista-de-punicoes-7"></a>
 
-| Incidência |                  Punição                 |
-| :--------: | :--------------------------------------: |
-|      1     |      Banimento temporário de 3 dias;     |
-|      2     |  Aviso - Banimento temporário de 7 dias; |
-|      3     | Aviso - Banimento temporário de 15 dias; |
-|      4     |       Aviso - Banimento Permanente       |
+| Incidência |                 Punição                 |
+| :--------: | :-------------------------------------: |
+|      1     |      Banimento temporário de 3 dias     |
+|      2     |  Aviso - Banimento temporário de 7 dias |
+|      3     | Aviso - Banimento temporário de 15 dias |
+|      4     |       Aviso - Banimento Permanente      |
 
 ## Regra 16 - Griefing <a href="#01" id="01"></a>
 
@@ -145,11 +145,11 @@ Construir de forma aleatória pelo mapa colocando lava, água etc. (Principalmen
 
 ### Lista de Punições <a href="#lista-de-punicoes-8" id="lista-de-punicoes-8"></a>
 
-| Incidência |                 Punição                 |
-| :--------: | :-------------------------------------: |
-|      1     |     Banimento temporário de 3 dias;     |
-|      2     | Aviso - Banimento temporário de 7 dias; |
-|      3     |       Aviso - Banimento Permanente      |
+| Incidência |                 Punição                |
+| :--------: | :------------------------------------: |
+|      1     |     Banimento temporário de 3 dias     |
+|      2     | Aviso - Banimento temporário de 7 dias |
+|      3     |      Aviso - Banimento Permanente      |
 
 ## Regra 17 - Cúmplice de Infrator <a href="#01" id="01"></a>
 
@@ -161,11 +161,11 @@ O ato de não reportar o Hacker será interpretado automaticamente como aliança
 
 ### Lista de Punições <a href="#lista-de-punicoes-9" id="lista-de-punicoes-9"></a>
 
-| Incidência |             Punição             |
-| :--------: | :-----------------------------: |
-|      1     | Banimento temporário de 3 dias; |
-|      2     | Banimento temporário de 7 dias; |
-|      3     |       Banimento Permanente      |
+| Incidência |             Punição            |
+| :--------: | :----------------------------: |
+|      1     | Banimento temporário de 3 dias |
+|      2     | Banimento temporário de 7 dias |
+|      3     |      Banimento Permanente      |
 
 ## Regra 18 - Uso de Trapaças <a href="#01" id="01"></a>
 
@@ -175,12 +175,12 @@ O uso de clientes, programas, modificações (mods), injeções no client que de
 Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-permitidos.md).
 {% endhint %}
 
-| Incidência |                              Punição                             |
-| :--------: | :--------------------------------------------------------------: |
-|      1     |                       Banimento permanente;                      |
-|      2     |  Banimento permanente + Habilidades redefinidas pra 50% (mcMMO); |
-|      3     | BBanimento permanente + Habilidades redefinidas pra 25% (mcMMO); |
-|      4     |                          **Black List**                          |
+| Incidência |                             Punição                             |
+| :--------: | :-------------------------------------------------------------: |
+|      1     |                       Banimento permanente                      |
+|      2     |  Banimento permanente + Habilidades redefinidas pra 50% (mcMMO) |
+|      3     | BBanimento permanente + Habilidades redefinidas pra 25% (mcMMO) |
+|      4     |                          **Black List**                         |
 
 ## Regra 19 -  **Uso irregular da tag "Mito"** <a href="#01" id="01"></a>
 
@@ -188,9 +188,9 @@ Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só 
 
 | Incidência |             Vendedor            |    Comprador   |
 | :--------: | :-----------------------------: | :------------: |
-|      1     |              Aviso;             | Remoção da TAG |
-|      2     | Banimento temporário de 3 dias; | Remoção da TAG |
-|      3     | Banimento temporário de 7 dias; | Remoção da TAG |
+|      1     |              Aviso              | Remoção da TAG |
+|      2     |  Banimento temporário de 3 dias | Remoção da TAG |
+|      3     |  Banimento temporário de 7 dias | Remoção da TAG |
 |      4     | Banimento temporário de 15 dias | Remoção da TAG |
 
 ## Considerações finais <a href="#01" id="01"></a>
