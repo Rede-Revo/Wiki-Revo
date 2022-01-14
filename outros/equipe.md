@@ -92,7 +92,7 @@ O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que co
 
 #### Lista de Moderadores GC
 
-* #### ![](<../.gitbook/assets/image (9).png>) **cn007**
+* #### ![](<../.gitbook/assets/image (9) (1).png>) **cn007**
 
 ## Construtor
 
@@ -106,8 +106,8 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 
 #### Lista de Construtores
 
-* #### ![](<../.gitbook/assets/image (6) (1) (1).png>) **Junatus**
-* ![](<../.gitbook/assets/image (10) (1).png>) **Swafer**
+* #### ![](<../.gitbook/assets/image (10).png>) **IsaacChan**
+* ![](<../.gitbook/assets/image (10) (1) (1).png>) **Swafer**
 
 ## Ajudante
 
@@ -126,3 +126,4 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 * #### ****![](<../.gitbook/assets/image (2).png>) **Guga\_S2**
 * ****![](<../.gitbook/assets/image (8) (1).png>) **Nathyline**
 * #### ****![](<../.gitbook/assets/image (11) (1).png>) **PataAssada**
+* ****![](<../.gitbook/assets/image (9).png>) **new\_miza**
