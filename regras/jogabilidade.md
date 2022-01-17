@@ -145,11 +145,12 @@ Construir de forma aleatória pelo mapa colocando lava, água etc. (Principalmen
 
 ### Lista de Punições <a href="#lista-de-punicoes-8" id="lista-de-punicoes-8"></a>
 
-| Incidência |                 Punição                |
-| :--------: | :------------------------------------: |
-|      1     |     Banimento temporário de 3 dias     |
-|      2     | Aviso - Banimento temporário de 7 dias |
-|      3     |      Aviso - Banimento Permanente      |
+| Incidência |                 Punição                 |
+| :--------: | :-------------------------------------: |
+|      1     |      Banimento temporário de 3 dias     |
+|      2     |  Aviso - Banimento temporário de 7 dias |
+|      3     | Aviso - Banimento temporário de 15 dias |
+|      4     |       Aviso - Banimento Permanente      |
 
 ## Regra 17 - Cúmplice de Infrator <a href="#01" id="01"></a>
 
@@ -161,11 +162,12 @@ O ato de não reportar o Hacker será interpretado automaticamente como aliança
 
 ### Lista de Punições <a href="#lista-de-punicoes-9" id="lista-de-punicoes-9"></a>
 
-| Incidência |             Punição            |
-| :--------: | :----------------------------: |
-|      1     | Banimento temporário de 3 dias |
-|      2     | Banimento temporário de 7 dias |
-|      3     |      Banimento Permanente      |
+| Incidência |             Punição             |
+| :--------: | :-----------------------------: |
+|      1     |  Banimento temporário de 3 dias |
+|      2     |  Banimento temporário de 7 dias |
+|      3     | Banimento temporário de 15 dias |
+|      4     |       Banimento Permanente      |
 
 ## Regra 18 - Uso de Trapaças <a href="#01" id="01"></a>
 
