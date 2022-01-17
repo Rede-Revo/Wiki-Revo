@@ -1,7 +1,7 @@
 ---
 description: >-
-  O descumprimento de regras resultará em Punição, então para uma melhor
-  jogabilidade leia e respeite as mesmas, está seção é aplicável a ações feitas
+  O descumprimento de regras resultará em punição, então para uma melhor
+  jogabilidade leia e respeite as mesmas, esta seção é aplicável a ações feitas
   através do chat do servidor.
 ---
 
@@ -43,7 +43,8 @@ Ameaças a outros jogadores(as) sejam elas com relação à sua pessoa, sua fam�
 
 Será Punido por Discriminação o(a) jogador(a) que intimidar outro jogador agredindo verbalmente/ofendendo/humilhando com palavras fortes que estimulem o cyberbullying, preconceito racial, xenofóbico, homofóbico, entre outros.
 
-> **Cyberbullying** é um tipo de **violência** praticada contra alguém **através da internet** ou de outras tecnologias relacionadas. Praticar _cyberbullying_ significa usar o espaço virtual para intimidar e hostilizar uma pessoa difamando, insultando ou atacando covardemente.
+> * Cyberbullying é o bullying realizado por meio das plataformas digitais. É o comportamento repetido, com intuito de intimidar e hostilizar pessoas difamando, insultando ou atacando covardemente.
+> * A Equipe da Rede Revo repudia qualquer tipo de discriminação e, dependendo do caso, nos reservamos o direito de aplicar blacklist e/ou banimento permanente na primeira infração.
 
 {% hint style="info" %}
 Também se aplica a discriminação social, nem todos jogadores possuem condições de adquirir cash no servidor e isto deve ser respeitado.
@@ -57,7 +58,7 @@ Também se aplica a discriminação social, nem todos jogadores possuem condiç�
 |      2     |       Banimento permanente      |
 
 {% hint style="warning" %}
-A staff se reserva ao direito de julgar o que será tratado como xingamento, bullying, racismo, homofobia, apologia a crimes da forma que achar melhor.
+Quem julgará e definirá o que será homofobia, racismo, bullying, xingamento, ofensa, apologia à crimes, entre outros será a equipe staff. Não aceitaremos desculpas do tipo "Mandei no chat errado.", "Ele não se ofendeu." ou "Mandei para meu amigo, foi brincadeira.".
 {% endhint %}
 
 ## Regra 03 - **Divulgação Simples** <a href="#02" id="02"></a>
