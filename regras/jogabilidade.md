@@ -197,7 +197,7 @@ Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só 
 
 ## Considerações finais <a href="#01" id="01"></a>
 
-O jogador banido permanentemente tem direito a solicitar revisão da punição clicando aqui, caso recusada tem o direito de compra de desbanimento, a primeira incidência necessita da compra do pacote de desbanimento nível 1 pras demais são necessárias a compra do nível 2.
+O jogador banido permanentemente tem direito a solicitar revisão da punição [clicando aqui](https://discord.com/invite/h6pQ5VwcMz), caso recusada tem o direito de adquirir o desbanimento através de [nosso site](https://rederevo.com/itens), a primeira incidência necessita da compra do 1° desbanimento, a segunda necessita da compra do 2° desbanimento, e por fim, a terceira necessita da compra do 3° desbanimento. Sendo assim, o jogador que atingir o 4° banimento não tem direito a desbanimento.
 
 {% hint style="danger" %}
 Jogadores na **Black List** não possuem direito de desbanimento.
