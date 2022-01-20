@@ -37,16 +37,17 @@ TAGs dos eventos mensais são temporárias e duram 30 dias.
 
 | Torneio Semanal     | TAG                              |
 | ------------------- | -------------------------------- |
+| Torneio Aniquilador | \[Aniquilador] e \[Aniquiladora] |
 | Torneio Assassino   | \[Assassino] e \[Assassina]      |
-| Torneio Minerador   | \[Mineiro] e \[Mineira]          |
+| Torneio Caçador     | \[Caçador] e \[Caçadora]         |
+| Torneio Conectado   | \[Conectado] e \[Conectada]      |
 | Torneio Desmatador  | \[Desmatador] e \[Desmatadora]   |
+| Torneio Destruidor  | \[Destruidor] e \[Destruidora]   |
 | Torneio Escavador   | \[Topeira]                       |
 | Torneio Farmador    | \[Farmador] e \[Farmadora]       |
+| Torneio Minerador   | \[Mineiro] e \[Mineira]          |
 | Torneio Peixeiro    | \[Peixeiro] e \[Peixeira]        |
-| Torneio Aniquilador | \[Aniquilador] e \[Aniquiladora] |
 | Torneio Pedreiro    | \[Pedreiro] e \[Pedreira]        |
-| Torneio Destruidor  | \[Destruidor] e \[Destruidora]   |
-| Torneio Conectado   | \[Conectado] e \[Conectada]      |
 | Torneio Super Fã    | \[Super Fã]                      |
 
 | Top mcMMO    | TAG                           |
