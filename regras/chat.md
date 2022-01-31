@@ -99,9 +99,6 @@ Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um cam
 
 > **Flood**: Mesma frase repetidamente 3 vezes ou mais.
 
-> **Caps Lock**: Consiste no envio de frases com uso excessivo de caixa alta.\
-> OBS: Uso de Caps Lock é liberado no `/anunciar`.
-
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
 | Incidência |                    Punição                   |
