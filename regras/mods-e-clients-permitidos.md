@@ -12,6 +12,7 @@ description: >-
 * Lunar Client
 * LabyMod
 * Badlion Client
+* Salwyrr Client
 
 #### Mods Permitidos:
 
