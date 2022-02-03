@@ -40,7 +40,7 @@ Consulte os horários dos eventos clicando[ aqui](https://wiki.rederevo.com/even
 | Pré Guerra (MC OFF) |                100               |
 |  Pré Guerra (MC ON) |                150               |
 |        Guerra       |                250               |
-|       Torneio       |    1º: 50 \| 2º: 25 \| 3º: 10    |
+|       Torneio       |   1º: 100 \| 2º: 75 \| 3º: 50    |
 |  Construção do Mês  |  1º: 500 \| 2º: 250 \| 3º: 100   |
 |      Dominador      |            **EM BREVE**          |
 |      Mob Arena      |           **EM BREVE**           |

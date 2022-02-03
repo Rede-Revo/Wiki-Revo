@@ -171,7 +171,7 @@ O ato de não reportar o Hacker será interpretado automaticamente como aliança
 
 ## Regra 18 - Uso de Trapaças <a href="#01" id="01"></a>
 
-O uso de clientes, programas, modificações (mods), injeções no client que de vantagens extras como por exemplo: encontrar minérios e outros blocos, bater mais rápido, bater mais longe, correr mais rápido, inclui o uso de de qualquer software que reproduza clicks de forma automática, sejam macros ou mouses.
+O uso de clientes, programas, modificações (mods), injeções no client que de vantagens extras como por exemplo: encontrar minérios e outros blocos, bater mais rápido, bater mais longe, correr mais rápido, inclui o uso de de qualquer hardware, software ou firmware que reproduza clicks de forma automática, sejam macros, mouses ou aplicações.
 
 {% hint style="info" %}
 Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-permitidos.md).
