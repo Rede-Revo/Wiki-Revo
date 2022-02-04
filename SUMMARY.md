@@ -15,6 +15,8 @@
   * [VIPs](sistemas/sistema-de-cash/vips.md)
   * [Chaves](sistemas/sistema-de-cash/chaves.md)
   * [TAGs](sistemas/sistema-de-cash/tags.md)
+  * [Divino(a)](sistemas/sistema-de-cash/divino-a.md)
+  * [Super Pinhata](sistemas/sistema-de-cash/super-pinhata.md)
   * [Adquirir Cash](https://rederevo.com/itens)
 * [Sistema de Terrenos](sistemas/sistema-de-terrenos/README.md)
   * [Proteção Abandonada](sistemas/sistema-de-terrenos/protecao-abandonada.md)
