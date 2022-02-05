@@ -49,4 +49,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 * 💰 Premiação de **50.000 Coins**.
 * ![](<../../.gitbook/assets/image (14).png>) TAG **\[Sniper]** durante 7 dias.
-* ![](<../../.gitbook/assets/image (8).png>) **Contador de Sacrifícios**&#x20;
+* ![](<../../.gitbook/assets/image (8) (1).png>) **Contador de Sacrifícios**&#x20;
