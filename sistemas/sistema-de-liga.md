@@ -23,10 +23,10 @@ Pontos que podem ser obtidos a qualquer momento:
 |                Ação               | Pontos |
 | :-------------------------------: | :----: |
 |       Abater o Dragão do Fim      |    1   |
-|     Votar 10 vezes no servidor    |    2   |
 |        Vencer Evento (Chat)       |    2   |
 | Vencer Evento (Presencial - Time) |    3   |
 |     Vencer Evento (Presencial)    |    5   |
+|     Votar 25 vezes no servidor    |    5   |
 
 ### Eventos Agendados
 
@@ -40,7 +40,7 @@ Consulte os horários dos eventos clicando[ aqui](https://wiki.rederevo.com/even
 | Pré Guerra (MC OFF) |                100               |
 |  Pré Guerra (MC ON) |                150               |
 |        Guerra       |                250               |
-|       Torneio       |   1º: 100 \| 2º: 75 \| 3º: 50    |
+|       Torneio       |    1º: 75 \| 2º: 50 \| 3º: 25    |
 |  Construção do Mês  |  1º: 500 \| 2º: 250 \| 3º: 100   |
 |      Dominador      |            **EM BREVE**          |
 |      Mob Arena      |           **EM BREVE**           |
@@ -79,9 +79,9 @@ Jogadores que tentarem burlar a punição ao clã saindo do mesmo, implicarão e
 |                   Ação                   | Pontos |
 | :--------------------------------------: | :----: |
 |               Silenciamento              |   -50  |
-|                   Aviso                  |  -100  |
+|                   Aviso                  |   -75  |
 |           Banimento temporário           |  -150  |
-|           Banimento permanente           |  -300  |
+|           Banimento permanente           |  -250  |
 |      Banimento permanente (Regra 18)     |  -500  |
 | Banimento permanente (Regra 18) \[Líder] |  -1000 |
 
