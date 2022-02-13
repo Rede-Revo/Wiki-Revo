@@ -76,14 +76,29 @@ Assim como boas ações geram pontos, más ações removem pontos, portanto seja
 Jogadores que tentarem burlar a punição ao clã saindo do mesmo, implicarão em 2x no valor da penalidade no seu respectivo clã.
 {% endhint %}
 
-|                   Ação                   | Pontos |
-| :--------------------------------------: | :----: |
-|               Silenciamento              |   -50  |
-|                   Aviso                  |   -75  |
-|           Banimento temporário           |  -150  |
-|           Banimento permanente           |  -250  |
-|      Banimento permanente (Regra 18)     |  -500  |
-| Banimento permanente (Regra 18) \[Líder] |  -1000 |
+|         Ação         | Pontos |
+| :------------------: | :----: |
+|     Silenciamento    |   -25  |
+|         Aviso        |   -50  |
+| Banimento temporário |   -75  |
+| Banimento permanente |  -100  |
+
+## Pontuação Negativa (Regra 18)
+
+Esta seção se aplica exclusivamente a **regra 18**, jogadores punidos pela mesma terão acréscimos na perca de pontos, consulte a regra clicando [aqui](https://wiki.rederevo.com/regras/jogabilidade#01-7).&#x20;
+
+| Incidência | Pontos |
+| :--------: | :----: |
+|     1º     |  -150  |
+|     2º     |  -250  |
+|     3º     |  -350  |
+|     4º     |  -500  |
+|     5º+    |  -1000 |
+|    Líder   |  -1000 |
+
+{% hint style="warning" %}
+Reincidências remetem a punições aplicadas ao clã e não reincidências ao mesmo jogador.
+{% endhint %}
 
 ## Recompensas
 
