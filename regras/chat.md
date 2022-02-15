@@ -63,7 +63,7 @@ Quem julgará e definirá o que será homofobia, racismo, bullying, xingamento, 
 
 ## Regra 03 - **Divulgação Simples** <a href="#02" id="02"></a>
 
-Divulgação de coisas sem afins ao servidor tais como: discords paralelos, vídeos não relacionados ao servidor, fóruns e etc são proibidos, além disso, quaisquer divulgação de vídeo do servidor sem possuir parceria é cabível de punição. Outro caso que também se aplica é a divulgação indireta ao mencionar outro servidor: "vamos no servidor x duelar 1v1"
+Divulgação de coisas sem afins ao servidor tais como: discords paralelos, vídeos não relacionados ao servidor, fóruns e etc são proibidos. Outro caso que também se aplica é a divulgação indireta ao mencionar outro servidor: "vamos no servidor x duelar 1v1"
 
 ### Lista de Punições <a href="#lista-de-punicoes" id="lista-de-punicoes"></a>
 
