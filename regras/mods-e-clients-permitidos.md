@@ -22,6 +22,6 @@ description: >-
 * BetterPvP
 * KronHUD
 * Voxelmap
-* Litematica (Schematica não é permitido)
+* Litematica (Printer não é permitido)
 * MaLiLib
 * Mod Menu
