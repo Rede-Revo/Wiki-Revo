@@ -15,14 +15,14 @@ description: Todas as informações que você precisa saber sobre o evento Guerr
 
 ## Como Participar
 
-1. Entrar no evento;
-   * O tempo de entrada do evento é de **10 minutos**.
+1. Entrar no evento:
+   * O tempo de entrada do evento é de **10 minutos;**
    * Enquanto o evento estiver aberto, **limpe seu inventário** e use o comando `/warp eventos` e entre no portal de água a frente;
    * Saia do evento a qualquer momento com `/batalha sair`&#x20;
-2. Preparação para o evento;
-   * Após o evento ser fechado você será teleportado para a arena onde ocorrera a batalha.
+2. Preparação para o evento:
+   * Após o evento ser fechado você será teleportado para a arena onde ocorrera a batalha;
    * Você terá 15 segundos para se preparar para a batalha.&#x20;
-3. Inicio da batalha;
+3. Inicio da batalha:
    * Após passar o tempo de preparação será iniciado os duelos 1v1.
 
 ## Regras Gerais
