@@ -52,7 +52,7 @@ Inicie a temporada com seu clã com pé direito, eventos de temporada somam **MU
 |    Evento   |    Pontos    |
 | :---------: | :----------: |
 | Desbravador | **EM BREVE** |
-|    Slayer   | **EM BREVE** |
+|    Slayer   |      250     |
 
 ## Pontuação Positiva (Fim de Temporada)
 

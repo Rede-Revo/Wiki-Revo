@@ -1,5 +1,5 @@
 ---
-description: Toda as informações que você precisa saber sobre o evento guerra
+description: Todas as informações que você precisa saber sobre o evento guerra
 ---
 
 # Evento Guerra
@@ -21,7 +21,7 @@ description: Toda as informações que você precisa saber sobre o evento guerra
 ## Como Participar
 
 1. Entrada para o evento;
-   * O tempo de entrada do evento é de **10 minutos**
+   * O tempo de entrada do evento é de **15 minutos**
    * Enquanto o evento estiver aberto use o comando `/warp eventos` e entre no portal de água a frente.
    * Saia do evento a qualquer momento com `/batalha sair`.
 2. Preparação para o evento;
@@ -53,6 +53,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * :moneybag: Premiação de **1.000.000 Coins** depositados no banco do clã.
 * ![](<../../.gitbook/assets/trofeurevo (1).png>) **Troféu personalizado** para recordação adicionado no inventario do líder do clã.
 * :flag\_black: Será listado como clã campeão na [lista de vencedores](https://onedrive.live.com/redir?resid=AB6453A639BE0984!37870\&authkey=!AErctpzFzdYXLVg\&ithint=file%2cxlsx\&e=PXkG61).
+* 💎**\[Liga]** 250 Pontos
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 

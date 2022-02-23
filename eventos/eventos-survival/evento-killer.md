@@ -1,19 +1,21 @@
 ---
-description: Todas as informações que você precisa saber sobre o evento Arqueiro
+description: Todas as informações que você precisa saber sobre o evento Killer
 ---
 
-# Evento Arqueiro
+# Evento Killer
 
 ## Como Funciona
 
-* Usando apenas Arco e Flecha, mate o ultimo sobrevivente na arena e torne-se o vencedor ou mate a maior quantidade de inimigos e torne-se o matador;
-* Os itens são definidos pela equipe; (armadura de ferro, escudo, 16 maças dourada, 64 salmões assados, arco com infinidade, força 1, durabilidade 3 e uma flecha)
+* Mate o mate o ultimo sobrevivente na arena e torne-se o vencedor ou mate a maior quantidade de inimigos e torne-se o matador;
+* Os itens são definidos pela equipe; (3 armaduras de diamante, espada, machado, arco, flecha poções de força e agilidade, 32 cenouras douradas e 32 maças encantadas)
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (15).png>)
 
 * As habilidades do mcMMO serão desativadas durante o evento.
 
 ## Como Participar
+
+
 
 1. Entrar no evento;
    * O tempo de entrada do evento é de **10 minutos**.
@@ -41,6 +43,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## Premiação
 
+
+
 #### 🥇 **Ultimo Sobrevivente**
 
 * 💰 Premiação de **100.000 Coins**.
@@ -48,7 +52,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
-* 💰 Premiação de **50.000 Coins**.
-* ![](<../../.gitbook/assets/image (14).png>) TAG **\[Sniper]** durante 7 dias.
-* ![](<../../.gitbook/assets/image (8) (1).png>) **Contador de Sacrifícios**&#x20;
+* 💰 Premiação de **150.000 Coins**.
+* ![](<../../.gitbook/assets/image (14).png>) TAG **\[Killer]** durante 7 dias.
+* ****![](../../.gitbook/assets/contador\_de\_almas\_icon.png) **Contador de Almas**&#x20;
 * 💎**\[Liga]** 50 Pontos

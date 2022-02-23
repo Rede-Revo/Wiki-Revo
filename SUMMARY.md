@@ -30,6 +30,7 @@
   * [Evento Arqueiro](eventos/eventos-do-servidor/evento-arqueiro.md)
   * [Evento Guerra](eventos/eventos-survival/evento-guerra.md)
   * [Evento Guerreiro](eventos/eventos-survival/evento-guerreiro.md)
+  * [Evento Killer](eventos/eventos-survival/evento-killer.md)
 * [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
 * [Vencedores de Eventos ](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
 

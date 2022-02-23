@@ -1,5 +1,5 @@
 ---
-description: Toda as informações que você precisa saber sobre o evento Guerreiro
+description: Todas as informações que você precisa saber sobre o evento Guerreiro
 ---
 
 # Evento Guerreiro
@@ -9,7 +9,7 @@ description: Toda as informações que você precisa saber sobre o evento Guerre
 * Batalha 1v1 entre vários jogadores, o jogador que derrotar todos seus oponentes vence;
 * Itens definidos pela equipe; (armadura de diamante, espada, machado, poções de força e agilidade e 32 maças encantadas)
 
-![](<../../.gitbook/assets/image (15) (1).png>)
+![](<../../.gitbook/assets/image (15) (1) (1).png>)
 
 * Habilidades do mcMMO serão desativadas durante o evento.
 
@@ -41,6 +41,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 * 💰 Premiação de **150.000 Coins**.
 * ![](<../../.gitbook/assets/image (14).png>) TAG **\[Guerreiro(a)]** durante 7 dias.
+* 💎**\[Liga]** 50 Pontos
 
 #### [🥈](https://emojipedia.org/2nd-place-medal/) **2° Lugar**
 
