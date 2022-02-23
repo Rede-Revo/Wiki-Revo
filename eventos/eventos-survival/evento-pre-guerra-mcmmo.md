@@ -9,9 +9,9 @@ description: Todas as informações que você precisa saber sobre o evento pré-
 *   Batalha entre vários clãs na mesma arena;
 
     Com fogo amigo entre os membros do clã desativado, os clãs lutarão entre si.
-* Itens definidos pela equipe; (4 armaduras de diamante (um capacete e uma bota extra), espada, machado, arco, flecha poções de força e agilidade, 32 cenouras douradas, 64 maças encantadas e kit de preparo para poções);
+* Itens definidos pela equipe; (2 armaduras de diamante,  2 armaduras de netherita espada, machado, arco, flecha, totem da imortalidade, poções de força, agilidade e invisibilidade, 32 cenouras douradas, 64 maças encantadas e kit de preparo para poções);
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.

@@ -33,7 +33,7 @@ O **desenvolvedor** é o profissional que desenvolve _plugins e os demais sistem
 
 #### Lista de Desenvolvedores
 
-* ![](<../.gitbook/assets/image (7).png>) **Soekd**
+* ![](<../.gitbook/assets/image (7) (1).png>) **Soekd**
 
 ## Gerente
 
@@ -48,7 +48,7 @@ O cargo de **gerente** tem muita relevância e sempre possui muitas responsabili
 
 #### Lista de Gerentes
 
-* ![](<../.gitbook/assets/image (7) (1) (1).png>) **Gutoh\_**
+* ![](<../.gitbook/assets/image (7) (1) (1) (1).png>) **Gutoh\_**
 * ****![](<../.gitbook/assets/image (12) (1).png>) **julgzin**
 
 ## Administrador
