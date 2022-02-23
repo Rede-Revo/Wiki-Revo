@@ -50,11 +50,11 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### 🥇 **Clã Vencedor**
 
-* :moneybag: Premiação de **1.000.000 Coins** depositados no banco do clã.
-* ![](<../../.gitbook/assets/trofeurevo (1).png>) **Troféu personalizado** para recordação adicionado no inventario do líder do clã.
-* :flag\_black: Será listado como clã campeão na [lista de vencedores](https://onedrive.live.com/redir?resid=AB6453A639BE0984!37870\&authkey=!AErctpzFzdYXLVg\&ithint=file%2cxlsx\&e=PXkG61).
+* :moneybag: Premiação de **1.000.000 Coins** depositados no banco do clã
+* ![](<../../.gitbook/assets/trofeurevo (1).png>) **Troféu personalizado** para recordação adicionado no inventario do líder do clã
+* :flag\_black: Será listado como clã campeão na [lista de vencedores](https://onedrive.live.com/redir?resid=AB6453A639BE0984!37870\&authkey=!AErctpzFzdYXLVg\&ithint=file%2cxlsx\&e=PXkG61)
 * 💎**\[Liga]** 250 Pontos
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
-* ![](<../../.gitbook/assets/image (14).png>) TAG **\[Mito]** até o matador ser morto.
+* ![](<../../.gitbook/assets/image (14).png>) TAG **\[Mito]** até o matador ser morto

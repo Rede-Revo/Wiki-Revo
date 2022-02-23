@@ -39,14 +39,14 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### 🥇 **1° Lugar**
 
-* 💰 Premiação de **150.000 Coins**.
-* ![](<../../.gitbook/assets/image (14).png>) TAG **\[Guerreiro(a)]** durante 7 dias.
+* 💰 Premiação de **150.000 Coins**
+* ![](<../../.gitbook/assets/image (14).png>) TAG **\[Guerreiro(a)]** durante 7 dias
 * 💎**\[Liga]** 50 Pontos
 
 #### [🥈](https://emojipedia.org/2nd-place-medal/) **2° Lugar**
 
-* 💰 Premiação de **100.000 Coins**.
+* 💰 Premiação de **100.000 Coins**
 
 #### [🥉](https://emojipedia.org/3rd-place-medal/) **3° Lugar**
 
-* 💰 Premiação de **50.000 Coins**.
+* 💰 Premiação de **50.000 Coins**
