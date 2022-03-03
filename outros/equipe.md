@@ -107,7 +107,6 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 #### Lista de Construtores
 
 * #### ![](<../.gitbook/assets/image (10).png>) **IsaacChan**
-* ![](<../.gitbook/assets/image (10) (1) (1).png>) **Swafer**
 * #### ![](<../.gitbook/assets/image (2).png>) **\_IRagnar**
 
 ## Ajudante
@@ -125,7 +124,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 * #### ![](<../.gitbook/assets/image (6) (1).png>) **Allyz\_**
 * #### ****![](<../.gitbook/assets/image (2) (1).png>) **Guga\_S2**
-* ****![](<../.gitbook/assets/image (8) (1) (1).png>) **Nathyline**
+* ****![](<../.gitbook/assets/image (17).png>) **\_XABLAU**
 * #### ****![](<../.gitbook/assets/image (11) (1).png>) **PataAssada**
 * ****![](<../.gitbook/assets/image (9) (1) (1).png>) **new\_miza**
 * ![](<../.gitbook/assets/image (9) (1).png>) **SenhorNogueira**

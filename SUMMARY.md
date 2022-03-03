@@ -51,3 +51,4 @@
 * [Faça Parte da Equipe](outros/faca-parte-da-equipe/README.md)
   * [Formulário para Ajudante](outros/faca-parte-da-equipe/formulario-para-ajudante.md)
   * [Formulário para Construtor(a)](outros/faca-parte-da-equipe/formulario-para-construtor-a.md)
+* [Revo Pack](outros/revo-pack.md)
