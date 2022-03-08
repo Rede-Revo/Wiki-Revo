@@ -95,7 +95,7 @@ Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um cam
 > **Poluição visual:** Consiste em utilizar caracteres de forma aleatória no chat.
 
 > **Spam**: Consiste no uso excessivo de caracteres repetidos com limite de 15 letras, números ou símbolos repetidos.\
-> OBS: Para a letra "k" e a letra "g" o limite de caracteres é de 1 linha com tamanho do chat em 100%.
+> OBS: Para a letra "k" e a letra "g" o limite de caracteres é de 55 letras.
 
 > **Flood**: Mesma frase repetidamente 3 vezes ou mais.
 
