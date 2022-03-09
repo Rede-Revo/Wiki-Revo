@@ -29,6 +29,12 @@ Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores
 Ameaças a outros jogadores(as) sejam elas com relação à sua pessoa, sua família, seus bens ou sua conta também são incluídos neste tópico.
 {% endhint %}
 
+{% hint style="warning" %}
+Ofender o servidor diretamente também se enquadra nessa regra.
+
+**Exemplo**: _"Servidor filho da \*\*\*\*, que mer\*\*\*"_.
+{% endhint %}
+
 ### Lista de Punições <a href="#lista-de-punicoes" id="lista-de-punicoes"></a>
 
 | Incidência |                    Punição                   |
