@@ -49,7 +49,7 @@ Ofender o servidor diretamente também se enquadra nessa regra.
 
 Será Punido por Discriminação o(a) jogador(a) que intimidar outro jogador agredindo verbalmente/ofendendo/humilhando com palavras fortes que estimulem o cyberbullying, preconceito racial, xenofóbico, homofóbico, entre outros.
 
-> * Cyberbullying é o bullying realizado por meio das plataformas digitais. É o comportamento repetido, com intuito de intimidar e hostilizar pessoas difamando, insultando ou atacando covardemente.
+> * Cyberbullying é o bullying realizado por meio das plataformas digitais. É o comportamento repetido, com intuito de intimidar e hostilizar pessoas caluniando, insultando ou atacando covardemente.
 > * A Equipe da Rede Revo repudia qualquer tipo de discriminação e, dependendo do caso, nos reservamos o direito de aplicar blacklist e/ou banimento permanente na primeira infração.
 
 {% hint style="info" %}
