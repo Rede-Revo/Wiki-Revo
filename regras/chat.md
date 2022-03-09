@@ -30,7 +30,7 @@ Ameaças a outros jogadores(as) sejam elas com relação à sua pessoa, sua fam�
 {% endhint %}
 
 {% hint style="warning" %}
-Ofender o servidor diretamente também se enquadra nessa regra.
+Ofender diretamente ou caluniar o servidor também se enquadra nessa regra.
 
 **Exemplo**: _"Servidor filho da \*\*\*\*, que mer\*\*\*"_.
 {% endhint %}
