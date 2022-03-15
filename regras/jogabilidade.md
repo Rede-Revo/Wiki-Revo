@@ -135,10 +135,6 @@ Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relac
 O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros jogadores, roubos não são incluídos em nenhum tópico.
 {% endhint %}
 
-{% hint style="danger" %}
-Em hipótese alguma aceite pedidos de teletransportes de jogadores desconhecidos, esta regra não se aplica a pedidos de teletransporte sem nenhum tipo de persuasão.
-{% endhint %}
-
 ### Lista de Punições <a href="#lista-de-punicoes-7" id="lista-de-punicoes-7"></a>
 
 | Incidência |                 Punição                 |
