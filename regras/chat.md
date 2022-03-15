@@ -133,6 +133,14 @@ Para que se tenha um chat mais limpo foi implementado um canal separado para env
 
 Consiste em passar informações erradas aos jogadores intencionalmente com objetivo de se beneficiar ou prejudicá-los.
 
+{% hint style="warning" %}
+Desinformação se aplica em ocorrências no chat e que a vítima não perca seus itens.
+{% endhint %}
+
+{% hint style="warning" %}
+Caso a desinformação se desdobre na morte da vítima (enganar, fake chat), a ocorrência de enquadra na [Regra 15](https://wiki.rederevo.com/regras/jogabilidade#01-4).
+{% endhint %}
+
 ### Lista de Punições <a href="#lista-de-punicoes-6" id="lista-de-punicoes-6"></a>
 
 | Incidência |                    Punição                   |

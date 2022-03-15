@@ -120,14 +120,23 @@ Forjar provas com objetivo de fazer jogadores inocentes serem punidos de forma e
 
 ## Regra 15 - Anti-jogo <a href="#01" id="01"></a>
 
-Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relacionamento entre os players. As práticas mais comuns de anti-jogo são, por exemplo homes ou warps de armadilhas (trap) com finalidade exclusiva de matar um player e se apossar de seus itens, inventar histórias ou induzir jogadores a enviar pedidos de teleportes e matá-los em seguida, criar uma proteção a menos de 50 blocos de outro jogador atrapalhando o mesmo de expandir ou editar itens seja seu nome, lore ou encantamento com intuito de confundir jogadores (Renomear um gancho de armadilha com nome de chave misteriosa por exemplo).
+
+
+Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relacionamento entre os players. As práticas mais comuns de anti-jogo são, por exemplo:
+
+* Homes ou warps de armadilhas (trap) com finalidade exclusiva de matar um player e se apossar de seus itens;
+* Inventar histórias ou induzir jogadores a enviar pedidos de teletransporte e matá-los em seguida (fake chat);
+* Criar uma proteção a menos de 50 blocos de outro jogador atrapalhando o mesmo de expandir;
+* Editar itens seja seu nome, lore ou encantamento com intuito de confundir jogadores (Renomear um gancho de armadilha com nome de chave misteriosa por exemplo);
+* Mandar TPA para algum jogador com finalidade exclusiva de o prejudicar e se apossar de seus itens;
+* Perseguir jogadores por meio do chat ou da jogabilidade, com meio exclusivo de o prejudicar (ficar em volta de proteções esperando o jogador sair da mesma com finalidade exclusiva de o perturbar/matar, por exemplo). Casos de perseguição por meio do chat tem uma punição anterior à regra geral (silenciamento). Casos de perseguição o jogador denunciado será previamente avisado para parar de agir de tal modo, posteriormente ao aviso, se persistir, será punido.
 
 {% hint style="warning" %}
 O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros jogadores, roubos não são incluídos em nenhum tópico.
 {% endhint %}
 
 {% hint style="danger" %}
-Em hipótese alguma aceite pedidos de teleportes de jogadores desconhecidos, esta regra não se aplica a pedidos de teleporte sem nenhum tipo de persuasão.
+Em hipótese alguma aceite pedidos de teletransportes de jogadores desconhecidos, esta regra não se aplica a pedidos de teletransporte sem nenhum tipo de persuasão.
 {% endhint %}
 
 ### Lista de Punições <a href="#lista-de-punicoes-7" id="lista-de-punicoes-7"></a>
