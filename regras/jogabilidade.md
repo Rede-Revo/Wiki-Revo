@@ -129,7 +129,7 @@ Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relac
 * Criar uma proteção a menos de 50 blocos de outro jogador atrapalhando o mesmo de expandir;
 * Editar itens seja seu nome, lore ou encantamento com intuito de confundir jogadores (Renomear um gancho de armadilha com nome de chave misteriosa por exemplo);
 * Mandar TPA para algum jogador com finalidade exclusiva de o prejudicar e se apossar de seus itens;
-* Perseguir jogadores por meio do chat ou da jogabilidade, com meio exclusivo de o prejudicar (ficar em volta de proteções esperando o jogador sair da mesma com finalidade exclusiva de o perturbar/matar, por exemplo). Casos de perseguição por meio do chat tem uma punição anterior à regra geral (silenciamento). Casos de perseguição o jogador denunciado será previamente avisado para parar de agir de tal modo, posteriormente ao aviso, se persistir, será punido.
+* Perseguir jogadores por meio da jogabilidade, com meio exclusivo de o prejudicar (ficar em volta de proteções esperando o jogador sair da mesma com finalidade exclusiva de o perturbar/matar, por exemplo). Casos de perseguição o jogador denunciado será previamente avisado para parar de agir de tal modo, posteriormente ao aviso, se persistir, será punido.
 
 {% hint style="warning" %}
 O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros jogadores, roubos não são incluídos em nenhum tópico.
