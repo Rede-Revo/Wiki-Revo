@@ -26,6 +26,6 @@ Aqui você aprenderá tudo que precisa sobre o vosso servidor, desde os sistemas
 
 ## <mark style="color:blue;">Inscrever-se para fazer parte da equipe:</mark>
 
-{% content-ref url="outros/faca-parte-da-equipe/" %}
-[faca-parte-da-equipe](outros/faca-parte-da-equipe/)
+{% content-ref url="outros/faca-parte-da-equipe.md" %}
+[faca-parte-da-equipe.md](outros/faca-parte-da-equipe.md)
 {% endcontent-ref %}

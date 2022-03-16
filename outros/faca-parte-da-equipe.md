@@ -25,13 +25,9 @@ Falar a verdade em sua aplicação é muito importante, mesmo que você tenha um
 
 Nosso principal objetivo é selecionar os jogadores mais bem capacitados e adequados a um lugar na equipe através da análise de seu formulário de aplicação. Portanto, é crucial que você seja apresentado da forma correta e se torne, assim, interessante para a equipe. Faça com que sua aplicação mostre exatamente quem você é e porque você deve ser um membro da equipe. Fique à vontade para falar tudo que achar necessário sobre você!
 
-{% content-ref url="formulario-para-ajudante.md" %}
-[formulario-para-ajudante.md](formulario-para-ajudante.md)
-{% endcontent-ref %}
+### Onde posso fazer o formulário?
 
-{% content-ref url="formulario-para-construtor-a.md" %}
-[formulario-para-construtor-a.md](formulario-para-construtor-a.md)
-{% endcontent-ref %}
+Em nosso [discord](https://discord.com/invite/rederevo) no canal _#🔎・comandos_ você utiliza o comando `/formajudante` para a vaga de ajudante e `/formconstrutor` para a vaga de construtor(a)
 
 {% hint style="danger" %}
 

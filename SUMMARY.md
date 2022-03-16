@@ -48,7 +48,5 @@
 
 * [Equipe](outros/equipe.md)
 * [Fale Conosco](outros/fale-conosco.md)
-* [Faça Parte da Equipe](outros/faca-parte-da-equipe/README.md)
-  * [Formulário para Ajudante](outros/faca-parte-da-equipe/formulario-para-ajudante.md)
-  * [Formulário para Construtor(a)](outros/faca-parte-da-equipe/formulario-para-construtor-a.md)
+* [Faça Parte da Equipe](outros/faca-parte-da-equipe.md)
 * [Revo Pack](outros/revo-pack.md)
