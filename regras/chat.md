@@ -64,7 +64,7 @@ Também se aplica a discriminação social, nem todos jogadores possuem condiç�
 |      2     |       Banimento permanente      |
 
 {% hint style="warning" %}
-Quem julgará e definirá o que será homofobia, racismo, bullying, xingamento, ofensa, apologia à crimes, entre outros será a equipe staff. Não aceitaremos desculpas do tipo "Mandei no chat errado.", "Ele não se ofendeu." ou "Mandei para meu amigo, foi brincadeira.".
+Quem julgará e definirá o que será homofobia, racismo, bullying, xingamento, ofensa, apologia à crimes, entre outros será a staff. Não aceitaremos desculpas do tipo "Mandei no chat errado.", "Ele não se ofendeu." ou "Mandei para meu amigo, foi brincadeira.".
 {% endhint %}
 
 ## Regra 03 - **Divulgação Simples** <a href="#02" id="02"></a>
