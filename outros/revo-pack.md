@@ -1,6 +1,6 @@
 ---
 description: >-
-  Um resorce pack feito por nossa equipe para deixar o jogo mais divertido e
+  Um resource pack feito por nossa equipe para deixar o jogo mais divertido e
   interativo
 ---
 
@@ -19,7 +19,7 @@ description: >-
 ![](../.gitbook/assets/emerald.png) = :emerald: ou :esmeralda: \
 ![](../.gitbook/assets/clown.png) = :clown: ou :palhaço: \
 ![](../.gitbook/assets/sob.png) = :chorando: ou :sob:\
-![](../.gitbook/assets/heart\_eyes.png) = :apaixoado: ou :heart\_eyes:\
+![](../.gitbook/assets/heart\_eyes.png) = :apaixonado: ou :heart\_eyes:\
 ![](../.gitbook/assets/pleading\_face.png) = :pleading\_face: ou :drama: \
 ![](../.gitbook/assets/angry.png) = :angry: ou :nervoso: \
 ![](../.gitbook/assets/like.png) = :like:, :joia: ou :thumbsup: \
