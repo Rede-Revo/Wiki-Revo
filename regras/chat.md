@@ -133,7 +133,12 @@ Para que se tenha um chat mais limpo foi implementado um canal separado para env
 
 ## Regra 07 - **Desinformação** <a href="#02" id="02"></a>
 
-Consiste em passar informações erradas aos jogadores intencionalmente com objetivo de se beneficiar ou prejudicá-los.
+
+
+Consiste em passar informações erradas aos jogadores intencionalmente com objetivo de se beneficiar ou prejudicá-los (relacionado ao jogo).
+
+* Não necessariamente mentir resulta em punição;
+* Aplicado apenas em casos que realmente prejudique de alguma forma a vítima ou o praticante se beneficie de alguma forma com sua desinformação.
 
 {% hint style="warning" %}
 Desinformação se aplica em ocorrências no chat e que a vítima não perca seus itens.
