@@ -12,7 +12,7 @@ Cash é uma recompensa que você recebe em troca de apoiar o nosso servidor com 
 
 ## **Por que precisamos das doações?**
 
-Manter um servidor de minecraft online não é barato. Existe vários custos mensais envolvidos, hospedagem, compra de plugins e pagamento de serviços. Para hospedar nosso servidor, possuímos uma máquina **dedicada e hospedada em Miami,** nossa máquina possui um processador Ryzen 5600x com 64GB de memória RAM e disco de armazenamento de 580GB NVMe.
+Manter um servidor de minecraft online não é barato. Existe vários custos mensais envolvidos, hospedagem, compra de plugins e pagamento de serviços. Para hospedar nosso servidor, possuímos uma máquina **dedicada e hospedada em Miami,** nossa máquina possui um processador Ryzen 5900x com 128GB de memória RAM e disco de armazenamento de 2TB NVMe.
 
 ### **O que eu posso fazer para apoiar o servidor?**
 
