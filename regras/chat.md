@@ -23,7 +23,7 @@ Os avisos expiram automaticamente ao chegar a 30 dias.
 
 ## Regra 01 - Ofensa <a href="#01" id="01"></a>
 
-Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores, será punido por ofensa todo jogador que agredir o outro verbalmente por meio de xingamentos, insultos, até mesmo com abreviações ou em outras idiomas, além disso, evite brincadeiras de mal gosto com outros jogadores (a staff não levará em conta se as palavras proferidas são para um amigo ou se tratam de meme).
+Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores, será punido por ofensa todo jogador que agredir o outro verbalmente por meio de xingamentos e até mesmo com abreviações ou em outras idiomas, além disso, evite brincadeiras de mal gosto com outros jogadores (a staff não levará em conta se as palavras proferidas são para um amigo ou se tratam de meme).
 
 {% hint style="info" %}
 Ameaças a outros jogadores(as) sejam elas com relação à sua pessoa, sua família, seus bens ou sua conta também são incluídos neste tópico.
