@@ -122,7 +122,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 #### Lista de Ajudantes
 
 * #### ![](<../.gitbook/assets/image (6).png>) **Beazika**
-* #### ****![](<../.gitbook/assets/image (2) (1).png>) **Guga\_S2**
+* #### ****![](<../.gitbook/assets/image (2) (1) (1).png>) **Guga\_S2**
 * ****![](<../.gitbook/assets/image (17).png>) **\_XABLAU**
 * #### ****![](<../.gitbook/assets/image (11) (1).png>) **PataAssada**
 * ****![](<../.gitbook/assets/image (9) (1) (1).png>) **EaiiDan**
