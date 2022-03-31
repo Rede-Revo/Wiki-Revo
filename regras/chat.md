@@ -23,7 +23,11 @@ Os avisos expiram automaticamente ao chegar a 30 dias.
 
 ## Regra 01 - Ofensa <a href="#01" id="01"></a>
 
-Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores, será punido por ofensa todo jogador que agredir o outro verbalmente por meio de xingamentos e até mesmo com abreviações ou em outras idiomas, além disso, evite brincadeiras de mal gosto com outros jogadores (a staff não levará em conta se as palavras proferidas são para um amigo ou se tratam de meme).
+Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores, será punido por ofensa todo jogador que agredir o outro verbalmente por meio de xingamentos e até mesmo com abreviações ou em outras idiomas, além disso, evite brincadeiras de mal gosto com outros jogadores (a staff não levará em conta se as palavras proferidas são para um amigo ou se tratam de meme), em casos de perseguição será enquadrado como _cyberbullying\*_.
+
+> * Cyberbullying é o bullying realizado por meio das plataformas digitais. É o comportamento repetido, com intuito de intimidar e hostilizar pessoas caluniando, insultando ou atacando covardemente.
+
+
 
 {% hint style="info" %}
 Ameaças a outros jogadores(as) sejam elas com relação à sua pessoa, sua família, seus bens ou sua conta também são incluídos neste tópico.
@@ -47,10 +51,9 @@ Ofender diretamente ou caluniar o servidor também se enquadra nessa regra.
 
 ## Regra 02 - **Discriminação** <a href="#01" id="01"></a>
 
-Será Punido por Discriminação o(a) jogador(a) que intimidar outro jogador agredindo verbalmente/ofendendo/humilhando com palavras fortes que estimulem o cyberbullying, preconceito racial, xenofóbico, homofóbico, entre outros.
+Será Punido por Discriminação o(a) jogador(a) que intimidar outro jogador agredindo verbalmente/ofendendo/humilhando com qualquer tipo de preconceito racial, xenofóbico, homofóbico, entre outros.
 
-> * Cyberbullying é o bullying realizado por meio das plataformas digitais. É o comportamento repetido, com intuito de intimidar e hostilizar pessoas caluniando, insultando ou atacando covardemente.
-> * A Equipe da Rede Revo repudia qualquer tipo de discriminação e, dependendo do caso, nos reservamos o direito de aplicar blacklist e/ou banimento permanente na primeira infração.
+> A Equipe da Rede Revo repudia qualquer tipo de discriminação e, dependendo do caso, nos reservamos o direito de aplicar blacklist e/ou banimento permanente na primeira infração.
 
 {% hint style="info" %}
 Também se aplica a discriminação social, nem todos jogadores possuem condições de adquirir cash no servidor e isto deve ser respeitado.
