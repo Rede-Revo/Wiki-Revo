@@ -83,6 +83,10 @@ Jogadores que tentarem burlar a punição ao clã saindo do mesmo, implicarão e
 | Banimento temporário |   -75  |
 | Banimento permanente |  -100  |
 
+{% hint style="warning" %}
+Líderes de clã ao tomar qualquer punição perderão a quantia multiplicada por 2.
+{% endhint %}
+
 ## Pontuação Negativa (Regra 18)
 
 Esta seção se aplica exclusivamente a **regra 18**, jogadores punidos pela mesma terão acréscimos na perca de pontos, consulte a regra clicando [aqui](https://wiki.rederevo.com/regras/jogabilidade#01-7).&#x20;
