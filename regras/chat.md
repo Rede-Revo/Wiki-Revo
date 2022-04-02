@@ -27,7 +27,7 @@ Quem julgará e definirá o que será homofobia, racismo, bullying, xingamento, 
 
 ## Regra 01 - Ofensa <a href="#01" id="01"></a>
 
-Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores, será punido por ofensa todo jogador que agredir o outro verbalmente por meio de xingamentos e até mesmo com abreviações ou em outras idiomas, além disso, evite brincadeiras de mal gosto com outros jogadores (a staff não levará em conta se as palavras proferidas são para um amigo ou se tratam de meme), em casos de perseguição será enquadrado como _cyberbullying\*_.
+Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores, será punido por ofensa todo jogador que agredir o outro verbalmente por meio de xingamentos e até mesmo com abreviações ou em outros idiomas, além disso, evite brincadeiras de mal gosto com outros jogadores (a staff não levará em conta se as palavras proferidas são para um amigo ou se tratam de meme), em casos de perseguição será enquadrado como _cyberbullying\*_.
 
 > * Cyberbullying é o bullying realizado por meio das plataformas digitais. É o comportamento repetido, com intuito de intimidar e hostilizar pessoas caluniando, insultando ou atacando covardemente.
 
