@@ -57,4 +57,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
-* ![](<../../.gitbook/assets/image (14).png>) TAG **\[Mito]** até o matador ser morto
+* ![](<../../.gitbook/assets/image (14) (1).png>) TAG **\[Mito]** até o matador ser morto
