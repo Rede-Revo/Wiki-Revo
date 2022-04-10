@@ -13,6 +13,7 @@ description: O que é o cargo Divino(a) e como conseguir?
 * Cargo exclusivo com destaque no discord
 * Receba duas tags exclusivas **Divino** e **Divina**
 * Não perde a sua cabeça ao morrer no Survival
+* Acesso ao `/brilhar` e `/colorido` em todos os servidores
 
 {% hint style="info" %}
 As vantagens só duram durante o mês em que você foi top doador(a)

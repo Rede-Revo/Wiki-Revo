@@ -8,6 +8,10 @@ description: Lista de benefícios de cada Rank.
 Todos os VIPs possuem duração de 30 dias.
 {% endhint %}
 
+{% hint style="success" %}
+Todos os VIPs possuem acesso ao `/fly` no **Lobby!**
+{% endhint %}
+
 ## O que são VIPs?
 
 VIPs são cargos que você pode adquirir através do Cash em nossos servidores e quanto maior for o cargo mais vantagens você vai receber
