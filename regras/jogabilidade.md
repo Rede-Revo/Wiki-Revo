@@ -131,7 +131,7 @@ Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relac
 * Mandar TPA para algum jogador com finalidade exclusiva de o prejudicar e se apossar de seus itens;
 * Perseguir jogadores por meio da jogabilidade, com meio exclusivo de o prejudicar (ficar em volta de proteções esperando o jogador sair da mesma com finalidade exclusiva de o perturbar/matar, por exemplo). Casos de perseguição o jogador denunciado será previamente avisado para parar de agir de tal modo, posteriormente ao aviso, se persistir, será punido.
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros jogadores, roubos não são incluídos em nenhum tópico.
 {% endhint %}
 

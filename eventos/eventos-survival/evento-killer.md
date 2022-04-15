@@ -55,6 +55,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
 * 💰 Premiação de **150.000 Coins**
-* ![](<../../.gitbook/assets/image (14) (1).png>) TAG **\[Killer]** durante 7 dias
+* ![](<../../.gitbook/assets/image (14).png>) TAG **\[Killer]** durante 7 dias
 * ****![](../../.gitbook/assets/contador\_de\_almas\_icon.png) **Contador de Almas**&#x20;
 * 💎**\[Liga]** 50 Pontos
