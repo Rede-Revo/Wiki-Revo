@@ -19,8 +19,8 @@ description: Lista com cargos e funções da equipe do servidor.
 
 #### Lista de Diretores
 
-* [![](<../.gitbook/assets/image (3) (1).png>)](https://minotar.net/helm/Nevisk/100.png) **Nevisk**
-* ****![](<../.gitbook/assets/image (5).png>) **thiagogebrim**
+* [<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) **Nevisk**
+* ****<img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> **thiagogebrim**
 
 ## Desenvolvedor
 
@@ -33,7 +33,7 @@ O **desenvolvedor** é o profissional que desenvolve _plugins e os demais sistem
 
 #### Lista de Desenvolvedores
 
-* ![](<../.gitbook/assets/image (7) (1).png>) **Soekd**
+* <img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> **Soekd**
 
 ## Gerente
 
@@ -48,8 +48,8 @@ O cargo de **gerente** tem muita relevância e sempre possui muitas responsabili
 
 #### Lista de Gerentes
 
-* ![](<../.gitbook/assets/image (7) (1) (1) (1).png>) **Gutoh\_**
-* ****![](<../.gitbook/assets/image (12) (1).png>) **julgzin**
+* <img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line"> **Gutoh\_**
+* ****<img src="../.gitbook/assets/image (12) (1) (1).png" alt="" data-size="line"> **julgzin**
 
 ## Administrador
 
@@ -65,7 +65,7 @@ O cargo de **gerente** tem muita relevância e sempre possui muitas responsabili
 
 #### Lista de Administradores
 
-* ![](<../.gitbook/assets/image (4) (1).png>) **Felipesfera**
+* <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> **Felipesfera**
 
 ## Moderador
 
@@ -106,7 +106,7 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 
 #### Lista de Construtores
 
-* #### ![](<../.gitbook/assets/image (10).png>) **IsaacChan**
+* #### <img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="line"> **IsaacChan**
 
 ## Ajudante
 
@@ -121,8 +121,8 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 #### Lista de Ajudantes
 
-* #### ![](<../.gitbook/assets/image (6).png>) **Beazika**
-* #### ****![](<../.gitbook/assets/image (14).png>) **** neteroide2
-* &#x20;**** ![](<../.gitbook/assets/image (17).png>)**Jrn**
-* ![](<../.gitbook/assets/image (9) (1).png>) **SenhorNogueira**
-* ****![](<../.gitbook/assets/image (16).png>) **Guimeirobr**
+* #### <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> **Beazika**
+* #### ****<img src="../.gitbook/assets/image (14).png" alt="" data-size="line"> **** neteroide2
+* &#x20;**** <img src="../.gitbook/assets/image (17).png" alt="" data-size="line">**Jrn**
+* <img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> **SenhorNogueira**
+* ****<img src="../.gitbook/assets/image (16).png" alt="" data-size="line"> **Guimeirobr**

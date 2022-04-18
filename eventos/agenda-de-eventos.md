@@ -16,6 +16,6 @@ description: Lista com horário de eventos diários, semanais e mensais!
 | Evento Arqueiro           | Quarta-feira  | 19:30 (Horário de Brasília) |
 | Evento Pré Guerra (mcMMO) | Quinta-feira  | 19:30 (Horário de Brasília) |
 | Evento Killer             | Sexta-feira   | 19:30 (Horário de Brasília) |
-| Evento MobArena           | Sábado        | 18:00 (Horário de Brasília) |
+| Evento Gladiador          | Sábado        | 18:00 (Horário de Brasília) |
 
 ### Eventos Mensais

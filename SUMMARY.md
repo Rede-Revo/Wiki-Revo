@@ -28,6 +28,7 @@
 
 * [Eventos Survival](eventos/eventos-do-servidor/README.md)
   * [Evento Arqueiro](eventos/eventos-do-servidor/evento-arqueiro.md)
+  * [Evento Gladiador](eventos/eventos-survival/evento-gladiador.md)
   * [Evento Guerra](eventos/eventos-survival/evento-guerra.md)
   * [Evento Guerreiro](eventos/eventos-survival/evento-guerreiro.md)
   * [Evento Killer](eventos/eventos-survival/evento-killer.md)

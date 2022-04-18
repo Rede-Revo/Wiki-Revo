@@ -17,8 +17,6 @@ description: Todas as informações que você precisa saber sobre o evento Kille
 
 ## Como Participar
 
-
-
 1. Entrar no evento:
    * O tempo de entrada do evento é de **10 minutos;**
    * Enquanto o evento estiver aberto, **limpe seu inventário** e use o comando `/warp eventos` e entre no portal de água a frente;
@@ -45,8 +43,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## Premiação
 
-
-
 #### 🥇 **Ultimo Sobrevivente**
 
 * 💰 Premiação de **100.000 Coins**
@@ -55,6 +51,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
 * 💰 Premiação de **150.000 Coins**
-* ![](<../../.gitbook/assets/image (14).png>) TAG **\[Killer]** durante 7 dias
-* ****![](../../.gitbook/assets/contador\_de\_almas\_icon.png) **Contador de Almas**&#x20;
+* <img src="../../.gitbook/assets/image (14) (1).png" alt="" data-size="line"> TAG **\[Killer]** durante 7 dias
+* ****<img src="../../.gitbook/assets/contador_de_almas_icon.png" alt="" data-size="line"> **Contador de Almas**&#x20;
 * 💎**\[Liga]** 50 Pontos
