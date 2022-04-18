@@ -8,6 +8,10 @@ description: Guia com todas as informações necessárias sobre os eventos do Su
 [evento-arqueiro.md](evento-arqueiro.md)
 {% endcontent-ref %}
 
+{% content-ref url="../eventos-survival/evento-gladiador.md" %}
+[evento-gladiador.md](../eventos-survival/evento-gladiador.md)
+{% endcontent-ref %}
+
 {% content-ref url="../eventos-survival/evento-guerra.md" %}
 [evento-guerra.md](../eventos-survival/evento-guerra.md)
 {% endcontent-ref %}

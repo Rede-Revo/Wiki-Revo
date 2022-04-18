@@ -48,7 +48,7 @@ description: Todas as informações que você precisa saber sobre o evento gladi
 * 💰 Premiação de **150.000 Coins**
 * 💎**\[Liga]** 50 Pontos
 * <img src="../../.gitbook/assets/image (14) (1).png" alt="" data-size="line">TAG **\[Gladiador(a)]** durante 7 dias
-* <img src="../../.gitbook/assets/image (12).png" alt="" data-size="line">**Machado do Campeão**
+* 🪓 **Machado do Campeão**
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
