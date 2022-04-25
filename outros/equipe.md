@@ -33,7 +33,7 @@ O **desenvolvedor** é o profissional que desenvolve _plugins e os demais sistem
 
 #### Lista de Desenvolvedores
 
-* <img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> **Soekd**
+* <img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> **SOekd**
 * #### <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> xMattNice\_
 
 ## Gerente
