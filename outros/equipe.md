@@ -19,7 +19,7 @@ description: Lista com cargos e funções da equipe do servidor.
 
 #### Lista de Diretores
 
-* [<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) **Nevisk**
+* [<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) **Nevisk**
 * ****<img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> **thiagogebrim**
 
 ## Desenvolvedor
@@ -34,6 +34,7 @@ O **desenvolvedor** é o profissional que desenvolve _plugins e os demais sistem
 #### Lista de Desenvolvedores
 
 * <img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> **Soekd**
+* #### <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> xMattNice\_
 
 ## Gerente
 
@@ -123,6 +124,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 * #### <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> **Beazika**
 * #### ****<img src="../.gitbook/assets/image (14).png" alt="" data-size="line"> **** neteroide2
-* &#x20;**** <img src="../.gitbook/assets/image (17).png" alt="" data-size="line">**Jrn**
+* <img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="line"> **Jrn**
 * <img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> **SenhorNogueira**
 * ****<img src="../.gitbook/assets/image (16).png" alt="" data-size="line"> **Guimeirobr**
+* ****<img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> **PataAssada**
