@@ -30,6 +30,7 @@ Quando maior for o VIP mais cash ele vai custar, os valores são:\
 | :-----------------------------------: | :--------: | :-------: | :-------: |
 |                 Coins                 |   150.000  |  100.000  |   50.000  |
 |           Blocos de Proteção          |   15.000   |   10.000  |   5.000   |
+|           Limite de Terrenos          |     50     |     40    |     30    |
 |     Bônus na loja (compra e venda)    |     10%    |    7.5%   |     5%    |
 |         Sem delay de teleporte        |     SIM    |    SIM    |    SIM    |
 |     Remover spawner (Toque Suave)     |     50%    |    40%    |    30%    |
