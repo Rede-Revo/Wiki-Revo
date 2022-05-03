@@ -108,9 +108,9 @@ Jogadores(as) com atividade suspeita que não atenderem o chamado no período de
 |      2     |  Banimento temporário de 15 dias + Todas habilidades redefinidas pra 50% (mcMMO)  |
 |      3     |        Banimento permanente + Todas habilidades redefinidas pra 25% (mcMMO)       |
 
-## Regra 14 - Falsificação de Provas
+## Regra 14 - Falsificação de fatos
 
-Forjar provas com objetivo de fazer jogadores inocentes serem punidos de forma errada.
+Alterar fatos, tais como provas ou acontecimentos, para benefício próprio ou prejudicar outro jogador ou a rede.
 
 ### Lista de Punições <a href="#lista-de-punicoes-6" id="lista-de-punicoes-6"></a>
 
@@ -146,7 +146,7 @@ O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros
 
 ## Regra 16 - Griefing <a href="#01" id="01"></a>
 
-Construir de forma aleatória pelo mapa colocando lava, água etc. (Principalmente próximos a outras proteções), este tópico também se aplica a construções obscenas, símbolos como suásticas ou qualquer construção que infrinja quaisquer outra regra.
+Construir ou destruir de forma aleatória pelo mapa colocando lava, água, etc. Este tópico também se aplica para construções obscenas, tal como símbolos como suástica ou qualquer construção que infrinja quaisquer outras regras (regra mais rígida para casos perto de outras proteções.). Ser fora de um terreno ou dentro de um terreno que você tenha permissão não são indiferentes para esta regra. Essa regra não se aplica no mundo de recursos.
 
 ### Lista de Punições <a href="#lista-de-punicoes-8" id="lista-de-punicoes-8"></a>
 
@@ -159,10 +159,10 @@ Construir de forma aleatória pelo mapa colocando lava, água etc. (Principalmen
 
 ## Regra 17 - Cúmplice de Infrator <a href="#01" id="01"></a>
 
-Bancar ou se aliar a jogadores com Hacks explícitos.
+Bancar ou se aliar a jogadores com trapaças explícitas (casualmente pode ser aplicado para jogadores cúmplices de infratores que não sejam da regra 18).
 
 {% hint style="warning" %}
-O ato de não reportar o Hacker será interpretado automaticamente como aliança.
+O ato de não reportar o trapaceiro (regra 18) será interpretado automaticamente como aliança.
 {% endhint %}
 
 ### Lista de Punições <a href="#lista-de-punicoes-9" id="lista-de-punicoes-9"></a>
