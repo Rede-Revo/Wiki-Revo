@@ -73,7 +73,7 @@ No momento de finalização de pontuação para decidir quais clãs serão defin
 Assim como boas ações geram pontos, más ações removem pontos, portanto sejam seletivos no recrutamento de membros, a ação de um jogador pode impactar diretamente no desempenho de todo o clã!
 
 {% hint style="danger" %}
-Jogadores que tentarem burlar a punição ao clã saindo do mesmo, implicarão em 2x no valor da penalidade no seu respectivo clã.
+Jogadores que tentarem burlar a punição ao clã saindo ou debandando o mesmo, implicarão em 2x no valor da penalidade no seu respectivo clã.
 {% endhint %}
 
 |         Ação         | Pontos |
