@@ -10,6 +10,7 @@ description: >-
 #### Clients Permitidos:
 
 * Lunar Client
+* Feather Launcher
 * LabyMod
 * Badlion Client
 * Salwyrr Client
