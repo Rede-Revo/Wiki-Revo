@@ -78,9 +78,6 @@ Jogadores que tentarem burlar a punição ao clã saindo ou debandando o mesmo, 
 
 |         Ação         | Pontos |
 | :------------------: | :----: |
-|     Silenciamento    |    -   |
-|         Aviso        |    -   |
-| Banimento temporário |    -   |
 | Banimento permanente |  -100  |
 
 {% hint style="warning" %}
