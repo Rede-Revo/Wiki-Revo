@@ -101,7 +101,7 @@ Os passos para executar o flush do DNS no Mac OS X são simples, mas você preci
 
 ### Mesmo assim o problema continua?
 
-Tenta deixar sua rota mais limpa com o servidor utilizando o aplicativo da Cloudflare [https://1.1.1.1/](https://1.1.1.1)
+Tenta deixar sua rota mais limpa com o servidor utilizando o aplicativo da Cloudflare [https://1.1.1.1/](https://1.1.1.1/)
 
 &#x20;                                                 ![](<../.gitbook/assets/image (1).png>)
 

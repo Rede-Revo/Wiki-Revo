@@ -8,7 +8,7 @@ description: Como colorir suas mensagens ou seu nick
 
 /nick `&#00FFE0`Ne`&#EB00FF`Visk
 
-#### [Site com códigos HEX](https://color-hex.com)
+#### [Site com códigos HEX](https://color-hex.com/)
 
 #### Uso de cores RGB no chat para VIP's.&#x20;
 

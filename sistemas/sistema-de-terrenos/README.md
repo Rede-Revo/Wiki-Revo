@@ -8,6 +8,6 @@ description: >-
 
 ## Tempo offline necessário para perda da proteção.
 
-{% content-ref url="protecao-abandonada.md" %}
-[protecao-abandonada.md](protecao-abandonada.md)
+{% content-ref url="terreno-abandonado.md" %}
+[terreno-abandonado.md](terreno-abandonado.md)
 {% endcontent-ref %}

@@ -11,7 +11,7 @@ description: Todas as informações que você precisa saber sobre o evento pré-
     Com fogo amigo entre os membros do clã desativado, os clãs lutarão entre si.
 * Itens definidos pela equipe; (4 armaduras de diamante (um capacete e uma bota extra), espada, machado, arco, flecha, poções de força, agilidade e invisibilidade, 32 cenouras douradas, 64 maças encantadas e kit de preparo para poções);
 
-![](<../../.gitbook/assets/image (17) (1) (1).png>)
+![](<../../.gitbook/assets/image (17) (1) (1) (1).png>)
 
 * As habilidades do mcMMO serão desativadas durante o evento;
 * Borda que reduz no decorrer da batalha;\

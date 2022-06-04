@@ -6,4 +6,4 @@ description: >-
 
 # TLauncher
 
-Caso queira baixar o TLauncher [clique aqui](https://tlauncher.org)!
+Caso queira baixar o TLauncher [clique aqui](https://tlauncher.org/)!

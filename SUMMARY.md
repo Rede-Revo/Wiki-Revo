@@ -19,7 +19,7 @@
   * [Super Pinhata](sistemas/sistema-de-cash/super-pinhata.md)
   * [Adquirir Cash](https://rederevo.com/itens)
 * [Sistema de Terrenos](sistemas/sistema-de-terrenos/README.md)
-  * [Proteção Abandonada](sistemas/sistema-de-terrenos/protecao-abandonada.md)
+  * [Terreno Abandonado](sistemas/sistema-de-terrenos/terreno-abandonado.md)
 * [Sistema de Loja](sistemas/sistema-de-loja.md)
 * [Sistema de Cabeças](sistemas/sistema-de-cabecas/README.md)
   * [Chance de drop das Cabeças](sistemas/sistema-de-cabecas/chance-de-drop-das-cabecas.md)
