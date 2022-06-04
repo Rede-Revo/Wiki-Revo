@@ -54,7 +54,7 @@ Proteções são consideradas abandonadas de acordo com o tempo que o dono da pr
 * Utilize o comando `/terrenoreivindicar` verifique o valor necessário para reivindicação e confirme digitando `confirmar` no chat.
 
 {% hint style="warning" %}
-Sistema válido para todos os jogadores, inclusive jogadores banidos ou que doaram em nosso site.
+Sistema válido para todos os jogadores, inclusive jogadores banidos.
 {% endhint %}
 
 ## Terrenos Próximos
