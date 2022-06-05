@@ -42,7 +42,8 @@ Terreno de `1000` blocos.&#x20;
 * 64 dias -> Custo por bloco `$71 coins` -> `$71.000 coins`
 * 65 dias -> Custo por bloco `$70 coins` -> `$70.000 coins`
 * 66 dias -> Custo por bloco `$69 coins`-> `$69.000 coins`&#x20;
-* ... 125 dias -> Custo por bloco `$10 coins`-> `$10.000 coins`&#x20;
+* ...&#x20;
+* 125 dias -> Custo por bloco `$10 coins`-> `$10.000 coins`&#x20;
 
 ## Terreno Abandonado
 
