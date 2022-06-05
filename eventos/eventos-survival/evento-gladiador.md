@@ -31,7 +31,7 @@ description: Todas as informações que você precisa saber sobre o evento gladi
 
     #### 1. Não é permitido a formação de times.
 
-    Formação de time ou grupos no evento Arqueiro não é permitido. Jogadores que forem flagrados em times ou grupos serão removidos do evento.
+    Formação de time ou grupos no evento Gladiador não é permitido. Jogadores que forem flagrados em times ou grupos serão penalizados.
 
     #### **2. Não será tolerado acusações ou reclamações sem fundamentos.**
 
