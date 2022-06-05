@@ -38,13 +38,13 @@ description: Todas as informações que você precisa saber sobre o evento guerr
 
 Para uma guerra mais dinâmica o efeito de invisibilidade foi desativado durante o evento.
 
-#### **2. Não será tolerado acusações ou reclamações sem fundamentos.**
-
-Infelizmente vários jogadores ao perder em combate ficam frustrados e começam a xingar ou acusar outros jogadores e/ou a equipe. Essa atitude não será tolerada porque viola a [Regra 01](https://wiki.rederevo.com/regras/chat#01) do servidor, saiba todas as regras em [**Regras**](../../regras/).
-
-#### **3. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
+#### **2. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
 
 Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
+
+#### **3. (Provisório) Utilização do item colecionável "Botas de Coelho"**
+
+Por questões de balanceamento, fica proibida a entrada com o item colecionável **Botas de Coelho**, jogadores que utilizando o mesmo durante o evento estão sujeitos a exclusão permanente do item.
 
 ## Premiação
 
