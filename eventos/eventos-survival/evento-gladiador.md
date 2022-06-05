@@ -29,17 +29,17 @@ description: Todas as informações que você precisa saber sobre o evento gladi
 
     ## Regras Gerais
 
-    #### 1. Não é permitido a formação de times.
 
-    Formação de time ou grupos no evento Gladiador não é permitido. Jogadores que forem flagrados em times ou grupos serão penalizados.
 
-    #### **2. Não será tolerado acusações ou reclamações sem fundamentos.**
+#### 1. Não é permitido a formação de times.
 
-    Infelizmente vários jogadores ao perder em combate ficam frustrados e começam a xingar ou acusar outros jogadores e/ou a equipe. Essa atitude não será tolerada porque viola a [Regra 01](https://wiki.rederevo.com/regras/chat#01) do servidor, saiba todas as regras em [**Regras**](../../regras/).
+Formação de time ou grupos no evento Arqueiro não é permitido. Jogadores que forem flagrados em times ou grupos serão penalizados.
 
-    #### **3. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
+* Em casos de formações de alianças com baixo número de jogadores no evento, jogadores em formação de aliança serão colocados em formato de mata-mata.
 
-    Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
+#### **2. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
+
+Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
 ## Premiação
 
