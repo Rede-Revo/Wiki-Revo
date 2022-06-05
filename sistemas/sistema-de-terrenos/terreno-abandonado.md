@@ -6,7 +6,7 @@ description: Tempo inativo necessário para terrenos serem consideradas abandona
 
 Terrenos são consideradas abandonadas de acordo com o tempo que o dono dele fica sem acessar o servidor (offline). Quanto maior a proteção, mais tempo leva para o terreno ser considerado abandonado.\
 \
-Caso encontre um terreno abandonado utilize o comando `/terrenoreivindicar` para reivindicar a propriedade ao custo de `50 coins` por bloco, segue a tabela de tempo necessário para que um terreno seja considerado abandonado:
+Caso encontre um terreno abandonado utilize o comando `/terrenoreivindicar` para reivindicar a propriedade ao custo de `75 coins` por bloco, segue a tabela de tempo necessário para que um terreno seja considerado abandonado:
 
 ## Tempo necessário
 
@@ -18,15 +18,15 @@ Caso encontre um terreno abandonado utilize o comando `/terrenoreivindicar` para
 |          120         |      25.000+     |       100       |   |
 
 {% hint style="info" %}
-O custo de reivindicação é de 50 coins por bloco.
+O custo de reivindicação é de 75 coins por bloco.
 {% endhint %}
 
 ### **Exemplo:**&#x20;
 
-Terreno de `2500` blocos.
+Terreno de `1000` blocos.
 
 * Tempo para expirar: `60 dias` -> `(1000 a 9.999 blocos)`
-* Custo total para reivindicar: `$125.000 coins`
+* Custo total para reivindicar: `$75.000 coins`
 
 {% hint style="info" %}
 O preço por bloco reduz em 1 coin por dia a mais de inatividade de acordo com o tempo excedente ao prazo até o mínimo de 10 coins por bloco.
@@ -34,12 +34,14 @@ O preço por bloco reduz em 1 coin por dia a mais de inatividade de acordo com o
 
 ### Exemplos (dias excedentes ao prazo):
 
-Terreno de `2500` blocos.&#x20;
+Terreno de `1000` blocos.&#x20;
 
-* 70 dias -> Custo por bloco `$40 coins` -> `$100.000 coins`
-* 80 dias -> Custo por bloco `$30 coins` -> `$75.000 coins`
-* 90 dias -> Custo por bloco `$20 coins` -> `$50.000 coins`
-* 100 dias -> Custo por bloco `$10 coins`(Valor mínimo) -> `$25.000 coins`
+* 61 dias -> Custo por bloco `$74 coins` -> `$74.000 coins`
+* 62 dias -> Custo por bloco `$73 coins` -> `$73.000 coins`
+* 63 dias -> Custo por bloco `$72 coins` -> `$72.000 coins`
+* 64 dias -> Custo por bloco `$71 coins` -> `$71.000 coins`
+* 65 dias -> Custo por bloco `$70 coins` -> `$70.000 coins`
+* 66 dias -> `$69 coins`-> `$69.000 coins` ... 125 dias -> `$10 coins`-> `$10.000 coins`&#x20;
 
 ## Terreno Abandonado
 
