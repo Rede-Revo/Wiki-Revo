@@ -32,6 +32,7 @@
   * [Evento Guerra](eventos/eventos-survival/evento-guerra.md)
   * [Evento Guerreiro](eventos/eventos-survival/evento-guerreiro.md)
   * [Evento Killer](eventos/eventos-survival/evento-killer.md)
+  * [Evento Caça ao Dragão (Slayer)](eventos/eventos-survival/evento-caca-ao-dragao-slayer.md)
   * [Evento Pré-Guerra](eventos/eventos-survival/evento-pre-guerra.md)
   * [Evento Pré-Guerra (mcMMO)](eventos/eventos-survival/evento-pre-guerra-mcmmo.md)
 * [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
