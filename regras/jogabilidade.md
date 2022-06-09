@@ -182,12 +182,12 @@ O uso de clientes, programas, modificações (mods), injeções no client que de
 Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-permitidos.md).
 {% endhint %}
 
-| Incidência |                             Punição                             |
-| :--------: | :-------------------------------------------------------------: |
-|      1     |                       Banimento permanente                      |
-|      2     |  Banimento permanente + Habilidades redefinidas pra 50% (mcMMO) |
-|      3     | BBanimento permanente + Habilidades redefinidas pra 25% (mcMMO) |
-|      4     |                          **Black List**                         |
+| Incidência |                                   Punição                                  |
+| :--------: | :------------------------------------------------------------------------: |
+|      1     |                            Banimento permanente                            |
+|      2     | Banimento permanente + Níveis das Habilidades redefinidos para 50% (mcMMO) |
+|      3     | Banimento permanente + Níveis das Habilidades redefinidos para 25% (mcMMO) |
+|      4     |                               **Black List**                               |
 
 ## Regra 19 -  **Uso irregular da tag "Mito"** <a href="#01" id="01"></a>
 
