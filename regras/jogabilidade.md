@@ -102,11 +102,29 @@ Jogadores(as) com atividade suspeita que não atenderem o chamado no período de
 
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
-| Incidência |                                      Punição                                      |
-| :--------: | :-------------------------------------------------------------------------------: |
-|      1     | Banimento temporário de 7 dias + Habilidade específica redefinida pra 50% (mcMMO) |
-|      2     |  Banimento temporário de 15 dias + Todas habilidades redefinidas pra 50% (mcMMO)  |
-|      3     |        Banimento permanente + Todas habilidades redefinidas pra 25% (mcMMO)       |
+| Incidência |             Punição             |
+| :--------: | :-----------------------------: |
+|      1     |  Banimento temporário de 7 dias |
+|      2     | Banimento temporário de 15 dias |
+|      3     |       Banimento permanente      |
+
+{% hint style="danger" %}
+Além do banimento, punições extras são aplicadas referentes ação praticada pelo jogador e a incidência:\
+\
+Aumento de Coins:&#x20;
+
+* 1º - Saldo de coins redefinidos para 50%
+* 2º - Saldo de coins redefinidas para 25%
+* 3º - Saldo de coins redefinidas para 0.
+
+
+
+Aumento de Habilidades
+
+* 1º - Habilidade específica redefinida pra 0.
+* 2º - Todas habilidades redefinidas para 50%
+* 3º - Todas habilidades redefinidas para 25%
+{% endhint %}
 
 ## Regra 14 - Falsificação de fatos
 
@@ -186,8 +204,7 @@ Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-
 | :--------: | :------------------------------------------------------------------------: |
 |      1     |                            Banimento permanente                            |
 |      2     | Banimento permanente + Níveis das Habilidades redefinidos para 50% (mcMMO) |
-|      3     | Banimento permanente + Níveis das Habilidades redefinidos para 25% (mcMMO) |
-|      4     |                               **Black List**                               |
+|      3     |                               **Black List**                               |
 
 ## Regra 19 -  **Uso irregular da tag "Mito"** <a href="#01" id="01"></a>
 
