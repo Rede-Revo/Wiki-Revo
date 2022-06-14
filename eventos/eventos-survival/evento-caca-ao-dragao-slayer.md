@@ -12,6 +12,7 @@ description: >-
 * O evento ocorre na /warp end e você precisará ir munido com seus próprios itens, e lembre-se: sair do The End reseta o dano causado, então não tente fugir!
 * Durante o evento ficará bloqueado as invocações de dragões.
 * O dragão do evento tem seus atributos como vida, regeneração e dano melhorados, além de cristais que lhe auxiliam.
+* Durante o evento o uso da Élitros fica **Desativado**.
 * Durante o evento o combate permanece **ativo**, portanto muito cuidado...
 
 ## Como Participar

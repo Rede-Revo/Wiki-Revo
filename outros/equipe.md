@@ -50,7 +50,7 @@ O cargo de **gerente** tem muita relevância e sempre possui muitas responsabili
 #### Lista de Gerentes
 
 * <img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line"> **Gutoh\_**
-* ****<img src="../.gitbook/assets/image (12) (1) (1).png" alt="" data-size="line"> **julgzin**
+* ****<img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt="" data-size="line"> **julgzin**
 
 ## Administrador
 
@@ -81,7 +81,8 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
-* N/A
+* #### <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> **Beazika**
+* ****<img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> **SenhorNogueira**
 
 ## Moderador GC
 
@@ -107,7 +108,9 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 
 #### Lista de Construtores
 
-* #### <img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="line"> **IsaacChan**
+* #### <img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> **IsaacChan**
+* #### ****<img src="../.gitbook/assets/image (12).png" alt="" data-size="line"> **yQuack**
+* ****<img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> **GalloH\_**
 
 ## Ajudante
 
@@ -122,9 +125,5 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 #### Lista de Ajudantes
 
-* #### <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> **Beazika**
-* #### ****<img src="../.gitbook/assets/image (14).png" alt="" data-size="line"> **** neteroide2
 * <img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="line"> **Jrn**
-* <img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> **SenhorNogueira**
 * ****<img src="../.gitbook/assets/image (16).png" alt="" data-size="line"> **Guimeirobr**
-* ****<img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> **PataAssada**
