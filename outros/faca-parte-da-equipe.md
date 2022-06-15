@@ -21,13 +21,13 @@ Não é preciso ser excessivamente formal, contudo, o domínio da gramática é 
 
 Falar a verdade em sua aplicação é muito importante, mesmo que você tenha um histórico ruim ou não atenda algum dos requisitos, o melhor é ser honesto e falar isso em seu formulário. Caso você minta, ao verificar seus dados e histórico, descobriremos e isso fará com que você seja permanentemente negado e nunca tenha a chance de fazer parte da equipe.
 
-![:bustsinsilhouette:](https://redesky.com/styles/default/xenforo/clear.png) **Mostre quem você é e porque deve ser um membro da equipe**
+**Mostre quem você é e porque deve ser um membro da equipe**
 
 Nosso principal objetivo é selecionar os jogadores mais bem capacitados e adequados a um lugar na equipe através da análise de seu formulário de aplicação. Portanto, é crucial que você seja apresentado da forma correta e se torne, assim, interessante para a equipe. Faça com que sua aplicação mostre exatamente quem você é e porque você deve ser um membro da equipe. Fique à vontade para falar tudo que achar necessário sobre você!
 
 ### Onde posso fazer o formulário?
 
-Em nosso [discord](https://discord.com/invite/rederevo) no canal _#🔎・comandos_ você utiliza o comando `/formajudante` para a vaga de ajudante e `/formconstrutor` para a vaga de construtor(a)
+Em nosso [discord](https://discord.com/invite/rederevo) no canal [#📬・central-de-suporte](https://discord.com/channels/793269891557490688/929227946512777216) você seleciona a opção do formulário no qual você tem interesse em participar na nossa equipe.
 
 {% hint style="danger" %}
 
