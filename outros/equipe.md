@@ -22,7 +22,7 @@ description: Lista com cargos e funções da equipe do servidor.
 * [<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) **Nevisk**
 * ****<img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> **thiagogebrim**
 
-## <img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> Desenvolvedor
+## <img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> Desenvolvedor(a)
 
 O **desenvolvedor** é o profissional que desenvolve _plugins e os demais sistemas do servidor._ Seu trabalho envolve o entendimento, uso e aplicação de diferentes linguagens de programação, como **java**, **kotlin**, **scala**, além da análise de dados e atualizações sobre o Minecraft que podem ser fundamentais na atualização e/ou melhorias nos sistemas do servidor.
 
@@ -36,7 +36,21 @@ O **desenvolvedor** é o profissional que desenvolve _plugins e os demais sistem
 * <img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> **SOekd**
 * #### <img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="line"> xMattNice\_
 
-## <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> Gerente
+## ​<img src="../.gitbook/assets/tecnico.png" alt="" data-size="line"> Técnico(a) <a href="#desenvolvedor" id="desenvolvedor"></a>
+
+Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de segurança da Rede Revo, investigando riscos e causas de falhas, analisando esquemas de prevenção.
+
+#### Funções: <a href="#funcoes-1" id="funcoes-1"></a>
+
+* [x] Configurar hardwares e instalar e configurar softwares e drivers;
+* [x] Gerenciar opções de segurança e softwares nas maquinas da rede para manter a privacidade e a proteção contra ataques;
+* [x] Diagnosticar falhas ou erros de sistema e fornecer soluções para restaurar a funcionalidade.
+
+#### Lista de Técnicos <a href="#lista-de-desenvolvedores" id="lista-de-desenvolvedores"></a>
+
+* ​​<img src="../.gitbook/assets/image (22).png" alt="" data-size="line"> **zGumeloBR**
+
+## <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> Gerente
 
 O cargo de **gerente** tem muita relevância e sempre possui muitas responsabilidades. Ele é responsável por manter a organização dos processos e, normalmente, está sempre tomando decisões muito importantes para o desenvolvimento do servidor.
 
@@ -82,7 +96,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 #### Lista de Moderadores
 
 * #### <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> **Beazika**
-* ****<img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> **SenhorNogueira**
+* ****<img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> **SenhorNogueira**
 
 ## <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> Moderador GC
 
@@ -137,3 +151,9 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 * [x] Tirar dúvidas de jogadores realizadas por tickets ou chat;
 * [x] Reportar bugs ou erros aos superiores;
 * [x] Trabalho de prevenção junto aos jogadores, conscientizando-os sobre os riscos que correm ao desrespeitar as [regras](../regras/).
+
+#### Lista de Aprendizes
+
+* <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> **jesus536be**
+* ****<img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> **Sr\_Coffee666**
+* <img src="../.gitbook/assets/image (15).png" alt="" data-size="line"> **Gutothefoda**

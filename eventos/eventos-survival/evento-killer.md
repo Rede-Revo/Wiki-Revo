@@ -9,7 +9,7 @@ description: Todas as informações que você precisa saber sobre o evento Kille
 * Mate o mate o ultimo sobrevivente na arena e torne-se o vencedor ou mate a maior quantidade de inimigos e torne-se o matador;
 * Itens definidos pela equipe; (3 armaduras de diamante, espada, machado, arco, flecha, poções de força e agilidade, 32 cenouras douradas e 32 maças encantadas);
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
 * As habilidades do mcMMO serão desativadas durante o evento
 * Borda que reduz no decorrer da batalha;\

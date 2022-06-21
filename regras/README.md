@@ -11,7 +11,7 @@ Para uma melhor organização fica-se organizado em 3 partes: [**Chat**](chat.md
 #### É importante saber que para a realização de reporte de infratores é necessário possuir provas concretas e com o contexto completo para podermos apurar da melhor forma já que em casos de ofensa o alvo quem deve reportar, em casos de capturas de tela só iremos analisar caso a imagem seja da tela inteira!
 
 {% hint style="info" %}
-Todos os reportes precisam conter a data e horário do ocorrido. Uma dica é que ao passar o mouse em qualquer mensagem no chat você pode obter a data e horário da mensagem: ![](<../.gitbook/assets/image (2).png>)
+Todos os reportes precisam conter a data e horário do ocorrido. Uma dica é que ao passar o mouse em qualquer mensagem no chat você pode obter a data e horário da mensagem: ![](<../.gitbook/assets/image (2) (1).png>)
 {% endhint %}
 
 {% hint style="warning" %}
