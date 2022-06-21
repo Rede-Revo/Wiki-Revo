@@ -25,6 +25,10 @@ Os avisos expiram automaticamente ao chegar a 30 dias.
 Quem julgará e definirá o que será homofobia, racismo, bullying, xingamento, ofensa, apologia à crimes, entre outros será a staff. Não aceitaremos desculpas do tipo "Mandei no chat errado.", "Ele não se ofendeu." ou "Mandei para meu amigo, foi brincadeira.".
 {% endhint %}
 
+{% hint style="danger" %}
+Todas as punições de chat no Lobby são permanentes.
+{% endhint %}
+
 ## Regra 01 - Ofensa <a href="#01" id="01"></a>
 
 Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores, será punido por ofensa todo jogador que agredir o outro verbalmente por meio de xingamentos e até mesmo com abreviações ou em outros idiomas, além disso, evite brincadeiras de mal gosto com outros jogadores (a staff não levará em conta se as palavras proferidas são para um amigo ou se tratam de meme), em casos de perseguição será enquadrado como _cyberbullying\*_.
