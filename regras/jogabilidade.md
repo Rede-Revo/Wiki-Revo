@@ -52,7 +52,7 @@ Jogadores(as) que reportarem quaisquer bug que afetem a jogabilidade do servidor
 
 | Incidência |             Punição             |
 | :--------: | :-----------------------------: |
-|      1     | Banimento temporário de 15 dias |
+|      1     | Banimento temporário de 30 dias |
 |      2     |       Banimento permanente      |
 
 ## Regra 10 - Conta falsa <a href="#01" id="01"></a>
@@ -88,8 +88,8 @@ Consiste na tentativa de negociação de itens ou vantagens no servidor em troca
 
 | Incidência |             Punição             |
 | :--------: | :-----------------------------: |
-|      1     |  Banimento temporário de 7 dias |
-|      2     | Banimento temporário de 15 dias |
+|      1     | Banimento temporário de 15 dias |
+|      2     | Banimento temporário de 30 dias |
 |      3     |       Banimento Permanente      |
 
 ## Regra 13 - AFK Farm
@@ -104,8 +104,8 @@ Jogadores(as) com atividade suspeita que não atenderem o chamado no período de
 
 | Incidência |             Punição             |
 | :--------: | :-----------------------------: |
-|      1     |  Banimento temporário de 7 dias |
-|      2     | Banimento temporário de 15 dias |
+|      1     | Banimento temporário de 15 dias |
+|      2     | Banimento temporário de 30 dias |
 |      3     |       Banimento permanente      |
 
 {% hint style="danger" %}
@@ -157,9 +157,9 @@ O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros
 
 | Incidência |                 Punição                 |
 | :--------: | :-------------------------------------: |
-|      1     |      Banimento temporário de 3 dias     |
-|      2     |  Aviso - Banimento temporário de 7 dias |
-|      3     | Aviso - Banimento temporário de 15 dias |
+|      1     |      Banimento temporário de 7 dias     |
+|      2     | Aviso - Banimento temporário de 15 dias |
+|      3     | Aviso - Banimento temporário de 30 dias |
 |      4     |       Aviso - Banimento Permanente      |
 
 ## Regra 16 - Griefing <a href="#01" id="01"></a>
@@ -170,9 +170,9 @@ Construir ou destruir de forma aleatória pelo mapa colocando lava, água, etc. 
 
 | Incidência |                 Punição                 |
 | :--------: | :-------------------------------------: |
-|      1     |      Banimento temporário de 3 dias     |
-|      2     |  Aviso - Banimento temporário de 7 dias |
-|      3     | Aviso - Banimento temporário de 15 dias |
+|      1     |      Banimento temporário de 7 dias     |
+|      2     | Aviso - Banimento temporário de 15 dias |
+|      3     | Aviso - Banimento temporário de 30 dias |
 |      4     |       Aviso - Banimento Permanente      |
 
 ## Regra 17 - Cúmplice de Infrator <a href="#01" id="01"></a>
@@ -187,9 +187,9 @@ O ato de não reportar o trapaceiro (regra 18) será interpretado automaticament
 
 | Incidência |             Punição             |
 | :--------: | :-----------------------------: |
-|      1     |  Banimento temporário de 3 dias |
-|      2     |  Banimento temporário de 7 dias |
-|      3     | Banimento temporário de 15 dias |
+|      1     |  Banimento temporário de 7 dias |
+|      2     | Banimento temporário de 15 dias |
+|      3     | Banimento temporário de 30 dias |
 |      4     |       Banimento Permanente      |
 
 ## Regra 18 - Uso de Trapaças <a href="#01" id="01"></a>
