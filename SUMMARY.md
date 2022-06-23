@@ -28,6 +28,8 @@
 
 * [Eventos Survival](eventos/eventos-do-servidor/README.md)
   * [Evento Arqueiro](eventos/eventos-do-servidor/evento-arqueiro.md)
+  * [Evento Dominador (Arena)](eventos/eventos-survival/evento-dominador-arena.md)
+  * [Evento Dominador (Theend)](eventos/eventos-survival/evento-dominador-theend.md)
   * [Evento Gladiador](eventos/eventos-survival/evento-gladiador.md)
   * [Evento Guerra](eventos/eventos-survival/evento-guerra.md)
   * [Evento Guerreiro](eventos/eventos-survival/evento-guerreiro.md)

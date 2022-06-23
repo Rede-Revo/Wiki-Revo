@@ -9,7 +9,7 @@ description: Todas as informações que você precisa saber sobre o evento Guerr
 * Batalha 1v1 entre vários jogadores, o jogador que derrotar todos seus oponentes vence;
 * Itens definidos pela equipe; (armadura de diamante, espada, machado, poções de força e agilidade e 32 maças encantadas)
 
-![](<../../.gitbook/assets/image (15) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
 
 * Habilidades do mcMMO serão desativadas durante o evento.
 

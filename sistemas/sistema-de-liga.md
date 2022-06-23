@@ -42,7 +42,7 @@ Consulte os horários dos eventos clicando[ aqui](https://wiki.rederevo.com/even
 |        Guerra       |                250               |
 |       Torneio       |    1º: 75 \| 2º: 50 \| 3º: 25    |
 |  Construção do Mês  |  1º: 500 \| 2º: 250 \| 3º: 100   |
-|      Dominador      |            **EM BREVE**          |
+|      Dominador      |   **** Arena: 100 \| Theend: 200 |
 |      Mob Arena      |           **EM BREVE**           |
 
 ## Pontuação Positiva (Inicio de Temporada)

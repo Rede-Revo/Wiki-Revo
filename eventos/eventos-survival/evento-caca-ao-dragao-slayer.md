@@ -21,5 +21,7 @@ description: >-
 
 ## Premiação
 
+#### 🥇 Slayer
+
 * 🥚 O raríssimo **Ovo de Dragão** com nome do portador
 * 💎**\[Liga]** 250 Pontos\

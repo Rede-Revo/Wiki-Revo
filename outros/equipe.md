@@ -156,4 +156,4 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 
 * <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> **jesus536be**
 * ****<img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> **Sr\_Coffee666**
-* <img src="../.gitbook/assets/image (15).png" alt="" data-size="line"> **Gutothefoda**
+* <img src="../.gitbook/assets/image (15) (1).png" alt="" data-size="line"> **Gutothefoda**
