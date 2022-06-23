@@ -213,9 +213,9 @@ Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só 
 | Incidência |             Vendedor            |    Comprador   |
 | :--------: | :-----------------------------: | :------------: |
 |      1     |              Aviso              | Remoção da TAG |
-|      2     |  Banimento temporário de 3 dias | Remoção da TAG |
-|      3     |  Banimento temporário de 7 dias | Remoção da TAG |
-|      4     | Banimento temporário de 15 dias | Remoção da TAG |
+|      2     |  Banimento temporário de 7 dias | Remoção da TAG |
+|      3     | Banimento temporário de 15 dias | Remoção da TAG |
+|      4     | Banimento temporário de 30 dias | Remoção da TAG |
 
 ## Considerações finais <a href="#01" id="01"></a>
 
