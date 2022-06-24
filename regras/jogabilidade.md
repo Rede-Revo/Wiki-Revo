@@ -158,9 +158,9 @@ O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros
 | Incidência |                 Punição                 |
 | :--------: | :-------------------------------------: |
 |      1     |      Banimento temporário de 7 dias     |
-|      2     | Aviso - Banimento temporário de 15 dias |
-|      3     | Aviso - Banimento temporário de 30 dias |
-|      4     |       Aviso - Banimento Permanente      |
+|      2     | Aviso + Banimento temporário de 15 dias |
+|      3     | Aviso + Banimento temporário de 30 dias |
+|      4     |       Aviso + Banimento Permanente      |
 
 ## Regra 16 - Griefing <a href="#01" id="01"></a>
 
@@ -171,9 +171,9 @@ Construir ou destruir de forma aleatória pelo mapa colocando lava, água, etc. 
 | Incidência |                 Punição                 |
 | :--------: | :-------------------------------------: |
 |      1     |      Banimento temporário de 7 dias     |
-|      2     | Aviso - Banimento temporário de 15 dias |
-|      3     | Aviso - Banimento temporário de 30 dias |
-|      4     |       Aviso - Banimento Permanente      |
+|      2     | Aviso + Banimento temporário de 15 dias |
+|      3     | Aviso + Banimento temporário de 30 dias |
+|      4     |       Aviso + Banimento Permanente      |
 
 ## Regra 17 - Cúmplice de Infrator <a href="#01" id="01"></a>
 
