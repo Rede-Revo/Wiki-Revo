@@ -5,7 +5,7 @@ description: >-
   ajudar.
 ---
 
-# 🤝 Faça Parte da Equipe
+# Faça Parte da Equipe
 
 Uma vez enviados, os formulários são analisados pela administração e gerência.
 

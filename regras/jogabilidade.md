@@ -5,7 +5,7 @@ description: >-
   na jogabilidade do servidor.
 ---
 
-# 🖥 Jogabilidade
+# Jogabilidade
 
 
 

@@ -2,10 +2,10 @@
 
 * [👋 Introdução](README.md)
 * [📚 Regras](regras/README.md)
-  * [📃 Chat](regras/chat.md)
-  * [🖥 Jogabilidade](regras/jogabilidade.md)
-  * [📱 Discord](regras/discord.md)
-  * [☄ MODs e Clients permitidos](regras/mods-e-clients-permitidos.md)
+  * [Chat](regras/chat.md)
+  * [Jogabilidade](regras/jogabilidade.md)
+  * [Discord](regras/discord.md)
+  * [MODs e Clients permitidos](regras/mods-e-clients-permitidos.md)
 
 ## ━━━━ Sistemas ━━━━
 
@@ -17,7 +17,7 @@
   * [🏷 TAGs](sistemas/sistema-de-cash/tags.md)
   * [🌻 Divino(a)](sistemas/sistema-de-cash/divino-a.md)
   * [🪅 Super Pinhata](sistemas/sistema-de-cash/super-pinhata.md)
-  * [💰 Adquirir Cash](https://rederevo.com/itens)
+  * [Adquirir Cash](https://rederevo.com/itens)
 * [🪵 Sistema de Terrenos](sistemas/sistema-de-terrenos/README.md)
   * [🕸 Terreno Abandonado](sistemas/sistema-de-terrenos/terreno-abandonado.md)
 * [🛒 Sistema de Loja](sistemas/sistema-de-loja.md)
@@ -38,7 +38,7 @@
   * [🗡 Evento Pré-Guerra](eventos/eventos-survival/evento-pre-guerra.md)
   * [🔪 Evento Pré-Guerra (mcMMO)](eventos/eventos-survival/evento-pre-guerra-mcmmo.md)
 * [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
-* [🥇 Vencedores de Eventos ](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
+* [Vencedores de Eventos ](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
 
 ## ━━━━ Ajuda ━━━━
 
@@ -50,7 +50,7 @@
 
 ## ━━━━ Outros ━━━━
 
-* [👑 Equipe](outros/equipe.md)
-* [📞 Fale Conosco](outros/fale-conosco.md)
-* [🤝 Faça Parte da Equipe](outros/faca-parte-da-equipe.md)
+* [Equipe](outros/equipe.md)
+* [Fale Conosco](outros/fale-conosco.md)
+* [Faça Parte da Equipe](outros/faca-parte-da-equipe.md)
 * [🎮 Revo Pack](outros/revo-pack.md)
