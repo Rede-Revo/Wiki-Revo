@@ -4,7 +4,7 @@ description: >-
   interativo
 ---
 
-# Revo Pack
+# 🎮 Revo Pack
 
 ### Lista de emojis para utilizar no servidor
 

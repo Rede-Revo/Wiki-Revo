@@ -4,7 +4,7 @@ description: >-
   está a solução para o seu problema!
 ---
 
-# Como entrar sem conta do TLauncher no Servidor?
+# ❓ Como entrar sem conta do TLauncher no Servidor?
 
 Basta desmarcar a opção "Contas" na área de login.
 

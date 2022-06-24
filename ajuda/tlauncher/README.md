@@ -4,6 +4,6 @@ description: >-
   temos algumas dicas para resolução de problemas comuns no TLauncher
 ---
 
-# TLauncher
+# 🚀 TLauncher
 
 Caso queira baixar o TLauncher [clique aqui](https://tlauncher.org/)!

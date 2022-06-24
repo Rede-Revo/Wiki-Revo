@@ -2,7 +2,7 @@
 description: Todas as informações que você precisa saber sobre o evento Dominador
 ---
 
-# Evento Dominador (Theend)
+# 🌪 Evento Dominador (Theend)
 
 ## Como Funciona
 

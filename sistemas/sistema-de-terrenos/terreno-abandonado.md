@@ -2,7 +2,7 @@
 description: Tempo inativo necessário para terrenos serem consideradas abandonadas.
 ---
 
-# Terreno Abandonado
+# 🕸 Terreno Abandonado
 
 Terrenos são consideradas abandonadas de acordo com o tempo que o dono dele fica sem acessar o servidor (offline). Quanto maior a proteção, mais tempo leva para o terreno ser considerado abandonado.\
 \

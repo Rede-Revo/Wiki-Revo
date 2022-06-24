@@ -2,7 +2,7 @@
 description: Lista de benefícios de cada Rank.
 ---
 
-# VIPs
+# 💎 VIPs
 
 {% hint style="info" %}
 Todos os VIPs possuem duração de 30 dias.

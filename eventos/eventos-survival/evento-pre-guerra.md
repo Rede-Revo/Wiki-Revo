@@ -2,7 +2,7 @@
 description: Todas as informações que você precisa saber sobre o evento pré-guerra
 ---
 
-# Evento Pré-Guerra
+# 🗡 Evento Pré-Guerra
 
 ## Como Funciona
 

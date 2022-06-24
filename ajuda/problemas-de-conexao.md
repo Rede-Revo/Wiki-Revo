@@ -4,7 +4,7 @@ description: >-
   nosso servidor, então fizemos esse pequeno guia com algumas possíveis soluções
 ---
 
-# Problemas de Conexão
+# ⚙ Problemas de Conexão
 
 ### Se você acha que seu problema de conexão é culpa do servidor, tente um dos 2 ips diferentes:
 

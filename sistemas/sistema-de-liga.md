@@ -5,7 +5,7 @@ description: >-
   recompensados!
 ---
 
-# Sistema de Liga
+# 🎖 Sistema de Liga
 
 Liga consiste em pontos gerados por ações dos jogadores tanto positivas quanto negativas ranqueando-os respectivamente pela quantidade de pontos, que se divide em 2 fases:
 

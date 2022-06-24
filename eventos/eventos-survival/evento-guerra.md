@@ -2,7 +2,7 @@
 description: Todas as informações que você precisa saber sobre o evento guerra
 ---
 
-# Evento Guerra
+# 🏆 Evento Guerra
 
 ## Como Funciona
 

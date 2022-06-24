@@ -4,7 +4,7 @@ description: >-
   compartilhar permissões, criar sub proteções e abandonar proteções.
 ---
 
-# Sistema de Terrenos
+# 🪵 Sistema de Terrenos
 
 ## Tempo offline necessário para perda da proteção.
 

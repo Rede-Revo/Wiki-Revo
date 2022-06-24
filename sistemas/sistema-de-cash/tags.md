@@ -4,7 +4,7 @@ description: >-
   ou comprando na loja do servidor.
 ---
 
-# TAGs
+# 🏷 TAGs
 
 ## Significado de TAG
 

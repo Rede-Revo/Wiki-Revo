@@ -4,7 +4,7 @@ description: >-
   em nossos servidores, acesse o /cash shop no servidor para mais informações
 ---
 
-# Sistema de Cash
+# 💸 Sistema de Cash
 
 ## Onde posso conseguir Cash?
 

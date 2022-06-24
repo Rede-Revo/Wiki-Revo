@@ -2,7 +2,7 @@
 description: Todas as informações que você precisa saber sobre o evento Arqueiro
 ---
 
-# Evento Arqueiro
+# 🏹 Evento Arqueiro
 
 ## Como Funciona
 

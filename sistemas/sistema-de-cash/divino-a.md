@@ -2,7 +2,7 @@
 description: O que é o cargo Divino(a) e como conseguir?
 ---
 
-# Divino(a)
+# 🌻 Divino(a)
 
 #### O Divino(a) é um cargo feito para os tops 1, 2 e 3 doadores em nosso [site](https://rederevo.com/) como uma forma de agradecimento por apoiar a Rede Revo.
 

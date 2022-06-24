@@ -4,7 +4,7 @@ description: >-
   (Slayer).
 ---
 
-# Evento Caça ao Dragão (Slayer)
+# 🐲 Evento Caça ao Dragão (Slayer)
 
 ## Como Funciona
 

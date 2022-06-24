@@ -4,7 +4,7 @@ description: >-
   cabeça, segue a lista com a chance de drop de cada um
 ---
 
-# Chance de drop das Cabeças
+# ☠ Chance de drop das Cabeças
 
 * **Jogadores: `25%`**
 * **Abelha: `0.6%`**

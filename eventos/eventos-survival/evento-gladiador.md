@@ -2,7 +2,7 @@
 description: Todas as informações que você precisa saber sobre o evento gladiador
 ---
 
-# Evento Gladiador
+# 🛡 Evento Gladiador
 
 ## Como Funciona
 

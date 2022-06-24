@@ -2,7 +2,7 @@
 description: Todas as informações que você precisa saber sobre o evento pré-guerra (mcMMO)
 ---
 
-# Evento Pré-Guerra (mcMMO)
+# 🔪 Evento Pré-Guerra (mcMMO)
 
 ## Como Funciona
 

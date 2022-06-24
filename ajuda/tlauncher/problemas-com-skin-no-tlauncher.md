@@ -4,7 +4,7 @@ description: >-
   você encontrará a solução para o seu problema!
 ---
 
-# Problemas com skin no Tlauncher?
+# 👕 Problemas com skin no Tlauncher?
 
 Desative o sistema de skins(peles) do TLauncher desmarcando a opção `Use peles TLauncher` para visualizar as skins corretas dos jogadores.
 

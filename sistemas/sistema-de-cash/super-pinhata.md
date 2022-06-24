@@ -1,2 +1,2 @@
-# Super Pinhata
+# 🪅 Super Pinhata
 

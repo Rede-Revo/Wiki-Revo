@@ -2,7 +2,7 @@
 description: Todas as informações que você precisa saber sobre o evento Guerreiro
 ---
 
-# Evento Guerreiro
+# ⚔ Evento Guerreiro
 
 ## Como Funciona
 

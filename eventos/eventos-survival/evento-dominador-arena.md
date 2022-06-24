@@ -2,7 +2,7 @@
 description: Todas as informações que você precisa saber sobre o evento Dominador
 ---
 
-# Evento Dominador (Arena)
+# 🌪 Evento Dominador (Arena)
 
 ## Como Funciona
 

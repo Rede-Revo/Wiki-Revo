@@ -2,7 +2,7 @@
 description: Como colorir suas mensagens ou seu nick
 ---
 
-# Cores RGB
+# 🎨 Cores RGB
 
 #### Para criar degradês [clique aqui](https://rgb.rederevo.com/)!  Uso de cores RGB no nick para VIP's:&#x20;
 
