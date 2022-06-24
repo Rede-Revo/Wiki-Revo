@@ -210,12 +210,9 @@ Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-
 
 Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só pode ser adquirida apenas em duas situações. Por conquista na guerra ou matando o "Mito" atual. A transferência ou comercialização da TAG Mito, se comprovada, punirá o "vendedor e o comprador".
 
-| Incidência |             Vendedor            |    Comprador   |
-| :--------: | :-----------------------------: | :------------: |
-|      1     |              Aviso              | Remoção da TAG |
-|      2     |  Banimento temporário de 7 dias | Remoção da TAG |
-|      3     | Banimento temporário de 15 dias | Remoção da TAG |
-|      4     | Banimento temporário de 30 dias | Remoção da TAG |
+| Incidência | Vendedor |    Comprador   |
+| :--------: | :------: | :------------: |
+|      1     |   Aviso  | Remoção da TAG |
 
 ## Considerações finais <a href="#01" id="01"></a>
 

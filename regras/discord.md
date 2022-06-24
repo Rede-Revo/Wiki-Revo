@@ -11,6 +11,20 @@
 |      1     |  Expulsão do Discord |
 |      2     | Banimento permanente |
 
+## Regra 21 - Fugir do Assunto em Tópicos <a href="#01" id="01"></a>
+
+O Discord é nosso principal meio de comunicação e diversas vezes criamos alguns tópicos para discussões importantes, ouvir opinião de vocês e muito mais. Com isso, o jogador que entrar no tópico com o intuito de atrapalhar e/ou ficar fugindo do assunto debatido será punido.
+
+| Incidência |                Punição               |
+| :--------: | :----------------------------------: |
+|      1     | Silenciamento temporário de 12 horas |
+|      2     |  Silenciamento temporário de 3 dias  |
+|      3     |  Silenciamento temporário de 7 dias  |
+|      4     |  Silenciamento temporário de 15 dias |
+|      5     |         Banimento Permanente.        |
+
+
+
 {% hint style="warning" %}
 Todas as regras de Chat valem também para o discord.
 
