@@ -9,6 +9,7 @@ description: >-
 * **Jogadores: `25%`**
 * **Abelha: `0.6%`**
 * **Afogado: `0.3%`**
+* **Allay: `0.5%`**
 * **Aldeão: `2.5%`**
 * **Aldeão zumbi: `1.9%`**
 * **Andarilho: `0.3%`**
@@ -27,6 +28,7 @@ description: >-
 * **Coguvaca: `0.4%`**
 * **Creeper: `0.5%`**
 * **Cubo de magma: `0.7%`**
+* **Defensor: `0.9`**
 * **Devastador: `0.6%`**
 * **Dragão do Fim: `0.1%`**
 * **Enderman: `0.2%`**
@@ -37,6 +39,7 @@ description: >-
 * **Galinha: `0.1%`**
 * **Gato: `0.4%`**
 * **Ghast: `0.7%`**
+* **Girino: `0.4%`**
 * **Golem de ferro: `0.5%`**
 * **Golem de neve: `0.8%`**
 * **Golfinho: `0.5%`**
@@ -63,6 +66,7 @@ description: >-
 * **Porco: `0.4%`**
 * **Raposa: `0.5%`**
 * **Salmão: `0.4%`**
+* **Sapo: `0.6%`**
 * **Saqueador: `0.5%`**
 * **Shulker: 1`.5%`**
 * **Slime: `0.4%`**
