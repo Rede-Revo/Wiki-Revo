@@ -2,10 +2,10 @@
 
 * [👋 Introdução](README.md)
 * [📚 Regras](regras/README.md)
-  * [Chat](regras/chat.md)
-  * [Jogabilidade](regras/jogabilidade.md)
-  * [Discord](regras/discord.md)
-  * [MODs e Clients permitidos](regras/mods-e-clients-permitidos.md)
+  * [📖 Chat](regras/chat.md)
+  * [🎮 Jogabilidade](regras/jogabilidade.md)
+  * [📱 Discord](regras/discord.md)
+  * [🚧 MODs e Clients permitidos](regras/mods-e-clients-permitidos.md)
 
 ## ━━━━ Sistemas ━━━━
 
@@ -17,7 +17,7 @@
   * [🏷 TAGs](sistemas/sistema-de-cash/tags.md)
   * [🌻 Divino(a)](sistemas/sistema-de-cash/divino-a.md)
   * [🪅 Super Pinhata](sistemas/sistema-de-cash/super-pinhata.md)
-  * [Adquirir Cash](https://rederevo.com/itens)
+  * [💰 Adquirir Cash](https://rederevo.com/itens)
 * [🪵 Sistema de Terrenos](sistemas/sistema-de-terrenos/README.md)
   * [🕸 Terreno Abandonado](sistemas/sistema-de-terrenos/terreno-abandonado.md)
 * [🛒 Sistema de Loja](sistemas/sistema-de-loja.md)

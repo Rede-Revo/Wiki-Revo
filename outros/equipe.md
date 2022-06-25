@@ -1,9 +1,8 @@
 ---
 description: Lista com cargos e funções da equipe do servidor.
-coverY: 0
 ---
 
-# 👑 Equipe
+# Equipe
 
 ## <img src="../.gitbook/assets/image (12).png" alt="" data-size="line"> Diretor
 
