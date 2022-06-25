@@ -5,7 +5,7 @@ description: >-
   lista resultará em punição.
 ---
 
-# MODs e Clients permitidos
+# 🚧 MODs e Clients permitidos
 
 #### Clients Permitidos:
 

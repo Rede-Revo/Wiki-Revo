@@ -5,7 +5,7 @@ description: >-
   através do chat do servidor.
 ---
 
-# Chat
+# 📖 Chat
 
 
 
@@ -130,11 +130,11 @@ Para que se tenha um chat mais limpo foi implementado um canal separado para env
 
 
 
-| Incidência |                   Punição                  |
-| :--------: | :----------------------------------------: |
-|      1     |    Silenciamento temporário de 12 horas    |
-|      2     |     Silenciamento temporário de 3 dias     |
-|      3     | Aviso + Silenciamento temporário de 7 dias |
+|  Incidência |                   Punição                  |
+| :---------: | :----------------------------------------: |
+|      1      |    Silenciamento temporário de 12 horas    |
+|      2      |     Silenciamento temporário de 3 dias     |
+| 3 em diante | Aviso + Silenciamento temporário de 7 dias |
 
 ## Regra 07 - **Desinformação** <a href="#02" id="02"></a>
 

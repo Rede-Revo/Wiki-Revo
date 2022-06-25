@@ -5,7 +5,7 @@ description: >-
   dúvidas e resolver várias questões.
 ---
 
-# Fale Conosco
+# 📞 Fale Conosco
 
 > Contudo, se você deseja um suporte mais específico, direcionado à loja ou parcerias, veja como falar com a gente.
 
