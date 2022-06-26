@@ -17,8 +17,8 @@ description: >-
 [lenhador](lenhador/)
 {% endcontent-ref %}
 
-{% content-ref url="herbalismo.md" %}
-[herbalismo.md](herbalismo.md)
+{% content-ref url="herbalismo/" %}
+[herbalismo](herbalismo/)
 {% endcontent-ref %}
 
 {% content-ref url="escavacao.md" %}
