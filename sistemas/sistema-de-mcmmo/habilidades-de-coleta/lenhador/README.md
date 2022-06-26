@@ -14,7 +14,17 @@ description: Lenhador é uma habilidade focada no corte de árvores utilizando u
 
 ## » Habilidades
 
+{% content-ref url="derrubador-de-arvores.md" %}
+[derrubador-de-arvores.md](derrubador-de-arvores.md)
+{% endcontent-ref %}
 
+{% content-ref url="soprador-de-arvores.md" %}
+[soprador-de-arvores.md](soprador-de-arvores.md)
+{% endcontent-ref %}
+
+{% content-ref url="colheita-de-madeira.md" %}
+[colheita-de-madeira.md](colheita-de-madeira.md)
+{% endcontent-ref %}
 
 ## » Técnicas
 
