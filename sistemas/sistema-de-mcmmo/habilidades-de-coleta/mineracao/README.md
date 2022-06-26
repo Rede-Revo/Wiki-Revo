@@ -53,19 +53,53 @@ description: >-
 
 ## » Tabela de EXP ganho
 
-| » Bloco «                                                                                                                       | » EXP « |   |
-| ------------------------------------------------------------------------------------------------------------------------------- | :-----: | - |
-| <img src="../../../../.gitbook/assets/Stone.webp" alt="" data-size="line"> Pedra                                                |    15   |   |
-| <img src="../../../../.gitbook/assets/Granite_JE2_BE2.webp" alt="" data-size="line"> Granito                                    |    20   |   |
-| <img src="../../../../.gitbook/assets/Andesite_JE3_BE2.webp" alt="" data-size="line"> Andesito                                  |    20   |   |
-| <img src="../../../../.gitbook/assets/Diorite.webp" alt="" data-size="line"> Diorito                                            |    20   |   |
-| <img src="../../../../.gitbook/assets/Min%3Frio_de_carv%3Fo_EJ2_EB2.webp" alt="" data-size="line"> Minério de Carvão            |   400   |   |
-| <img src="../../../../.gitbook/assets/Redstone_Ore_JE4_BE3.webp" alt="" data-size="line"> Minério de Redstone                   |   600   |   |
-| <img src="../../../../.gitbook/assets/Lapis_Lazuli_Ore_%28pre-release%29.webp" alt="" data-size="line"> Minério de Lapis Lazuli |   800   |   |
-| <img src="../../../../.gitbook/assets/Iron_Ore_JE2_BE2.webp" alt="" data-size="line"> Minério de Ferro                          |   900   |   |
-| <img src="../../../../.gitbook/assets/Emerald_Ore_JE4_BE3.webp" alt="" data-size="line"> Minério de Esmeralda                   |   1000  |   |
-| <img src="../../../../.gitbook/assets/Copper_Ore_%28W%29_BE2.webp" alt="" data-size="line"> Minério de Cobre                    |   1400  |   |
-| <img src="../../../../.gitbook/assets/Diamond_Ore_JE5_BE5.webp" alt="" data-size="line"> Minério de Diamante                    |   2400  |   |
-| <img src="../../../../.gitbook/assets/Deepslate_%28UD%29_BE1.webp" alt="" data-size="line"> Ardósia                             |    30   |   |
-| <img src="../../../../.gitbook/assets/Cobbled_Deepslate_JE2_BE1.webp" alt="" data-size="line"> Pedregulho de Ardósia            |    30   |   |
-| <img src="../../../../.gitbook/assets/Deepslate_Coal_Ore_JE1_BE2.webp" alt="" data-size="line"> Minério de Ardósia de Carvão    |   1300  |   |
+| » Bloco «                                                                                                                                  | » EXP « |   |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | :-----: | - |
+| <img src="../../../../.gitbook/assets/Stone.webp" alt="" data-size="line"> Pedra                                                           |    15   |   |
+| <img src="../../../../.gitbook/assets/Granite_JE2_BE2.webp" alt="" data-size="line"> Granito                                               |    20   |   |
+| <img src="../../../../.gitbook/assets/Andesite_JE3_BE2.webp" alt="" data-size="line"> Andesito                                             |    20   |   |
+| <img src="../../../../.gitbook/assets/Diorite.webp" alt="" data-size="line"> Diorito                                                       |    20   |   |
+| <img src="../../../../.gitbook/assets/Min%3Frio_de_carv%3Fo_EJ2_EB2.webp" alt="" data-size="line"> Minério de Carvão                       |   400   |   |
+| <img src="../../../../.gitbook/assets/Redstone_Ore_JE4_BE3.webp" alt="" data-size="line"> Minério de Redstone                              |   600   |   |
+| <img src="../../../../.gitbook/assets/Lapis_Lazuli_Ore_%28pre-release%29.webp" alt="" data-size="line"> Minério de Lapis Lazuli            |   800   |   |
+| <img src="../../../../.gitbook/assets/Iron_Ore_JE2_BE2.webp" alt="" data-size="line"> Minério de Ferro                                     |   900   |   |
+| <img src="../../../../.gitbook/assets/Emerald_Ore_JE4_BE3.webp" alt="" data-size="line"> Minério de Esmeralda                              |   1000  |   |
+| <img src="../../../../.gitbook/assets/Copper_Ore_%28W%29_BE2.webp" alt="" data-size="line"> Minério de Cobre                               |   1400  |   |
+| <img src="../../../../.gitbook/assets/Diamond_Ore_JE5_BE5.webp" alt="" data-size="line"> Minério de Diamante                               |   2400  |   |
+| <img src="../../../../.gitbook/assets/Deepslate_%28UD%29_BE1.webp" alt="" data-size="line"> Ardósia                                        |    30   |   |
+| <img src="../../../../.gitbook/assets/Cobbled_Deepslate_JE2_BE1.webp" alt="" data-size="line"> Pedregulho de Ardósia                       |    30   |   |
+| <img src="../../../../.gitbook/assets/Deepslate_Coal_Ore_JE1_BE2.webp" alt="" data-size="line"> Minério de Ardósia de Carvão               |   700   |   |
+| <img src="../../../../.gitbook/assets/Deepslate_Redstone_Ore_JE2_BE1.webp" alt="" data-size="line"> Minério de Ardósia de Redstone         |   900   |   |
+| <img src="../../../../.gitbook/assets/Deepslate_Iron_Ore_JE2_BE1.webp" alt="" data-size="line"> Minério de Ardósia de Ferro                |   1300  |   |
+| <img src="../../../../.gitbook/assets/Deepslate_Lapis_Lazuli_Ore_JE2_BE1.webp" alt="" data-size="line"> Minério de Ardósia de Lápis Lazuli |   1400  |   |
+| <img src="../../../../.gitbook/assets/Deepslate_Emerald_Ore_JE1_BE1.webp" alt="" data-size="line"> Minério de Ardósia de Esmeralda         |   1700  |   |
+| <img src="../../../../.gitbook/assets/Deepslate_Gold_Ore_JE2_BE1.webp" alt="" data-size="line"> Minério de Ardósia de Ouro                 |   1900  |   |
+| <img src="../../../../.gitbook/assets/Deepslate_Copper_Ore_JE1_BE1.webp" alt="" data-size="line"> Minério de Ardósia de Cobre              |   1900  |   |
+| <img src="../../../../.gitbook/assets/Deepslate_Diamond_Ore_JE2_BE1.webp" alt="" data-size="line"> Minério de Ardósia de Diamante          |   3600  |   |
+| <img src="../../../../.gitbook/assets/Ancient_Debris_JE1_BE1.webp" alt="" data-size="line"> Detritos Ancestrais                            |   7777  |   |
+| <img src="../../../../.gitbook/assets/Nether_Gold_Ore_JE1.webp" alt="" data-size="line"> Minério de Ouro do Nether                         |   1300  |   |
+| <img src="../../../../.gitbook/assets/Nether_Quartz_Ore_JE3_BE2.webp" alt="" data-size="line"> Minério de Quartzo do Nether                |   300   |   |
+| <img src="../../../../.gitbook/assets/Crying_Obsidian_JE1_BE1.webp" alt="" data-size="line"> Obsidiana Chorona                             |   3000  |   |
+| <img src="../../../../.gitbook/assets/Obsidian_JE3_BE2.webp" alt="" data-size="line"> Obsidiana                                            |   150   |   |
+| <img src="../../../../.gitbook/assets/Bone_Block_%28UD%29_JE2_BE2.webp" alt="" data-size="line"> Bloco de Ossos                            |   500   |   |
+| <img src="../../../../.gitbook/assets/Gilded_Blackstone_JE2_BE2.webp" alt="" data-size="line"> Pedra Negra Dourada                         |   200   |   |
+| <img src="../../../../.gitbook/assets/Chain_%28UD%29_JE1_BE1.webp" alt="" data-size="line"> Corrente                                       |   100   |   |
+| <img src="../../../../.gitbook/assets/Blackstone_JE1_BE1.webp" alt="" data-size="line"> Pedra Negra                                        |    55   |   |
+| <img src="../../../../.gitbook/assets/Nether_Bricks_JE1_BE1.webp" alt="" data-size="line"> Tijolos do Nether (Todas Variações)             |    50   |   |
+| <img src="../../../../.gitbook/assets/Basalt_%28UD%29_JE1_BE1.webp" alt="" data-size="line"> Basalto                                       |    40   |   |
+| <img src="../../../../.gitbook/assets/Magma_Block_JE2_BE2.webp" alt="" data-size="line"> Bloco de Magma                                    |    30   |   |
+| <img src="../../../../.gitbook/assets/Glowstone_JE4_BE2.webp" alt="" data-size="line"> Pedra Luminosa                                      |    15   |   |
+| <img src="../../../../.gitbook/assets/Netherrack_JE4_BE2.webp" alt="" data-size="line"> Netherrack                                         |    15   |   |
+| <img src="../../../../.gitbook/assets/Crimson_Nylium_JE1_BE1.webp" alt="" data-size="line"> Nicélio Carmesim                               |    5    |   |
+| <img src="../../../../.gitbook/assets/Warped_Nylium_JE1_BE1.webp" alt="" data-size="line"> Nicélio Distorcido                              |    5    |   |
+| <img src="../../../../.gitbook/assets/Purpur_Stairs_%28N%29_JE1_BE1.webp" alt="" data-size="line"> Escadas de Púrpura                      |   250   |   |
+| <img src="../../../../.gitbook/assets/Purpur_Pillar_%28UD%29_JE3_BE2.webp" alt="" data-size="line"> Pilar de Púrpura                       |   250   |   |
+| <img src="../../../../.gitbook/assets/Purpur_Block_JE2_BE2.webp" alt="" data-size="line"> Bloco de Púrpura                                 |   200   |   |
+| <img src="../../../../.gitbook/assets/Purpur_Slab_JE2_BE2.webp" alt="" data-size="line"> Laje de Púrpura                                   |   150   |   |
+| <img src="../../../../.gitbook/assets/End_Stone_Bricks_JE2_BE2.webp" alt="" data-size="line"> Tijolos de Pedra do Fim                      |    50   |   |
+| <img src="../../../../.gitbook/assets/End_Stone_JE3_BE2.webp" alt="" data-size="line"> Pedra do Fim                                        |    15   |   |
+| <img src="../../../../.gitbook/assets/Amethyst_Cluster_%28U%29_JE1.webp" alt="" data-size="line"> Aglomerado Grande de Ametista            |    25   |   |
+| <img src="../../../../.gitbook/assets/Large_Amethyst_Bud_%28U%29_JE1.webp" alt="" data-size="line"> Cristal de Ametista Grande             |    15   |   |
+| <img src="../../../../.gitbook/assets/Small_Amethyst_Bud_%28U%29_JE1.webp" alt="" data-size="line"> Cristal de Ametista Pequeno            |         |   |
+|                                                                                                                                            |         |   |
+|                                                                                                                                            |         |   |
