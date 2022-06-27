@@ -53,6 +53,10 @@ description: >-
 
 ## » Tabela de EXP ganho
 
+{% hint style="info" %}
+EXP ganho apenas por quebra de blocos gerados naturalmente!
+{% endhint %}
+
 | » Bloco «                                                                                                                                  | » EXP « |   |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | :-----: | - |
 | <img src="../../../../.gitbook/assets/Stone.webp" alt="" data-size="line"> Pedra                                                           |    15   |   |
@@ -100,6 +104,23 @@ description: >-
 | <img src="../../../../.gitbook/assets/End_Stone_JE3_BE2.webp" alt="" data-size="line"> Pedra do Fim                                        |    15   |   |
 | <img src="../../../../.gitbook/assets/Amethyst_Cluster_%28U%29_JE1.webp" alt="" data-size="line"> Aglomerado Grande de Ametista            |    25   |   |
 | <img src="../../../../.gitbook/assets/Large_Amethyst_Bud_%28U%29_JE1.webp" alt="" data-size="line"> Cristal de Ametista Grande             |    15   |   |
-| <img src="../../../../.gitbook/assets/Small_Amethyst_Bud_%28U%29_JE1.webp" alt="" data-size="line"> Cristal de Ametista Pequeno            |         |   |
-|                                                                                                                                            |         |   |
-|                                                                                                                                            |         |   |
+| <img src="../../../../.gitbook/assets/Small_Amethyst_Bud_%28U%29_JE1.webp" alt="" data-size="line"> Cristal de Ametista Pequeno            |   125   |   |
+| <img src="../../../../.gitbook/assets/Block_of_Amethyst_JE2.webp" alt="" data-size="line"> Bloco de Ametista                               |   150   |   |
+| <img src="../../../../.gitbook/assets/Budding_Amethyst_JE3_BE1.webp" alt="" data-size="line"> Drusa de Ametista                            |    50   |   |
+| <img src="../../../../.gitbook/assets/Calcite_JE1.webp" alt="" data-size="line"> Calcita                                                   |   400   |   |
+| <img src="../../../../.gitbook/assets/Smooth_Basalt_JE1_BE1.webp" alt="" data-size="line"> Basalto Liso                                    |   300   |   |
+| <img src="../../../../.gitbook/assets/Tube_Coral_Block.webp" alt="" data-size="line"> Bloco de Coral-de-Tubo                               |    75   |   |
+| <img src="../../../../.gitbook/assets/Brain_Coral_Block_JE2_BE1.webp" alt="" data-size="line"> Bloco de Coral-de-Cérebro                   |    80   |   |
+| <img src="../../../../.gitbook/assets/Bubble_Coral_Block.webp" alt="" data-size="line"> Bloco de Coral-de-Bolha                            |    70   |   |
+| <img src="../../../../.gitbook/assets/Fire_Coral_Block.webp" alt="" data-size="line"> Bloco de Coral-de-Fogo                               |    90   |   |
+| <img src="../../../../.gitbook/assets/Horn_Coral_Block_JE2_BE2.webp" alt="" data-size="line"> Bloco de Coral-de-Chifre                     |   125   |   |
+| <img src="../../../../.gitbook/assets/Red_Terracotta_JE1_BE1.webp" alt="" data-size="line"> Terracota                                      |    30   |   |
+| <img src="../../../../.gitbook/assets/Blue_Terracotta_JE1_BE1.webp" alt="" data-size="line"> Terracota Colorida                            |    50   |   |
+| <img src="../../../../.gitbook/assets/Stone_Bricks_JE3_BE2 (1).webp" alt="" data-size="line"> Tijolos de Pedra (Todas Variações)           |    50   |   |
+| <img src="../../../../.gitbook/assets/Mossy_Cobblestone_JE3.webp" alt="" data-size="line"> Pedregulho Musgoso                              |    30   |   |
+| <img src="../../../../.gitbook/assets/Ice_JE2_BE3.webp" alt="" data-size="line"> Gelo (Todas Variações)                                    |    15   |   |
+| <img src="../../../../.gitbook/assets/Sandstone_JE6_BE3.webp" alt="" data-size="line"> Arenito                                             |    30   |   |
+| <img src="../../../../.gitbook/assets/Cut_Red_Sandstone_JE4_BE2.webp" alt="" data-size="line"> Arenito Vermelho                            |   100   |   |
+| <img src="../../../../.gitbook/assets/Prismarinho.webp" alt="" data-size="line"> Prismarinho (Todas Variações)                             |    70   |   |
+| <img src="../../../../.gitbook/assets/Sea_Lantern_JE1.webp" alt="" data-size="line"> Lanterna do Mar                                       |    70   |   |
+| <img src="../../../../.gitbook/assets/Tuff_JE1_BE1.webp" alt="" data-size="line"> Tufo                                                     |    25   |   |
