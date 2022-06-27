@@ -41,11 +41,12 @@ description: >-
 
 ### Uso
 
-* Ao minerar, deixe quaisquer blocos de minério para trás e continue explorando. Quando a área estiver limpa e os minérios mais expostos, ative o super breaker para ter uma chance de drop triplo.
+* Habilidade é evoluída com a quebra de blocos mineráveis, como pedra, arenito ou qualquer minério, por exemplo.&#x20;
 
 ### Up - Dicas
 
 * Colete todos os minérios que encontrar durante a mineração, incluindo carvão.
+* Ao minerar, deixe quaisquer blocos de minério para trás e continue explorando. Quando a área estiver limpa e os minérios mais expostos, ative o super breaker para ter uma chance de drop triplo.
 * Devido ao seu baixo valor de dureza, o netherrack está entre os blocos mais rápidos para minerar. Vá para o Nether com uma Eficiência II ou mais em uma Picareta de Diamante e minere Netherrack para up rápido, mas tenha cuidado com as poças de lava.
 * O buff da Pressa II (obtido através de poção ou sinalizador), combinado com uma Picareta de Diamante Eficiência V, permite que a pedra seja quebrada instantaneamente. Ou, com uma Picareta Eficiência VI, adquirida na Caixa Comum, permite que quebre instantaneamente sem o uso do efeito de Pressa.
 * Pedra do End dá a segunda maior EXP para blocos não-minérios. Mineração no Fim com uma picareta de eficiência é um método muito rápido para upar essa habilidade.
