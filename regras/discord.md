@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 📱 Discord
 
 > Este servidor segue os [**Termos de serviço do Discord**](https://discord.com/terms) e estamos de acordo com as [𝐃𝐢𝐫𝐞𝐭𝐫𝐢𝐳𝐞𝐬 𝐝𝐚 𝐂𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝𝐞 𝐝𝐨 𝐃𝐢𝐬𝐜𝐨𝐫𝐝](https://discord.com/guidelines), portanto, dependendo do que ocorrer o usuário poderá ter sua conta desativada da plataforma!

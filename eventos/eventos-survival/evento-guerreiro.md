@@ -1,5 +1,6 @@
 ---
 description: Todas as informações que você precisa saber sobre o evento Guerreiro
+coverY: 0
 ---
 
 # ⚔ Evento Guerreiro

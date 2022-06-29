@@ -1,5 +1,6 @@
 ---
 description: Todas as informações que você precisa saber sobre o evento gladiador
+coverY: 0
 ---
 
 # 🛡 Evento Gladiador

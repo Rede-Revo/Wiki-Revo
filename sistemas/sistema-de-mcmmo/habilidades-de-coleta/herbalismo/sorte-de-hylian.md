@@ -1,2 +1,0 @@
-# 🤞 Sorte de Hylian
-

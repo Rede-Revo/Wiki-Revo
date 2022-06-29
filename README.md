@@ -1,5 +1,6 @@
 ---
 description: Bem vindo a Wiki da Rede Revo!
+coverY: 0
 ---
 
 # 👋 Introdução

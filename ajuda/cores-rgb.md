@@ -1,5 +1,6 @@
 ---
 description: Como colorir suas mensagens ou seu nick
+coverY: 0
 ---
 
 # 🎨 Cores RGB

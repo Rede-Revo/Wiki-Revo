@@ -1,5 +1,6 @@
 ---
 description: Todas as informações que você precisa saber sobre o evento Killer
+coverY: 0
 ---
 
 # 🔪 Evento Killer

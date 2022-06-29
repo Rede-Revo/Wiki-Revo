@@ -2,6 +2,7 @@
 description: >-
   Não consegue entrar no servidor porque não tem uma conta no TLauncher? Aqui
   está a solução para o seu problema!
+coverY: 0
 ---
 
 # ❓ Como entrar sem conta do TLauncher no Servidor?

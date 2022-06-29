@@ -1,2 +1,0 @@
-# 🛒 Sistema de Loja
-

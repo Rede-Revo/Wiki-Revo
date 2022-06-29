@@ -3,6 +3,7 @@ description: >-
   O processo de aplicação ao cargo de ajudante e construtor(a) em nossa equipe
   funciona a partir do envio de formulários de jogadores interessados em nos
   ajudar.
+coverY: 0
 ---
 
 # 🎓 Faça Parte da Equipe

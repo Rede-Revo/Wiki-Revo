@@ -1,5 +1,6 @@
 ---
 description: Lista com horário de eventos diários, semanais e mensais!
+coverY: 0
 ---
 
 # 🏆 Agenda de Eventos

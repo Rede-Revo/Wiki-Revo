@@ -3,6 +3,7 @@ description: >-
   Há diferentes formas de se obter suporte na Rede Revo. A principal delas é
   através do Discord. Nele você pode criar denúncias, dar sugestões, tirar
   dúvidas e resolver várias questões.
+coverY: 0
 ---
 
 # 📞 Fale Conosco

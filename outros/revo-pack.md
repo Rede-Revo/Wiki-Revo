@@ -2,6 +2,7 @@
 description: >-
   Um resource pack feito por nossa equipe para deixar o jogo mais divertido e
   interativo
+coverY: 0
 ---
 
 # 🎮 Revo Pack

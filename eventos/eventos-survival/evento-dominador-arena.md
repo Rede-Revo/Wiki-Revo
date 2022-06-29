@@ -1,5 +1,6 @@
 ---
 description: Todas as informações que você precisa saber sobre o evento Dominador
+coverY: 0
 ---
 
 # 🌪 Evento Dominador (Arena)
