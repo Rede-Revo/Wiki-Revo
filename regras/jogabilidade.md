@@ -209,7 +209,7 @@ Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-
 
 ## Regra 19 -  **Uso irregular da tag "Mito"** <a href="#01" id="01"></a>
 
-Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só pode ser adquirida apenas em duas situações. Por conquista na guerra ou matando o "Mito" atual. A transferência ou comercialização da TAG Mito, se comprovada, punirá o "vendedor e o comprador".
+Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só pode ser adquirida apenas em algumas situações. Comercializar ou arquivar em conta secundária esta TAG resultará em punição. Saiba mais sobre a TAG: [Clique aqui!](../sistemas-survival/mito.md)
 
 | Incidência | Vendedor |    Comprador   |
 | :--------: | :------: | :------------: |
