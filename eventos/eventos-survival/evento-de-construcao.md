@@ -1,6 +1,6 @@
 ---
 description: >-
-  Todas as informações que você precisa saber sobre o Evento mensal de
+  Todas as informações que você precisa saber sobre o evento mensal de
   Construção.
 coverY: 0
 ---

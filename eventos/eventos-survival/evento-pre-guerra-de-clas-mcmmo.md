@@ -1,5 +1,7 @@
 ---
-description: Todas as informações que você precisa saber sobre o evento pré-guerra (mcMMO)
+description: >-
+  Todas as informações que você precisa saber sobre o evento semanal Pré-Guerra
+  de Clãs (mcMMO)
 coverY: 0
 ---
 

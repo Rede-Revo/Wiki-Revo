@@ -1,5 +1,5 @@
 ---
-description: Todas as informações que você precisa saber sobre o evento Killer
+description: Todas as informações que você precisa saber sobre o evento semanal Killer.
 coverY: 0
 ---
 

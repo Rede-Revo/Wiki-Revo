@@ -72,10 +72,11 @@
   * [🏆 Guerra de Clãs](eventos/eventos-survival/guerra-de-clas.md)
   * [⚔ Evento Guerreiro](eventos/eventos-survival/evento-guerreiro.md)
   * [🔪 Evento Killer](eventos/eventos-survival/evento-killer.md)
-  * [🐲 Evento Caça ao Dragão](eventos/eventos-survival/evento-caca-ao-dragao.md)
   * [🗡 Evento Pré-Guerra de Clãs](eventos/eventos-survival/evento-pre-guerra-de-clas.md)
   * [🗡 Evento Pré-Guerra de Clãs - mcMMO](eventos/eventos-survival/evento-pre-guerra-de-clas-mcmmo.md)
+  * [🐲 Evento Caça ao Dragão](eventos/eventos-survival/evento-caca-ao-dragao.md)
   * [🏗 Evento de Construção](eventos/eventos-survival/evento-de-construcao.md)
+  * [🗺 Evento Desbravador](eventos/eventos-survival/evento-desbravador.md)
 * [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
 * [🥇 Vencedores de Eventos ](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
 

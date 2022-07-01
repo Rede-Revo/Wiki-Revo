@@ -1,5 +1,7 @@
 ---
-description: Todas as informações que você precisa saber sobre o evento guerra
+description: >-
+  Todas as informações que você precisa saber sobre o evento semanal Guerra de
+  Clãs.
 coverY: 0
 ---
 

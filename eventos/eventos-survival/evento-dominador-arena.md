@@ -1,5 +1,5 @@
 ---
-description: Todas as informações que você precisa saber sobre o evento Dominador
+description: Todas as informações que você precisa saber sobre o evento semanal Dominador.
 coverY: 0
 ---
 

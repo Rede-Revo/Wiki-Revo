@@ -1,5 +1,5 @@
 ---
-description: Todas as informações que você precisa saber sobre o evento gladiador
+description: Todas as informações que você precisa saber sobre o evento semanal Gladiador.
 coverY: 0
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: Todas as informações que você precisa saber sobre o evento Arqueiro
+description: Todas as informações que você precisa saber sobre o evento semanal Arqueiro.
 coverY: 0
 ---
 

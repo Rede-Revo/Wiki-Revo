@@ -1,7 +1,7 @@
 ---
 description: >-
-  Todas as informações que você precisa saber sobre o evento Caça ao Dragão
-  (Slayer).
+  Todas as informações que você precisa saber sobre o evento temporal Caça ao
+  Dragão (Slayer).
 coverY: 0
 ---
 
@@ -31,7 +31,7 @@ coverY: 0
 
 |           » Edição «           |  » Vencedor(a) « |   |
 | :----------------------------: | :--------------: | - |
-|  Edição I, Temporada Medieval  |    `banzinbr7`   |   |
-| Edição II, Temporada SteamPunk |     `jakseli`    |   |
+|  Edição I, Temporada Medieval  |     `jakseli`    |   |
+| Edição II, Temporada SteamPunk |    `banzinbr7`   |   |
 |  Edição III, Temporada Pirata  |     `lulinha`    |   |
 |  Edição IV, Temporada Tropical | `AndreusRichard` |   |

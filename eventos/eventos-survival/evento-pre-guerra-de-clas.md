@@ -1,5 +1,7 @@
 ---
-description: Todas as informações que você precisa saber sobre o evento pré-guerra
+description: >-
+  Todas as informações que você precisa saber sobre o evento semanal Pré-Guerra
+  de Clãs.
 coverY: 0
 ---
 

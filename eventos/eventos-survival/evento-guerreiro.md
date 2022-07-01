@@ -1,5 +1,5 @@
 ---
-description: Todas as informações que você precisa saber sobre o evento Guerreiro
+description: Todas as informações que você precisa saber sobre o evento semanal Guerreiro.
 coverY: 0
 ---
 
