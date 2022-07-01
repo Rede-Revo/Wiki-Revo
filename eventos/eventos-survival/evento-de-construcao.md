@@ -2,6 +2,7 @@
 description: >-
   Todas as informações que você precisa saber sobre o Evento mensal de
   Construção.
+coverY: 0
 ---
 
 # 🏗 Evento de Construção
