@@ -38,3 +38,27 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * 💰 Premiação de **150.000 Coins**
 * <img src="../../.gitbook/assets/image (14) (1).png" alt="" data-size="line"> TAG **\[Dominador(a)]** durante 7 dias
 * 💎 **\[Liga]** 100 Pontos
+
+## » Ranking de Jogadores Dominadores
+
+| » Colocação « | » Jogador(a) « | » Quantidade de Vitórias « |
+| :-----------: | :------------: | :------------------------: |
+|  🥇 1º Lugar  |   MT\_Miranda  |              1             |
+|  🥈 2º Lugar  |       N/A      |              -             |
+|  🥉 3º Lugar  |       N/A      |              -             |
+
+## » Ranking de Clãs Vencedores
+
+| » Colocação « |     » Clã «    | » Quantidade de Vitórias « |
+| :-----------: | :------------: | :------------------------: |
+|       🥇      | VhL - Valhalla |              1             |
+|       🥈      |       N/A      |              -             |
+|       🥉      |       N/A      |              -             |
+
+## » Histórico do Evento
+
+|       » Edição «       | » Clã Vencedor « | » Jogador Dominador « |
+| :--------------------: | :--------------: | :-------------------: |
+|  Edição I, 25/06/2022  |  VhL - Valhalla  |      MT\_Miranda      |
+|  Edição II, 02/07/2022 |         -        |           -           |
+| Edição III, 09/07/2022 |         -        |           -           |
