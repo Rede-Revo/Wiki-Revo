@@ -39,6 +39,14 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * <img src="../../.gitbook/assets/image (14) (1).png" alt="" data-size="line"> TAG **\[Dominador(a)]** durante 7 dias
 * 💎 **\[Liga]** 200 Pontos
 
+## » Ranking de Dominadores
+
+| » Colocação « | » Jogador(a) « | » Quantidade de Vitórias « |
+| :-----------: | :------------: | :------------------------: |
+|  🥇 1º Lugar  |    EasyBouce   |              1             |
+|  🥈 2º Lugar  |       N/A      |              -             |
+|  🥉 3º Lugar  |       N/A      |              -             |
+
 ## » Ranking de Clãs Vencedores
 
 | » Colocação « |     » Clã «    | » Quantidade de Vitórias « |
@@ -51,6 +59,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 |        » Edição «       | » Clã Vencedor « | » Jogador Dominador « |
 | :---------------------: | :--------------: | :-------------------: |
-|  Edição I - 26/06/2022  |  VhL - Valhalla  |          N/A          |
+|  Edição I - 26/06/2022  |  VhL - Valhalla  |       EasyBounce      |
 |  Edição II - 03/07/2022 |         -        |           -           |
 | Edição III - 10/07/2022 |         -        |           -           |

@@ -7,10 +7,10 @@ coverY: 0
 
 ## » Ranking de Vencedores
 
-| » Colocação « | » Jogador(a) « | » Quantidade de Vitórias « |
-| :-----------: | :------------: | :------------------------: |
-|  🥇 1º Lugar  |    `Carros2`   |              1             |
-|  🥇 1º Lugar  |    `VITAOVM`   |              1             |
+| » Colocação « | » Jogador « | » Quantidade de Vitórias « |
+| :-----------: | :---------: | :------------------------: |
+|  🥇 1º Lugar  |  `Carros2`  |              1             |
+|  🥇 1º Lugar  |  `VITAOVM`  |              1             |
 
 ## » Histórico do Evento
 
