@@ -5,7 +5,7 @@ coverY: 0
 
 # 🌪 Evento Dominador (Arena)
 
-## » Como Funciona
+## Como Funciona
 
 * O jogador que dominar a área demarcada por 5 minutos é o vencedor do evento;
 * Itens próprios dos jogadores;\
@@ -15,7 +15,7 @@ coverY: 0
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.
 
-## » Como Participar
+## Como Participar
 
 1. Entrada para o evento:
    * O evento é aberto para entrada em quanto ele durar**;**
@@ -25,13 +25,13 @@ coverY: 0
    * Assim que iniciado o evento já está dada a largada da batalha;
    * Use `/inspecionar [jogador]` para inspecionar o status do seu oponente;
 
-## » Regras Gerais
+## Regras Gerais
 
 #### **1. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
 
 Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
-## » Premiação
+## Premiação
 
 #### 🥇 **Dominador**
 
@@ -43,7 +43,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 | » Colocação « | » Jogador(a) « | » Quantidade de Vitórias « |
 | :-----------: | :------------: | :------------------------: |
-|  🥇 1º Lugar  |   MT\_MIRANDA  |              1             |
+|  🥇 1º Lugar  |   MT\_Miranda  |              1             |
 |  🥈 2º Lugar  |       N/A      |              -             |
 |  🥉 3º Lugar  |       N/A      |              -             |
 
@@ -51,14 +51,14 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 | » Colocação « |     » Clã «    | » Quantidade de Vitórias « |
 | :-----------: | :------------: | :------------------------: |
-|  🥇 1º Lugar  | VhL - Valhalla |              1             |
-|   🥈2º Lugar  |       N/A      |              -             |
-|   🥉3º Lugar  |       N/A      |              -             |
+|       🥇      | VhL - Valhalla |              1             |
+|       🥈      |       N/A      |              -             |
+|       🥉      |       N/A      |              -             |
 
 ## » Histórico do Evento
 
-|        » Edição «       | » Clã Vencedor « | » Jogador Dominador « |
-| :---------------------: | :--------------: | :-------------------: |
-|  Edição I - 25/06/2022  |  VhL - Valhalla  |      MT\_MIRANDA      |
-|  Edição II - 02/07/2022 |         -        |           -           |
-| Edição III - 09/07/2022 |         -        |           -           |
+|       » Edição «       | » Clã Vencedor « | » Jogador Dominador « |
+| :--------------------: | :--------------: | :-------------------: |
+|  Edição I, 25/06/2022  |  VhL - Valhalla  |      MT\_Miranda      |
+|  Edição II, 02/07/2022 |         -        |           -           |
+| Edição III, 09/07/2022 |         -        |           -           |

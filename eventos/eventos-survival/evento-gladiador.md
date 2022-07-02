@@ -5,17 +5,17 @@ coverY: 0
 
 # 🛡 Evento Gladiador
 
-## Como Funciona
+## » Como Funciona
 
 * Mate o mate o ultimo sobrevivente na arena e torne-se o campeão ou mate a maior quantidade de inimigos e torne-se o matador;
-* Itens definidos pela equipe; (3 armaduras de netherite, espada de diamante, machado de diamante, arco, flecha, poções de força e agilidade, 32 cenouras douradas e 32 maças encantadas);
+* Itens definidos pela equipe; (3 armaduras de netherite, espada de diamante, machado de diamante, arco, flecha, poções de força e agilidade, 32 cenouras douradas e 32 maçãs encantadas);
 
 ![](<../../.gitbook/assets/image (10) (1).png>)
 
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.
 
-## Como Participar
+## » Como Participar
 
 1. Entrar no evento:
    * O tempo de entrada do evento é de **10 minutos;**
@@ -28,7 +28,9 @@ coverY: 0
 
     * Após passar o tempo de preparação será iniciado o combate todos x todos.
 
-    ## Regras Gerais
+
+
+## » Regras Gerais
 
 
 
@@ -42,7 +44,7 @@ Formação de time ou grupos no evento Arqueiro não é permitido. Jogadores que
 
 Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
-## Premiação
+## » Premiação
 
 #### 🥇 **Ultimo Sobrevivente**
 
@@ -55,3 +57,46 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 * 💰 Premiação de **100.000 Coins**
 * 💎**\[Liga]** 25 Pontos
+
+## » Ranking de Últimos Sobreviventes
+
+| » Colocação « |  » Jogador(a) «  | » Número de Vezes Último(a) Sobrevivente « |
+| :-----------: | :--------------: | :----------------------------------------: |
+|  🥇 1º Lugar  |    `_IRagnar`    |                      2                     |
+|  🥇 1º Lugar  |    `Pedriin_`    |                      2                     |
+|  🥈 2º Lugar  | `universalizado` |                      1                     |
+|  🥈 2º Lugar  |    `_Giffoni`    |                      1                     |
+|  🥈 2º Lugar  |     `shyyyy`     |                      1                     |
+|  🥈 2º Lugar  |    `ClaxmeteR`   |                      1                     |
+|  🥈 2º Lugar  |  `falcaonava12`  |                      1                     |
+|  🥈 2º Lugar  |    `new_miza`    |                      1                     |
+
+## » Ranking de Matadores
+
+| » Colocação « | » Jogador(a) « | » Número de Vezes Matador(a) « |
+| :-----------: | :------------: | :----------------------------: |
+|  🥇 1º Lugar  | `falcaonava12` |                2               |
+|  🥇 1º Lugar  |   `_IRagnar`   |                2               |
+|  🥈 2º Lugar  |    `shyyyy`    |                1               |
+|  🥈 2º Lugar  |   `banzinbr7`  |                1               |
+|  🥈 2º Lugar  |  `MT_MIRANDA`  |                1               |
+|  🥈 2º Lugar  |   `ClaxmeteR`  |                1               |
+|  🥈 2º Lugar  |  `kaduzinsan`  |                1               |
+|  🥈 2º Lugar  |   `new_miza`   |                1               |
+
+## » Histórico do Evento
+
+|        » Edição «        | » Último(a) Sobrevivente « | » Matador(a) « |
+| :----------------------: | :------------------------: | :------------: |
+|   Edição I - 23/04/2022  |      `universalizado`      | `falcaonava12` |
+|  Edição II - 30/04/2022  |         `_IRagnar`         |   `_IRagnar`   |
+|  Edição III - 07/05/2022 |         `Pedriin_`         |    `shyyyy`    |
+|  Edição IV - 14/05/2022  |         `_Giffoni`         |   `banzinbr7`  |
+|   Edição V - 21/05/2022  |          `shyyyy`          |  `MT_MIRANDA`  |
+|  Edição VI - 28/05/2022  |         `ClaxmeteR`        |   `ClaxmeteR`  |
+|  Edição VII - 11/06/2022 |         `_IRagnar`         |  `kaduzinsan`  |
+| Edição VIII - 11/06/2022 |       `falcaonava12`       | `falcaonava12` |
+|  Edição IX - 18/06/2022  |         `new_miza`         |   `new_miza`   |
+|   Edição X - 25/06/2022  |         `Pedriin_`         |   `_IRagnar`   |
+|  Edição XI - 02/07/2022  |              -             |        -       |
+

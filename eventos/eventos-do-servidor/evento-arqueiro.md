@@ -5,7 +5,7 @@ coverY: 0
 
 # 🏹 Evento Arqueiro
 
-## » Como Funciona
+## Como Funciona
 
 * Usando apenas Arco e Flecha, mate o ultimo sobrevivente na arena e torne-se o vencedor ou mate a maior quantidade de inimigos e torne-se o matador;
 * Itens definidos pela equipe; (armadura de ferro, escudo, 16 maças dourada, 64 salmões assados, arco com infinidade, força 1, durabilidade 3 e uma flecha);
@@ -16,7 +16,7 @@ coverY: 0
 * Borda que reduz no decorrer da batalha;\
   Com o decorrer do tempo a borda do mapa vai reduzindo para que não seja um evento cansativo em que jogadores ficam correndo pelo mapa.
 
-## » Como Participar
+## Como Participar
 
 1. Entrar no evento:
    * O tempo de entrada do evento é de **10 minutos;**
@@ -28,7 +28,7 @@ coverY: 0
 3. Inicio da batalha:
    * Após passar o tempo de preparação será iniciado o combate todos x todos.
 
-## » Regras Gerais
+## Regras Gerais
 
 #### 1. Não é permitido a formação de times.
 
@@ -40,7 +40,7 @@ Formação de time ou grupos no evento Arqueiro não é permitido. Jogadores que
 
 Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
-## » Premiação
+## Premiação
 
 #### 🥇 **Ultimo Sobrevivente**
 
@@ -53,79 +53,3 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * <img src="../../.gitbook/assets/image (14) (1).png" alt="" data-size="line"> TAG **\[Sniper]** durante 7 dias
 * <img src="../../.gitbook/assets/image (8) (1) (1).png" alt="" data-size="line"> **Contador de Sacrifícios**&#x20;
 * 💎**\[Liga]** 50 Pontos
-
-## » Ranking de Matadores
-
-|  » Posição « |  » Jogador(a) «  | » Quantidade de Vezes Matador « |
-| :----------: | :--------------: | :-----------------------------: |
-|  🥇 1º Lugar |     `Filiipe`    |                4                |
-|  🥈 2º Lugar |   `Mat_redston`  |                3                |
-|  🥉 3º Lugar |   `yLuquinhaz`   |                2                |
-|  🥉 3º Lugar |    `new_miza`    |                2                |
-|  🥉 3º Lugar |    `_Giffoni`    |                2                |
-| 🎖️ 6º Lugar |     `Cebolx`     |                1                |
-| 🎖️ 6º Lugar | `FastDoughnut05` |                1                |
-| 🎖️ 6º Lugar |     `iSamBr_`    |                1                |
-| 🎖️ 6º Lugar |     `jakseli`    |                1                |
-| 🎖️ 6º Lugar |   `GameplayPE`   |                1                |
-| 🎖️ 6º Lugar |   `Oo_Gustavo`   |                1                |
-| 🎖️ 6º Lugar |    `_gueiibs`    |                1                |
-| 🎖️ 6º Lugar |  `RyanGamer2004` |                1                |
-| 🎖️ 6º Lugar |   `MT_MIRANDA`   |                1                |
-| 🎖️ 6º Lugar |     `shyyyy`     |                1                |
-
-## » Ranking de Últimos Sobreviventes
-
-| » Colocação « |  » Jogador(a) « | » Quantidade de Vezes Último(a) Sobrevivente « |
-| :-----------: | :-------------: | :--------------------------------------------: |
-|  🥇 1º Lugar  |  `Mat_redston`  |                        3                       |
-|  🥇 1º Lugar  |    `Filiipe`    |                        3                       |
-|  🥈 2º Lugar  |     `shyyyy`    |                        2                       |
-|  🥉 3º Lugar  |     `Cebolx`    |                        1                       |
-|  🥉 3º Lugar  |     `Vast6`     |                        1                       |
-|  🥉 3º Lugar  |    `iSamBr_`    |                        1                       |
-|  🥉 3º Lugar  |    `jakseli`    |                        1                       |
-|  🥉 3º Lugar  |    `Pedriin_`   |                        1                       |
-|  🥉 3º Lugar  |    `luuke18`    |                        1                       |
-|  🥉 3º Lugar  |   `GameplayPE`  |                        1                       |
-|  🥉 3º Lugar  |   `Oo_Gustavo`  |                        1                       |
-|  🥉 3º Lugar  |   `LeoSoviet`   |                        1                       |
-|  🥉 3º Lugar  | `TheTitaniumBR` |                        1                       |
-|  🥉 3º Lugar  |     `Mth030`    |                        1                       |
-|  🥉 3º Lugar  | `RyanGamer2004` |                        1                       |
-|  🥉 3º Lugar  |   `MT_MIRANDA`  |                        1                       |
-|  🥉 3º Lugar  |  `Gutothefoda`  |                        1                       |
-|  🥉 3º Lugar  |   `banzinbr7`   |                        1                       |
-|  🥉 3º Lugar  |   `SoUris_001`  |                        1                       |
-|  🥉 3º Lugar  |   `yLuquinhaz`  |                        1                       |
-
-## » Histórico do Evento
-
-|          » Edição «         |    » Matador «   | » Último(a) Sobrevivente « |
-| :-------------------------: | :--------------: | :------------------------: |
-|   Edição I - Edição XXIII   |        N/A       |             N/A            |
-|   Edição XXIV - 16/01/2022  |     `Cebolx`     |          `Cebolx`          |
-|   Edição XXV - 23/01/2022   | `FastDoughnut05` |           `Vast6`          |
-|   Edição XXVI - 30/01/2022  |     `iSamBr_`    |          `iSamBr_`         |
-|  Edição XXVII - 06/02/2022  |     `Filiipe`    |          `Filiipe`         |
-|  Edição XXVIII - 09/02/2022 |   `Mat_redston`  |        `Mat_redston`       |
-|   Edição XXIX - 16/02/2022  |     `jakseli`    |          `jakseli`         |
-|   Edição XXX - 23/02/2022   |   `Mat_redston`  |        `Mat_redston`       |
-|   Edição XXXI - 02/03/2022  |    `new_miza`    |         `Pedriin_`         |
-|  Edição XXXII - 09/03/2022  |        N/A       |          `luuke18`         |
-|  Edição XXXIII - 16/03/2022 |   `GameplayPE`   |        `GameplayPE`        |
-|  Edição XXXIV - 30/03/2022  |   `Oo_Gustavo`   |        `Oo_Gustavo`        |
-|   Edição XXXV - 06/04/2022  |    `_gueiibs`    |         `LeoSoviet`        |
-|  Edição XXXVI - 13/04/2022  |    `_Giffoni`    |       `TheTitaniumBR`      |
-|  Edição XXXVII - 20/04/2022 |    `new_miza`    |          `Mth0309`         |
-| Edição XXXVIII - 27/04/2022 |  `RyanGamer2004` |       `RyanGamer2004`      |
-|  Edição XXXIX - 04/05/2022  |    `_Giffoni`    |          `shyyyy`          |
-|    Edição XL - 11/05/2022   |   `MT_MIRANDA`   |        `MT_MIRANDA`        |
-|   Edição XLI - 18/05/2022   |     `Filiipe`    |   `Filiipe / Gutothefoda`  |
-|   Edição XLII - 25/05/2022  |     `shyyyy`     |          `shyyyy`          |
-|  Edição XLIII - 01/06/2022  |   `yLuquinhaz`   |         `banzinbr7`        |
-|   Edição XLIV - 08/06/2022  |   `Mat_redston`  |        `Mat_redston`       |
-|   Edição XLV - 15/06/2022   |     `Filiipe`    |          `Filiipe`         |
-|   Edição XLVI - 23/06/2022  |     `Filiipe`    |        `SoUris_001`        |
-|  Edição XLVII - 29/06/2022  |   `yLuquinhaz`   |        `yLuquinhaz`        |
-
