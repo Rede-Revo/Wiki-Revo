@@ -78,7 +78,6 @@
   * [🏗 Evento de Construção](eventos/eventos-survival/evento-de-construcao.md)
   * [🗺 Evento Desbravador](eventos/eventos-survival/evento-desbravador.md)
 * [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
-* [🥇 Vencedores de Eventos ](https://1drv.ms/x/s!AoQJvjmmU2SrgqduSty2nMXN1hctWA?e=PXkG61)
 
 ## ━━━━ Ajuda ━━━━
 
