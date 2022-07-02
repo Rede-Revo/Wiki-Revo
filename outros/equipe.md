@@ -159,3 +159,18 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 * ****<img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> **Sr\_Coffee666**
 * <img src="../.gitbook/assets/image (15) (1).png" alt="" data-size="line"> **Gutothefoda**
 * ****<img src="../.gitbook/assets/2048.png" alt="" data-size="line"> **BHOPERS**
+
+## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> Designer
+
+O **Designer** é o responsável pelo desenvolvimento da parte visual do servidor.
+
+#### Funções:
+
+* [x] Renovação da parte visual do servidor;
+* [x] Criação de texturas e imagens para o servidor.
+
+#### Lista de Designers
+
+* <img src="../.gitbook/assets/2048 (1).png" alt="" data-size="line"> **ThojY**
+* ****<img src="../.gitbook/assets/2048 (2).png" alt="" data-size="line"> **TazerManof**
+* ****<img src="../.gitbook/assets/2048 (3).png" alt="" data-size="line"> **PetroS3**
