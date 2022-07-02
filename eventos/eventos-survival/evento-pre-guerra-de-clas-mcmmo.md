@@ -7,7 +7,7 @@ coverY: 0
 
 # 🗡 Evento Pré-Guerra de Clãs - mcMMO
 
-## Como Funciona
+## » Como Funciona
 
 *   Batalha entre vários clãs na mesma arena;
 
@@ -21,7 +21,7 @@ coverY: 0
 * Borda que reduz no decorrer da batalha;\
   Com o decorrer do tempo a borda do mapa vai reduzindo para que não seja uma guerra cansativa em que jogadores ficam correndo pelo mapa.
 
-## Como Participar
+## » Como Participar
 
 1. Entrada para o evento:
    * O tempo de entrada do evento é de **15 minutos;**
@@ -35,7 +35,7 @@ coverY: 0
    * Use `/inspecionar [jogador]` para inspecionar o status do seu oponente;
    * Use `/gps` para encontrar seus inimigos.
 
-## Regras Gerais
+## » Regras Gerais
 
 #### **1. Não será tolerado acusações ou reclamações sem fundamentos.**
 
@@ -45,11 +45,52 @@ Infelizmente vários jogadores ao perder em combate ficam frustrados e começam 
 
 Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
-## Premiação
-
-
+## » Premiação
 
 #### 🥇 **Clã Vencedor**
 
 * :moneybag: Premiação de **250.000 Coins** depositados no banco do clã.
 * 💎**\[Liga]** 150 Pontos
+
+## » Ranking de Vencedores
+
+| » Colocação « |               » Clã «               | » Número de Vitórias « |
+| :-----------: | :---------------------------------: | :--------------------: |
+|  🥇 1º Lugar  |            \[ZZZ] Bloods            |            6           |
+|  🥈 2º Lugar  |          \[uwu] Cerejinhas          |            3           |
+|  🥈 2º Lugar  |           \[suN] Sunshine           |            3           |
+|  🥈 2º Lugar  |           \[VhL] Valhalla           |            3           |
+|  🎖️ 5º Lugar |           \[sbN] SiberiaN           |            2           |
+|  🎖️ 5º Lugar |          \[666] The Ritual          |            2           |
+|  🎖️ 7º Lugar | \[PAT] De dia Assada de noite Frita |            1           |
+|  🎖️ 7º Lugar |            \[ZZ2] Bloods            |            1           |
+|  🎖️ 7º Lugar |       \[knS] Kawamura no Sensh      |            1           |
+
+## » Histórico do Evento
+
+|          » Edição «         |            » TAG do Clã «           |           » Nome do Clã «           |
+| :-------------------------: | :---------------------------------: | :---------------------------------: |
+|   Edição I - Edição XXIII   | <mark style="color:red;">N/A</mark> | <mark style="color:red;">N/A</mark> |
+|   Edição XXIV - 20/01/2022  |                \[sbN]               |               SiberiaN              |
+|   Edição XXV - 27/01/2022   |                \[sbN]               |               SiberiaN              |
+|   Edição XXVI - 03/02/2022  |                \[PAT]               |     De dia Assada de noite Frita    |
+|  Edição XXVII - 10/02/2022  |                \[ZZZ]               |                Bloods               |
+|  Edição XXVIII - 17/02/2022 |                \[ZZZ]               |                Bloods               |
+|   Edição XXIX - 24/02/2022  |                \[ZZ2]               |                Bloods               |
+|   Edição XXX - 03/03/2022   |                \[ZZZ]               |                Bloods               |
+|   Edição XXXI - 10/03/2022  |                \[ZZZ]               |                Bloods               |
+|  Edição XXXII - 17/03/2022  |                \[ZZZ]               |                Bloods               |
+|  Edição XXXIII - 31/03/2022 |                \[ZZZ]               |                Bloods               |
+|  Edição XXXIV - 07/04/2022  |                \[uwu]               |              Cerejinhas             |
+|   Edição XXXV - 14/04/2022  |                \[uwu]               |              Cerejinhas             |
+|  Edição XXXVI - 21/04/2022  |                \[uwu]               |              Cerejinhas             |
+|  Edição XXXVII - 28/04/2022 |                \[knS]               |          Kawamura no Senshi         |
+| Edição XXXVIII - 05/05/2022 |                \[suN]               |               Sunshine              |
+|  Edição XXXIX - 12/05/2022  |                \[suN]               |               Sunshine              |
+|    Edição XL - 19/05/2022   |                \[666]               |              The Ritual             |
+|   Edição XLI - 26/05/2022   |                \[suN]               |               Sunshine              |
+|   Edição XLII - 02/06/2022  |                \[666]               |              The Ritual             |
+|  Edição XLIII - 09/06/2022  |                \[VhL]               |               Valhalla              |
+|   Edição XLIV - 16/06/2022  |                \[suN]               |               Sunshine              |
+|   Edição XLV - 23/06/2022   |                \[VhL]               |               Valhalla              |
+|   Edição XLVI - 30/06/2022  |                \[VhL]               |               Valhalla              |

@@ -69,7 +69,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 |          » Edição «         |            » TAG do Clã «           |           » Nome do Clã «           |
 | :-------------------------: | :---------------------------------: | :---------------------------------: |
-|       Edição I - XXIII      | <mark style="color:red;">N/A</mark> | <mark style="color:red;">N/A</mark> |
+|   Edição I - Edição XXIII   | <mark style="color:red;">N/A</mark> | <mark style="color:red;">N/A</mark> |
 |   Edição XXIV - 18/01/2022  |                \[Nbs]               |               Nairebis              |
 |   Edição XXV - 25/01/2022   |                \[sbN]               |               SiberiaN              |
 |   Edição XXVI - 01/02/2022  |                \[PAT]               |     De dia Assada de noite Frita    |
