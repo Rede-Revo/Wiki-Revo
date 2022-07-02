@@ -27,15 +27,6 @@ coverY: 0
 * 🥚 O raríssimo **Ovo de Dragão** com nome do portador
 * 💎**\[Liga]** 250 Pontos
 
-## » Ranking de Vencedores
-
-|  » Colocação «  |   » Jogador «  | » Número de Vitórias « |
-| :-------------: | :------------: | :--------------------: |
-| **🥇** 1º Lugar |     jakseli    |            1           |
-|   🥇 1º Lugar   |    banzinbr7   |            1           |
-|   🥇 1º Lugar   |     lulinha    |            1           |
-|   🥇 1º Lugar   | AndreusRichard |            1           |
-
 ## » Histórico do Evento
 
 |           » Edição «           |  » Vencedor(a) « |   |
