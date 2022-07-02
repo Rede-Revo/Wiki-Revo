@@ -5,7 +5,7 @@ coverY: 0
 
 # ⚔ Evento Guerreiro
 
-## Como Funciona
+## » Como Funciona
 
 * Batalha 1v1 entre vários jogadores, o jogador que derrotar todos seus oponentes vence;
 * Itens definidos pela equipe; (armadura de diamante, espada, machado, poções de força e agilidade e 32 maças encantadas)
@@ -14,7 +14,7 @@ coverY: 0
 
 * Habilidades do mcMMO serão desativadas durante o evento.
 
-## Como Participar
+## » Como Participar
 
 1. Entrar no evento:
    * O tempo de entrada do evento é de **10 minutos;**
@@ -26,7 +26,7 @@ coverY: 0
 3. Inicio da batalha:
    * Após passar o tempo de preparação será iniciado os duelos 1v1.
 
-## Regras Gerais
+## » Regras Gerais
 
 #### **1. Não será tolerado acusações ou reclamações sem fundamentos.**
 
@@ -36,7 +36,7 @@ Infelizmente vários jogadores ao perder em combate ficam frustrados e começam 
 
 Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
-## Premiação
+## » Premiação
 
 #### 🥇 **1° Lugar**
 
@@ -51,3 +51,50 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### [🥉](https://emojipedia.org/3rd-place-medal/) **3° Lugar**
 
 * 💰 Premiação de **50.000 Coins**
+
+## » Ranking de Vencedores
+
+| » Colocação « |  » Jogador(a) « | » Número de Vitórias « |
+| :-----------: | :-------------: | :--------------------: |
+|  🥇 1º Lugar  |   `EasyBounce`  |            6           |
+|  🥈 2º Lugar  | `RyanGamer2004` |            4           |
+|  🥉 3º Lugar  |  `Mat_redston`  |            2           |
+|  🎖️ 4º Lugar |  `koalaISOLADO` |            1           |
+|  🎖️ 4º Lugar |   `Oo_Gustavo`  |            1           |
+|  🎖️ 4º Lugar |     `ohNezy`    |            1           |
+|  🎖️ 4º Lugar |    `luuke18`    |            1           |
+|  🎖️ 4º Lugar |   `mask_lock`   |            1           |
+|  🎖️ 4º Lugar |    `Filiipe`    |            1           |
+|  🎖️ 4º Lugar |    `MaykeZin`   |            1           |
+|  🎖️ 4º Lugar |    `_IRagnar`   |            1           |
+|  🎖️ 4º Lugar |    `new_miza`   |            1           |
+|  🎖️ 4º Lugar |    `Taayboy`    |            1           |
+
+## » Histórico do Evento
+
+|          » Edição «         |       » Jogador(a) Vencedor «       |   |
+| :-------------------------: | :---------------------------------: | - |
+|   Edição I - Edição XXIII   | <mark style="color:red;">N/A</mark> |   |
+|   Edição XXIV - 18/01/2022  |            `koalaISOLADO`           |   |
+|   Edição XXV - 24/01/2022   |             `Oo_Gustavo`            |   |
+|   Edição XXVI - 31/01/2022  |               `ohNezy`              |   |
+|  Edição XXVII - 07/02/2022  |             `EasyBounce`            |   |
+|  Edição XXVIII - 14/02/2022 |             `EasyBounce`            |   |
+|   Edição XXIX - 21/02/2022  |            `Mat_redston`            |   |
+|   Edição XXX - 28/02/2022   |             `EasyBounce`            |   |
+|   Edição XXXI - 07/03/2022  |                 N/A                 |   |
+|  Edição XXXII - 14/03/2022  |             `EasyBounce`            |   |
+|  Edição XXXIII - 21/03/2022 |             `EasyBounce`            |   |
+|  Edição XXXIV - 28/03/2022  |              `luuke18`              |   |
+|   Edição XXXV - 06/04/2022  |           `RyanGamer2004`           |   |
+|  Edição XXXVI - 11/04/2022  |           `RyanGamer2004`           |   |
+|  Edição XXXVII - 25/04/2022 |           `RyanGamer2004`           |   |
+| Edição XXXVIII - 02/05/2022 |             `mask_lock`             |   |
+|  Edição XXXIX - 09/05/2022  |              `Filiipe`              |   |
+|    Edição XL - 16/05/2022   |              `MaykeZin`             |   |
+|   Edição XLI - 23/05/2022   |           `RyanGamer2004`           |   |
+|   Edição XLII - 06/06/2022  |              `_IRagnar`             |   |
+|  Edição XLIII - 08/06/2022  |            `Mat_redston`            |   |
+|   Edição XLIV - 13/06/2022  |              `new_miza`             |   |
+|   Edição XLV - 20/06/2022   |             `EasyBounce`            |   |
+|   Edição XLVI - 30/06/2022  |              `Taayboy`              |   |
