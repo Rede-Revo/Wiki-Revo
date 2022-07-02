@@ -55,7 +55,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 * :moneybag: Premiação de **1.000.000 Coins** depositados no banco do clã
 * <img src="../../.gitbook/assets/trofeurevo (1).png" alt="" data-size="line"> **Troféu personalizado** para recordação adicionado no inventario do líder do clã
-* :flag\_black: Será listado como clã campeão na [lista de vencedores](https://onedrive.live.com/redir?resid=AB6453A639BE0984!37870\&authkey=!AErctpzFzdYXLVg\&ithint=file%2cxlsx\&e=PXkG61)
+* :flag\_black: Será listado como clã campeão no [Histórico do Evento](guerra-de-clas.md#historico-do-evento) e no [Ranking de Vencedores](guerra-de-clas.md#undefined)
 * 💎**\[Liga]** 250 Pontos
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
@@ -64,15 +64,15 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 ## » Ranking de Vencedores
 
-| » Colocação « |     » Clã «    | » Número de Vitórias « |
-| :-----------: | :------------: | :--------------------: |
-|  🥇 1º Lugar  | sbN - SiberiaN |           18           |
-|  🥈 2º Lugar  |                |                        |
-|  🥉 3º Lugar  |                |                        |
-|  🏅 4º Lugar  |                |                        |
-|  🏅 5º Lugar  |                |                        |
-|  🏅 6º Lugar  |                |                        |
-|  🏅 7º Lugar  |                |                        |
+|  » Colocação «  |          » Clã «         | » Número de Vitórias « |
+| :-------------: | :----------------------: | :--------------------: |
+|   🥇 1º Lugar   |      sbN - SiberiaN      |           18           |
+|   🥈 2º Lugar   |       ZZZ - Bloods       |           13           |
+|   🥉 3º Lugar   |      suN - Sunshine      |            7           |
+| **🎖** 4º Lugar | knS - Kawamura no Senshi |            6           |
+| **🎖** 5º Lugar |      VhL - Valhalla      |            1           |
+| **🎖** 5º Lugar |      B12 - Calcitran     |            1           |
+| **🎖** 5º Lugar |       30P - 30Praum      |            1           |
 
 ## » Histórico do Evento
 
@@ -125,7 +125,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |   Edição XLV - 12/06/2022   |       suN      |      Sunshine      |
 |   Edição XLVI - 19/06/2022  |       VhL      |      Valhalla      |
 |  Edição XLVII - 26/06/2022  |       suN      |      Sunshine      |
-|  Edição XLVIII - 03/07/2022 |                |                    |
-|   Edição XLIX - 10/07/2022  |                |                    |
-|    Edição L - 17/07/2022    |                |                    |
-|         Edição LI -         |                |                    |
+|  Edição XLVIII - 03/07/2022 |        -       |          -         |
+|   Edição XLIX - 10/07/2022  |        -       |          -         |
+|    Edição L - 17/07/2022    |        -       |          -         |
+|         Edição LI -         |        -       |          -         |
