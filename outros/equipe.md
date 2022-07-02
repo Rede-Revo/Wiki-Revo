@@ -20,8 +20,8 @@ coverY: 0
 
 #### Lista de Diretores
 
-* [<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) **Nevisk**
-* ****<img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> **thiagogebrim**
+* [<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) **Nevisk  (data de entrada: 23/05/2021)**
+* ****<img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> **thiagogebrim  (data de entrada: 23/05/2021)**
 
 ## <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> Gerente
 
@@ -36,8 +36,8 @@ O cargo de **gerente** tem muita relevância e sempre possui muitas responsabili
 
 #### Lista de Gerentes
 
-* <img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line"> **Gutoh\_**
-* ****<img src="../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt="" data-size="line"> **julgzin**
+* <img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line"> **Gutoh\_ (data de entrada: 23/05/2021)**
+* ****<img src="../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt="" data-size="line"> **julgzin (data de entrada: 21/06/2021)**
 
 ## <img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> Desenvolvedor(a)
 
@@ -50,8 +50,8 @@ O **desenvolvedor** é o profissional que desenvolve _plugins e os demais sistem
 
 #### Lista de Desenvolvedores
 
-* <img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> **SOekd**
-* #### <img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="line"> xMattNice\_
+* <img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> **SOekd (data de entrada: 29/05/2021)**
+* #### <img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="line"> xMattNice\_ (data de entrada: 13/04/2022)
 
 ## ​<img src="../.gitbook/assets/tecnico.png" alt="" data-size="line"> Técnico(a) <a href="#desenvolvedor" id="desenvolvedor"></a>
 
@@ -65,7 +65,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 
 #### Lista de Técnicos <a href="#lista-de-desenvolvedores" id="lista-de-desenvolvedores"></a>
 
-* ​​<img src="../.gitbook/assets/image (22).png" alt="" data-size="line"> **zGumeloBR**
+* ​​<img src="../.gitbook/assets/image (22).png" alt="" data-size="line"> **zGumeloBR (data de entrada: 06/04/2022)**
 
 ## <img src="../.gitbook/assets/image (20).png" alt="" data-size="line"> Administrador
 
@@ -81,7 +81,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 
 #### Lista de Administradores
 
-* <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> **Felipesfera**
+* <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> **Felipesfera** **(data de entrada: 29/05/2021)**
 
 ## <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> Moderador
 
@@ -96,8 +96,8 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
-* #### <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> **Beazika**
-* ****<img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> **SenhorNogueira**
+* #### <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> **Beazika** (data de entrada: 14/03/2022)
+* ****<img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> **SenhorNogueira (data de entrada: 30/01/2022)**
 
 ## <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> Moderador GC
 
@@ -123,9 +123,9 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 
 #### Lista de Construtores
 
-* #### <img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> **IsaacChan**
-* #### ****<img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> **yQuack**
-* ****<img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> **GalloH\_**
+* #### <img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> **IsaacChan** (data de entrada: 10/01/2022)
+* #### ****<img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> **yQuack** (data de entrada: 12/06/2022)
+* ****<img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> **GalloH\_** **(data de entrada: 16/05/2022)**
 
 ## <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> Ajudante
 
@@ -140,8 +140,8 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 #### Lista de Ajudantes
 
-* <img src="../.gitbook/assets/image (17) (1) (1).png" alt="" data-size="line"> **Jrn**
-* ****<img src="../.gitbook/assets/image (16).png" alt="" data-size="line"> **Guimeirobr**
+* <img src="../.gitbook/assets/image (17) (1) (1).png" alt="" data-size="line"> **Jrn (data de entrada: 01/04/2022)**
+* ****<img src="../.gitbook/assets/image (16).png" alt="" data-size="line"> **Guimeirobr (data de entrada: 23/03/2022)**
 
 ## <img src="../.gitbook/assets/image (19).png" alt="" data-size="line"> Aprendiz
 
@@ -155,10 +155,10 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 
 #### Lista de Aprendizes
 
-* <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> **jesus536be**
-* ****<img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> **Sr\_Coffee666**
-* <img src="../.gitbook/assets/image (15) (1).png" alt="" data-size="line"> **Gutothefoda**
-* ****<img src="../.gitbook/assets/2048.png" alt="" data-size="line"> **BHOPERS**
+* <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> **jesus536be (data de entrada: 16/06/2022)**
+* ****<img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> **Sr\_Coffee666 (data de entrada: 17/06/2022)**
+* <img src="../.gitbook/assets/image (15) (1).png" alt="" data-size="line"> **Gutothefoda (data de entrada: 06/06/2022)**
+* ****<img src="../.gitbook/assets/2048.png" alt="" data-size="line"> **BHOPERS (data de entrada: 24/06/2022)**
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> Designer
 
