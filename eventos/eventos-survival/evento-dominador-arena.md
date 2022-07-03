@@ -44,14 +44,13 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | » Colocação « | » Jogador(a) « | » Quantidade de Vitórias « |
 | :-----------: | :------------: | :------------------------: |
 |  🥇 1º Lugar  |   MT\_MIRANDA  |              1             |
-|  🥈 2º Lugar  |       N/A      |              -             |
-|  🥉 3º Lugar  |       N/A      |              -             |
+|  🥇 1º Lugar  |     shyyyy     |              1             |
 
 ## » Ranking de Clãs Vencedores
 
 | » Colocação « |     » Clã «    | » Quantidade de Vitórias « |
 | :-----------: | :------------: | :------------------------: |
-|  🥇 1º Lugar  | VhL - Valhalla |              1             |
+|  🥇 1º Lugar  | VhL - Valhalla |              2             |
 |   🥈2º Lugar  |       N/A      |              -             |
 |   🥉3º Lugar  |       N/A      |              -             |
 
@@ -60,5 +59,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |        » Edição «       | » Clã Vencedor « | » Jogador Dominador « |
 | :---------------------: | :--------------: | :-------------------: |
 |  Edição I - 25/06/2022  |  VhL - Valhalla  |      MT\_MIRANDA      |
-|  Edição II - 02/07/2022 |         -        |           -           |
+|  Edição II - 02/07/2022 |  VhL - Valhalla  |         shyyyy        |
 | Edição III - 09/07/2022 |         -        |           -           |

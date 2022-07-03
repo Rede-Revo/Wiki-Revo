@@ -70,6 +70,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥈 2º Lugar  |    `ClaxmeteR`   |                      1                     |
 |  🥈 2º Lugar  |  `falcaonava12`  |                      1                     |
 |  🥈 2º Lugar  |    `new_miza`    |                      1                     |
+|  🥈 2º Lugar  |   `kaduzinsan`   |                      1                     |
 
 ## » Ranking de Matadores
 
@@ -77,11 +78,11 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | :-----------: | :------------: | :----------------------------: |
 |  🥇 1º Lugar  | `falcaonava12` |                2               |
 |  🥇 1º Lugar  |   `_IRagnar`   |                2               |
+|  🥇 1º Lugar  |  `kaduzinsan`  |                2               |
 |  🥈 2º Lugar  |    `shyyyy`    |                1               |
 |  🥈 2º Lugar  |   `banzinbr7`  |                1               |
 |  🥈 2º Lugar  |  `MT_MIRANDA`  |                1               |
 |  🥈 2º Lugar  |   `ClaxmeteR`  |                1               |
-|  🥈 2º Lugar  |  `kaduzinsan`  |                1               |
 |  🥈 2º Lugar  |   `new_miza`   |                1               |
 
 ## » Histórico do Evento
@@ -98,5 +99,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | Edição VIII - 11/06/2022 |       `falcaonava12`       | `falcaonava12` |
 |  Edição IX - 18/06/2022  |         `new_miza`         |   `new_miza`   |
 |   Edição X - 25/06/2022  |         `Pedriin_`         |   `_IRagnar`   |
-|  Edição XI - 02/07/2022  |              -             |        -       |
+|  Edição XI - 02/07/2022  |        `kaduzinsan`        |  `kaduzinsan`  |
 
