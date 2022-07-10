@@ -70,7 +70,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |   🥈 2º Lugar   |       \[ZZZ] Bloods       |           13           |
 |   🥉 3º Lugar   |      \[suN] Sunshine      |            7           |
 | **🎖** 4º Lugar | \[knS] Kawamura no Senshi |            6           |
-| **🎖** 5º Lugar |      \[VhL] Valhalla      |            2           |
+| **🎖** 5º Lugar |      \[VhL] Valhalla      |            3           |
 | **🎖** 6º Lugar |      \[B12] Calcitran     |            1           |
 | **🎖** 6º Lugar |       \[30P] 30Praum      |            1           |
 
@@ -126,6 +126,6 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |   Edição XLVI - 19/06/2022  |     \[VhL]     |      Valhalla      |
 |  Edição XLVII - 26/06/2022  |     \[suN]     |      Sunshine      |
 |  Edição XLVIII - 03/07/2022 |     \[VhL]     |      Valhalla      |
-|   Edição XLIX - 10/07/2022  |        -       |          -         |
+|   Edição XLIX - 10/07/2022  |     \[VhL]     |      Valhalla      |
 |    Edição L - 17/07/2022    |        -       |          -         |
 |         Edição LI -         |        -       |          -         |
