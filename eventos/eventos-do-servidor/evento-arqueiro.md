@@ -73,6 +73,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | 🎖️ 6º Lugar |  `RyanGamer2004` |                1                |
 | 🎖️ 6º Lugar |   `MT_MIRANDA`   |                1                |
 | 🎖️ 6º Lugar |     `shyyyy`     |                1                |
+| 🎖️ 6º Lugar |       `666`      |                1                |
 
 ## » Ranking de Últimos Sobreviventes
 
@@ -80,24 +81,25 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | :-----------: | :-------------: | :--------------------------------------------: |
 |  🥇 1º Lugar  |  `Mat_redston`  |                        3                       |
 |  🥇 1º Lugar  |    `Filiipe`    |                        3                       |
-|  🥈 2º Lugar  |     `shyyyy`    |                        2                       |
-|  🥉 3º Lugar  |     `Cebolx`    |                        1                       |
-|  🥉 3º Lugar  |     `Vast6`     |                        1                       |
-|  🥉 3º Lugar  |    `iSamBr_`    |                        1                       |
-|  🥉 3º Lugar  |    `jakseli`    |                        1                       |
-|  🥉 3º Lugar  |    `Pedriin_`   |                        1                       |
-|  🥉 3º Lugar  |    `luuke18`    |                        1                       |
-|  🥉 3º Lugar  |   `GameplayPE`  |                        1                       |
-|  🥉 3º Lugar  |   `Oo_Gustavo`  |                        1                       |
-|  🥉 3º Lugar  |   `LeoSoviet`   |                        1                       |
-|  🥉 3º Lugar  | `TheTitaniumBR` |                        1                       |
-|  🥉 3º Lugar  |     `Mth030`    |                        1                       |
-|  🥉 3º Lugar  | `RyanGamer2004` |                        1                       |
-|  🥉 3º Lugar  |   `MT_MIRANDA`  |                        1                       |
-|  🥉 3º Lugar  |  `Gutothefoda`  |                        1                       |
-|  🥉 3º Lugar  |   `banzinbr7`   |                        1                       |
-|  🥉 3º Lugar  |   `SoUris_001`  |                        1                       |
-|  🥉 3º Lugar  |   `yLuquinhaz`  |                        1                       |
+|  🥉 3º Lugar  |     `shyyyy`    |                        2                       |
+|  🎖️ 4º Lugar |     `Cebolx`    |                        1                       |
+|  🎖️ 4º Lugar |     `Vast6`     |                        1                       |
+|  🎖️ 4º Lugar |    `iSamBr_`    |                        1                       |
+|  🎖️ 4º Lugar |    `jakseli`    |                        1                       |
+|  🎖️ 4º Lugar |    `Pedriin_`   |                        1                       |
+|  🎖️ 4º Lugar |    `luuke18`    |                        1                       |
+|  🎖️ 4º Lugar |   `GameplayPE`  |                        1                       |
+|  🎖️ 4º Lugar |   `Oo_Gustavo`  |                        1                       |
+|  🎖️ 4º Lugar |   `LeoSoviet`   |                        1                       |
+|  🎖️ 4º Lugar | `TheTitaniumBR` |                        1                       |
+|  🎖️ 4º Lugar |     `Mth030`    |                        1                       |
+|  🎖️ 4º Lugar | `RyanGamer2004` |                        1                       |
+|  🎖️ 4º Lugar |   `MT_MIRANDA`  |                        1                       |
+|  🎖️ 4º Lugar |  `Gutothefoda`  |                        1                       |
+|  🎖️ 4º Lugar |   `banzinbr7`   |                        1                       |
+|  🎖️ 4º Lugar |   `SoUris_001`  |                        1                       |
+|  🎖️ 4º Lugar |   `yLuquinhaz`  |                        1                       |
+|  🎖️ 4º Lugar |      `666`      |                        1                       |
 
 ## » Histórico do Evento
 
@@ -128,4 +130,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLV - 15/06/2022   |     `Filiipe`    |          `Filiipe`         |
 |   Edição XLVI - 23/06/2022  |     `Filiipe`    |        `SoUris_001`        |
 |  Edição XLVII - 29/06/2022  |   `yLuquinhaz`   |        `yLuquinhaz`        |
+|  Edição XLVIII - 06/07/2022 |       `666`      |            `666`           |
 

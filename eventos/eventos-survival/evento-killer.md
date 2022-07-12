@@ -73,12 +73,13 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 5º Lugar |   `new_miza`   |                1                |
 |  🎖️ 5º Lugar |   `SelvaKing`  |                1                |
 |  🎖️ 5º Lugar |   `ClaxmeteR`  |                1                |
+|  🎖️ 5º Lugar |   `_gueiibs`   |                1                |
 
 ## » Ranking de Últimos Sobreviventes
 
 | » Colocação « | » Jogador(a) « | » Quantidade de Vezes Último(a) Sobrevivente « |
 | :-----------: | :------------: | :--------------------------------------------: |
-|  🥇 1º Lugar  | `falcaonava12` |                        4                       |
+|  🥇 1º Lugar  | `falcaonava12` |                        5                       |
 |  🥈 2º Lugar  |   `_gueiibs`   |                        3                       |
 |  🥉 3º Lugar  |  `Mat_Redston` |                        2                       |
 |  🎖️ 4º Lugar |  `____Why____` |                        1                       |
@@ -126,3 +127,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLV - 17/06/2022   |              `_IRagnar`             |              `yLuquinhaz`             |
 |   Edição XLVI - 24/06/2022  |            `falcaonava12`           |             `falcaonava12`            |
 |  Edição XLVII - 01/07/2022  |              `_Giffoni`             |             `falcaonava12`            |
+|  Edição XLVIII - 08/07/2022 |              `_gueiibs`             |             `falcaonava12`            |

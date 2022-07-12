@@ -64,26 +64,28 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | :-----------: | :--------------: | :----------------------------------------: |
 |  🥇 1º Lugar  |    `_IRagnar`    |                      2                     |
 |  🥇 1º Lugar  |    `Pedriin_`    |                      2                     |
-|  🥈 2º Lugar  | `universalizado` |                      1                     |
-|  🥈 2º Lugar  |    `_Giffoni`    |                      1                     |
-|  🥈 2º Lugar  |     `shyyyy`     |                      1                     |
-|  🥈 2º Lugar  |    `ClaxmeteR`   |                      1                     |
-|  🥈 2º Lugar  |  `falcaonava12`  |                      1                     |
-|  🥈 2º Lugar  |    `new_miza`    |                      1                     |
-|  🥈 2º Lugar  |   `kaduzinsan`   |                      1                     |
+|  🥉 3º Lugar  | `universalizado` |                      1                     |
+|  🥉 3º Lugar  |    `_Giffoni`    |                      1                     |
+|  🥉 3º Lugar  |     `shyyyy`     |                      1                     |
+|  🥉 3º Lugar  |    `ClaxmeteR`   |                      1                     |
+|  🥉 3º Lugar  |  `falcaonava12`  |                      1                     |
+|  🥉 3º Lugar  |    `new_miza`    |                      1                     |
+|  🥉 3º Lugar  |   `kaduzinsan`   |                      1                     |
+|  🥉 3º Lugar  |     \_gueiibs    |                      1                     |
 
 ## » Ranking de Matadores
 
-| » Colocação « | » Jogador(a) « | » Número de Vezes Matador(a) « |
-| :-----------: | :------------: | :----------------------------: |
-|  🥇 1º Lugar  | `falcaonava12` |                2               |
-|  🥇 1º Lugar  |   `_IRagnar`   |                2               |
-|  🥇 1º Lugar  |  `kaduzinsan`  |                2               |
-|  🥈 2º Lugar  |    `shyyyy`    |                1               |
-|  🥈 2º Lugar  |   `banzinbr7`  |                1               |
-|  🥈 2º Lugar  |  `MT_MIRANDA`  |                1               |
-|  🥈 2º Lugar  |   `ClaxmeteR`  |                1               |
-|  🥈 2º Lugar  |   `new_miza`   |                1               |
+|  » Colocação «  | » Jogador(a) « | » Número de Vezes Matador(a) « |
+| :-------------: | :------------: | :----------------------------: |
+|   🥇 1º Lugar   |  `kaduzinsan`  |                3               |
+|   🥈 2º Lugar   | `falcaonava12` |                2               |
+|   🥈 2º Lugar   |   `_IRagnar`   |                2               |
+|   🥈 2º Lugar   |  `kaduzinsan`  |                2               |
+| **🎖** 5º Lugar |    `shyyyy`    |                1               |
+| **🎖** 5º Lugar |   `banzinbr7`  |                1               |
+| **🎖** 5º Lugar |  `MT_MIRANDA`  |                1               |
+| **🎖** 5º Lugar |   `ClaxmeteR`  |                1               |
+| **🎖** 5º Lugar |   `new_miza`   |                1               |
 
 ## » Histórico do Evento
 
@@ -100,4 +102,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição IX - 18/06/2022  |         `new_miza`         |   `new_miza`   |
 |   Edição X - 25/06/2022  |         `Pedriin_`         |   `_IRagnar`   |
 |  Edição XI - 02/07/2022  |        `kaduzinsan`        |  `kaduzinsan`  |
+|  Edição XII - 09/07/2022 |         `_gueiibs`         |  `kaduzinsan`  |
 

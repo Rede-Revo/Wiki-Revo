@@ -57,14 +57,15 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | » Colocação « |               » Clã «               | » Número de Vitórias « |
 | :-----------: | :---------------------------------: | :--------------------: |
 |  🥇 1º Lugar  |            \[ZZZ] Bloods            |            6           |
-|  🥈 2º Lugar  |          \[uwu] Cerejinhas          |            3           |
-|  🥈 2º Lugar  |           \[suN] Sunshine           |            3           |
-|  🥈 2º Lugar  |           \[VhL] Valhalla           |            3           |
-|  🎖️ 5º Lugar |           \[sbN] SiberiaN           |            2           |
-|  🎖️ 5º Lugar |          \[666] The Ritual          |            2           |
-|  🎖️ 7º Lugar | \[PAT] De dia Assada de noite Frita |            1           |
-|  🎖️ 7º Lugar |            \[ZZ2] Bloods            |            1           |
-|  🎖️ 7º Lugar |       \[knS] Kawamura no Sensh      |            1           |
+|  🥈 2º Lugar  |           \[VhL] Valhalla           |            4           |
+|  🥉 3º Lugar  |          \[uwu] Cerejinhas          |            3           |
+|  🥉 3º Lugar  |           \[suN] Sunshine           |            3           |
+|  🥉 3º Lugar  |           \[VhL] Valhalla           |            3           |
+|  🎖️ 6º Lugar |           \[sbN] SiberiaN           |            2           |
+|  🎖️ 6º Lugar |          \[666] The Ritual          |            2           |
+|  🎖️ 8º Lugar | \[PAT] De dia Assada de noite Frita |            1           |
+|  🎖️ 8º Lugar |            \[ZZ2] Bloods            |            1           |
+|  🎖️ 8º Lugar |       \[knS] Kawamura no Sensh      |            1           |
 
 ## » Histórico do Evento
 
@@ -94,3 +95,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLIV - 16/06/2022  |                \[suN]               |               Sunshine              |
 |   Edição XLV - 23/06/2022   |                \[VhL]               |               Valhalla              |
 |   Edição XLVI - 30/06/2022  |                \[VhL]               |               Valhalla              |
+|  Edição XLVII - 07/07/2022  |                \[VhL]               |               Valhalla              |
