@@ -63,17 +63,17 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥉 3º Lugar |   `yLuquinhaz`   |                2                |
 |  🥉 3º Lugar |    `new_miza`    |                2                |
 |  🥉 3º Lugar |    `_Giffoni`    |                2                |
-| 🎖️ 6º Lugar |     `Cebolx`     |                1                |
-| 🎖️ 6º Lugar | `FastDoughnut05` |                1                |
-| 🎖️ 6º Lugar |     `iSamBr_`    |                1                |
-| 🎖️ 6º Lugar |     `jakseli`    |                1                |
-| 🎖️ 6º Lugar |   `GameplayPE`   |                1                |
-| 🎖️ 6º Lugar |   `Oo_Gustavo`   |                1                |
-| 🎖️ 6º Lugar |    `_gueiibs`    |                1                |
-| 🎖️ 6º Lugar |  `RyanGamer2004` |                1                |
-| 🎖️ 6º Lugar |   `MT_MIRANDA`   |                1                |
-| 🎖️ 6º Lugar |     `shyyyy`     |                1                |
-| 🎖️ 6º Lugar |       `666`      |                1                |
+|  🥉 3º Lugar |  `RyanGamer2004` |                2                |
+| 🎖️ 7º Lugar |     `Cebolx`     |                1                |
+| 🎖️ 7º Lugar | `FastDoughnut05` |                1                |
+| 🎖️ 7º Lugar |     `iSamBr_`    |                1                |
+| 🎖️ 7º Lugar |     `jakseli`    |                1                |
+| 🎖️ 7º Lugar |   `GameplayPE`   |                1                |
+| 🎖️ 7º Lugar |   `Oo_Gustavo`   |                1                |
+| 🎖️ 7º Lugar |    `_gueiibs`    |                1                |
+| 🎖️ 7º Lugar |   `MT_MIRANDA`   |                1                |
+| 🎖️ 7º Lugar |     `shyyyy`     |                1                |
+| 🎖️ 7º Lugar |       `666`      |                1                |
 
 ## » Ranking de Últimos Sobreviventes
 
@@ -131,4 +131,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLVI - 23/06/2022  |     `Filiipe`    |        `SoUris_001`        |
 |  Edição XLVII - 29/06/2022  |   `yLuquinhaz`   |        `yLuquinhaz`        |
 |  Edição XLVIII - 06/07/2022 |       `666`      |            `666`           |
+|         Edição XLIX         |  `RyanGamer2004` |        `yLuquinhaz`        |
 

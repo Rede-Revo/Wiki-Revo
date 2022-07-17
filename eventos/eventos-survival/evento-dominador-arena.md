@@ -46,14 +46,15 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥇 1º Lugar  |  `MT_MIRANDA`  |              1             |
 |  🥇 1º Lugar  |    `shyyyy`    |              1             |
 |  🥇 1º Lugar  |    `Krenzif`   |              1             |
+|  🥇 1º Lugar  |    `Nefesto`   |              1             |
 
 ## » Ranking de Clãs Vencedores
 
-| » Colocação « |     » Clã «    | » Quantidade de Vitórias « |
-| :-----------: | :------------: | :------------------------: |
-|  🥇 1º Lugar  | VhL - Valhalla |              3             |
-|   🥈2º Lugar  |       N/A      |              -             |
-|   🥉3º Lugar  |       N/A      |              -             |
+| » Colocação « |      » Clã «     | » Quantidade de Vitórias « |
+| :-----------: | :--------------: | :------------------------: |
+|  🥇 1º Lugar  |  VhL - Valhalla  |              3             |
+|   🥈2º Lugar  | 666 - The Ritual |              1             |
+|   🥉3º Lugar  |        N/A       |              -             |
 
 ## » Histórico do Evento
 
@@ -62,3 +63,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição I - 25/06/2022  |  VhL - Valhalla  |      `MT_MIRANDA`     |
 |  Edição II - 02/07/2022 |  VhL - Valhalla  |        `shyyyy`       |
 | Edição III - 09/07/2022 |  VhL - Valhalla  |       `Krenzif`       |
+|  Edição IV - 16/07/2022 | 666 - The Ritual |       `Nefesto`       |

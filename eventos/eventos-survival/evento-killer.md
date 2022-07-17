@@ -74,6 +74,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 5º Lugar |   `SelvaKing`  |                1                |
 |  🎖️ 5º Lugar |   `ClaxmeteR`  |                1                |
 |  🎖️ 5º Lugar |   `_gueiibs`   |                1                |
+|  🎖️ 5º Lugar |    `eusoujc`   |                1                |
 
 ## » Ranking de Últimos Sobreviventes
 
@@ -97,6 +98,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | 🎖️ 4º Lugar  |   `Pedriin_`   |                        1                       |
 |  🎖️ 4º Lugar |   `_Giffoni`   |                        1                       |
 |  🎖️ 4º Lugar |  `yLuquinhaz`  |                        1                       |
+|  🎖️ 4º Lugar |   `zKnusttZ`   |                        1                       |
 
 ## » Histórico do Evento
 
@@ -128,3 +130,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLVI - 24/06/2022  |            `falcaonava12`           |             `falcaonava12`            |
 |  Edição XLVII - 01/07/2022  |              `_Giffoni`             |             `falcaonava12`            |
 |  Edição XLVIII - 08/07/2022 |              `_gueiibs`             |             `falcaonava12`            |
+|   Edição XLIX - 15/07/2022  |              `eusoujc`              |               `zKnusttZ`              |

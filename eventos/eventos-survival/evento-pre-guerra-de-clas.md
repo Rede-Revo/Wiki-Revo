@@ -54,8 +54,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 | » Colocação « |               » Clã «               | » Número de Vitórias « |
 | :-----------: | :---------------------------------: | :--------------------: |
-|  🥇 1º Lugar  |            \[ZZZ] Bloods            |            6           |
-|  🥇 1º Lugar  |           \[VhL] Valhalla           |            6           |
+|  🥇 1º Lugar  |           \[VhL] Valhalla           |            7           |
+|  🥈 2º Lugar  |            \[ZZZ] Bloods            |            6           |
 |  🥉 3º Lugar  |          \[666] The Ritual          |            4           |
 |  🎖️ 4º Lugar |           \[suN] Sunshine           |            3           |
 |  🎖️ 5º Lugar |           \[Nbs] Nairebis           |            1           |
@@ -95,3 +95,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLVI - 21/06/2022  |                \[VhL]               |               Valhalla              |
 |  Edição XLVII - 28/06/2022  |                \[VhL]               |               Valhalla              |
 |  Edição XLVIII - 05/07/2022 |                \[VhL]               |               Valhalla              |
+|   Edição XLIX - 12/07/2022  |                \[VhL]               |               Valhalla              |
