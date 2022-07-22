@@ -102,3 +102,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLVI - 30/06/2022  |              `Taayboy`              |   |
 |  Edição XLVII - 04/07/2022  |              `Krenzif`              |   |
 |  Edição XLVIII - 11/07/2022 |              `_gueiibs`             |   |
+|   Edição XLIX - 18/07/2022  |              `_gueiibs`             |   |

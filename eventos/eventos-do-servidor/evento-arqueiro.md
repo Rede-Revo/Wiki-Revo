@@ -60,7 +60,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | :----------: | :--------------: | :-----------------------------: |
 |  🥇 1º Lugar |     `Filiipe`    |                4                |
 |  🥈 2º Lugar |   `Mat_redston`  |                3                |
-|  🥉 3º Lugar |   `yLuquinhaz`   |                2                |
+|  🥈 2º Lugar |   `yLuquinhaz`   |                3                |
 |  🥉 3º Lugar |    `new_miza`    |                2                |
 |  🥉 3º Lugar |    `_Giffoni`    |                2                |
 |  🥉 3º Lugar |  `RyanGamer2004` |                2                |
@@ -82,6 +82,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥇 1º Lugar  |  `Mat_redston`  |                        3                       |
 |  🥇 1º Lugar  |    `Filiipe`    |                        3                       |
 |  🥉 3º Lugar  |     `shyyyy`    |                        2                       |
+|  🥉 3º Lugar  |   `yLuquinhaz`  |                        2                       |
 |  🎖️ 4º Lugar |     `Cebolx`    |                        1                       |
 |  🎖️ 4º Lugar |     `Vast6`     |                        1                       |
 |  🎖️ 4º Lugar |    `iSamBr_`    |                        1                       |
@@ -98,7 +99,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 4º Lugar |  `Gutothefoda`  |                        1                       |
 |  🎖️ 4º Lugar |   `banzinbr7`   |                        1                       |
 |  🎖️ 4º Lugar |   `SoUris_001`  |                        1                       |
-|  🎖️ 4º Lugar |   `yLuquinhaz`  |                        1                       |
 |  🎖️ 4º Lugar |      `666`      |                        1                       |
 
 ## » Histórico do Evento
@@ -131,5 +131,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLVI - 23/06/2022  |     `Filiipe`    |        `SoUris_001`        |
 |  Edição XLVII - 29/06/2022  |   `yLuquinhaz`   |        `yLuquinhaz`        |
 |  Edição XLVIII - 06/07/2022 |       `666`      |            `666`           |
-|         Edição XLIX         |  `RyanGamer2004` |        `yLuquinhaz`        |
+|   Edição XLIX - 13/07/2022  |  `RyanGamer2004` |        `yLuquinhaz`        |
+|    Edição L - 20/07/2022    |   `yLuquinhaz`   |        `yLuquinhaz`        |
 

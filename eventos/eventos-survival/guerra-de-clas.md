@@ -73,6 +73,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 | **🎖** 5º Lugar |      \[VhL] Valhalla      |            3           |
 | **🎖** 6º Lugar |      \[B12] Calcitran     |            1           |
 | **🎖** 6º Lugar |       \[30P] 30Praum      |            1           |
+| **🎖** 6º Lugar |     \[666] The Ritual     |            1           |
 
 ## » Histórico do Evento
 
@@ -127,5 +128,5 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |  Edição XLVII - 26/06/2022  |     \[suN]     |      Sunshine      |
 |  Edição XLVIII - 03/07/2022 |     \[VhL]     |      Valhalla      |
 |   Edição XLIX - 10/07/2022  |     \[VhL]     |      Valhalla      |
-|    Edição L - 17/07/2022    |        -       |          -         |
+|    Edição L - 17/07/2022    |     \[666]     |     The Ritual     |
 |         Edição LI -         |        -       |          -         |

@@ -67,7 +67,6 @@
 * [🌳 Eventos Survival](eventos/eventos-do-servidor/README.md)
   * [🏹 Evento Arqueiro](eventos/eventos-do-servidor/evento-arqueiro.md)
   * [🌪 Evento Dominador (Arena)](eventos/eventos-survival/evento-dominador-arena.md)
-  * [🌪 Evento Dominador (Theend)](eventos/eventos-survival/evento-dominador-theend.md)
   * [🛡 Evento Gladiador](eventos/eventos-survival/evento-gladiador.md)
   * [🏆 Guerra de Clãs](eventos/eventos-survival/guerra-de-clas.md)
   * [⚔ Evento Guerreiro](eventos/eventos-survival/evento-guerreiro.md)
@@ -77,6 +76,7 @@
   * [🐲 Evento Caça ao Dragão](eventos/eventos-survival/evento-caca-ao-dragao.md)
   * [🏗 Evento de Construção](eventos/eventos-survival/evento-de-construcao.md)
   * [🗺 Evento Desbravador](eventos/eventos-survival/evento-desbravador.md)
+  * [🌪 Evento Dominador (Theend) - Arquivado](eventos/eventos-survival/evento-dominador-theend-arquivado.md)
 * [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
 
 ## ━━━━ Ajuda ━━━━

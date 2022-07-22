@@ -64,6 +64,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 5º Lugar |          \[uwu] Cerejinhas          |            1           |
 |  🎖️ 5º Lugar |       \[ODB] Oceano de Baiacus      |            1           |
 |  🎖️ 5º Lugar |            \[ReV] Revoada           |            1           |
+|  🎖️ 5º Lugar |             \[TkA] Taka             |            1           |
 
 ## » Histórico do Evento
 
@@ -96,3 +97,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição XLVII - 28/06/2022  |                \[VhL]               |               Valhalla              |
 |  Edição XLVIII - 05/07/2022 |                \[VhL]               |               Valhalla              |
 |   Edição XLIX - 12/07/2022  |                \[VhL]               |               Valhalla              |
+|    Edição L - 19/07/2022    |                \[TkA]               |                 Taka                |
