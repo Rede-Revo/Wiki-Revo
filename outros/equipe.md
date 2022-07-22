@@ -140,7 +140,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 #### Lista de Ajudantes
 
-* ****<img src="../.gitbook/assets/2048.png" alt="" data-size="line"> **BHOPERS (data de entrada: 24/06/2022)**
+* ****<img src="../.gitbook/assets/2048.png" alt="" data-size="line"> **yasta (data de entrada: 24/06/2022)**
 * ****<img src="../.gitbook/assets/image (16).png" alt="" data-size="line"> **Guimeirobr (data de entrada: 23/03/2022)**
 
 ## <img src="../.gitbook/assets/image (19).png" alt="" data-size="line"> Aprendiz
@@ -155,10 +155,10 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 
 #### Lista de Aprendizes
 
-* <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> **jesus536be (data de entrada: 16/06/2022)**
-* <img src="../.gitbook/assets/image (15) (1).png" alt="" data-size="line"> **Gutothefoda (data de entrada: 06/06/2022)**
-* ****<img src="../.gitbook/assets/2048 (1).png" alt="" data-size="line"> **Pedriin\_ (data de entrada: 13/07/2022)**
-* ****<img src="../.gitbook/assets/2048 (2).png" alt="" data-size="line"> **\_\_Mangustin1337 (data de entrada: 14/07/2022)**
+* ****<img src="../.gitbook/assets/2048 (5).png" alt="" data-size="line"> **Gutothefoda (data de entrada: 20/06/2022)**
+* ****<img src="../.gitbook/assets/2048 (1).png" alt="" data-size="line"> **Narciiso (data de entrada: 13/07/2022)**
+* <img src="../.gitbook/assets/2048 (6).png" alt="" data-size="line"> **\_BRAZINO777 (data de entrada: 14/07/2022)**
+* ****<img src="../.gitbook/assets/2048 (4).png" alt="" data-size="line"> **mxhado (data de entrada: 21/07/2022)**
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> Designer
 
