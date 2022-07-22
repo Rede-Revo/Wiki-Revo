@@ -21,3 +21,6 @@ Todas as provas possuem validade de 3 dias, caso o acontecido passe de 3 dias o 
 OBS: Para a [Regra 16 - Griefing](https://wiki.rederevo.com/regras/jogabilidade#01-5) as provas não possuem validade.
 {% endhint %}
 
+{% hint style="info" %}
+As contas são de responsabilidade do jogador. Não aceitamos desculpa de "Meu irmão entrou em minha conta", "Meu amigo que veio em minha casa que infringiu x regra". As punições são aplicadas na conta e não para a pessoa.
+{% endhint %}
