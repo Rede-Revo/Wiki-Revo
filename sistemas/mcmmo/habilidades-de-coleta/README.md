@@ -22,8 +22,8 @@ coverY: 0
 [herbalismo](herbalismo/)
 {% endcontent-ref %}
 
-{% content-ref url="escavacao.md" %}
-[escavacao.md](escavacao.md)
+{% content-ref url="escavacao/" %}
+[escavacao](escavacao/)
 {% endcontent-ref %}
 
 {% content-ref url="pesca.md" %}
