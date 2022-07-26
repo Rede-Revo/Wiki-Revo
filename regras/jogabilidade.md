@@ -165,7 +165,15 @@ O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros
 
 ## Regra 16 - Griefing <a href="#01" id="01"></a>
 
-Construir ou destruir de forma aleatória pelo mapa colocando lava, água, etc. Este tópico também se aplica para construções obscenas, tal como símbolos como suástica ou qualquer construção que infrinja quaisquer outras regras (regra mais rígida para casos perto de outras proteções.). Ser fora de um terreno ou dentro de um terreno que você tenha permissão não são indiferentes para esta regra. Essa regra não se aplica no mundo de recursos.
+Construir ou destruir de forma aleatória pelo mapa colocando lava, água, etc. Este tópico também se aplica para construções obscenas, tal como símbolos como suástica ou qualquer construção que infrinja quaisquer outras regras, inclui o fato de ser fora de um terreno ou dentro de um terreno que você tenha permissão.
+
+{% hint style="danger" %}
+Colocar blocos de forma aleatória prejudica o mesmo visualmente e está sujeito a punição, caso seja localizado locais com blocos aleatórios o autor será notificado por um membro da equipe, a recusa ou não remoção no prazo de até **3 dias** resultará em punição.
+{% endhint %}
+
+{% hint style="info" %}
+Dica: Para evitar problemas futuros, utilize os mundos de recursos, The End ou Nether para progredir missões que exigem altos valores de blocos colocados já que os mesmo são resetados periodicamente.
+{% endhint %}
 
 ### Lista de Punições <a href="#lista-de-punicoes-8" id="lista-de-punicoes-8"></a>
 
