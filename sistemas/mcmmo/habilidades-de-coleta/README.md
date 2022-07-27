@@ -26,6 +26,6 @@ coverY: 0
 [escavacao](escavacao/)
 {% endcontent-ref %}
 
-{% content-ref url="pesca.md" %}
-[pesca.md](pesca.md)
+{% content-ref url="pesca/" %}
+[pesca](pesca/)
 {% endcontent-ref %}

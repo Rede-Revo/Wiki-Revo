@@ -9,12 +9,12 @@ coverY: 0
 
 ## » As habilidades de combate
 
-{% content-ref url="desarmado.md" %}
-[desarmado.md](desarmado.md)
+{% content-ref url="desarmado/" %}
+[desarmado](desarmado/)
 {% endcontent-ref %}
 
-{% content-ref url="arquearia.md" %}
-[arquearia.md](arquearia.md)
+{% content-ref url="arquearia/" %}
+[arquearia](arquearia/)
 {% endcontent-ref %}
 
 {% content-ref url="espadas.md" %}
