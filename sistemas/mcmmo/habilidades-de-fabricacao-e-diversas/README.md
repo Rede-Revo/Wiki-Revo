@@ -9,20 +9,20 @@ coverY: 0
 
 ## » Habilidades de fabricação
 
-{% content-ref url="reparacao.md" %}
-[reparacao.md](reparacao.md)
+{% content-ref url="reparacao/" %}
+[reparacao](reparacao/)
 {% endcontent-ref %}
 
-{% content-ref url="alquimia.md" %}
-[alquimia.md](alquimia.md)
+{% content-ref url="alquimia/" %}
+[alquimia](alquimia/)
 {% endcontent-ref %}
 
-{% content-ref url="fundicao.md" %}
-[fundicao.md](fundicao.md)
+{% content-ref url="fundicao/" %}
+[fundicao](fundicao/)
 {% endcontent-ref %}
 
 ## » Habilidades diversas
 
-{% content-ref url="acrobacias.md" %}
-[acrobacias.md](acrobacias.md)
+{% content-ref url="acrobacias/" %}
+[acrobacias](acrobacias/)
 {% endcontent-ref %}

@@ -17,14 +17,14 @@ coverY: 0
 [arquearia](arquearia/)
 {% endcontent-ref %}
 
-{% content-ref url="espadas.md" %}
-[espadas.md](espadas.md)
+{% content-ref url="espadas/" %}
+[espadas](espadas/)
 {% endcontent-ref %}
 
-{% content-ref url="machados.md" %}
-[machados.md](machados.md)
+{% content-ref url="machados/" %}
+[machados](machados/)
 {% endcontent-ref %}
 
-{% content-ref url="domesticacao.md" %}
-[domesticacao.md](domesticacao.md)
+{% content-ref url="domesticacao/" %}
+[domesticacao](domesticacao/)
 {% endcontent-ref %}

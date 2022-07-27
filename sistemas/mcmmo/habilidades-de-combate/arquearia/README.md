@@ -17,6 +17,14 @@ coverY: 0
 [recuperacao-de-flechas.md](recuperacao-de-flechas.md)
 {% endcontent-ref %}
 
+{% content-ref url="proficiencia-em-tiros.md" %}
+[proficiencia-em-tiros.md](proficiencia-em-tiros.md)
+{% endcontent-ref %}
+
+{% content-ref url="quebra-de-limite.md" %}
+[quebra-de-limite.md](quebra-de-limite.md)
+{% endcontent-ref %}
+
 ## » Técnicas
 
 ## » Tabela de EXP ganho

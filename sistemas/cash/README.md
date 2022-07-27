@@ -5,7 +5,7 @@ description: >-
 coverY: 0
 ---
 
-# 💸 Cash
+# 🪙 Cash
 
 ## Onde posso conseguir Cash?
 
