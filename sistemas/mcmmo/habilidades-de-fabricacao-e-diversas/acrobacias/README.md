@@ -23,3 +23,9 @@ coverY: 0
 ## » Técnicas
 
 ## » Tabela de EXP ganho
+
+| » Ação «                                                                                                                             | » EXP « |   |
+| ------------------------------------------------------------------------------------------------------------------------------------ | :-----: | - |
+| <img src="../../../../.gitbook/assets/Botas_de_Couro.webp" alt="" data-size="line"> Ao cair                                          |   600   |   |
+| <img src="../../../../.gitbook/assets/Botas_de_Diamante.webp" alt="" data-size="line"> Ao [rolar](rolar.md)                          |   600   |   |
+| <img src="../../../../.gitbook/assets/Netherite_Boots_JE2_BE1.webp" alt="" data-size="line"> Ao [esquivar](esquivar.md) de um ataque |   800   |   |
