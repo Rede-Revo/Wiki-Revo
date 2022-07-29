@@ -1,5 +1,6 @@
 ---
 description: Bem vindo a Wiki da Rede Revo!
+cover: .gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

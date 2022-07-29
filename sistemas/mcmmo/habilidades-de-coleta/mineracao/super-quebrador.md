@@ -1,5 +1,6 @@
 ---
 description: Mais velocidade + chance de drops triplos.
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

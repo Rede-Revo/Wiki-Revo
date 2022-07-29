@@ -2,6 +2,7 @@
 description: >-
   Mineração é uma habilidade focada na mineração. Uma das vantagens mais
   visíveis é um maior rendimento nos drops de minérios.
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

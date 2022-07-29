@@ -2,6 +2,7 @@
 description: >-
   Para uma melhor jogabilidade no servidor fique atento as regras e as leia
   atentamente.
+cover: ../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

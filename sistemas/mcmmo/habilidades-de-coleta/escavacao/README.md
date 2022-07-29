@@ -1,5 +1,6 @@
 ---
 description: Aprimore suas escavações com a habilidade de escavação!
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

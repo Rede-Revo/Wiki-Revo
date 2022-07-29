@@ -1,5 +1,6 @@
 ---
 description: Aprimore sua luta com Arcos com a habilidade de Arquearia!
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
@@ -21,8 +22,8 @@ coverY: 0
 [proficiencia-em-tiros.md](proficiencia-em-tiros.md)
 {% endcontent-ref %}
 
-{% content-ref url="quebra-de-limite.md" %}
-[quebra-de-limite.md](quebra-de-limite.md)
+{% content-ref url="quebra-de-limite-de-arqueiro.md" %}
+[quebra-de-limite-de-arqueiro.md](quebra-de-limite-de-arqueiro.md)
 {% endcontent-ref %}
 
 ## » Técnicas

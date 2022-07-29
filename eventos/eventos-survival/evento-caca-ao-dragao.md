@@ -2,6 +2,7 @@
 description: >-
   Todas as informações que você precisa saber sobre o evento temporal Caça ao
   Dragão (Slayer).
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

@@ -1,5 +1,6 @@
 ---
 description: Aprimore sua luta desarmado com a habilidade de Desarmado!
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
@@ -21,8 +22,8 @@ coverY: 0
 [furia.md](furia.md)
 {% endcontent-ref %}
 
-{% content-ref url="quebra-de-limite.md" %}
-[quebra-de-limite.md](quebra-de-limite.md)
+{% content-ref url="quebra-de-limite-de-desarmado.md" %}
+[quebra-de-limite-de-desarmado.md](quebra-de-limite-de-desarmado.md)
 {% endcontent-ref %}
 
 {% content-ref url="desviar-flechas.md" %}

@@ -1,5 +1,6 @@
 ---
 description: Lista com cargos e funções da equipe do servidor.
+cover: ../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

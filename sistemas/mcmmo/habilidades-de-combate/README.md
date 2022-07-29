@@ -2,12 +2,13 @@
 description: >-
   Habilidades de combate podem lhe fornecer stats extra, como mais dano, mais
   resistência, etc.
+cover: ../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
 # ⚔ Habilidades de Combate
 
-## » As habilidades de combate
+## » Habilidades de combate
 
 {% content-ref url="desarmado/" %}
 [desarmado](desarmado/)

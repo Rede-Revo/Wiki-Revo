@@ -2,6 +2,7 @@
 description: >-
   Esta habilidade é uma sub-habilidade que adiciona mais eficiência em
   fornalhas.
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

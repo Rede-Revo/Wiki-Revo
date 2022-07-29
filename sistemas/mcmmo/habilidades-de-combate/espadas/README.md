@@ -1,5 +1,6 @@
 ---
 description: Melhore sua luta com Espadas com esta habilidade!
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

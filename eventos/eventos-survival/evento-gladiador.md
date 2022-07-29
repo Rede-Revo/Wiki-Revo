@@ -1,5 +1,6 @@
 ---
 description: Todas as informações que você precisa saber sobre o evento semanal Gladiador.
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

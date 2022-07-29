@@ -2,6 +2,7 @@
 description: >-
   Ao entrar no servidor você não consegue ver a skin correta dos jogadores? Aqui
   você encontrará a solução para o seu problema!
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

@@ -2,6 +2,7 @@
 description: >-
   Utilize uma bancada de ferraria para reparar seus itens... Tem aquele item que
   aparece "Muito caro"? Repare com esta habilidade.
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

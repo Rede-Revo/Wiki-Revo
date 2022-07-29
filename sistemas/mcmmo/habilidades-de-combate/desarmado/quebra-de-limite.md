@@ -1,2 +1,0 @@
-# 🏋 Quebra de Limite
-

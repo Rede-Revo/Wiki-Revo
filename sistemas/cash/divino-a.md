@@ -1,5 +1,6 @@
 ---
 description: O que é o cargo Divino(a) e como conseguir?
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

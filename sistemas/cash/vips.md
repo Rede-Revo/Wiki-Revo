@@ -1,5 +1,6 @@
 ---
 description: Lista de benefícios de cada Rank.
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

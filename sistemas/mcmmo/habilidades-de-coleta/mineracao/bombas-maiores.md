@@ -1,5 +1,6 @@
 ---
 description: Aumenta o raio de explosão da habilidade Mineração Explosiva.
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

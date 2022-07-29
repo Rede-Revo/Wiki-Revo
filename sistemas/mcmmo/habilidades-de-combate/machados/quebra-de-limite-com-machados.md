@@ -3,5 +3,5 @@ cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
-# 🐾 Patada
+# 💪 Quebra de Limite com Machados
 

@@ -1,5 +1,6 @@
 ---
 description: Aprimore a luta com animais domesticáveis com esta habilidade!
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

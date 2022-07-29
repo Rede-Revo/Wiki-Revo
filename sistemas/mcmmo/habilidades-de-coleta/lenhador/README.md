@@ -1,5 +1,6 @@
 ---
 description: Lenhador é uma habilidade focada no corte de árvores utilizando um machado.
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

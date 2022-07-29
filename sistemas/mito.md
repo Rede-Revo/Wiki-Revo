@@ -1,5 +1,6 @@
 ---
 description: Todas as informações importantes sobre o sistema de Mito são aqui encontradas!
+cover: ../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

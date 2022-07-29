@@ -1,5 +1,6 @@
 ---
 description: Bônus para mineração com TNT.
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

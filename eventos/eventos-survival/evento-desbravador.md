@@ -1,5 +1,6 @@
 ---
 description: Saiba todas as informações sobre o evento temporal Desbravador!
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
@@ -11,6 +12,7 @@ coverY: 0
 | :-----------: | :------------: | :------------------------: |
 |  🥇 1º Lugar  |    `Carros2`   |              1             |
 |  🥇 1º Lugar  |    `VITAOVM`   |              1             |
+|  🥇 1º Lugar  |  `*DaviZoneZ`  |              1             |
 
 ## » Histórico do Evento
 
@@ -19,4 +21,4 @@ coverY: 0
 |  Edição I, Temporada Medieval  |      `N/A`      |   |
 | Edição II, Temporada SteamPunk |    `Carros2`    |   |
 |  Edição III, Temporada Pirata  |    `VITAOVM`    |   |
-|  Edição IV, Temporada Tropical |        -        |   |
+|  Edição IV, Temporada Tropical |   `*DaviZoneZ`  |   |

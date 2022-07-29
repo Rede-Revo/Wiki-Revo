@@ -1,5 +1,6 @@
 ---
 description: Todas as informações que você precisa saber sobre o evento semanal Dominador.
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

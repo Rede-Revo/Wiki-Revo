@@ -1,5 +1,6 @@
 ---
 description: Reduz o dano recebido por explosões de TNT.
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

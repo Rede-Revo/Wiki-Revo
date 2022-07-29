@@ -1,5 +1,6 @@
 ---
 description: Aprimore sua pesca com a habilidade de Pescaria!
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

@@ -1,9 +1,10 @@
 ---
 description: Todas as informações que você precisa saber sobre o evento semanal Dominador.
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
-# 🌪 Evento Dominador (Theend)
+# 🌪 Evento Dominador (Theend) - Arquivado
 
 ## » Como Funciona
 
@@ -53,8 +54,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | » Colocação « |     » Clã «    | » Quantidade de Vitórias « |
 | :-----------: | :------------: | :------------------------: |
 |  🥇 1º Lugar  | VhL - Valhalla |              4             |
-|  🥈 2º Lugar  |       N/A      |              -             |
-|  🥉 3º Lugar  |       N/A      |              -             |
 
 ## » Histórico do Evento
 

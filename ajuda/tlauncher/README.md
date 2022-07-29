@@ -2,6 +2,7 @@
 description: >-
   Nem todos os jogadores de Minecraft possuem uma conta original, então aqui
   temos algumas dicas para resolução de problemas comuns no TLauncher
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

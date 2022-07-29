@@ -2,6 +2,7 @@
 description: >-
   Temporadas duram em média 90 dias e alteram coisas diversas de nossos
   servidores.
+cover: ../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

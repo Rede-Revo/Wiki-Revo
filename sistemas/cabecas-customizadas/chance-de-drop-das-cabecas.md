@@ -2,6 +2,7 @@
 description: >-
   Em nosso servidor todos os mobs do jogo possuem alguma chance de dropar a sua
   cabeça, segue a lista com a chance de drop de cada um
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

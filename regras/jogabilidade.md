@@ -3,6 +3,7 @@ description: >-
   O descumprimento de regras resultará em Punição, então para uma melhor
   jogabilidade leia e respeite as mesmas, está seção é aplicável a ações feitas
   na jogabilidade do servidor.
+cover: ../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

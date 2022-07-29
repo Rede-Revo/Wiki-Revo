@@ -2,6 +2,7 @@
 description: >-
   Um resource pack feito por nossa equipe para deixar o jogo mais divertido e
   interativo
+cover: ../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

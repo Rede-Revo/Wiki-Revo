@@ -1,5 +1,6 @@
 ---
 description: Tempo inativo necessário para terrenos serem consideradas abandonadas.
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

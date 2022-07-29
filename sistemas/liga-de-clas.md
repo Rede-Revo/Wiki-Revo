@@ -3,6 +3,7 @@ description: >-
   Reúna membros, crie seu império e destaquem-se no servidor, ações realizadas
   pelos membros dos clã geram pontos de liga, os melhores clãs são
   recompensados!
+cover: ../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

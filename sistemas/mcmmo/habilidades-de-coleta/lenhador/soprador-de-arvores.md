@@ -1,5 +1,6 @@
 ---
 description: Sopre as folhas!
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

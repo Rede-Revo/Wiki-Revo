@@ -1,5 +1,6 @@
 ---
 description: Aprimore suas colheitas com a habilidade de Herbalismo!
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

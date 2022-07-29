@@ -1,5 +1,6 @@
 ---
 description: Aprimore a luta com Machados com esta habilidade!
+cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
@@ -25,8 +26,8 @@ coverY: 0
 [racha-cranio.md](racha-cranio.md)
 {% endcontent-ref %}
 
-{% content-ref url="quebrador-de-limites.md" %}
-[quebrador-de-limites.md](quebrador-de-limites.md)
+{% content-ref url="quebra-de-limite-com-machados.md" %}
+[quebra-de-limite-com-machados.md](quebra-de-limite-com-machados.md)
 {% endcontent-ref %}
 
 {% content-ref url="grande-impacto.md" %}
