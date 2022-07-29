@@ -22,8 +22,8 @@ coverY: 0
 [proficiencia-em-tiros.md](proficiencia-em-tiros.md)
 {% endcontent-ref %}
 
-{% content-ref url="quebra-de-limite-de-arqueiro.md" %}
-[quebra-de-limite-de-arqueiro.md](quebra-de-limite-de-arqueiro.md)
+{% content-ref url="quebra-de-limite.md" %}
+[quebra-de-limite.md](quebra-de-limite.md)
 {% endcontent-ref %}
 
 ## » Técnicas

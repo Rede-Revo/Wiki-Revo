@@ -22,8 +22,8 @@ coverY: 0
 [furia.md](furia.md)
 {% endcontent-ref %}
 
-{% content-ref url="quebra-de-limite-de-desarmado.md" %}
-[quebra-de-limite-de-desarmado.md](quebra-de-limite-de-desarmado.md)
+{% content-ref url="quebra-de-limite.md" %}
+[quebra-de-limite.md](quebra-de-limite.md)
 {% endcontent-ref %}
 
 {% content-ref url="desviar-flechas.md" %}

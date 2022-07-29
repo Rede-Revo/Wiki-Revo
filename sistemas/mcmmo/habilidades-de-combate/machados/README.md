@@ -26,8 +26,8 @@ coverY: 0
 [racha-cranio.md](racha-cranio.md)
 {% endcontent-ref %}
 
-{% content-ref url="quebra-de-limite-com-machados.md" %}
-[quebra-de-limite-com-machados.md](quebra-de-limite-com-machados.md)
+{% content-ref url="quebrador-de-limites.md" %}
+[quebrador-de-limites.md](quebrador-de-limites.md)
 {% endcontent-ref %}
 
 {% content-ref url="grande-impacto.md" %}

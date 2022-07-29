@@ -61,18 +61,19 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## » Ranking de Últimos Sobreviventes
 
-| » Colocação « |  » Jogador(a) «  | » Número de Vezes Último(a) Sobrevivente « |
-| :-----------: | :--------------: | :----------------------------------------: |
-|  🥇 1º Lugar  |    `_IRagnar`    |                      2                     |
-|  🥇 1º Lugar  |    `Pedriin_`    |                      2                     |
-|  🥉 3º Lugar  | `universalizado` |                      1                     |
-|  🥉 3º Lugar  |    `_Giffoni`    |                      1                     |
-|  🥉 3º Lugar  |     `shyyyy`     |                      1                     |
-|  🥉 3º Lugar  |    `ClaxmeteR`   |                      1                     |
-|  🥉 3º Lugar  |  `falcaonava12`  |                      1                     |
-|  🥉 3º Lugar  |    `new_miza`    |                      1                     |
-|  🥉 3º Lugar  |   `kaduzinsan`   |                      1                     |
-|  🥉 3º Lugar  |     \_gueiibs    |                      1                     |
+|  » Colocação «  |  » Jogador(a) «  | » Número de Vezes Último(a) Sobrevivente « |
+| :-------------: | :--------------: | :----------------------------------------: |
+|   🥇 1º Lugar   |    `_IRagnar`    |                      2                     |
+|   🥇 1º Lugar   |    `Pedriin_`    |                      2                     |
+|   🥇 1º Lugar   |    `_Giffoni`    |                      2                     |
+| **🎖** 4º Lugar | `universalizado` |                      1                     |
+| **🎖** 4º Lugar |     `shyyyy`     |                      1                     |
+| **🎖** 4º Lugar |    `ClaxmeteR`   |                      1                     |
+| **🎖** 4º Lugar |  `falcaonava12`  |                      1                     |
+| **🎖** 4º Lugar |    `new_miza`    |                      1                     |
+| **🎖** 4º Lugar |   `kaduzinsan`   |                      1                     |
+| **🎖** 4º Lugar |    `_gueiibs`    |                      1                     |
+| **🎖** 4º Lugar |     `Krenzif`    |                      1                     |
 
 ## » Ranking de Matadores
 
@@ -82,11 +83,12 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   🥈 2º Lugar   | `falcaonava12` |                2               |
 |   🥈 2º Lugar   |   `_IRagnar`   |                2               |
 |   🥈 2º Lugar   |  `kaduzinsan`  |                2               |
+|   🥈 2º Lugar   |   `ClaxMeteR`  |                2               |
 | **🎖** 5º Lugar |    `shyyyy`    |                1               |
 | **🎖** 5º Lugar |   `banzinbr7`  |                1               |
 | **🎖** 5º Lugar |  `MT_MIRANDA`  |                1               |
-| **🎖** 5º Lugar |   `ClaxmeteR`  |                1               |
 | **🎖** 5º Lugar |   `new_miza`   |                1               |
+| **🎖** 5º Lugar |    `Krenzif`   |                1               |
 
 ## » Histórico do Evento
 
@@ -104,4 +106,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição X - 25/06/2022  |         `Pedriin_`         |   `_IRagnar`   |
 |  Edição XI - 02/07/2022  |        `kaduzinsan`        |  `kaduzinsan`  |
 |  Edição XII - 09/07/2022 |         `_gueiibs`         |  `kaduzinsan`  |
+| Edição XIII - 16/07/2022 |         `_Giffoni`         |   `ClaxMeteR`  |
+|  Edição XIV - 23/07/2022 |          `Krenzif`         |    `Krenzif`   |
 
