@@ -21,8 +21,8 @@ coverY: 0
 
 #### Lista de Diretores
 
-* [<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) **Nevisk  (data de entrada: 23/05/2021)**
-* ****<img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> **thiagogebrim  (data de entrada: 23/05/2021)**
+* [<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) **Nevisk  (data de entrada: 21/05/2021)**
+* ****<img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> **thiagogebrim  (data de entrada: 21/05/2021)**
 
 ## <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> Gerente
 
@@ -37,7 +37,7 @@ O cargo de **gerente** tem muita relevância e sempre possui muitas responsabili
 
 #### Lista de Gerentes
 
-* <img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line"> **Gutoh\_ (data de entrada: 23/05/2021)**
+* <img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" data-size="line"> **Gutoh\_ (data de entrada: 21/05/2021)**
 * ****<img src="../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt="" data-size="line"> **julgzin (data de entrada: 21/06/2021)**
 
 ## <img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> Desenvolvedor(a)
