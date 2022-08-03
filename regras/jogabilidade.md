@@ -147,7 +147,7 @@ Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relac
 * Homes ou warps de armadilhas (trap) com finalidade exclusiva de matar um player e se apossar de seus itens;
 * Inventar histórias ou induzir jogadores a enviar pedidos de teletransporte e matá-los em seguida (fake chat);
 * Criar uma proteção a menos de 50 blocos de outro jogador atrapalhando o mesmo de expandir;
-* Editar itens seja seu nome, lore ou encantamento com intuito de confundir jogadores (Renomear um gancho de armadilha com nome de chave misteriosa por exemplo);
+* Editar itens seja seu nome, lore ou encantamento com intuito de confundir jogadores (Renomear um gancho de armadilha com nome de chave misteriosa por exemplo). Inclui a edição de itens que induza algo mas na verdade não é aquilo, caracterizando um item falso, por exemplo: colocar apenas uma parte da shulker com 64 de um determinado item e o resto colocar apenas um item por slot da capacidade da shulker, enganando o jogador.
 * Mandar TPA para algum jogador com finalidade exclusiva de o prejudicar e se apossar de seus itens;
 * Perseguir jogadores por meio da jogabilidade, com meio exclusivo de o prejudicar (ficar em volta de proteções esperando o jogador sair da mesma com finalidade exclusiva de o perturbar/matar, por exemplo). Casos de perseguição o jogador denunciado será previamente avisado para parar de agir de tal modo, posteriormente ao aviso, se persistir, será punido.
 
