@@ -143,6 +143,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 * ****<img src="../.gitbook/assets/2048.png" alt="" data-size="line"> **yasta (data de entrada: 24/06/2022)**
 * ****<img src="../.gitbook/assets/image (16).png" alt="" data-size="line"> **Guimeirobr (data de entrada: 23/03/2022)**
+* <img src="../.gitbook/assets/2048 (9).png" alt="" data-size="line"> **MonarkaIsBack (data de entrada: 25/07/2022)**
 
 ## <img src="../.gitbook/assets/image (19).png" alt="" data-size="line"> Aprendiz
 
@@ -159,7 +160,6 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 * ****<img src="../.gitbook/assets/2048 (5).png" alt="" data-size="line"> **Gutothefoda (data de entrada: 20/06/2022)**
 * ****<img src="../.gitbook/assets/2048 (1).png" alt="" data-size="line"> **Narciiso (data de entrada: 13/07/2022)**
 * ****<img src="../.gitbook/assets/2048 (4).png" alt="" data-size="line"> **mxhado (data de entrada: 21/07/2022)**
-* ****<img src="../.gitbook/assets/2048 (9).png" alt="" data-size="line"> **MonarkaIsBack (data de entrada: 25/07/2022)**
 * ****<img src="../.gitbook/assets/2048 (7).png" alt="" data-size="line"> **ScaryRT (data de entrada: 26/07/2022)**
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> Designer
@@ -174,4 +174,3 @@ O **Designer** é o responsável pelo desenvolvimento da parte visual do servido
 #### Lista de Designers
 
 * <img src="../.gitbook/assets/2048 (1) (1).png" alt="" data-size="line"> **ThojY**
-* ****<img src="../.gitbook/assets/2048 (2) (1).png" alt="" data-size="line"> **TazerManof**
