@@ -13,6 +13,7 @@ Herbalismo é uma habilidade no McMMO que governa a capacidade de colher plantas
 * [x] Ferramentas usadas: ![](../../../../.gitbook/assets/IronHoe.webp) Enxada (para a habilidade [Terra Verde](terra-verde.md)), <img src="../../../../.gitbook/assets/3922-wooden-sword.png" alt="" data-size="line"> Espada (para a habilidade [Sorte de Hylian](sorte-de-hylian.md)) e mão.
 * [x] Habilidades: _Ativas:_ Terra Verde, Polegar Cogumelo; _Passivas:_ Polegar Verde, Dieta de Fazendeiro, Sorte de Hylian, Drops Duplos.
 * [x] Interage com: ![](../../../../.gitbook/assets/Cobblestone.webp) Pedregulho, <img src="../../../../.gitbook/assets/Stone_Bricks_JE3_BE2.webp" alt="" data-size="line"> Tijolos de Pedra, ![](../../../../.gitbook/assets/Dirt.webp) Terra e <img src="../../../../.gitbook/assets/d50ac60f23db47ec44081b33aa566ed7-7.jpg" alt="" data-size="line"> Plantações em um geral.
+* [x] Up ao quebrar plantações com enxada.
 
 ## » Habilidades
 

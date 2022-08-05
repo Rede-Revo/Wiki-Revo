@@ -8,6 +8,15 @@ coverY: 0
 
 ![](../../../../.gitbook/assets/AxesSkill.webp)
 
+**Machados** é uma habilidade baseada no uso da ferramenta machado como arma para lutar contra mobs e outros jogadores. Adiciona mais variedade à jogabilidade ao introduzir um novo tipo de arma viável para muitas situações.
+
+Os machados podem ser muito úteis no PvP, pois podem quebrar armaduras rapidamente e causar danos críticos. Dependendo do nível do seu machado, é possível quebrar a armadura em um ritmo muito rápido. Os machados também podem ser muito úteis se você estiver lutando 1v2, pois a habilidade ativa permite que você cause dano em área.
+
+* [x] Ferramenta usada: <img src="../../../../.gitbook/assets/Stoneaxe.webp" alt="" data-size="line">Machado de qualquer material.
+* [x] Interage com mobs e jogadores.
+* [x] Habilidades: _Ativas:_ Racha Crânio; _Passivas:_ Grande Impacto, Quebra de Limite com Machados, Maestria com Machados, Golpes Críticos e Impacto em Armaduras.
+* [x] Up ao bater em jogadores ou mobs com machado.
+
 ## » Habilidades
 
 {% content-ref url="impacto-em-armaduras.md" %}
