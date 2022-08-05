@@ -8,6 +8,15 @@ coverY: 0
 
 ![](../../../../.gitbook/assets/ArcherySkill.webp)
 
+A habilidade de arquearia consiste no disparo com um arco e flecha ou uma besta. Dá várias vantagens no combate, tais como aumento do dano e a capacidade de atordoar os seus adversários em PvP. Além disso, pode recuperar algumas das suas flechas desperdiçadas em seus inimigos.
+
+O dano causado por arco e besta é definido de acordo com a distância com seu inimigo: quanto mais longe maior o dano.
+
+* [x] Ferramentas usadas: <img src="../../../../.gitbook/assets/8483-minecraftbow.png" alt="" data-size="line">Arco e <img src="../../../../.gitbook/assets/Crossbow_Pull_1.webp" alt="" data-size="line">Besta.
+* [x] Interage com jogadores e mobs.
+* [x] Habilidades: _passivas:_ Atordoar, Proficiência em Tiros, Quebra de Limite de Arqueiro, Recuperação de Flechas; _ativas:_ N/A.
+* [x] Up ao atirar com um arco ou besta em jogadores ou mobs.
+
 ## » Habilidades
 
 {% content-ref url="atordoar.md" %}

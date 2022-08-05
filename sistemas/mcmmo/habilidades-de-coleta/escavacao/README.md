@@ -8,6 +8,8 @@ coverY: 0
 
 ![](../../../../.gitbook/assets/ExcavationSkill.webp)
 
+**Escavação** é uma habilidade baseada na quebra de blocos escaváveis.&#x20;
+
 ## » Habilidades
 
 {% content-ref url="arqueologia.md" %}

@@ -1,5 +1,5 @@
 ---
-description: Cause Knockback + dano em mobs
+description: Cause Knockback e mais dano em inimigos!
 cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
