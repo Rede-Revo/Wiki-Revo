@@ -62,9 +62,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥇 1º Lugar |     `Filiipe`    |                4                |
 |  🥈 2º Lugar |   `Mat_redston`  |                3                |
 |  🥈 2º Lugar |   `yLuquinhaz`   |                3                |
-| 🎖️ 4º Lugar |    `new_miza`    |                2                |
-| 🎖️ 4º Lugar |    `_Giffoni`    |                2                |
-| 🎖️ 4º Lugar |  `RyanGamer2004` |                2                |
+|  🏅 4º Lugar |    `new_miza`    |                2                |
+|  🏅 4º Lugar |    `_Giffoni`    |                2                |
+|  🏅 4º Lugar |  `RyanGamer2004` |                2                |
 | 🎖️ 7º Lugar |     `Cebolx`     |                1                |
 | 🎖️ 7º Lugar | `FastDoughnut05` |                1                |
 | 🎖️ 7º Lugar |     `iSamBr_`    |                1                |

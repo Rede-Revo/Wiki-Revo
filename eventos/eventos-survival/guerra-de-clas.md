@@ -70,7 +70,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |   🥇 1º Lugar   |      \[sbN] SiberiaN      |           18           |
 |   🥈 2º Lugar   |       \[ZZZ] Bloods       |           13           |
 |   🥉 3º Lugar   |      \[suN] Sunshine      |            7           |
-| **🎖** 4º Lugar | \[knS] Kawamura no Senshi |            6           |
+|   🏅 4º Lugar   | \[knS] Kawamura no Senshi |            6           |
 | **🎖** 5º Lugar |      \[VhL] Valhalla      |            3           |
 | **🎖** 6º Lugar |     \[666] The Ritual     |            2           |
 | **🎖** 7º Lugar |      \[B12] Calcitran     |            1           |

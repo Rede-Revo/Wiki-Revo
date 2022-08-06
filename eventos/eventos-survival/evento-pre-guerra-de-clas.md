@@ -58,8 +58,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥇 1º Lugar  |           \[VhL] Valhalla           |            7           |
 |  🥈 2º Lugar  |            \[ZZZ] Bloods            |            6           |
 |  🥉 3º Lugar  |          \[666] The Ritual          |            4           |
-|  🎖️ 4º Lugar |           \[suN] Sunshine           |            3           |
-|  🎖️ 4º Lugar |             \[TkA] Taka             |            3           |
+|  🏅 4º Lugar  |           \[suN] Sunshine           |            3           |
+|  🏅 4º Lugar  |             \[TkA] Taka             |            3           |
 |  🎖️ 6º Lugar |           \[Nbs] Nairebis           |            1           |
 |  🎖️ 6º Lugar |           \[SbN] SiberiaN           |            1           |
 |  🎖️ 6º Lugar | \[PAT] De dia Assada de noite Frita |            1           |

@@ -61,8 +61,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥈 1º Lugar  |            \[ZZZ] Bloods            |            6           |
 |  🥉 3º Lugar  |          \[uwu] Cerejinhas          |            3           |
 |  🥉 3º Lugar  |           \[suN] Sunshine           |            3           |
-|  🎖️ 5º Lugar |           \[sbN] SiberiaN           |            2           |
-|  🎖️ 5º Lugar |          \[666] The Ritual          |            2           |
+|  🏅 5º Lugar  |           \[sbN] SiberiaN           |            2           |
+|  🏅 5º Lugar  |          \[666] The Ritual          |            2           |
 |  🎖️ 7º Lugar | \[PAT] De dia Assada de noite Frita |            1           |
 |  🎖️ 7º Lugar |            \[ZZ2] Bloods            |            1           |
 |  🎖️ 7º Lugar |      \[knS] Kawamura no Senshi      |            1           |

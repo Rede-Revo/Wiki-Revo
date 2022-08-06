@@ -48,14 +48,14 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥈 2º Lugar  |  `MT_MIRANDA`  |              1             |
 |  🥈 2º Lugar  |    `shyyyy`    |              1             |
 |  🥈 2º Lugar  |    `Krenzif`   |              1             |
+|  🥈 2º Lugar  |  `Heinokramm`  |              1             |
 
 ## » Ranking de Clãs Vencedores
 
-| » Colocação « |      » Clã «     | » Quantidade de Vitórias « |
-| :-----------: | :--------------: | :------------------------: |
-|  🥇 1º Lugar  |  VhL - Valhalla  |              3             |
-|   🥈2º Lugar  | 666 - The Ritual |              2             |
-|   🥉3º Lugar  |        N/A       |              -             |
+| » Colocação « |      » Clã «      | » Quantidade de Vitórias « |
+| :-----------: | :---------------: | :------------------------: |
+|  🥇 1º Lugar  |  \[VhL] Valhalla  |              3             |
+|  🥇 1º Lugar  | \[666] The Ritual |              3             |
 
 ## » Histórico do Evento
 

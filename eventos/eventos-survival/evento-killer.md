@@ -63,7 +63,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥈 2º Lugar  | `falcaonava12` |                4                |
 |  🥉 3º Lugar  |   `banzinbr7`  |                2                |
 |  🥉 3º Lugar  |   `_Giffoni`   |                2                |
-|  🎖️5º Lugar  |  `____Why___`  |                1                |
+|  🎖️ 5º Lugar |  `____Why___`  |                1                |
 |  🎖️ 5º Lugar | `koalaISOLADO` |                1                |
 |  🎖️ 5º Lugar |   `HDQueiroz`  |                1                |
 |  🎖️ 5º Lugar |    `jakseli`   |                1                |
