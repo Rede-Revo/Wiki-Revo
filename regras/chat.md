@@ -12,7 +12,7 @@ coverY: 0
 
 
 {% hint style="danger" %}
-Para jogadores com menos de **24** **horas** (o reset de tempo online nas temporadas não reseta esse histórico) de servidor(novatos): Antes de qualquer punição de chat o(a) jogador(a) será alertado(a) previamente por um membro da staff e ficará marcado com um alerta temporário, ao atingir 2 alertas o jogador será punido.
+Para jogadores com menos de **24** **horas** (o reset de tempo online nas temporadas não reseta esse histórico) de servidor (novatos): Antes de qualquer punição de chat o(a) jogador(a) será alertado(a) previamente por um membro da staff e ficará marcado com um alerta temporário, ao atingir 2 alertas o jogador será punido.
 {% endhint %}
 
 {% hint style="danger" %}
