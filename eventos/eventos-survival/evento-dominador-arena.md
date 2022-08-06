@@ -59,10 +59,11 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## » Histórico do Evento
 
-|        » Edição «       | » Clã Vencedor « | » Jogador Dominador « |
-| :---------------------: | :--------------: | :-------------------: |
-|  Edição I - 25/06/2022  |  VhL - Valhalla  |      `MT_MIRANDA`     |
-|  Edição II - 02/07/2022 |  VhL - Valhalla  |        `shyyyy`       |
-| Edição III - 09/07/2022 |  VhL - Valhalla  |       `Krenzif`       |
-|  Edição IV - 16/07/2022 | 666 - The Ritual |       `Nefesto`       |
-|  Edição V - 23/07/2022  | 666 - The Ritual |       `Nefesto`       |
+|        » Edição «       |  » Clã Vencedor « | » Jogador Dominador « |
+| :---------------------: | :---------------: | :-------------------: |
+|  Edição I - 25/06/2022  |  \[VhL] Valhalla  |      `MT_MIRANDA`     |
+|  Edição II - 02/07/2022 |  \[VhL] Valhalla  |        `shyyyy`       |
+| Edição III - 09/07/2022 |  \[VhL] Valhalla  |       `Krenzif`       |
+|  Edição IV - 16/07/2022 | \[666] The Ritual |       `Nefesto`       |
+|  Edição V - 23/07/2022  | \[666] The Ritual |       `Nefesto`       |
+|  Edição VI - 30/07/2022 | \[666] The Ritual |      `Heinokramm`     |

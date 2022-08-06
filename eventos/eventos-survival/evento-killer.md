@@ -76,6 +76,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 5º Lugar |   `ClaxmeteR`  |                1                |
 |  🎖️ 5º Lugar |   `_gueiibs`   |                1                |
 |  🎖️ 5º Lugar |    `eusoujc`   |                1                |
+|  🎖️ 5º Lugar |      `666`     |                1                |
+|  🎖️ 5º Lugar |    `shooqy`    |                1                |
 
 ## » Ranking de Últimos Sobreviventes
 
@@ -101,6 +103,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 4º Lugar |  `yLuquinhaz`  |                        1                       |
 |  🎖️ 4º Lugar |   `zKnusttZ`   |                        1                       |
 |  🎖️ 4º Lugar |    `Krenzif`   |                        1                       |
+|  🎖️ 4º Lugar |   `Maritopx`   |                        1                       |
+|  🎖️ 4º Lugar |    `shooqy`    |                        1                       |
 
 ## » Histórico do Evento
 
@@ -134,3 +138,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição XLVIII - 08/07/2022 |              `_gueiibs`             |             `falcaonava12`            |
 |   Edição XLIX - 15/07/2022  |              `eusoujc`              |               `zKnusttZ`              |
 |    Edição L - 22/07/2022    |              `Krenzif`              |               `Krenzif`               |
+|    Edição LI - 29/07/2022   |                `666`                |               `Maritopx`              |
+|   Edição LII - 05/08/2022   |               `shooqy`              |                `shooqy`               |

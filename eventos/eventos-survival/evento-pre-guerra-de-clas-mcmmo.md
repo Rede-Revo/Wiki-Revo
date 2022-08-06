@@ -65,7 +65,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 5º Lugar |          \[666] The Ritual          |            2           |
 |  🎖️ 7º Lugar | \[PAT] De dia Assada de noite Frita |            1           |
 |  🎖️ 7º Lugar |            \[ZZ2] Bloods            |            1           |
-|  🎖️ 7º Lugar |       \[knS] Kawamura no Sensh      |            1           |
+|  🎖️ 7º Lugar |      \[knS] Kawamura no Senshi      |            1           |
+|  🎖️ 7º Lugar |             \[TkA] Taka             |            1           |
 
 ## » Histórico do Evento
 
@@ -99,3 +100,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLIX - 14/07/2022  |                \[VhL]               |               Valhalla              |
 |    Edição L - 21/07/2022    |                \[VhL]               |               Valhalla              |
 |    Edição LI - 28/07/2022   |                \[VhL]               |               Valhalla              |
+|   Edição LII - 04/08/2022   |                \[TkA]               |                 Taka                |

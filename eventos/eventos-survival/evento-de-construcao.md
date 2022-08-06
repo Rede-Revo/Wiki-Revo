@@ -18,7 +18,7 @@ coverY: 0
 |  🥉 3º Lugar  |     `Filiipe`     |            3           |
 |  🎖️ 5º Lugar |    `BlackFlame`   |            2           |
 |  🎖️ 5º Lugar |    `_Magrinho`    |            2           |
-|  🎖️ 5ºLugar  |    `Landzking`    |            2           |
+|  🎖️ 5º Lugar |    `Landzking`    |            2           |
 |  🎖️ 8º Lugar |      `Xalon_`     |            1           |
 |  🎖️ 8º Lugar |   `Felipesfera`   |            1           |
 |  🎖️ 8º Lugar |   `the_foxy_999`  |            1           |
@@ -43,6 +43,9 @@ coverY: 0
 |  🎖️ 8º Lugar |     `_gueiibs`    |            1           |
 |  🎖️ 8º Lugar |     `BHOPERS`     |            1           |
 |  🎖️ 8º Lugar |     `yxTw3RK`     |            1           |
+|  🎖️ 8º Lugar |      `Myxhar`     |            1           |
+|  🎖️ 8º Lugar |   `FilipePseny`   |            1           |
+|  🎖️ 8º Lugar |  `NarutoeGoku12`  |            1           |
 
 ## » Histórico de Eventos
 
@@ -59,4 +62,4 @@ coverY: 0
 |    Edição IX - Abril de 2022   |                 Museu                | `Mudinhow, Stonny_, ZackVanHellsing, bibichii, Vinig05, BRMarko2`  |     |
 |     Edição X - Maio de 2022    |               Tropical               | `_Magrinho`, `_gueiibs`, `Banato`, `Jrn`, `Filiipe` e `BHOPERS`    |     |
 |    Edição XI - Junho de 2022   | Especial de Aniversário da Rede Revo | `yxTw3RKN_`                                                        |     |
-|   Edição XII - Julho de 2022   |                Jardim                |                                                                    |     |
+|   Edição XII - Julho de 2022   |                Jardim                | `Myxhar, FilipePseny e NarutoeGoku12`                              |     |

@@ -75,6 +75,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 | **🎖** 6º Lugar |     \[666] The Ritual     |            2           |
 | **🎖** 7º Lugar |      \[B12] Calcitran     |            1           |
 | **🎖** 7º Lugar |       \[30P] 30Praum      |            1           |
+| **🎖** 7º Lugar |        \[TkA] Taka        |            1           |
 
 ## » Histórico do Evento
 
@@ -131,3 +132,4 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |   Edição XLIX - 10/07/2022  |     \[VhL]     |      Valhalla      |
 |    Edição L - 17/07/2022    |     \[666]     |     The Ritual     |
 |    Edição LI - 24/07/2022   |     \[666]     |     The Ritual     |
+|   Edição LII - 31/07/2022   |     \[TkA]     |        Taka        |

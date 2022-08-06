@@ -76,6 +76,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | 🎖️ 7º Lugar |     `shyyyy`     |                1                |
 | 🎖️ 7º Lugar |       `666`      |                1                |
 | 🎖️ 7º Lugar |     `shooqy`     |                1                |
+| 🎖️ 7º Lugar |    `cryngpeep`   |                1                |
 
 ## » Ranking de Últimos Sobreviventes
 
@@ -137,4 +138,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLIX - 13/07/2022  |  `RyanGamer2004` |        `yLuquinhaz`        |
 |    Edição L - 20/07/2022    |   `yLuquinhaz`   |        `yLuquinhaz`        |
 |    Edição LI - 27/07/2022   |     `shooqy`     |          `Pedrynn`         |
+|   Edição LII - 05/08/2022   |    `cryngpeep`   |        `_BRAZINO777`       |
 

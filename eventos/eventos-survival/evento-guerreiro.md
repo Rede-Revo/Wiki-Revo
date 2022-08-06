@@ -73,6 +73,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 4º Lugar |    `Krenzif`    |            1           |
 |  🎖️ 4º Lugar |    `_gueiibs`   |            1           |
 |  🎖️ 4º Lugar |    `ez_life`    |            1           |
+|  🎖️ 4º Lugar |   `kaduzinsan`  |            1           |
 
 ## » Histórico do Evento
 
@@ -106,3 +107,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição XLVIII - 11/07/2022 |              `_gueiibs`             |   |
 |   Edição XLIX - 18/07/2022  |              `_gueiibs`             |   |
 |    Edição L - 25/07/2022    |              `ez_life`              |   |
+|    Edição LI - 01/08/2022   |             `kaduzinsan`            |   |

@@ -63,9 +63,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 |  » Colocação «  |  » Jogador(a) «  | » Número de Vezes Último(a) Sobrevivente « |
 | :-------------: | :--------------: | :----------------------------------------: |
-|   🥇 1º Lugar   |    `_IRagnar`    |                      2                     |
-|   🥇 1º Lugar   |    `Pedriin_`    |                      2                     |
-|   🥇 1º Lugar   |    `_Giffoni`    |                      2                     |
+|   🥇 1º Lugar   |    `_IRagnar`    |                      3                     |
+|   🥈 2º Lugar   |    `Pedriin_`    |                      2                     |
+|   🥈 2º Lugar   |    `_Giffoni`    |                      2                     |
 | **🎖** 4º Lugar | `universalizado` |                      1                     |
 | **🎖** 4º Lugar |     `shyyyy`     |                      1                     |
 | **🎖** 4º Lugar |    `ClaxmeteR`   |                      1                     |
@@ -80,10 +80,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  » Colocação «  | » Jogador(a) « | » Número de Vezes Matador(a) « |
 | :-------------: | :------------: | :----------------------------: |
 |   🥇 1º Lugar   |  `kaduzinsan`  |                3               |
-|   🥈 2º Lugar   | `falcaonava12` |                2               |
-|   🥈 2º Lugar   |   `_IRagnar`   |                2               |
-|   🥈 2º Lugar   |  `kaduzinsan`  |                2               |
-|   🥈 2º Lugar   |   `ClaxMeteR`  |                2               |
+|   🥇 1º Lugar   |   `_IRagnar`   |                3               |
+|   🥉 3º Lugar   | `falcaonava12` |                2               |
+|   🥉 3º Lugar   |   `ClaxMeteR`  |                2               |
 | **🎖** 5º Lugar |    `shyyyy`    |                1               |
 | **🎖** 5º Lugar |   `banzinbr7`  |                1               |
 | **🎖** 5º Lugar |  `MT_MIRANDA`  |                1               |
@@ -108,4 +107,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição XII - 09/07/2022 |         `_gueiibs`         |  `kaduzinsan`  |
 | Edição XIII - 16/07/2022 |         `_Giffoni`         |   `ClaxMeteR`  |
 |  Edição XIV - 23/07/2022 |          `Krenzif`         |    `Krenzif`   |
+|  Edição XV - 30/07/2022  |         `_IRagnar`         |   `_IRagnar`   |
 
