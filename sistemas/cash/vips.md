@@ -40,6 +40,7 @@ Quando maior for o VIP mais cash ele vai custar, os valores são:\
 |     Conectar com o servidor lotado    |     SIM    |    SIM    |    SIM    |
 | Tempo AFK até ser movido para o spawn |   6 horas  |  4 horas  |  2 horas  |
 |         Não perde XP ao morrer        |     SIM    |    SIM    |    SIM    |
+|         Acesso a Loja Virtual         |   15 dias  |   7 dias  |   3 dias  |
 
 ### Comandos <a href="#comandos" id="comandos"></a>
 
