@@ -118,7 +118,7 @@ Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um cam
 
 > **Flood**: Mesma frase repetidamente 3 vezes ou mais.
 
-> **Anuncio fora do chat de anúncios**: Anunciar a sua warp em um chat que seja no `/anunciar`.
+> **Anuncio fora do chat de anúncios**: Anunciar a sua warp em um chat que não seja no `/anunciar`.
 
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
