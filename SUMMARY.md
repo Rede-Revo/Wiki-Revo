@@ -105,6 +105,7 @@
 * [⛏ Passe de Batalha](sistemas/passe-de-batalha.md)
 * [🪵 Terrenos](sistemas/terrenos/README.md)
   * [🕸 Terreno Abandonado](sistemas/terrenos/terreno-abandonado.md)
+* [Venda e Aluguel de terrenos](sistemas/venda-e-aluguel-de-terrenos.md)
 * [🛒 Economia](sistemas/economia.md)
 * [💀 Cabeças Customizadas](sistemas/cabecas-customizadas/README.md)
   * [☠ Chance de drop das Cabeças](sistemas/cabecas-customizadas/chance-de-drop-das-cabecas.md)
