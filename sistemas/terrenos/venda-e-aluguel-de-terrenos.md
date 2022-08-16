@@ -39,7 +39,7 @@ Na 2° linha da placa deve ser colocado o valor do aluguel.\
 Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)
 
 Na 3° linha da placa deve ser colocado o período do aluguel.\
-Exemplos: `30d` ou `60d.`\
+Exemplos: `30d` ou `10 dias` ou `1 semana` ou `2 semanas 1 dia`.\
 Caso não seja preenchido o tempo será de 7 dias.
 
 **Exemplo da placa para alugar com permissão para construir:**
@@ -60,7 +60,7 @@ Na 2° linha da placa deve ser colocado o valor do aluguel.\
 Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)
 
 Na 3° linha da placa deve ser colocado o período do aluguel.\
-Exemplos: `30d` ou `60d.`\
+Exemplos: `30d` ou `10 dias` ou `1 semana` ou `2 semanas 1 dia`.\
 Caso não seja preenchido o tempo será de 7 dias.
 
 **Exemplo da placa para alugar com permissão apenas a baús:**
