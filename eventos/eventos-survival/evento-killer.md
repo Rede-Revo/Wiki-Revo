@@ -78,6 +78,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 5º Lugar |    `eusoujc`   |                1                |
 |  🎖️ 5º Lugar |      `666`     |                1                |
 |  🎖️ 5º Lugar |    `shooqy`    |                1                |
+|  🎖️ 5º Lugar |    `Taayboy`   |                1                |
+|  🎖️ 5º Lugar |    `tremeu`    |                1                |
 
 ## » Ranking de Últimos Sobreviventes
 
@@ -105,6 +107,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 4º Lugar |    `Krenzif`   |                        1                       |
 |  🎖️ 4º Lugar |   `Maritopx`   |                        1                       |
 |  🎖️ 4º Lugar |    `shooqy`    |                        1                       |
+|  🎖️ 4º Lugar |    `Taayboy`   |                        1                       |
+|  🎖️ 4º Lugar |    `tremeu`    |                        1                       |
 
 ## » Histórico do Evento
 
@@ -140,3 +144,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |    Edição L - 22/07/2022    |              `Krenzif`              |               `Krenzif`               |
 |    Edição LI - 29/07/2022   |                `666`                |               `Maritopx`              |
 |   Edição LII - 05/08/2022   |               `shooqy`              |                `shooqy`               |
+|   Edição LIII - 12/08/2022  |              `Taayboy`              |               `Taayboy`               |
+|   Edição LIV - 19/08/2022   |               `tremeu`              |                `tremeu`               |

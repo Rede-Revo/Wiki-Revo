@@ -57,16 +57,16 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 | » Colocação « |               » Clã «               | » Número de Vitórias « |
 | :-----------: | :---------------------------------: | :--------------------: |
-|  🥇 1º Lugar  |           \[VhL] Valhalla           |            7           |
+|  🥇 1º Lugar  |           \[VhL] Valhalla           |            8           |
 |  🥈 1º Lugar  |            \[ZZZ] Bloods            |            6           |
 |  🥉 3º Lugar  |          \[uwu] Cerejinhas          |            3           |
 |  🥉 3º Lugar  |           \[suN] Sunshine           |            3           |
 |  🏅 5º Lugar  |           \[sbN] SiberiaN           |            2           |
 |  🏅 5º Lugar  |          \[666] The Ritual          |            2           |
-|  🎖️ 7º Lugar | \[PAT] De dia Assada de noite Frita |            1           |
-|  🎖️ 7º Lugar |            \[ZZ2] Bloods            |            1           |
-|  🎖️ 7º Lugar |      \[knS] Kawamura no Senshi      |            1           |
-|  🎖️ 7º Lugar |             \[TkA] Taka             |            1           |
+|  🏅 5º Lugar  |             \[TkA] Taka             |            2           |
+|  🎖️ 8º Lugar | \[PAT] De dia Assada de noite Frita |            1           |
+|  🎖️ 8º Lugar |            \[ZZ2] Bloods            |            1           |
+|  🎖️ 8º Lugar |      \[knS] Kawamura no Senshi      |            1           |
 
 ## » Histórico do Evento
 
@@ -101,3 +101,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |    Edição L - 21/07/2022    |                \[VhL]               |               Valhalla              |
 |    Edição LI - 28/07/2022   |                \[VhL]               |               Valhalla              |
 |   Edição LII - 04/08/2022   |                \[TkA]               |                 Taka                |
+|   Edição LIII - 11/08/2022  |                \[TkA]               |                 Taka                |
+|   Edição LIV - 18/08/2022   |                \[VhL]               |               Valhalla              |

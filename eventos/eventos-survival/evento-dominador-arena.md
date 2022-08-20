@@ -49,6 +49,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥈 2º Lugar  |    `shyyyy`    |              1             |
 |  🥈 2º Lugar  |    `Krenzif`   |              1             |
 |  🥈 2º Lugar  |  `Heinokramm`  |              1             |
+|  🥈 2º Lugar  |    `Guga_S2`   |              1             |
+|  🥈 2º Lugar  |   `PauloJLG`   |              1             |
 
 ## » Ranking de Clãs Vencedores
 
@@ -56,14 +58,18 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | :-----------: | :---------------: | :------------------------: |
 |  🥇 1º Lugar  |  \[VhL] Valhalla  |              3             |
 |  🥇 1º Lugar  | \[666] The Ritual |              3             |
+|  🥉 3º Lugar  |  \[suN] Sunshine  |              1             |
+|  🥉 3º Lugar  |    \[TkA] Taka    |              1             |
 
 ## » Histórico do Evento
 
-|        » Edição «       |  » Clã Vencedor « | » Jogador Dominador « |
-| :---------------------: | :---------------: | :-------------------: |
-|  Edição I - 25/06/2022  |  \[VhL] Valhalla  |      `MT_MIRANDA`     |
-|  Edição II - 02/07/2022 |  \[VhL] Valhalla  |        `shyyyy`       |
-| Edição III - 09/07/2022 |  \[VhL] Valhalla  |       `Krenzif`       |
-|  Edição IV - 16/07/2022 | \[666] The Ritual |       `Nefesto`       |
-|  Edição V - 23/07/2022  | \[666] The Ritual |       `Nefesto`       |
-|  Edição VI - 30/07/2022 | \[666] The Ritual |      `Heinokramm`     |
+|        » Edição «        |  » Clã Vencedor « | » Jogador Dominador « |
+| :----------------------: | :---------------: | :-------------------: |
+|   Edição I - 25/06/2022  |  \[VhL] Valhalla  |      `MT_MIRANDA`     |
+|  Edição II - 02/07/2022  |  \[VhL] Valhalla  |        `shyyyy`       |
+|  Edição III - 09/07/2022 |  \[VhL] Valhalla  |       `Krenzif`       |
+|  Edição IV - 16/07/2022  | \[666] The Ritual |       `Nefesto`       |
+|   Edição V - 23/07/2022  | \[666] The Ritual |       `Nefesto`       |
+|  Edição VI - 30/07/2022  | \[666] The Ritual |      `Heinokramm`     |
+|  Edição VII - 06/08/2022 |  \[suN] Sunshine  |       `Guga_S2`       |
+| Edição VIII - 13/08/2022 |    \[TkA] Taka    |       `PauloJLG`      |

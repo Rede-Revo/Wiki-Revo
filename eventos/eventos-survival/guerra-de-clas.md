@@ -72,10 +72,10 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |   🥉 3º Lugar   |      \[suN] Sunshine      |            7           |
 |   🏅 4º Lugar   | \[knS] Kawamura no Senshi |            6           |
 | **🎖** 5º Lugar |      \[VhL] Valhalla      |            3           |
-| **🎖** 6º Lugar |     \[666] The Ritual     |            2           |
-| **🎖** 7º Lugar |      \[B12] Calcitran     |            1           |
-| **🎖** 7º Lugar |       \[30P] 30Praum      |            1           |
-| **🎖** 7º Lugar |        \[TkA] Taka        |            1           |
+| **🎖** 5º Lugar |     \[666] The Ritual     |            3           |
+| **🎖** 7º Lugar |        \[TkA] Taka        |            2           |
+| **🎖** 8º Lugar |      \[B12] Calcitran     |            1           |
+| **🎖** 8º Lugar |       \[30P] 30Praum      |            1           |
 
 ## » Histórico do Evento
 
@@ -133,3 +133,5 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |    Edição L - 17/07/2022    |     \[666]     |     The Ritual     |
 |    Edição LI - 24/07/2022   |     \[666]     |     The Ritual     |
 |   Edição LII - 31/07/2022   |     \[TkA]     |        Taka        |
+|   Edição LIII - 07/08/2022  |     \[TkA]     |        Taka        |
+|   Edição LIV - 14/08/2022   |     \[666]     |     The Ritual     |

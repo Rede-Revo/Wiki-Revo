@@ -60,8 +60,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  » Posição « |  » Jogador(a) «  | » Quantidade de Vezes Matador « |
 | :----------: | :--------------: | :-----------------------------: |
 |  🥇 1º Lugar |     `Filiipe`    |                4                |
-|  🥈 2º Lugar |   `Mat_redston`  |                3                |
-|  🥈 2º Lugar |   `yLuquinhaz`   |                3                |
+|  🥇 1º Lugar |   `yLuquinhaz`   |                4                |
+|  🥉 3º Lugar |   `Mat_redston`  |                3                |
 |  🏅 4º Lugar |    `new_miza`    |                2                |
 |  🏅 4º Lugar |    `_Giffoni`    |                2                |
 |  🏅 4º Lugar |  `RyanGamer2004` |                2                |
@@ -77,37 +77,39 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | 🎖️ 7º Lugar |       `666`      |                1                |
 | 🎖️ 7º Lugar |     `shooqy`     |                1                |
 | 🎖️ 7º Lugar |    `cryngpeep`   |                1                |
+| 🎖️ 7º Lugar |   `cafenaDEPRE`  |                1                |
 
 ## » Ranking de Últimos Sobreviventes
 
 | » Colocação « |  » Jogador(a) « | » Quantidade de Vezes Último(a) Sobrevivente « |
 | :-----------: | :-------------: | :--------------------------------------------: |
-|  🥇 1º Lugar  |  `Mat_redston`  |                        3                       |
-|  🥇 1º Lugar  |    `Filiipe`    |                        3                       |
-|  🥉 3º Lugar  |     `shyyyy`    |                        2                       |
-|  🥉 3º Lugar  |   `yLuquinhaz`  |                        2                       |
-|  🎖️ 5º Lugar |     `Cebolx`    |                        1                       |
-|  🎖️ 5º Lugar |     `Vast6`     |                        1                       |
-|  🎖️ 5º Lugar |    `iSamBr_`    |                        1                       |
-|  🎖️ 5º Lugar |    `jakseli`    |                        1                       |
-|  🎖️ 5º Lugar |    `Pedriin_`   |                        1                       |
-|  🎖️ 5º Lugar |    `luuke18`    |                        1                       |
-|  🎖️ 5º Lugar |   `GameplayPE`  |                        1                       |
-|  🎖️ 5º Lugar |   `Oo_Gustavo`  |                        1                       |
-|  🎖️ 5º Lugar |   `LeoSoviet`   |                        1                       |
-|  🎖️ 5º Lugar | `TheTitaniumBR` |                        1                       |
-|  🎖️ 5º Lugar |     `Mth030`    |                        1                       |
-|  🎖️ 5º Lugar | `RyanGamer2004` |                        1                       |
-|  🎖️ 5º Lugar |   `MT_MIRANDA`  |                        1                       |
-|  🎖️ 5º Lugar |  `Gutothefoda`  |                        1                       |
-|  🎖️ 5º Lugar |   `banzinbr7`   |                        1                       |
-|  🎖️ 5º Lugar |   `SoUris_001`  |                        1                       |
-|  🎖️ 5º Lugar |      `666`      |                        1                       |
-|  🎖️ 5º Lugar |    `Pedrynn`    |                        1                       |
+|  🥇 1º Lugar  |   `yLuquinhaz`  |                        4                       |
+|  🥈 2º Lugar  |  `Mat_redston`  |                        3                       |
+|  🥈 2º Lugar  |    `Filiipe`    |                        3                       |
+|  🏅 4º Lugar  |     `shyyyy`    |                        2                       |
+|  🏅 4º Lugar  |  `_BRAZINO777`  |                        2                       |
+|  🎖️ 6º Lugar |     `Cebolx`    |                        1                       |
+|  🎖️ 6º Lugar |     `Vast6`     |                        1                       |
+|  🎖️ 6º Lugar |    `iSamBr_`    |                        1                       |
+|  🎖️ 6º Lugar |    `jakseli`    |                        1                       |
+|  🎖️ 6º Lugar |    `Pedriin_`   |                        1                       |
+|  🎖️ 6º Lugar |    `luuke18`    |                        1                       |
+|  🎖️ 6º Lugar |   `GameplayPE`  |                        1                       |
+|  🎖️ 6º Lugar |   `Oo_Gustavo`  |                        1                       |
+|  🎖️ 6º Lugar |   `LeoSoviet`   |                        1                       |
+|  🎖️ 6º Lugar | `TheTitaniumBR` |                        1                       |
+|  🎖️ 6º Lugar |     `Mth030`    |                        1                       |
+|  🎖️ 6º Lugar | `RyanGamer2004` |                        1                       |
+|  🎖️ 6º Lugar |   `MT_MIRANDA`  |                        1                       |
+|  🎖️ 6º Lugar |  `Gutothefoda`  |                        1                       |
+|  🎖️ 6º Lugar |   `banzinbr7`   |                        1                       |
+|  🎖️ 6º Lugar |   `SoUris_001`  |                        1                       |
+|  🎖️ 6º Lugar |      `666`      |                        1                       |
+|  🎖️ 6º Lugar |    `Pedrynn`    |                        1                       |
 
 ## » Histórico do Evento
 
-|          » Edição «         |    » Matador «   | » Último(a) Sobrevivente « |
+|          » Edição «         |  » Matador(a) «  | » Último(a) Sobrevivente « |
 | :-------------------------: | :--------------: | :------------------------: |
 |   Edição I - Edição XXIII   |        N/A       |             N/A            |
 |   Edição XXIV - 16/01/2022  |     `Cebolx`     |          `Cebolx`          |
@@ -139,4 +141,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |    Edição L - 20/07/2022    |   `yLuquinhaz`   |        `yLuquinhaz`        |
 |    Edição LI - 27/07/2022   |     `shooqy`     |          `Pedrynn`         |
 |   Edição LII - 05/08/2022   |    `cryngpeep`   |        `_BRAZINO777`       |
-
+|   Edição LIII - 10/08/2022  |   `cafenaDEPRE`  |        `_BRAZINO777`       |
+|   Edição LIV - 17/08/2022   |   `yLuquinhaz`   |        `yLuquinhaz`        |

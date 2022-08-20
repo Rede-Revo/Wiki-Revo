@@ -57,15 +57,16 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | :-----------: | :---------------------------------: | :--------------------: |
 |  🥇 1º Lugar  |           \[VhL] Valhalla           |            7           |
 |  🥈 2º Lugar  |            \[ZZZ] Bloods            |            6           |
-|  🥉 3º Lugar  |          \[666] The Ritual          |            4           |
-|  🏅 4º Lugar  |           \[suN] Sunshine           |            3           |
-|  🏅 4º Lugar  |             \[TkA] Taka             |            3           |
-|  🎖️ 6º Lugar |           \[Nbs] Nairebis           |            1           |
-|  🎖️ 6º Lugar |           \[SbN] SiberiaN           |            1           |
-|  🎖️ 6º Lugar | \[PAT] De dia Assada de noite Frita |            1           |
-|  🎖️ 6º Lugar |          \[uwu] Cerejinhas          |            1           |
-|  🎖️ 6º Lugar |       \[ODB] Oceano de Baiacus      |            1           |
-|  🎖️ 6º Lugar |            \[ReV] Revoada           |            1           |
+|  🥉 3º Lugar  |             \[TkA] Taka             |            5           |
+|  🏅 4º Lugar  |          \[666] The Ritual          |            4           |
+|  🎖️ 5º Lugar |           \[suN] Sunshine           |            3           |
+|  🎖️ 5º Lugar |             \[TkA] Taka             |            3           |
+|  🎖️ 7º Lugar |           \[Nbs] Nairebis           |            1           |
+|  🎖️ 7º Lugar |           \[SbN] SiberiaN           |            1           |
+|  🎖️ 7º Lugar | \[PAT] De dia Assada de noite Frita |            1           |
+|  🎖️ 7º Lugar |          \[uwu] Cerejinhas          |            1           |
+|  🎖️ 7º Lugar |       \[ODB] Oceano de Baiacus      |            1           |
+|  🎖️ 7º Lugar |            \[ReV] Revoada           |            1           |
 
 ## » Histórico do Evento
 
@@ -101,3 +102,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |    Edição L - 19/07/2022    |                \[TkA]               |                 Taka                |
 |    Edição LI - 26/07/2022   |                \[TkA]               |                 Taka                |
 |   Edição LII - 02/08/2022   |                \[TkA]               |                 Taka                |
+|   Edição LIII - 09/08/2022  |                \[TkA]               |                 Taka                |
+|   Edição LIV - 16/08/2022   |                \[TkA]               |                 Taka                |

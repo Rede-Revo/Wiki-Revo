@@ -60,20 +60,21 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥇 1º Lugar  |   `EasyBounce`  |            6           |
 |  🥈 2º Lugar  | `RyanGamer2004` |            4           |
 |  🥉 3º Lugar  |  `Mat_redston`  |            2           |
-|  🎖️ 4º Lugar |  `koalaISOLADO` |            1           |
-|  🎖️ 4º Lugar |   `Oo_Gustavo`  |            1           |
-|  🎖️ 4º Lugar |     `ohNezy`    |            1           |
-|  🎖️ 4º Lugar |    `luuke18`    |            1           |
-|  🎖️ 4º Lugar |   `mask_lock`   |            1           |
-|  🎖️ 4º Lugar |    `Filiipe`    |            1           |
-|  🎖️ 4º Lugar |    `MaykeZin`   |            1           |
-|  🎖️ 4º Lugar |    `_IRagnar`   |            1           |
-|  🎖️ 4º Lugar |    `new_miza`   |            1           |
-|  🎖️ 4º Lugar |    `Taayboy`    |            1           |
-|  🎖️ 4º Lugar |    `Krenzif`    |            1           |
-|  🎖️ 4º Lugar |    `_gueiibs`   |            1           |
-|  🎖️ 4º Lugar |    `ez_life`    |            1           |
-|  🎖️ 4º Lugar |   `kaduzinsan`  |            1           |
+|  🥉 3º Lugar  |     `ySpxce`    |            2           |
+|  🎖️ 5º Lugar |  `koalaISOLADO` |            1           |
+|  🎖️ 5º Lugar |   `Oo_Gustavo`  |            1           |
+|  🎖️ 5º Lugar |     `ohNezy`    |            1           |
+|  🎖️ 5º Lugar |    `luuke18`    |            1           |
+|  🎖️ 5º Lugar |   `mask_lock`   |            1           |
+|  🎖️ 5º Lugar |    `Filiipe`    |            1           |
+|  🎖️ 5º Lugar |    `MaykeZin`   |            1           |
+|  🎖️ 5º Lugar |    `_IRagnar`   |            1           |
+|  🎖️ 5º Lugar |    `new_miza`   |            1           |
+|  🎖️ 5º Lugar |    `Taayboy`    |            1           |
+|  🎖️ 5º Lugar |    `Krenzif`    |            1           |
+|  🎖️ 5º Lugar |    `_gueiibs`   |            1           |
+|  🎖️ 5º Lugar |    `ez_life`    |            1           |
+|  🎖️ 5º Lugar |   `kaduzinsan`  |            1           |
 
 ## » Histórico do Evento
 
@@ -108,3 +109,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLIX - 18/07/2022  |              `_gueiibs`             |   |
 |    Edição L - 25/07/2022    |              `ez_life`              |   |
 |    Edição LI - 01/08/2022   |             `kaduzinsan`            |   |
+|   Edição LII - 08/08/2022   |               `ySpxce`              |   |
+|   Edição LIII - 15/08/2022  |               `ySpxce`              |   |

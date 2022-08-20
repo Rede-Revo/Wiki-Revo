@@ -74,6 +74,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | **🎖** 4º Lugar |   `kaduzinsan`   |                      1                     |
 | **🎖** 4º Lugar |    `_gueiibs`    |                      1                     |
 | **🎖** 4º Lugar |     `Krenzif`    |                      1                     |
+| **🎖** 4º Lugar |     `_InAway`    |                      1                     |
+| **🎖** 4º Lugar |     `Taayboy`    |                      1                     |
 
 ## » Ranking de Matadores
 
@@ -88,6 +90,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | **🎖** 5º Lugar |  `MT_MIRANDA`  |                1               |
 | **🎖** 5º Lugar |   `new_miza`   |                1               |
 | **🎖** 5º Lugar |    `Krenzif`   |                1               |
+| **🎖** 5º Lugar |    `_InAway`   |                1               |
+| **🎖** 5º Lugar |    `alceofc`   |                1               |
 
 ## » Histórico do Evento
 
@@ -108,4 +112,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | Edição XIII - 16/07/2022 |         `_Giffoni`         |   `ClaxMeteR`  |
 |  Edição XIV - 23/07/2022 |          `Krenzif`         |    `Krenzif`   |
 |  Edição XV - 30/07/2022  |         `_IRagnar`         |   `_IRagnar`   |
+|  Edição XVI - 06/08/2022 |          `_InAway`         |    `_InAway`   |
+| Edição XVII - 13/08/2022 |          `Taayboy`         |    `alceofc`   |
 
