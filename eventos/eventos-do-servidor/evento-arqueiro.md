@@ -143,3 +143,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LII - 05/08/2022   |    `cryngpeep`   |        `_BRAZINO777`       |
 |   Edição LIII - 10/08/2022  |   `cafenaDEPRE`  |        `_BRAZINO777`       |
 |   Edição LIV - 17/08/2022   |   `yLuquinhaz`   |        `yLuquinhaz`        |
+|    Edição LV - 27/08/2022   |         -        |              -             |
+|   Edição LVI - 03/09/2022   |         -        |              -             |
+|   Edição LVII - 10/09/2022  |         -        |              -             |
+|  Edição LVIII - 17/09/2022  |         -        |              -             |
+|   Edição LIX - 24/09/2022   |         -        |              -             |
+

@@ -30,18 +30,21 @@ coverY: 0
 
 ## » Ranking de Vencedores
 
-|  » Colocação «  | » Jogador(a) « | » Número de Vitórias « |
-| :-------------: | :------------: | :--------------------: |
-| **🥇** 1º Lugar |     jakseli    |            1           |
-|   🥇 1º Lugar   |    banzinbr7   |            1           |
-|   🥇 1º Lugar   |     lulinha    |            1           |
-|   🥇 1º Lugar   | AndreusRichard |            1           |
+|  » Colocação «  |  » Jogador(a) «  | » Número de Vitórias « |
+| :-------------: | :--------------: | :--------------------: |
+| **🥇** 1º Lugar |     `jakseli`    |            1           |
+|   🥇 1º Lugar   |    `banzinbr7`   |            1           |
+|   🥇 1º Lugar   |     `lulinha`    |            1           |
+|   🥇 1º Lugar   | `AndreusRichard` |            1           |
+|   🥇 1º Lugar   |    `cryngpeep`   |            1           |
 
 ## » Histórico do Evento
 
-|           » Edição «           |  » Vencedor(a) « |   |
-| :----------------------------: | :--------------: | - |
-|  Edição I, Temporada Medieval  |     `jakseli`    |   |
-| Edição II, Temporada SteamPunk |    `banzinbr7`   |   |
-|  Edição III, Temporada Pirata  |     `lulinha`    |   |
-|  Edição IV, Temporada Tropical | `AndreusRichard` |   |
+|            » Edição «           |  » Vencedor(a) « |   |
+| :-----------------------------: | :--------------: | - |
+|   Edição I, Temporada Medieval  |     `jakseli`    |   |
+|  Edição II, Temporada SteamPunk |    `banzinbr7`   |   |
+|   Edição III, Temporada Pirata  |     `lulinha`    |   |
+|  Edição IV, Temporada Tropical  | `AndreusRichard` |   |
+| Edição V, Temporada Velho Oeste |    `cryngpeep`   |   |
+|           Edição VI, -          |         -        |   |

@@ -146,3 +146,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LII - 05/08/2022   |               `shooqy`              |                `shooqy`               |
 |   Edição LIII - 12/08/2022  |              `Taayboy`              |               `Taayboy`               |
 |   Edição LIV - 19/08/2022   |               `tremeu`              |                `tremeu`               |
+|    Edição LV - 26/08/2022   |                  -                  |                   -                   |
+|   Edição LVI - 02/09/2022   |                  -                  |                   -                   |
+|   Edição LVII - 09/09/2022  |                  -                  |                   -                   |
+|  Edição LVIII - 16/09/2022  |                  -                  |                   -                   |
+|   Edição LIX - 23/09/2022   |                  -                  |                   -                   |
+|    Edição LX - 30/09/2022   |                  -                  |                   -                   |

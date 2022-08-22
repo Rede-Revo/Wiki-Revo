@@ -104,3 +104,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LII - 02/08/2022   |                \[TkA]               |                 Taka                |
 |   Edição LIII - 09/08/2022  |                \[TkA]               |                 Taka                |
 |   Edição LIV - 16/08/2022   |                \[TkA]               |                 Taka                |
+|    Edição LV - 23/08/2022   |                  -                  |                  -                  |
+|   Edição LVI - 30/08/2022   |                  -                  |                  -                  |
+|   Edição LVII - 06/09/2022  |                  -                  |                  -                  |
+|  Edição LVIII - 13/09/2022  |                  -                  |                  -                  |
+|   Edição LIX - 20/09/2022   |                  -                  |                  -                  |
+|    Edição LX - 27/09/2022   |                  -                  |                  -                  |

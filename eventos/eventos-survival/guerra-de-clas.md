@@ -73,7 +73,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |   🏅 4º Lugar   | \[knS] Kawamura no Senshi |            6           |
 | **🎖** 5º Lugar |      \[VhL] Valhalla      |            3           |
 | **🎖** 5º Lugar |     \[666] The Ritual     |            3           |
-| **🎖** 7º Lugar |        \[TkA] Taka        |            2           |
+| **🎖** 5º Lugar |        \[TkA] Taka        |            3           |
 | **🎖** 8º Lugar |      \[B12] Calcitran     |            1           |
 | **🎖** 8º Lugar |       \[30P] 30Praum      |            1           |
 
@@ -135,3 +135,9 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |   Edição LII - 31/07/2022   |     \[TkA]     |        Taka        |
 |   Edição LIII - 07/08/2022  |     \[TkA]     |        Taka        |
 |   Edição LIV - 14/08/2022   |     \[666]     |     The Ritual     |
+|    Edição LV - 21/08/2022   |     \[TkA]     |        Taka        |
+|   Edição LVI - 28/08/2022   |        -       |          -         |
+|   Edição LVII - 04/09/2022  |        -       |          -         |
+|  Edição LVIII - 11/09/2022  |        -       |          -         |
+|   Edição LIX - 18/09/2022   |        -       |          -         |
+|    Edição LX - 25/09/2022   |                |                    |

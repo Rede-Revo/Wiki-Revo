@@ -111,3 +111,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |    Edição LI - 01/08/2022   |             `kaduzinsan`            |   |
 |   Edição LII - 08/08/2022   |               `ySpxce`              |   |
 |   Edição LIII - 15/08/2022  |               `ySpxce`              |   |
+|   Edição LIV - 22/08/2022   |                  -                  |   |
+|    Edição LV - 29/08/2022   |                  -                  |   |
+|   Edição LVI - 05/09/2022   |                  -                  |   |
+|   Edição LVII - 12/09/2022  |                  -                  |   |
+|  Edição LVIII - 19/09/2022  |                  -                  |   |
+|   Edição LIX - 26/09/2022   |                  -                  |   |
