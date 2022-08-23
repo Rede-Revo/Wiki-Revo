@@ -42,11 +42,15 @@ coverY: 0
 
 Para uma guerra mais dinâmica o efeito de invisibilidade foi desativado durante o evento.
 
-#### **2. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
+#### 2. Limite de 15 membros participando por Clã.
+
+Com o intuito de evitar que o servidor se polarize em clãs, o limite máximo é de 15 participantes por cada clã.
+
+#### **3. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
 
 Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
-#### **3. (Provisório) Utilização do item colecionável "Botas de Coelho"**
+#### **4. (Provisório) Utilização do item colecionável "Botas de Coelho"**
 
 Por questões de balanceamento, fica proibida a entrada com o item colecionável **Botas de Coelho**, jogadores que utilizando o mesmo durante o evento estão sujeitos a exclusão permanente do item.
 

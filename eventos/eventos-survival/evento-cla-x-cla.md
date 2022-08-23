@@ -27,11 +27,15 @@ description: Todas as informações que você precisa saber sobre o evento seman
 
 ## » Regras Gerais
 
-#### **1. Não será tolerado acusações ou reclamações sem fundamentos.**
+#### **1**. Limite de 5 membros participando por Clã.
+
+Para não ficar injusto com os competidores o evento é limitado a 5 membros por clã, indicamos a criação de um clã secundário caso o seu clã seja demasiado grande.
+
+#### **2. Não será tolerado acusações ou reclamações sem fundamentos.**
 
 Infelizmente vários jogadores ao perder em combate ficam frustrados e começam a xingar ou acusar outros jogadores e/ou a equipe. Essa atitude não será tolerada porque viola a [Regra 01](https://wiki.rederevo.com/regras/chat#01) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
-#### **2. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
+#### **3. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
 
 Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
