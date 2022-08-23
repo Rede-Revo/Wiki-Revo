@@ -23,7 +23,7 @@ coverY: 0
    * Saia do evento a qualquer momento com `/batalha sair`&#x20;
 2. Preparação para o evento:
    * Após o evento ser fechado você será teleportado para a arena onde ocorrera a batalha;
-   * Você terá 15 segundos para se preparar para a batalha.&#x20;
+   * Você terá 30 segundos para se preparar para a batalha.&#x20;
 3. Inicio da batalha:
    * Após passar o tempo de preparação será iniciado os duelos 1v1.
 
