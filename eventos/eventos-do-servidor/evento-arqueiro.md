@@ -11,7 +11,7 @@ coverY: 0
 * Usando apenas Arco e Flecha, mate o ultimo sobrevivente na arena e torne-se o vencedor ou mate a maior quantidade de inimigos e torne-se o matador;
 * Itens definidos pela equipe; (armadura de ferro, escudo, 16 maças dourada, 64 salmões assados, arco com infinidade, força 1, durabilidade 3 e uma flecha);
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (3).png>)
 
 * As habilidades do mcMMO serão desativadas durante o evento;
 * Borda que reduz no decorrer da batalha;\

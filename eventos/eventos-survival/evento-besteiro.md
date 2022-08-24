@@ -7,10 +7,9 @@ description: Todas as informações que você precisa saber sobre o evento seman
 ## » Como Funciona
 
 * Usando apenas Besta e Flecha, mate o ultimo sobrevivente na arena e torne-se o vencedor ou mate a maior quantidade de inimigos e torne-se o matador;
-* Itens definidos pela equipe; (armadura de ferro, escudo, 16 maças dourada, 64 salmões assados, arco com infinidade, força 1, durabilidade 3 e uma flecha);
+*   Itens definidos pela equipe; (armadura de diamante, 16 maças douradas, 64 coelhos assados, besta com perfuração 4, durabilidade 3 , besta com rajada 1, durabilidade 3 e 6 packs de flecha);
 
-![](<../../.gitbook/assets/image (2).png>)
-
+    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.
 * Borda que reduz no decorrer da batalha;\
@@ -48,8 +47,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * 💎**\[Liga]** 50 Pontos
 * ​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvDOKGccGYHA70l7WF72d%2Fuploads%2FOBK4cloBTUiSCK8zAbq8%2Fimage.png?alt=media&#x26;token=c49a492f-3018-40e1-bdfe-428c73a2125d" alt="" data-size="line">TAG **\[Besteiro(a)]** durante 7 dias
 * ​​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvDOKGccGYHA70l7WF72d%2Fuploads%2F8EZjvWOc71OnVvlLX0Cp%2Fimage.png?alt=media&#x26;token=1d6b1323-340a-45d7-81c8-251f54ef9f3d" alt="" data-size="line">**Contador de Blocos**
-
-
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
