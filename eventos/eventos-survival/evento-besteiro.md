@@ -2,7 +2,7 @@
 description: Todas as informações que você precisa saber sobre o evento semanal Besteiro.
 ---
 
-# Evento Besteiro
+# 🎯 Evento Besteiro
 
 ## » Como Funciona
 

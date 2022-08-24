@@ -115,8 +115,8 @@
 
 * [🌳 Eventos Survival](eventos/eventos-do-servidor/README.md)
   * [🏹 Evento Arqueiro](eventos/eventos-do-servidor/evento-arqueiro.md)
-  * [Evento Besteiro](eventos/eventos-survival/evento-besteiro.md)
-  * [Evento Clã x Clã](eventos/eventos-survival/evento-cla-x-cla.md)
+  * [🎯 Evento Besteiro](eventos/eventos-survival/evento-besteiro.md)
+  * [🔰 Evento Clã x Clã](eventos/eventos-survival/evento-cla-x-cla.md)
   * [🌪 Evento Dominador (Arena)](eventos/eventos-survival/evento-dominador-arena.md)
   * [🛡 Evento Gladiador](eventos/eventos-survival/evento-gladiador.md)
   * [🏆 Guerra de Clãs](eventos/eventos-survival/guerra-de-clas.md)

@@ -2,7 +2,7 @@
 description: Todas as informações que você precisa saber sobre o evento semanal Clã x Clã.
 ---
 
-# Evento Clã x Clã
+# 🔰 Evento Clã x Clã
 
 ## » Como Funciona
 
