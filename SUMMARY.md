@@ -139,7 +139,8 @@
 
 ## ━━━━ Outros ━━━━
 
+* [🎮 Revo Pack](outros/revo-pack.md)
 * [👑 Equipe](outros/equipe.md)
 * [📞 Fale Conosco](outros/fale-conosco.md)
 * [🎓 Faça Parte da Equipe](outros/faca-parte-da-equipe.md)
-* [🎮 Revo Pack](outros/revo-pack.md)
+* [Termos](outros/termos.md)
