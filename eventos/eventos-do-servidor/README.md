@@ -10,6 +10,18 @@ coverY: 0
 [evento-arqueiro.md](evento-arqueiro.md)
 {% endcontent-ref %}
 
+{% content-ref url="../eventos-survival/evento-besteiro.md" %}
+[evento-besteiro.md](../eventos-survival/evento-besteiro.md)
+{% endcontent-ref %}
+
+{% content-ref url="../eventos-survival/evento-cla-x-cla.md" %}
+[evento-cla-x-cla.md](../eventos-survival/evento-cla-x-cla.md)
+{% endcontent-ref %}
+
+{% content-ref url="../eventos-survival/evento-dominador-arena.md" %}
+[evento-dominador-arena.md](../eventos-survival/evento-dominador-arena.md)
+{% endcontent-ref %}
+
 {% content-ref url="../eventos-survival/evento-gladiador.md" %}
 [evento-gladiador.md](../eventos-survival/evento-gladiador.md)
 {% endcontent-ref %}
@@ -32,4 +44,16 @@ coverY: 0
 
 {% content-ref url="../eventos-survival/evento-pre-guerra-de-clas-mcmmo.md" %}
 [evento-pre-guerra-de-clas-mcmmo.md](../eventos-survival/evento-pre-guerra-de-clas-mcmmo.md)
+{% endcontent-ref %}
+
+{% content-ref url="../eventos-survival/evento-caca-ao-dragao.md" %}
+[evento-caca-ao-dragao.md](../eventos-survival/evento-caca-ao-dragao.md)
+{% endcontent-ref %}
+
+{% content-ref url="../eventos-survival/evento-de-construcao.md" %}
+[evento-de-construcao.md](../eventos-survival/evento-de-construcao.md)
+{% endcontent-ref %}
+
+{% content-ref url="../eventos-survival/evento-desbravador.md" %}
+[evento-desbravador.md](../eventos-survival/evento-desbravador.md)
 {% endcontent-ref %}

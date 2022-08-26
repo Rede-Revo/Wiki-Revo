@@ -56,3 +56,27 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 * 💰 Premiação de **50.000 Coins**
 * 💎**\[Liga] 25** Pontos
+
+## » Ranking de Clãs Vencedores
+
+| » Colocação « |    » Clã «   | » Quantidade de vitórias « |
+| :-----------: | :----------: | :------------------------: |
+|  🥇 1º Lugar  | \[MaF] Máfia |              1             |
+
+## » Ranking de Clãs Segundo Colocados
+
+| » Colocação « |     » Clã «     | » Quantidade de vitórias « |
+| :-----------: | :-------------: | :------------------------: |
+|  🥇 1º Lugar  | \[SuN] Sunshine |              1             |
+
+## » Ranking de Clãs Terceiro Colocados
+
+| » Colocação « |   » Clã «   | » Quantidade de vitórias « |
+| :-----------: | :---------: | :------------------------: |
+|  🥇 1º Lugar  | \[TkA] Taka |              1             |
+
+## » Histórico do Evento
+
+|       » Edição «      | » 1º Colocado « | » 2º Colocado « | » 3º Colocado |
+| :-------------------: | :-------------: | :-------------: | :-----------: |
+| Edição I - 24/08/2022 |   \[MaF] Máfia  | \[SuN] Sunshine |  \[TkA] Taka  |

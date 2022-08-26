@@ -61,7 +61,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | :-----------: | :---------------------------------: | :--------------------: |
 |  🥇 1º Lugar  |           \[VhL] Valhalla           |            7           |
 |  🥈 2º Lugar  |            \[ZZZ] Bloods            |            6           |
-|  🥉 3º Lugar  |             \[TkA] Taka             |            5           |
+|  🥈 2º Lugar  |             \[TkA] Taka             |            6           |
 |  🏅 4º Lugar  |          \[666] The Ritual          |            4           |
 |  🎖️ 5º Lugar |           \[suN] Sunshine           |            3           |
 |  🎖️ 5º Lugar |             \[TkA] Taka             |            3           |
@@ -108,7 +108,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LII - 02/08/2022   |                \[TkA]               |                 Taka                |
 |   Edição LIII - 09/08/2022  |                \[TkA]               |                 Taka                |
 |   Edição LIV - 16/08/2022   |                \[TkA]               |                 Taka                |
-|    Edição LV - 23/08/2022   |                  -                  |                  -                  |
+|    Edição LV - 23/08/2022   |                \[TkA]               |                 Taka                |
 |   Edição LVI - 30/08/2022   |                  -                  |                  -                  |
 |   Edição LVII - 06/09/2022  |                  -                  |                  -                  |
 |  Edição LVIII - 13/09/2022  |                  -                  |                  -                  |
