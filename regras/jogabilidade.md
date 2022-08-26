@@ -88,11 +88,11 @@ Consiste na tentativa de negociação e/ou transação de itens ou vantagens no 
 
 ### Lista de Punições <a href="#lista-de-punicoes-4" id="lista-de-punicoes-4"></a>
 
-| Incidência |                                Punição                               |
-| :--------: | :------------------------------------------------------------------: |
-|      1     | Banimento temporário de 15 dias + Confisco do que for comercializado |
-|      2     | Banimento temporário de 30 dias + Confisco do que for comercializado |
-|      3     |       Banimento Permanente + Confisco do que for comercializado      |
+| Incidência |                                Punição                                |
+| :--------: | :-------------------------------------------------------------------: |
+|      1     | Banimento temporário de 15 dias + Confisco do conteúdo comercializado |
+|      2     | Banimento temporário de 30 dias + Confisco do conteúdo comercializado |
+|      3     |       Banimento Permanente + Confisco do conteúdo comercializado      |
 
 ## Regra 13 - AFK Farm
 
