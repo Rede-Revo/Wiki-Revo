@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
-# 🏆 Agenda de Eventos
+# 🏆 Agenda de Eventoss
 
 ## Servidor Survival
 
