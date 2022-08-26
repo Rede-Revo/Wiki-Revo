@@ -2,7 +2,7 @@
 description: Termos e Condições da Rede Revo
 ---
 
-# Termos
+# ✏ Termos
 
 {% hint style="warning" %}
 Ao adquirir qualquer serviço prestado por nós, deverá concordar com os nossos Termos de Uso e a nossa Política de Privacidade.

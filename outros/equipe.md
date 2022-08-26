@@ -160,6 +160,7 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 * ****<img src="../.gitbook/assets/2048 (1).png" alt="" data-size="line"> <mark style="color:green;">**Narciiso**</mark>** (data de entrada: 13/07/2022)**
 * ****<img src="../.gitbook/assets/2048 (4).png" alt="" data-size="line"> ** **<mark style="color:green;">**mxhado**</mark>** (data de entrada: 21/07/2022)**
 * ****<img src="../.gitbook/assets/2048 (7).png" alt="" data-size="line"> ** **<mark style="color:green;">**ScaryRT**</mark>** (data de entrada: 26/07/2022)**
+* <img src="../.gitbook/assets/2048 (11).png" alt="" data-size="line"> ** **<mark style="color:green;">**ManoBrelson**</mark>** (data de entrada:26/08/2022)**
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> <mark style="color:purple;">Designer</mark>
 
@@ -172,4 +173,4 @@ O **Designer** é o responsável pelo desenvolvimento da parte visual do servido
 
 #### Lista de Designers
 
-* <img src="../.gitbook/assets/2048 (1) (1).png" alt="" data-size="line"> <mark style="color:purple;">**ThojY**</mark>
+* <img src="../.gitbook/assets/2048 (1) (1).png" alt="" data-size="line"> <mark style="color:purple;">**ThojY**</mark>** (data de entrada: 16/03/2022)**

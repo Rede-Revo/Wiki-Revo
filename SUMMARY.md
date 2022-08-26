@@ -145,4 +145,4 @@
 * [👑 Equipe](outros/equipe.md)
 * [📞 Fale Conosco](outros/fale-conosco.md)
 * [🎓 Faça Parte da Equipe](outros/faca-parte-da-equipe.md)
-* [Termos](outros/termos.md)
+* [✏ Termos](outros/termos.md)
