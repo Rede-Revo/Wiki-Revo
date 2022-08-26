@@ -92,7 +92,7 @@ Consiste na tentativa de negociação e/ou transação de itens ou vantagens no 
 | :--------: | :-------------------------------------------------------------------: |
 |      1     | Banimento temporário de 15 dias + Confisco dos que for comercializado |
 |      2     | Banimento temporário de 30 dias + Confisco dos que for comercializado |
-|      3     |       Banimento Permanente + Confisco dos que for comercializado      |
+|      3     |       Banimento Permanente + Confisco do que for comercializado       |
 
 ## Regra 13 - AFK Farm
 
