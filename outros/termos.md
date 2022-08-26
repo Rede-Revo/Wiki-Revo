@@ -24,14 +24,14 @@ Fica reservado o nosso direito de alterar os Termos de Uso para assegurar a noss
 
 ### **3. DOAÇÕES, PRIVILÉGIOS E REEMBOLSO**
 
-**3.1.** Ao adquirir qualquer item do site, a ativação será feita automaticamente por nosso sistema. A entrega não será feita automaticamente caso haja algum problema com sua compra pela forma de pagamento escolhida e ou caso nosso sistema esteja passando por uma atualização.
+**3.1.** Ao adquirir qualquer item do site, a ativação será feita automaticamente por nosso sistema. A entrega não será feita automaticamente caso haja algum problema com sua doação pela forma de pagamento escolhida e ou caso nosso sistema esteja passando por uma atualização.
 
 **3.2.** Ao adquirir um item em nosso site, você está doando para o servidor. Em reconhecimento disso, o servidor agradece com uma jogabilidade diferenciada, assim fazendo com que nós permaneçamos online. ****&#x20;
 
 **3.3.** Qualquer item adquirido em nossa loja faz parte de um modelo de doação. Posto isso, pedidos de reembolso apenas serão aceitos caso siga as regras abaixo:
 
 * Você tem até **7 dias** após a doação para realizar a solicitação.
-* Você não pode ter utilizado de nenhuma forma o produto para poder cancelar a sua compra. (Ao concordar com este termo, o doador confirma e concorda que o **Artigo 49**, do **Código de Defesa do Consumidor (CDC)**, não poderá ser aplicado em casos de utilização do produto adquirido.)
+* Você não pode ter utilizado de nenhuma forma o produto para poder cancelar a sua doação. (Ao concordar com este termo, o doador confirma e concorda que o **Artigo 49**, do **Código de Defesa do Consumidor (CDC)**, não poderá ser aplicado em casos de utilização do produto adquirido.)
 * O reembolso será na mesma moeda corrente usada na doação.
 
 **3.4.** Em casos de doadores que abrem disputas, nosso sistema aplicará ao player que fez a doação para nosso servidor uma consequência "in-game" (dentro do jogo).
