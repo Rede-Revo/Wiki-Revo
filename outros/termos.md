@@ -52,6 +52,10 @@ Fica reservado o nosso direito de alterar os Termos de Uso para assegurar a noss
 
 **5.1.** Você entende que o Serviço é fornecido pela Internet pela Empresa através do uso de servidores, redes e outras tecnologias. Não obstante qualquer disposição em contrário neste Contrato, a Rede Revo se reserva o direito de interromper permanentemente o Serviço a qualquer momento. Após tal descontinuação, sua Conta e este Contrato serão encerrados.
 
-> Ao ler nossos termos e concordar com o que foi explicado aqui, o botão de doação será liberado em nosso site. Agradecemos sua atenção, respeito e compreensão!
+### **6. RESPEITO AOS TERMOS DE SERVIÇO**
+
+**6.1.** Nos reservamos ao direito de realizar o bloqueio do acesso de qualquer usuário em caso de descumprimento dos termos e regras definidos nessa página.
+
+> Agradecemos sua atenção, respeito e compreensão!
 >
 > Atenciosamente, **Equipe Rede Revo**
