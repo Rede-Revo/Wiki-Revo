@@ -84,15 +84,15 @@ Jogadores na **Black List** não possuem direito de compra de desbanimento.
 
 ## Regra 12 - Comércio não autorizado <a href="#01" id="01"></a>
 
-Consiste na tentativa de negociação de itens ou vantagens no servidor em troca de produtos externos (sem relação com o servidor).
+Consiste na tentativa de negociação e/ou transação de itens ou vantagens no servidor em troca de produtos externos (sem relação com o servidor).
 
 ### Lista de Punições <a href="#lista-de-punicoes-4" id="lista-de-punicoes-4"></a>
 
-| Incidência |             Punição             |
-| :--------: | :-----------------------------: |
-|      1     | Banimento temporário de 15 dias |
-|      2     | Banimento temporário de 30 dias |
-|      3     |       Banimento Permanente      |
+| Incidência |                                Punição                                |
+| :--------: | :-------------------------------------------------------------------: |
+|      1     | Banimento temporário de 15 dias + Confisco dos que for comercializado |
+|      2     | Banimento temporário de 30 dias + Confisco dos que for comercializado |
+|      3     |       Banimento Permanente + Confisco dos que for comercializado      |
 
 ## Regra 13 - AFK Farm
 
