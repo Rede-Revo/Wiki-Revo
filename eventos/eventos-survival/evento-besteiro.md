@@ -9,7 +9,7 @@ description: Todas as informações que você precisa saber sobre o evento seman
 * Usando apenas Besta e Flecha, mate o ultimo sobrevivente na arena e torne-se o vencedor ou mate a maior quantidade de inimigos e torne-se o matador;
 *   Itens definidos pela equipe; (armadura de diamante, 16 maças douradas, 64 coelhos assados, besta com perfuração 4, durabilidade 3 , besta com rajada 1, durabilidade 3 e 6 packs de flecha);
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.
 * Borda que reduz no decorrer da batalha;\

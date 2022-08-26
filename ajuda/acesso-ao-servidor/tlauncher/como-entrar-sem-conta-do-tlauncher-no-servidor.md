@@ -2,7 +2,7 @@
 description: >-
   Não consegue entrar no servidor porque não tem uma conta no TLauncher? Aqui
   está a solução para o seu problema!
-cover: ../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
@@ -10,4 +10,4 @@ coverY: 0
 
 Basta desmarcar a opção "Contas" na área de login.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)

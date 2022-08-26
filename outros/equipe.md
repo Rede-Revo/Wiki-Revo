@@ -22,7 +22,7 @@ coverY: 0
 #### Lista de Diretores
 
 * [<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) <mark style="color:yellow;">**Nevisk**</mark>**  (data de entrada: 21/05/2021)**
-* ****<img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**thiagogebrim**</mark>**  (data de entrada: 21/05/2021)**
+* ****<img src="../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**thiagogebrim**</mark>**  (data de entrada: 21/05/2021)**
 
 ## <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> <mark style="color:blue;">Gerente</mark>
 
@@ -51,7 +51,7 @@ O **desenvolvedor** é o profissional que desenvolve _plugins e os demais sistem
 
 #### Lista de Desenvolvedores
 
-* <img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> <mark style="color:purple;">**SOekd**</mark>** (data de entrada: 29/05/2021)**
+* <img src="../.gitbook/assets/image (7) (1) (2).png" alt="" data-size="line"> <mark style="color:purple;">**SOekd**</mark>** (data de entrada: 29/05/2021)**
 * #### <img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="line"> <mark style="color:purple;">xMattNice\_</mark> (data de entrada: 13/04/2022)
 
 ## ​<img src="../.gitbook/assets/tecnico.png" alt="" data-size="line"> <mark style="color:orange;">Técnico(a)</mark> <a href="#desenvolvedor" id="desenvolvedor"></a>
@@ -82,9 +82,9 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 
 #### Lista de Administradores
 
-* <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> <mark style="color:red;">**Felipesfera**</mark> **(data de entrada: 29/05/2021)**
+* <img src="../.gitbook/assets/image (4) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">**Felipesfera**</mark> **(data de entrada: 29/05/2021)**
 
-## <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> <mark style="color:green;">Moderador</mark>
+## <img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador</mark>
 
 A equipe de moderação está encarregada de conservar um ambiente amigável. Os moderadores são jogadores voluntários a quem concedemos confiança, além de ferramentas para que possam manter a jogatina o mais agradável possível.
 
@@ -97,7 +97,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
-* #### <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:green;">**Beazika**</mark> (data de entrada: 14/03/2022)
+* #### <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> <mark style="color:green;">**Beazika**</mark> (data de entrada: 14/03/2022)
 * ****<img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> ** **<mark style="color:green;">**SenhorNogueira**</mark>** (data de entrada: 30/01/2022)**
 
 ## <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>

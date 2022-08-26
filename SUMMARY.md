@@ -58,7 +58,7 @@
       * [😵 Atordoar](sistemas/mcmmo/habilidades-de-combate/arquearia/atordoar.md)
       * [⬆ Recuperação de Flechas](sistemas/mcmmo/habilidades-de-combate/arquearia/recuperacao-de-flechas.md)
       * [🎯 Proficiência em Tiros](sistemas/mcmmo/habilidades-de-combate/arquearia/proficiencia-em-tiros.md)
-      * [🧗♂ Quebra de Limite de Arqueiro](sistemas/mcmmo/habilidades-de-combate/arquearia/quebra-de-limite.md)
+      * [🧗♂ 🧗♂ Quebra de Limite de Arqueiro](sistemas/mcmmo/habilidades-de-combate/arquearia/quebra-de-limite.md)
     * [🗡 Espadas](sistemas/mcmmo/habilidades-de-combate/espadas/README.md)
       * [🧨 Ruptura](sistemas/mcmmo/habilidades-de-combate/espadas/ruptura.md)
       * [🩸 Ataques Cortantes](sistemas/mcmmo/habilidades-de-combate/espadas/ataques-cortantes.md)
@@ -79,7 +79,7 @@
       * [🐾 Patada](sistemas/mcmmo/habilidades-de-combate/domesticacao/patada.md)
       * [🍔 Serviço de Fast Food](sistemas/mcmmo/habilidades-de-combate/domesticacao/servico-de-fast-food.md)
       * [🐕 Mordida](sistemas/mcmmo/habilidades-de-combate/domesticacao/mordida.md)
-      * [🐕🦺 Pelo Grosso](sistemas/mcmmo/habilidades-de-combate/domesticacao/pelo-grosso.md)
+      * [🐕🦺 🐕🦺 Pelo Grosso](sistemas/mcmmo/habilidades-de-combate/domesticacao/pelo-grosso.md)
       * [🐩 Cão Piedoso](sistemas/mcmmo/habilidades-de-combate/domesticacao/cao-piedoso.md)
       * [💥 Resistência a Impactos](sistemas/mcmmo/habilidades-de-combate/domesticacao/resistencia-a-impactos.md)
       * [🐾 Garras Afiadas](sistemas/mcmmo/habilidades-de-combate/domesticacao/garras-afiadas.md)
@@ -131,11 +131,13 @@
 
 ## ━━━━ Ajuda ━━━━
 
+* [Acesso ao servidor](ajuda/acesso-ao-servidor/README.md)
+  * [🚀 TLauncher](ajuda/acesso-ao-servidor/tlauncher/README.md)
+    * [❓ Como entrar sem conta do TLauncher no Servidor?](ajuda/acesso-ao-servidor/tlauncher/como-entrar-sem-conta-do-tlauncher-no-servidor.md)
+    * [👕 Problemas com skin no Tlauncher?](ajuda/acesso-ao-servidor/tlauncher/problemas-com-skin-no-tlauncher.md)
+  * [Vincular conta Bedrock e Java](ajuda/acesso-ao-servidor/vincular-conta-bedrock-e-java.md)
 * [🎨 Cores RGB](ajuda/cores-rgb.md)
 * [⚙ Problemas de Conexão](ajuda/problemas-de-conexao.md)
-* [🚀 TLauncher](ajuda/tlauncher/README.md)
-  * [❓ Como entrar sem conta do TLauncher no Servidor?](ajuda/tlauncher/como-entrar-sem-conta-do-tlauncher-no-servidor.md)
-  * [👕 Problemas com skin no Tlauncher?](ajuda/tlauncher/problemas-com-skin-no-tlauncher.md)
 
 ## ━━━━ Outros ━━━━
 
