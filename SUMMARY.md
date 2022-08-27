@@ -131,11 +131,11 @@
 
 ## ━━━━ Ajuda ━━━━
 
-* [Acesso ao servidor](ajuda/acesso-ao-servidor/README.md)
+* [📬 Acesso ao servidor](ajuda/acesso-ao-servidor/README.md)
   * [🚀 TLauncher](ajuda/acesso-ao-servidor/tlauncher/README.md)
     * [❓ Como entrar sem conta do TLauncher no Servidor?](ajuda/acesso-ao-servidor/tlauncher/como-entrar-sem-conta-do-tlauncher-no-servidor.md)
     * [👕 Problemas com skin no Tlauncher?](ajuda/acesso-ao-servidor/tlauncher/problemas-com-skin-no-tlauncher.md)
-  * [Vincular conta Bedrock e Java](ajuda/acesso-ao-servidor/vincular-conta-bedrock-e-java.md)
+  * [📱 Vincular conta Bedrock e Java](ajuda/acesso-ao-servidor/vincular-conta-bedrock-e-java.md)
 * [🎨 Cores RGB](ajuda/cores-rgb.md)
 * [⚙ Problemas de Conexão](ajuda/problemas-de-conexao.md)
 

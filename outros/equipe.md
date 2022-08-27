@@ -159,7 +159,6 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 * ****<img src="../.gitbook/assets/2048 (5).png" alt="" data-size="line"> <mark style="color:green;">**Gutothefoda**</mark>** (data de entrada: 20/06/2022)**
 * ****<img src="../.gitbook/assets/2048 (1).png" alt="" data-size="line"> <mark style="color:green;">**Narciiso**</mark>** (data de entrada: 13/07/2022)**
 * ****<img src="../.gitbook/assets/2048 (4).png" alt="" data-size="line"> ** **<mark style="color:green;">**mxhado**</mark>** (data de entrada: 21/07/2022)**
-* ****<img src="../.gitbook/assets/2048 (7).png" alt="" data-size="line"> ** **<mark style="color:green;">**ScaryRT**</mark>** (data de entrada: 26/07/2022)**
 * <img src="../.gitbook/assets/2048 (11).png" alt="" data-size="line"> ** **<mark style="color:green;">**ManoBrelson**</mark>** (data de entrada:26/08/2022)**
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> <mark style="color:purple;">Designer</mark>

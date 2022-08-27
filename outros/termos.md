@@ -1,5 +1,7 @@
 ---
 description: Termos e Condições da Rede Revo
+cover: ../.gitbook/assets/Inserir_um_titulo_3.png
+coverY: 0
 ---
 
 # ✏ Termos
@@ -50,7 +52,7 @@ Fica reservado o nosso direito de alterar os Termos de Uso para assegurar a noss
 
 **4.2.** O servidor não se responsabilizará por mal uso do benefício adquirido com a doação.
 
-**4.3.** Ser um doador não torna o player impune de sofrer consequências ao desrespeitar as regras do servidor. Se o player desrespeitar as regras do servidor, estará sujeito a punições como qualquer membro da comunidade.
+**4.3.** Ser um doador não torna o player impune de sofrer consequências ao desrespeitar as regras do servidor. Se o jogador desrespeitar as regras do servidor, estará sujeito a punições como qualquer membro da comunidade.
 
 ### **5.** DESCONTINUAÇÃO
 

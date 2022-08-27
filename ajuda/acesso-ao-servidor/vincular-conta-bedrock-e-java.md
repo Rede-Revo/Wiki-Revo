@@ -1,8 +1,9 @@
 ---
 description: Saiba como vincular sua conta Java com a Bedrock Edition!
+coverY: 0
 ---
 
-# Vincular conta Bedrock e Java
+# 📱 Vincular conta Bedrock e Java
 
 **Como Funciona**[**​**](https://wiki.armamc.com/#como-funciona)
 
