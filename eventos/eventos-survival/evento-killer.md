@@ -59,7 +59,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 | » Colocação « | » Jogador(a) « | » Quantidade de Vezes Matador « |
 | :-----------: | :------------: | :-----------------------------: |
-|  🥇 1º Lugar  |   `_IRagnar`   |                5                |
+|  🥇 1º Lugar  |   `_IRagnar`   |                6                |
 |  🥈 2º Lugar  | `falcaonava12` |                4                |
 |  🥉 3º Lugar  |   `banzinbr7`  |                2                |
 |  🥉 3º Lugar  |   `_Giffoni`   |                2                |
@@ -88,27 +88,27 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥇 1º Lugar  | `falcaonava12` |                        5                       |
 |  🥈 2º Lugar  |   `_gueiibs`   |                        3                       |
 |  🥉 3º Lugar  |  `Mat_Redston` |                        2                       |
-|  🎖️ 4º Lugar |  `____Why____` |                        1                       |
-|  🎖️ 4º Lugar | `koalaISOLADO` |                        1                       |
-|  🎖️ 4º Lugar |  `Oo_Gustavo`  |                        1                       |
-|  🎖️ 4º Lugar |    `lulinha`   |                        1                       |
-|  🎖️ 4º Lugar |    `jakseli`   |                        1                       |
-|  🎖️ 4º Lugar |    `Cebolx`    |                        1                       |
-|  🎖️ 4º Lugar |   `_IRagnar`   |                        1                       |
-|  🎖️ 4º Lugar |  `EasyBounce`  |                        1                       |
-|  🎖️ 4º Lugar |  `GameplayPE`  |                        1                       |
-|  🎖️ 4º Lugar |  `LauraPrado`  |                        1                       |
-|  🎖️ 4º Lugar | `Otaku_Manero` |                        1                       |
-|  🎖️ 4º Lugar |   `ClaxmeteR`  |                        1                       |
-|  🎖️ 4º Lugar |   `Pedriin_`   |                        1                       |
-|  🎖️ 4º Lugar |   `_Giffoni`   |                        1                       |
-|  🎖️ 4º Lugar |  `yLuquinhaz`  |                        1                       |
-|  🎖️ 4º Lugar |   `zKnusttZ`   |                        1                       |
-|  🎖️ 4º Lugar |    `Krenzif`   |                        1                       |
-|  🎖️ 4º Lugar |   `Maritopx`   |                        1                       |
-|  🎖️ 4º Lugar |    `shooqy`    |                        1                       |
-|  🎖️ 4º Lugar |    `Taayboy`   |                        1                       |
-|  🎖️ 4º Lugar |    `tremeu`    |                        1                       |
+|  🥉 3º Lugar  |   `_IRagnar`   |                        2                       |
+|  🎖️ 5º Lugar |  `____Why____` |                        1                       |
+|  🎖️ 5º Lugar | `koalaISOLADO` |                        1                       |
+|  🎖️ 5º Lugar |  `Oo_Gustavo`  |                        1                       |
+|  🎖️ 5º Lugar |    `lulinha`   |                        1                       |
+|  🎖️ 5º Lugar |    `jakseli`   |                        1                       |
+|  🎖️ 5º Lugar |    `Cebolx`    |                        1                       |
+|  🎖️ 5º Lugar |  `EasyBounce`  |                        1                       |
+|  🎖️ 5º Lugar |  `GameplayPE`  |                        1                       |
+|  🎖️ 5º Lugar |  `LauraPrado`  |                        1                       |
+|  🎖️ 5º Lugar | `Otaku_Manero` |                        1                       |
+|  🎖️ 5º Lugar |   `ClaxmeteR`  |                        1                       |
+|  🎖️ 5º Lugar |   `Pedriin_`   |                        1                       |
+|  🎖️ 5º Lugar |   `_Giffoni`   |                        1                       |
+|  🎖️ 5º Lugar |  `yLuquinhaz`  |                        1                       |
+|  🎖️ 5º Lugar |   `zKnusttZ`   |                        1                       |
+|  🎖️ 5º Lugar |    `Krenzif`   |                        1                       |
+|  🎖️ 5º Lugar |   `Maritopx`   |                        1                       |
+|  🎖️ 5º Lugar |    `shooqy`    |                        1                       |
+|  🎖️ 5º Lugar |    `Taayboy`   |                        1                       |
+|  🎖️ 5º Lugar |    `tremeu`    |                        1                       |
 
 ## » Histórico do Evento
 
@@ -146,7 +146,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LII - 05/08/2022   |               `shooqy`              |                `shooqy`               |
 |   Edição LIII - 12/08/2022  |              `Taayboy`              |               `Taayboy`               |
 |   Edição LIV - 19/08/2022   |               `tremeu`              |                `tremeu`               |
-|    Edição LV - 26/08/2022   |                  -                  |                   -                   |
+|    Edição LV - 26/08/2022   |              `_IRagnar`             |               `_IRagnar`              |
 |   Edição LVI - 02/09/2022   |                  -                  |                   -                   |
 |   Edição LVII - 09/09/2022  |                  -                  |                   -                   |
 |  Edição LVIII - 16/09/2022  |                  -                  |                   -                   |
