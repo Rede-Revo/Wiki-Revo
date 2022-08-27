@@ -104,7 +104,7 @@
 * [🔑 Votos](sistemas/votos.md)
 * [⛏ Passe de Batalha](sistemas/passe-de-batalha.md)
 * [🪵 Terrenos](sistemas/terrenos/README.md)
-  * [Venda e Aluguel de terrenos](sistemas/terrenos/venda-e-aluguel-de-terrenos.md)
+  * [💸 Venda e Aluguel de terrenos](sistemas/terrenos/venda-e-aluguel-de-terrenos.md)
   * [🕸 Terreno Abandonado](sistemas/terrenos/terreno-abandonado.md)
 * [🛒 Economia](sistemas/economia.md)
 * [💀 Cabeças Customizadas](sistemas/cabecas-customizadas/README.md)

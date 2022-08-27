@@ -1,5 +1,7 @@
 ---
 description: Todas as informações que você precisa saber sobre o evento semanal Clã x Clã.
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
+coverY: 0
 ---
 
 # 🔰 Evento Clã x Clã

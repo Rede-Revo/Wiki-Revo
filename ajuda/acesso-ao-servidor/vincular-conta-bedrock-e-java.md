@@ -1,5 +1,6 @@
 ---
 description: Saiba como vincular sua conta Java com a Bedrock Edition!
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
