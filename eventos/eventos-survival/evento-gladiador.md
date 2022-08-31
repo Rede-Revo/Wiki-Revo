@@ -64,9 +64,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  » Colocação «  |  » Jogador(a) «  | » Número de Vezes Último(a) Sobrevivente « |
 | :-------------: | :--------------: | :----------------------------------------: |
 |   🥇 1º Lugar   |    `_IRagnar`    |                      3                     |
-|   🥈 2º Lugar   |    `Pedriin_`    |                      2                     |
-|   🥈 2º Lugar   |    `_Giffoni`    |                      2                     |
-|   🥈 2º Lugar   |     `shyyyy`     |                      2                     |
+|   🥇 1º Lugar   |     `shyyyy`     |                      3                     |
+|   🥉 3º Lugar   |    `Pedriin_`    |                      2                     |
+|   🥉 3º Lugar   |    `_Giffoni`    |                      2                     |
 | **🎖** 5º Lugar | `universalizado` |                      1                     |
 | **🎖** 5º Lugar |    `ClaxmeteR`   |                      1                     |
 | **🎖** 5º Lugar |  `falcaonava12`  |                      1                     |
@@ -83,9 +83,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | :-------------: | :------------: | :----------------------------: |
 |   🥇 1º Lugar   |  `kaduzinsan`  |                3               |
 |   🥇 1º Lugar   |   `_IRagnar`   |                3               |
-|   🥉 3º Lugar   | `falcaonava12` |                2               |
-|   🥉 3º Lugar   |   `ClaxMeteR`  |                2               |
-|   🥉 3º Lugar   |    `shyyyy`    |                2               |
+|   🥇 1º Lugar   |    `shyyyy`    |                3               |
+|   🏅 4º Lugar   | `falcaonava12` |                2               |
+|   🏅 4º Lugar   |   `ClaxMeteR`  |                2               |
 | **🎖** 6º Lugar |   `banzinbr7`  |                1               |
 | **🎖** 6º Lugar |  `MT_MIRANDA`  |                1               |
 | **🎖** 6º Lugar |   `new_miza`   |                1               |
@@ -115,7 +115,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição XVI - 06/08/2022  |          `_InAway`         |    `_InAway`   |
 |  Edição XVII - 13/08/2022 |          `Taayboy`         |    `alceofc`   |
 | Edição XVIII - 20/08/2022 |          `shyyyy`          |    `shyyyy`    |
-|  Edição XIX - 27/08/2022  |              -             |        -       |
+|  Edição XIX - 27/08/2022  |          `shyyyy`          |    `shyyyy`    |
 |   Edição XX - 03/09/2022  |              -             |        -       |
 |  Edição XXI - 10/09/2022  |              -             |        -       |
 |  Edição XXII - 17/09/2022 |              -             |        -       |

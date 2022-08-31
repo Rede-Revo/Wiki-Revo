@@ -43,7 +43,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## » Premiação
 
-#### 🥇 **Ultimo Sobrevivente**
+#### 🥇 Ú**ltimo Sobrevivente**
 
 * 💰 Premiação de **100.000 Coins**
 * 💎**\[Liga]** 50 Pontos
@@ -53,4 +53,22 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
 * 💰 Premiação de **50.000 Coins**
-* 💎**\[Liga]** 25 Pontos
+* 💎 **\[Liga]** 25 Pontos
+
+## » Ranking de Últimos Sobreviventes
+
+| » Classificação « | » Jogador(a) « | » Número de vezes último(a) sobrevivente « |
+| :---------------: | :------------: | :----------------------------------------: |
+|    🥇 1º Lugar    |  `jesus536be`  |                      1                     |
+
+## » Ranking de Matadores
+
+| » Classificação « | » Jogador(a) « | » Número de vezes matador(a) « |
+| :---------------: | :------------: | :----------------------------: |
+|    🥇 1º Lugar    |  `Beckhampro`  |                1               |
+
+## » Histórico do Evento
+
+|       » Edição «      | » Último(a) Sobrevivente « | » Matador(a) « |
+| :-------------------: | :------------------------: | :------------: |
+| Edição I - 28/08/2022 |        `jesus536be`        |  `Beckhampro`  |

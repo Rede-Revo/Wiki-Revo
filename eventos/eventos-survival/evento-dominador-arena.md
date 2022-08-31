@@ -52,6 +52,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥈 2º Lugar  |    `Guga_S2`   |              1             |
 |  🥈 2º Lugar  |   `PauloJLG`   |              1             |
 |  🥈 2º Lugar  |  `HxqueBjorn_` |              1             |
+|  🥈 2º Lugar  |   `MoraesW1`   |              1             |
 
 ## » Ranking de Clãs Vencedores
 
@@ -59,7 +60,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | :-----------: | :---------------: | :------------------------: |
 |  🥇 1º Lugar  |  \[VhL] Valhalla  |              3             |
 |  🥇 1º Lugar  | \[666] The Ritual |              3             |
-|  🥉 3º Lugar  |  \[suN] Sunshine  |              1             |
+|  🥉 3º Lugar  |  \[suN] Sunshine  |              2             |
 |  🥉 3º Lugar  |    \[TkA] Taka    |              1             |
 |  🥉 3º Lugar  |   \[GoD] Godness  |              1             |
 
@@ -76,7 +77,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição VII - 06/08/2022 |  \[suN] Sunshine  |       `Guga_S2`       |
 | Edição VIII - 13/08/2022 |    \[TkA] Taka    |       `PauloJLG`      |
 |  Edição IX - 20/08/2022  |   \[GoD] Godness  |     `HxqueBjorn_`     |
-|   Edição X - 27/08/2022  |         -         |           -           |
+|   Edição X - 27/08/2022  |  \[SuN] Sunshine  |       `MoraesW1`      |
 |  Edição XI - 03/09/2022  |         -         |           -           |
 |  Edição XII - 10/09/2022 |         -         |           -           |
 | Edição XIII - 17/09/2022 |         -         |           -           |

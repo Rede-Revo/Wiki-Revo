@@ -64,21 +64,24 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | » Colocação « |    » Clã «   | » Quantidade de vitórias « |
 | :-----------: | :----------: | :------------------------: |
 |  🥇 1º Lugar  | \[MaF] Máfia |              1             |
+|  🥇 1º Lugar  |  \[TkA] Taka |              1             |
 
 ## » Ranking de Clãs Segundo Colocados
 
 | » Colocação « |     » Clã «     | » Quantidade de vitórias « |
 | :-----------: | :-------------: | :------------------------: |
-|  🥇 1º Lugar  | \[SuN] Sunshine |              1             |
+|  🥇 1º Lugar  | \[SuN] Sunshine |              2             |
 
 ## » Ranking de Clãs Terceiro Colocados
 
-| » Colocação « |   » Clã «   | » Quantidade de vitórias « |
-| :-----------: | :---------: | :------------------------: |
-|  🥇 1º Lugar  | \[TkA] Taka |              1             |
+| » Colocação « |     » Clã «     | » Quantidade de vitórias « |
+| :-----------: | :-------------: | :------------------------: |
+|  🥇 1º Lugar  |   \[TkA] Taka   |              1             |
+|  🥇 1º Lugar  | \[VhL] Valhalla |              1             |
 
 ## » Histórico do Evento
 
-|       » Edição «      | » 1º Colocado « | » 2º Colocado « | » 3º Colocado |
-| :-------------------: | :-------------: | :-------------: | :-----------: |
-| Edição I - 24/08/2022 |   \[MaF] Máfia  | \[SuN] Sunshine |  \[TkA] Taka  |
+|       » Edição «       | » 1º Colocado « | » 2º Colocado « |  » 3º Colocado  |
+| :--------------------: | :-------------: | :-------------: | :-------------: |
+|  Edição I - 24/08/2022 |   \[MaF] Máfia  | \[SuN] Sunshine |   \[TkA] Taka   |
+| Edição II - 31/08/2022 |   \[TkA] Taka   | \[SuN] Sunshine | \[VhL] Valhalla |

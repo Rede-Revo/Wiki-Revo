@@ -62,9 +62,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥇 1º Lugar |     `Filiipe`    |                4                |
 |  🥇 1º Lugar |   `yLuquinhaz`   |                4                |
 |  🥉 3º Lugar |   `Mat_redston`  |                3                |
-|  🏅 4º Lugar |    `new_miza`    |                2                |
-|  🏅 4º Lugar |    `_Giffoni`    |                2                |
-|  🏅 4º Lugar |  `RyanGamer2004` |                2                |
+|  🥉 3º Lugar |  `RyanGamer2004` |                3                |
+|  🏅 5º Lugar |    `new_miza`    |                2                |
+|  🏅 5º Lugar |    `_Giffoni`    |                2                |
 | 🎖️ 7º Lugar |     `Cebolx`     |                1                |
 | 🎖️ 7º Lugar | `FastDoughnut05` |                1                |
 | 🎖️ 7º Lugar |     `iSamBr_`    |                1                |
@@ -88,24 +88,24 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥈 2º Lugar  |    `Filiipe`    |                        3                       |
 |  🏅 4º Lugar  |     `shyyyy`    |                        2                       |
 |  🏅 4º Lugar  |  `_BRAZINO777`  |                        2                       |
-|  🎖️ 6º Lugar |     `Cebolx`    |                        1                       |
-|  🎖️ 6º Lugar |     `Vast6`     |                        1                       |
-|  🎖️ 6º Lugar |    `iSamBr_`    |                        1                       |
-|  🎖️ 6º Lugar |    `jakseli`    |                        1                       |
-|  🎖️ 6º Lugar |    `Pedriin_`   |                        1                       |
-|  🎖️ 6º Lugar |    `luuke18`    |                        1                       |
-|  🎖️ 6º Lugar |   `GameplayPE`  |                        1                       |
-|  🎖️ 6º Lugar |   `Oo_Gustavo`  |                        1                       |
-|  🎖️ 6º Lugar |   `LeoSoviet`   |                        1                       |
-|  🎖️ 6º Lugar | `TheTitaniumBR` |                        1                       |
-|  🎖️ 6º Lugar |     `Mth030`    |                        1                       |
-|  🎖️ 6º Lugar | `RyanGamer2004` |                        1                       |
-|  🎖️ 6º Lugar |   `MT_MIRANDA`  |                        1                       |
-|  🎖️ 6º Lugar |  `Gutothefoda`  |                        1                       |
-|  🎖️ 6º Lugar |   `banzinbr7`   |                        1                       |
-|  🎖️ 6º Lugar |   `SoUris_001`  |                        1                       |
-|  🎖️ 6º Lugar |      `666`      |                        1                       |
-|  🎖️ 6º Lugar |    `Pedrynn`    |                        1                       |
+|  🏅 4º Lugar  | `RyanGamer2004` |                        2                       |
+|  🎖️ 7º Lugar |     `Cebolx`    |                        1                       |
+|  🎖️ 7º Lugar |     `Vast6`     |                        1                       |
+|  🎖️ 7º Lugar |    `iSamBr_`    |                        1                       |
+|  🎖️ 7º Lugar |    `jakseli`    |                        1                       |
+|  🎖️ 7º Lugar |    `Pedriin_`   |                        1                       |
+|  🎖️ 7º Lugar |    `luuke18`    |                        1                       |
+|  🎖️ 7º Lugar |   `GameplayPE`  |                        1                       |
+|  🎖️ 7º Lugar |   `Oo_Gustavo`  |                        1                       |
+|  🎖️ 7º Lugar |   `LeoSoviet`   |                        1                       |
+|  🎖️ 7º Lugar | `TheTitaniumBR` |                        1                       |
+|  🎖️ 7º Lugar |     `Mth030`    |                        1                       |
+|  🎖️ 7º Lugar |   `MT_MIRANDA`  |                        1                       |
+|  🎖️ 7º Lugar |  `Gutothefoda`  |                        1                       |
+|  🎖️ 7º Lugar |   `banzinbr7`   |                        1                       |
+|  🎖️ 7º Lugar |   `SoUris_001`  |                        1                       |
+|  🎖️ 7º Lugar |      `666`      |                        1                       |
+|  🎖️ 7º Lugar |    `Pedrynn`    |                        1                       |
 
 ## » Histórico do Evento
 
@@ -143,7 +143,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LII - 05/08/2022   |    `cryngpeep`   |        `_BRAZINO777`       |
 |   Edição LIII - 10/08/2022  |   `cafenaDEPRE`  |        `_BRAZINO777`       |
 |   Edição LIV - 17/08/2022   |   `yLuquinhaz`   |        `yLuquinhaz`        |
-|    Edição LV - 27/08/2022   |         -        |              -             |
+|    Edição LV - 27/08/2022   |  `RyanGamer2004` |       `RyanGamer2004`      |
 |   Edição LVI - 03/09/2022   |         -        |              -             |
 |   Edição LVII - 10/09/2022  |         -        |              -             |
 |  Edição LVIII - 17/09/2022  |         -        |              -             |
