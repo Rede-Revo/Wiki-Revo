@@ -53,6 +53,7 @@ O **desenvolvedor** é o profissional que desenvolve _plugins e os demais sistem
 
 * <img src="../.gitbook/assets/image (7) (1) (2).png" alt="" data-size="line"> <mark style="color:purple;">**SOekd**</mark>** (data de entrada: 29/05/2021)**
 * #### <img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="line"> <mark style="color:purple;">xMattNice\_</mark> (data de entrada: 13/04/2022)
+* #### <img src="../.gitbook/assets/2048 (12).png" alt="" data-size="line"> <mark style="color:purple;">PedreiroNaAtiva</mark> (data de entrada: 31/08/2022)
 
 ## ​<img src="../.gitbook/assets/tecnico.png" alt="" data-size="line"> <mark style="color:orange;">Técnico(a)</mark> <a href="#desenvolvedor" id="desenvolvedor"></a>
 
