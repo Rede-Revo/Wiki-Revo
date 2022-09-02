@@ -126,7 +126,8 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 #### Lista de Construtores
 
 * #### <img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> <mark style="color:orange;">**IsaacChan**</mark> (data de entrada: 10/01/2022)
-* #### ****<img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> <mark style="color:orange;">**yQuack**</mark> (data de entrada: 12/06/2022)
+* #### <img src="../.gitbook/assets/2048 (14).png" alt="" data-size="line"> <mark style="color:orange;">**yQuack**</mark> (data de entrada: 12/06/2022)
+* #### <img src="../.gitbook/assets/2048 (13).png" alt="" data-size="line"> <mark style="color:orange;">Mysthyc</mark> (data de entrada: 08/08/2022)
 
 ## <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> <mark style="color:yellow;">Ajudante</mark>
 
@@ -161,6 +162,7 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 * ****<img src="../.gitbook/assets/2048 (1).png" alt="" data-size="line"> <mark style="color:green;">**Narciiso**</mark>** (data de entrada: 13/07/2022)**
 * ****<img src="../.gitbook/assets/2048 (4).png" alt="" data-size="line"> ** **<mark style="color:green;">**mxhado**</mark>** (data de entrada: 21/07/2022)**
 * <img src="../.gitbook/assets/2048 (11).png" alt="" data-size="line"> ** **<mark style="color:green;">**ManoBrelson**</mark>** (data de entrada:26/08/2022)**
+* <img src="../.gitbook/assets/2048 (15).png" alt="" data-size="line"> <mark style="color:green;">**FadeMester\_**</mark>** (data de entrada: 31/08/2022)**
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> <mark style="color:purple;">Designer</mark>
 
