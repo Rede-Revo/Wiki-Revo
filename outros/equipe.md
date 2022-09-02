@@ -127,7 +127,7 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 
 * #### <img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> <mark style="color:orange;">**IsaacChan**</mark> (data de entrada: 10/01/2022)
 * #### <img src="../.gitbook/assets/2048 (14).png" alt="" data-size="line"> <mark style="color:orange;">**yQuack**</mark> (data de entrada: 12/06/2022)
-* #### <img src="../.gitbook/assets/2048 (13).png" alt="" data-size="line"> <mark style="color:orange;">Mysthyc</mark> (data de entrada: 08/08/2022)
+* #### <img src="../.gitbook/assets/2048 (13).png" alt="" data-size="line"> <mark style="color:orange;">MysThyc</mark> (data de entrada: 08/08/2022)
 
 ## <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> <mark style="color:yellow;">Ajudante</mark>
 
