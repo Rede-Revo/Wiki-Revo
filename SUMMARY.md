@@ -119,7 +119,7 @@
   * [🔰 Evento Clã x Clã](eventos/eventos-survival/evento-cla-x-cla.md)
   * [🌪 Evento Dominador (Arena)](eventos/eventos-survival/evento-dominador-arena.md)
   * [🛡 Evento Gladiador](eventos/eventos-survival/evento-gladiador.md)
-  * [🏆 Guerra de Clãs](eventos/eventos-survival/guerra-de-clas.md)
+  * [🏆 Evento Guerra de Clãs](eventos/eventos-survival/guerra-de-clas.md)
   * [⚔ Evento Guerreiro](eventos/eventos-survival/evento-guerreiro.md)
   * [🔪 Evento Killer](eventos/eventos-survival/evento-killer.md)
   * [🗡 Evento Pré-Guerra de Clãs](eventos/eventos-survival/evento-pre-guerra-de-clas.md)

@@ -48,7 +48,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * 💰 Premiação de **100.000 Coins**
 * 💎**\[Liga]** 50 Pontos
 * ​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvDOKGccGYHA70l7WF72d%2Fuploads%2FOBK4cloBTUiSCK8zAbq8%2Fimage.png?alt=media&#x26;token=c49a492f-3018-40e1-bdfe-428c73a2125d" alt="" data-size="line">TAG **\[Besteiro(a)]** durante 7 dias
-* ​​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvDOKGccGYHA70l7WF72d%2Fuploads%2F8EZjvWOc71OnVvlLX0Cp%2Fimage.png?alt=media&#x26;token=1d6b1323-340a-45d7-81c8-251f54ef9f3d" alt="" data-size="line">**Contador de Blocos**
+* ​​<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvDOKGccGYHA70l7WF72d%2Fuploads%2F8EZjvWOc71OnVvlLX0Cp%2Fimage.png?alt=media&#x26;token=1d6b1323-340a-45d7-81c8-251f54ef9f3d" alt="" data-size="line"> **Contador de Blocos**
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 

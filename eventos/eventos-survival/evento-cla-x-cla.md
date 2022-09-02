@@ -45,19 +45,24 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### 🥇 **1° Lugar**
 
-* 💰 Premiação de 2**50.000 Coins**
+* 💰 Premiação de **250.000 Coins**
 * <img src="../../.gitbook/assets/image (14) (1).png" alt="" data-size="line"> TAG **\[Campeã(o)]** durante 7 dias
-* 💎**\[Liga]** 100 Pontos
+* 💎 **\[Liga]** 100 Pontos
 
 #### [🥈](https://emojipedia.org/2nd-place-medal/) **2° Lugar**
 
 * 💰 Premiação de **150.000 Coins**
-* 💎**\[Liga]** 50 Pontos
+* 💎 **\[Liga]** 50 Pontos
 
 #### [🥉](https://emojipedia.org/3rd-place-medal/) **3° Lugar**
 
 * 💰 Premiação de **50.000 Coins**
-* 💎**\[Liga] 25** Pontos
+* 💎 **\[Liga]** 25 Pontos
+
+#### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
+
+* 💰 Premiação de **25.000 Coins**
+* 💎 **\[Liga]** 10 Pontos
 
 ## » Ranking de Clãs Vencedores
 
