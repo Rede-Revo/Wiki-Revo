@@ -61,8 +61,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
-* 💰 Premiação de **25.000 Coins**
-* 💎 **\[Liga]** 10 Pontos
+* 💰 Premiação de **50.000 Coins**
+* 💎 **\[Liga]** 25 Pontos
 
 ## » Ranking de Clãs Vencedores
 
