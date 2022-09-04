@@ -12,7 +12,7 @@ coverY: 0
 #### Clients Permitidos:
 
 * Lunar Client
-* Feather Launcher
+* Feather Launcher (Somente versão 1.19.2)
 * LabyMod
 * Badlion Client
 * Salwyrr Client
