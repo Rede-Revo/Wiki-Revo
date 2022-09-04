@@ -12,10 +12,14 @@ coverY: 0
 #### Clients Permitidos:
 
 * Lunar Client
-* Feather Launcher (Somente versão 1.19.2)
+* Feather Launcher\*
 * LabyMod
 * Badlion Client
 * Salwyrr Client
+
+{% hint style="info" %}
+* \*Utilizar a versão mais recente (1.19.2), sujeito a punição com o uso de mini map em versões inferiores.
+{% endhint %}
 
 #### Mods Permitidos:
 
