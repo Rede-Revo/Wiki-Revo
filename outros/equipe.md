@@ -83,7 +83,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 
 #### Lista de Administradores
 
-* <img src="../.gitbook/assets/image (4) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">**Felipesfera**</mark> **(data de entrada: 29/05/2021)**
+* <img src="../.gitbook/assets/2048 (16).png" alt="" data-size="line"> <mark style="color:red;">**Felipesfera**</mark> **(data de entrada: 29/05/2021)**
 
 ## <img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador</mark>
 
@@ -99,7 +99,6 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 #### Lista de Moderadores
 
 * #### <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> <mark style="color:green;">**Beazika**</mark> (data de entrada: 14/03/2022)
-* ****<img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> ** **<mark style="color:green;">**SenhorNogueira**</mark>** (data de entrada: 30/01/2022)**
 
 ## <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
@@ -144,7 +143,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 * ****<img src="../.gitbook/assets/2048.png" alt="" data-size="line"> ** **<mark style="color:yellow;">**yasta**</mark>** (data de entrada: 24/06/2022)**
 * ****<img src="../.gitbook/assets/image (16).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**Guimeirobr**</mark>** (data de entrada: 23/03/2022)**
-* <img src="../.gitbook/assets/2048 (9).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**MonarkaIsBack**</mark>** (data de entrada: 25/07/2022)**
+* <img src="../.gitbook/assets/2048 (9).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**ySxnnyy**</mark>** (data de entrada: 25/07/2022)**
 
 ## <img src="../.gitbook/assets/image (19).png" alt="" data-size="line"> <mark style="color:green;">Aprendiz</mark>
 
