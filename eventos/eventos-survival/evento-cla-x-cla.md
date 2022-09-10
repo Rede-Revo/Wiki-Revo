@@ -66,16 +66,16 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## » Ranking de Clãs Vencedores
 
-| » Colocação « |    » Clã «   | » Quantidade de vitórias « |
-| :-----------: | :----------: | :------------------------: |
-|  🥇 1º Lugar  | \[MaF] Máfia |              1             |
-|  🥇 1º Lugar  |  \[TkA] Taka |              1             |
+|                      » Colocação «                     |    » Clã «   | » Quantidade de vitórias « |
+| :----------------------------------------------------: | :----------: | :------------------------: |
+|                       🥇 1º Lugar                      |  \[TkA] Taka |              2             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar | \[MaF] Máfia |              1             |
 
 ## » Ranking de Clãs Segundo Colocados
 
 | » Colocação « |     » Clã «     | » Quantidade de vitórias « |
 | :-----------: | :-------------: | :------------------------: |
-|  🥇 1º Lugar  | \[SuN] Sunshine |              2             |
+|  🥇 1º Lugar  | \[SuN] Sunshine |              3             |
 
 ## » Ranking de Clãs Terceiro Colocados
 
@@ -83,10 +83,18 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | :-----------: | :-------------: | :------------------------: |
 |  🥇 1º Lugar  |   \[TkA] Taka   |              1             |
 |  🥇 1º Lugar  | \[VhL] Valhalla |              1             |
+|  🥇 1º Lugar  | \[SoL] Sunshine |              1             |
+
+## » Ranking de Matadores
+
+| » Colocação « |    » Jogador «   | » Número de vezes matador(a) « |
+| :-----------: | :--------------: | :----------------------------: |
+|  🥇 1º Lugar  | `universalizado` |                1               |
 
 ## » Histórico do Evento
 
-|       » Edição «       | » 1º Colocado « | » 2º Colocado « |  » 3º Colocado  |
-| :--------------------: | :-------------: | :-------------: | :-------------: |
-|  Edição I - 24/08/2022 |   \[MaF] Máfia  | \[SuN] Sunshine |   \[TkA] Taka   |
-| Edição II - 31/08/2022 |   \[TkA] Taka   | \[SuN] Sunshine | \[VhL] Valhalla |
+|        » Edição «       | » 1º Colocado « | » 2º Colocado « | » 3º Colocado « | » Jogador(a) Matador « |
+| :---------------------: | :-------------: | :-------------: | :-------------: | :--------------------: |
+|  Edição I - 24/08/2022  |   \[MaF] Máfia  | \[SuN] Sunshine |   \[TkA] Taka   |           N/A          |
+|  Edição II - 31/08/2022 |   \[TkA] Taka   | \[SuN] Sunshine | \[VhL] Valhalla |           N/A          |
+| Edição III - 07/09/2022 |   \[TkA] Taka   | \[SuN] Sunshine | \[SoL] Sunshine |    `universalizado`    |

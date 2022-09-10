@@ -17,7 +17,7 @@ coverY: 0
 * Badlion Client
 * Salwyrr Client
 
-{% hint style="info" %}
+{% hint style="danger" %}
 * \*Utilizar a versão mais recente (1.19.2), sujeito a punição com o uso de mini map em versões inferiores.
 {% endhint %}
 

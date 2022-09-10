@@ -71,6 +71,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 7º Lugar |          \[uwu] Cerejinhas          |            1           |
 |  🎖️ 7º Lugar |       \[ODB] Oceano de Baiacus      |            1           |
 |  🎖️ 7º Lugar |            \[ReV] Revoada           |            1           |
+|  🎖️ 7º Lugar |            \[GoD] Godness           |            1           |
 
 ## » Histórico do Evento
 
@@ -110,7 +111,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LIV - 16/08/2022   |                \[TkA]               |                 Taka                |
 |    Edição LV - 23/08/2022   |                \[TkA]               |                 Taka                |
 |   Edição LVI - 30/08/2022   |                \[TkA]               |                 Taka                |
-|   Edição LVII - 06/09/2022  |                  -                  |                  -                  |
+|   Edição LVII - 06/09/2022  |                \[GoD]               |               Godness               |
 |  Edição LVIII - 13/09/2022  |                  -                  |                  -                  |
 |   Edição LIX - 20/09/2022   |                  -                  |                  -                  |
 |    Edição LX - 27/09/2022   |                  -                  |                  -                  |

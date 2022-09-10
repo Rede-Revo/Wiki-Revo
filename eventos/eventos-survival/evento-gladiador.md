@@ -76,6 +76,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | **🎖** 5º Lugar |     `Krenzif`    |                      1                     |
 | **🎖** 5º Lugar |     `_InAway`    |                      1                     |
 | **🎖** 5º Lugar |     `Taayboy`    |                      1                     |
+| **🎖** 5º Lugar |   `HxqueBjorn_`  |                      1                     |
+| **🎖** 5º Lugar |   `MT_MIRANDA`   |                      1                     |
 
 ## » Ranking de Matadores
 
@@ -86,12 +88,14 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   🥇 1º Lugar   |    `shyyyy`    |                3               |
 |   🏅 4º Lugar   | `falcaonava12` |                2               |
 |   🏅 4º Lugar   |   `ClaxMeteR`  |                2               |
-| **🎖** 6º Lugar |   `banzinbr7`  |                1               |
-| **🎖** 6º Lugar |  `MT_MIRANDA`  |                1               |
-| **🎖** 6º Lugar |   `new_miza`   |                1               |
-| **🎖** 6º Lugar |    `Krenzif`   |                1               |
-| **🎖** 6º Lugar |    `_InAway`   |                1               |
-| **🎖** 6º Lugar |    `alceofc`   |                1               |
+|   🏅 4º Lugar   |  `MT_MIRANDA`  |                2               |
+| **🎖** 7º Lugar |   `banzinbr7`  |                1               |
+| **🎖** 7º Lugar |  `MT_MIRANDA`  |                1               |
+| **🎖** 7º Lugar |   `new_miza`   |                1               |
+| **🎖** 7º Lugar |    `Krenzif`   |                1               |
+| **🎖** 7º Lugar |    `_InAway`   |                1               |
+| **🎖** 7º Lugar |    `alceofc`   |                1               |
+| **🎖** 7º Lugar |  `HxqueBjorn_` |                1               |
 
 ## » Histórico do Evento
 
@@ -116,7 +120,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição XVII - 13/08/2022 |          `Taayboy`         |    `alceofc`   |
 | Edição XVIII - 20/08/2022 |          `shyyyy`          |    `shyyyy`    |
 |  Edição XIX - 27/08/2022  |          `shyyyy`          |    `shyyyy`    |
-|   Edição XX - 03/09/2022  |              -             |        -       |
-|  Edição XXI - 10/09/2022  |              -             |        -       |
+|   Edição XX - 03/09/2022  |        `MT_MIRANDA`        |  `MT_MIRANDA`  |
+|  Edição XXI - 10/09/2022  |        `HxqueBjorn_`       |  `HxqueBjorn_` |
 |  Edição XXII - 17/09/2022 |              -             |        -       |
 | Edição XXIII - 24/09/2022 |              -             |        -       |

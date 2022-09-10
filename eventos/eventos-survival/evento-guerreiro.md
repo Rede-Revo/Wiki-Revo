@@ -58,7 +58,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | » Colocação « |  » Jogador(a) « | » Número de Vitórias « |
 | :-----------: | :-------------: | :--------------------: |
 |  🥇 1º Lugar  |   `EasyBounce`  |            6           |
-|  🥈 2º Lugar  | `RyanGamer2004` |            5           |
+|  🥇 1º Lugar  | `RyanGamer2004` |            6           |
 |  🥉 3º Lugar  |  `Mat_redston`  |            2           |
 |  🥉 3º Lugar  |     `ySpxce`    |            2           |
 |  🎖️ 5º Lugar |  `koalaISOLADO` |            1           |
@@ -114,7 +114,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LIII - 15/08/2022  |               `ySpxce`              |   |
 |   Edição LIV - 22/08/2022   |           `Ghooooooooost`           |   |
 |    Edição LV - 29/08/2022   |           `RyanGamer2004`           |   |
-|   Edição LVI - 05/09/2022   |                  -                  |   |
+|   Edição LVI - 05/09/2022   |           `RyanGamer2004`           |   |
 |   Edição LVII - 12/09/2022  |                  -                  |   |
 |  Edição LVIII - 19/09/2022  |                  -                  |   |
 |   Edição LIX - 26/09/2022   |                  -                  |   |

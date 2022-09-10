@@ -60,15 +60,17 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | » Classificação « | » Jogador(a) « | » Número de vezes último(a) sobrevivente « |
 | :---------------: | :------------: | :----------------------------------------: |
 |    🥇 1º Lugar    |  `jesus536be`  |                      1                     |
+|    🥇 1º Lugar    |  `Beckhampro`  |                      1                     |
 
 ## » Ranking de Matadores
 
 | » Classificação « | » Jogador(a) « | » Número de vezes matador(a) « |
 | :---------------: | :------------: | :----------------------------: |
-|    🥇 1º Lugar    |  `Beckhampro`  |                1               |
+|    🥇 1º Lugar    |  `Beckhampro`  |                2               |
 
 ## » Histórico do Evento
 
-|       » Edição «      | » Último(a) Sobrevivente « | » Matador(a) « |
-| :-------------------: | :------------------------: | :------------: |
-| Edição I - 28/08/2022 |        `jesus536be`        |  `Beckhampro`  |
+|       » Edição «       | » Último(a) Sobrevivente « | » Matador(a) « |
+| :--------------------: | :------------------------: | :------------: |
+|  Edição I - 28/08/2022 |        `jesus536be`        |  `Beckhampro`  |
+| Edição II - 04/09/2022 |        `Beckhampro`        |  `Beckhampro`  |

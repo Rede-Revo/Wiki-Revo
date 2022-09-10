@@ -61,7 +61,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 | » Colocação « |               » Clã «               | » Número de Vitórias « |
 | :-----------: | :---------------------------------: | :--------------------: |
-|  🥇 1º Lugar  |           \[VhL] Valhalla           |            8           |
+|  🥇 1º Lugar  |           \[VhL] Valhalla           |            9           |
 |  🥇 1º Lugar  |            \[ZZZ] Bloods            |            6           |
 |  🥉 3º Lugar  |          \[uwu] Cerejinhas          |            3           |
 |  🥉 3º Lugar  |           \[suN] Sunshine           |            3           |
@@ -71,6 +71,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 8º Lugar | \[PAT] De dia Assada de noite Frita |            1           |
 |  🎖️ 8º Lugar |            \[ZZ2] Bloods            |            1           |
 |  🎖️ 8º Lugar |      \[knS] Kawamura no Senshi      |            1           |
+|  🎖️ 8º Lugar |            \[GoD] Godness           |            1           |
 
 ## » Histórico do Evento
 
@@ -108,7 +109,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LIII - 11/08/2022  |                \[TkA]               |                 Taka                |
 |   Edição LIV - 18/08/2022   |                \[VhL]               |               Valhalla              |
 |    Edição LV - 25/08/2022   |                \[TkA]               |                 Taka                |
-|   Edição LVI - 01/09/2022   |                  -                  |                  -                  |
+|   Edição LVI - 01/09/2022   |                \[VhL]               |               Valhalla              |
 |   Edição LVII - 08/09/2022  |                  -                  |                  -                  |
 |  Edição LVIII - 15/09/2022  |                  -                  |                  -                  |
 |   EDIÇÃO LIX - 22/09/2022   |                  -                  |                  -                  |

@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
-# 🏆 Guerra de Clãs
+# 🏆 Evento Guerra de Clãs
 
 ## » Como Funciona
 
@@ -73,7 +73,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 | :-------------: | :-----------------------: | :--------------------: |
 |   🥇 1º Lugar   |      \[sbN] SiberiaN      |           18           |
 |   🥈 2º Lugar   |       \[ZZZ] Bloods       |           13           |
-|   🥉 3º Lugar   |      \[suN] Sunshine      |            7           |
+|   🥉 3º Lugar   |      \[suN] Sunshine      |            8           |
 |   🏅 4º Lugar   | \[knS] Kawamura no Senshi |            6           |
 | **🎖** 5º Lugar |     \[666] The Ritual     |            4           |
 | **🎖** 6º Lugar |      \[VhL] Valhalla      |            3           |
@@ -141,7 +141,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |   Edição LIV - 14/08/2022   |     \[666]     |     The Ritual     |
 |    Edição LV - 21/08/2022   |     \[TkA]     |        Taka        |
 |   Edição LVI - 28/08/2022   |     \[666]     |     The Ritual     |
-|   Edição LVII - 04/09/2022  |        -       |          -         |
+|   Edição LVII - 04/09/2022  |     \[SuN]     |      Sunshine      |
 |  Edição LVIII - 11/09/2022  |        -       |          -         |
 |   Edição LIX - 18/09/2022   |        -       |          -         |
 |    Edição LX - 25/09/2022   |        -       |          -         |

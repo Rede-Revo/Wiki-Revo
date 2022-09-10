@@ -78,6 +78,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | 🎖️ 7º Lugar |     `shooqy`     |                1                |
 | 🎖️ 7º Lugar |    `cryngpeep`   |                1                |
 | 🎖️ 7º Lugar |   `cafenaDEPRE`  |                1                |
+| 🎖️ 7º Lugar |   `Beckhampro`   |                1                |
+| 🎖️ 7º Lugar |   `Bruno200XD`   |                1                |
 
 ## » Ranking de Últimos Sobreviventes
 
@@ -106,6 +108,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 7º Lugar |   `SoUris_001`  |                        1                       |
 |  🎖️ 7º Lugar |      `666`      |                        1                       |
 |  🎖️ 7º Lugar |    `Pedrynn`    |                        1                       |
+|  🎖️ 7º Lugar |   `Beckhampro`  |                        1                       |
+|  🎖️ 7º Lugar |    `Hugo1808`   |                        1                       |
 
 ## » Histórico do Evento
 
@@ -144,8 +148,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LIII - 10/08/2022  |   `cafenaDEPRE`  |        `_BRAZINO777`       |
 |   Edição LIV - 17/08/2022   |   `yLuquinhaz`   |        `yLuquinhaz`        |
 |    Edição LV - 27/08/2022   |  `RyanGamer2004` |       `RyanGamer2004`      |
-|   Edição LVI - 03/09/2022   |         -        |              -             |
-|   Edição LVII - 10/09/2022  |         -        |              -             |
+|   Edição LVI - 03/09/2022   |   `Bruno200XD`   |         `Hugo1808`         |
+|   Edição LVII - 10/09/2022  |   `Beckhampro`   |        `Beckhampro`        |
 |  Edição LVIII - 17/09/2022  |         -        |              -             |
 |   Edição LIX - 24/09/2022   |         -        |              -             |
 
