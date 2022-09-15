@@ -118,8 +118,6 @@ Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um cam
 
 > **Flood**: Mesma frase repetidamente 3 vezes ou mais.
 
-> **Anuncio fora do chat de anúncios**: Anunciar a sua warp em um chat que não seja no `/anunciar`.
-
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
 | Incidência |                   Punição                   |
@@ -133,6 +131,8 @@ Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um cam
 ## Regra 06 - **Anúncio Indevido** <a href="#02" id="02"></a>
 
 Para que se tenha um chat mais limpo foi implementado um canal separado para envio de anúncios (/anunciar), sendo este chat exclusivo para o envio dos mesmos, portanto qualquer mensagem enviada neste canal sem pretexto de anunciar algo não será permitida.
+
+Está regra também inclui anunciar a sua warp em um chat que não seja no `/anunciar`.
 
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
