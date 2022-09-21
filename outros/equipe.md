@@ -84,7 +84,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 
 #### Lista de Administradores
 
-* #### <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> <mark style="color:red;">**Beazika**</mark> (data de entrada: 14/03/2022)
+* #### <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> <mark style="color:red;">**Beazika**</mark> (data de entrada: 29/05/2021)
 
 ## <img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador</mark>
 
@@ -99,7 +99,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
-<mark style="color:green;">N/A</mark>
+* <mark style="color:green;">N/A</mark>
 
 ## <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
@@ -113,7 +113,7 @@ O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que co
 
 * <mark style="color:green;">N/A</mark>
 
-## <mark style="color:orange;">Coordenador de Equipe</mark>
+## <mark style="color:orange;"></mark><img src="../.gitbook/assets/Untitled-1.png" alt="" data-size="line"> <mark style="color:orange;">Coordenador de Equipe</mark>
 
 #### Lista de Coordenadores de Equipe
 
@@ -133,6 +133,7 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 
 * #### <img src="../.gitbook/assets/2048 (14).png" alt="" data-size="line"> <mark style="color:orange;">**yQuack**</mark> (data de entrada: 12/06/2022)
 * #### <img src="../.gitbook/assets/2048 (13).png" alt="" data-size="line"> <mark style="color:orange;">MysThyc</mark> (data de entrada: 08/08/2022)
+* <img src="../.gitbook/assets/2048 (17).png" alt="" data-size="line"> <mark style="color:orange;">**KnoowzY**</mark>** (data de entrada: 15/09/2022)**
 
 ## <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> <mark style="color:yellow;">Ajudante</mark>
 
@@ -165,7 +166,10 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 
 * ****<img src="../.gitbook/assets/2048 (5).png" alt="" data-size="line"> <mark style="color:green;">**Gutothefoda**</mark>** (data de entrada: 20/06/2022)**
 * ****<img src="../.gitbook/assets/2048 (1).png" alt="" data-size="line"> <mark style="color:green;">**Narciiso**</mark>** (data de entrada: 13/07/2022)**
-* <img src="../.gitbook/assets/2048 (11).png" alt="" data-size="line"> ** **<mark style="color:green;">**ManoBrelson**</mark>** (data de entrada:26/08/2022)**
+* <img src="../.gitbook/assets/2048 (11).png" alt="" data-size="line"> ** **<mark style="color:green;">**ManoBrelson**</mark>** (data de entrada: 26/08/2022)**
+* <img src="../.gitbook/assets/2048 (18).png" alt="" data-size="line"> ** **<mark style="color:green;">**zPantheon\_**</mark>** (data de entrada: 17/09/2022)**
+* <img src="../.gitbook/assets/2048 (19).png" alt="" data-size="line"> ** **<mark style="color:green;">**RonniXGG**</mark>** (data de entrada: 20/09/2022)**
+* ****<img src="../.gitbook/assets/2048 (19).png" alt="" data-size="line"> ** **<mark style="color:green;">**Rottenberg111**</mark>** (data de entrada: 20/09/2022)**
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> <mark style="color:purple;">Designer</mark>
 
