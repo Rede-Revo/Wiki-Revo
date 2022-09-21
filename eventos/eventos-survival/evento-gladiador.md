@@ -78,6 +78,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | **🎖** 5º Lugar |     `Taayboy`    |                      1                     |
 | **🎖** 5º Lugar |   `HxqueBjorn_`  |                      1                     |
 | **🎖** 5º Lugar |   `MT_MIRANDA`   |                      1                     |
+| **🎖** 5º Lugar |   `ValhallaVK`   |                      1                     |
 
 ## » Ranking de Matadores
 
@@ -96,6 +97,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | **🎖** 7º Lugar |    `_InAway`   |                1               |
 | **🎖** 7º Lugar |    `alceofc`   |                1               |
 | **🎖** 7º Lugar |  `HxqueBjorn_` |                1               |
+| **🎖** 7º Lugar |  `ValhallaVK`  |                1               |
 
 ## » Histórico do Evento
 
@@ -122,5 +124,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição XIX - 27/08/2022  |          `shyyyy`          |    `shyyyy`    |
 |   Edição XX - 03/09/2022  |        `MT_MIRANDA`        |  `MT_MIRANDA`  |
 |  Edição XXI - 10/09/2022  |        `HxqueBjorn_`       |  `HxqueBjorn_` |
-|  Edição XXII - 17/09/2022 |              -             |        -       |
+|  Edição XXII - 17/09/2022 |        `ValhallaVK`        |  `ValhallaVK`  |
 | Edição XXIII - 24/09/2022 |              -             |        -       |

@@ -64,18 +64,33 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * 💰 Premiação de **50.000 Coins**
 * 💎 **\[Liga]** 25 Pontos
 
+## » Ranking Geral
+
+#### \* 1ª Colocação: 1 ponto; 2ª Colocação: 0,5 ponto; 3ª Colocação: 0,25 ponto.
+
+|                      » Colocação «                     |     » Clã «     | » Pontuação « |
+| :----------------------------------------------------: | :-------------: | :-----------: |
+|                       🥇 1º Lugar                      |   \[TkA] Taka   |      2,25     |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar | \[SuN] Sunshine |      1,75     |
+|                       🥉 3º Lugar                      |   \[MaF] Máfia  |       1       |
+|                       🥉 3º Lugar                      |  \[GoD] Godness |       1       |
+|                       🏅 4º Lugar                      | \[VhL] Valhalla |      0,75     |
+|                       🎖 5º Lugar                      | \[SoL] Sunshine |      0,25     |
+
 ## » Ranking de Clãs Vencedores
 
-|                      » Colocação «                     |    » Clã «   | » Quantidade de vitórias « |
-| :----------------------------------------------------: | :----------: | :------------------------: |
-|                       🥇 1º Lugar                      |  \[TkA] Taka |              2             |
-| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar | \[MaF] Máfia |              1             |
+|                      » Colocação «                     |     » Clã «    | » Quantidade de vitórias « |
+| :----------------------------------------------------: | :------------: | :------------------------: |
+|                       🥇 1º Lugar                      |   \[TkA] Taka  |              2             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |  \[MaF] Máfia  |              1             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar | \[GoD] Godness |              1             |
 
 ## » Ranking de Clãs Segundo Colocados
 
-| » Colocação « |     » Clã «     | » Quantidade de vitórias « |
-| :-----------: | :-------------: | :------------------------: |
-|  🥇 1º Lugar  | \[SuN] Sunshine |              3             |
+|                      » Colocação «                     |     » Clã «     | » Quantidade de vitórias « |
+| :----------------------------------------------------: | :-------------: | :------------------------: |
+|                       🥇 1º Lugar                      | \[SuN] Sunshine |              3             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar | \[VhL] Valhalla |              1             |
 
 ## » Ranking de Clãs Terceiro Colocados
 
@@ -84,6 +99,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥇 1º Lugar  |   \[TkA] Taka   |              1             |
 |  🥇 1º Lugar  | \[VhL] Valhalla |              1             |
 |  🥇 1º Lugar  | \[SoL] Sunshine |              1             |
+|  🥇 1º Lugar  | \[SuN] Sunshine |              1             |
 
 ## » Ranking de Matadores
 
@@ -98,3 +114,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição I - 24/08/2022  |   \[MaF] Máfia  | \[SuN] Sunshine |   \[TkA] Taka   |           N/A          |
 |  Edição II - 31/08/2022 |   \[TkA] Taka   | \[SuN] Sunshine | \[VhL] Valhalla |           N/A          |
 | Edição III - 07/09/2022 |   \[TkA] Taka   | \[SuN] Sunshine | \[SoL] Sunshine |    `universalizado`    |
+|  Edição IV - 14/09/2022 |  \[GoD] Godness | \[VhL] Valhalla | \[SuN] Sunshine |      `yLuquinhaz`      |

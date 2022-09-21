@@ -46,23 +46,24 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | :-----------: | :------------: | :------------------------: |
 |  🥇 1º Lugar  |    `Nefesto`   |              2             |
 |  🥇 1º Lugar  |  `HxqueBjorn_` |              2             |
-|  🥉 3º Lugar  |  `MT_MIRANDA`  |              1             |
-|  🥉 3º Lugar  |    `shyyyy`    |              1             |
-|  🥉 3º Lugar  |    `Krenzif`   |              1             |
-|  🥉 3º Lugar  |  `Heinokramm`  |              1             |
-|  🥉 3º Lugar  |    `Guga_S2`   |              1             |
-|  🥉 3º Lugar  |   `PauloJLG`   |              1             |
-|  🥉 3º Lugar  |  `zPantheon_`  |              1             |
+|  🥇 1º Lugar  |    `Guga_S2`   |              2             |
+|  🏅 4º Lugar  |  `MT_MIRANDA`  |              1             |
+|  🏅 4º Lugar  |    `shyyyy`    |              1             |
+|  🏅 4º Lugar  |    `Krenzif`   |              1             |
+|  🏅 4º Lugar  |  `Heinokramm`  |              1             |
+|  🏅 4º Lugar  |   `PauloJLG`   |              1             |
+|  🏅 4º Lugar  |  `zPantheon_`  |              1             |
+|  🏅 4º Lugar  |    ClaxmeteR   |              1             |
 
 ## » Ranking de Clãs Vencedores
 
-| » Colocação « |      » Clã «      | » Quantidade de Vitórias « |
-| :-----------: | :---------------: | :------------------------: |
-|  🥇 1º Lugar  |  \[VhL] Valhalla  |              3             |
-|  🥇 1º Lugar  | \[666] The Ritual |              3             |
-|  🥉 3º Lugar  |  \[suN] Sunshine  |              2             |
-|  🥉 3º Lugar  |   \[GoD] Godness  |              2             |
-|  🏅 5º Lugar  |    \[TkA] Taka    |              1             |
+|                      » Colocação «                     |      » Clã «      | » Quantidade de Vitórias « |
+| :----------------------------------------------------: | :---------------: | :------------------------: |
+|                       🥇 1º Lugar                      | \[666] The Ritual |              4             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |  \[VhL] Valhalla  |              3             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |  \[suN] Sunshine  |              3             |
+|                       🥉 3º Lugar                      |   \[GoD] Godness  |              2             |
+|                       🏅 5º Lugar                      |    \[TkA] Taka    |              1             |
 
 ## » Histórico do Evento
 
@@ -79,6 +80,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição IX - 20/08/2022  |   \[GoD] Godness  |     `HxqueBjorn_`     |
 |   Edição X - 27/08/2022  |  \[SuN] Sunshine  |      `zPantheon_`     |
 |  Edição XI - 03/09/2022  |   \[GoD] Godness  |     `HxqueBjorn_`     |
-|  Edição XII - 10/09/2022 |         -         |           -           |
-| Edição XIII - 17/09/2022 |         -         |           -           |
+|  Edição XII - 10/09/2022 |  \[SuN] Sunshine  |       `Guga_S2`       |
+| Edição XIII - 17/09/2022 | \[666] The Ritual |      `ClaxmeteR`      |
 |  Edição XIV - 24/09/2022 |         -         |           -           |

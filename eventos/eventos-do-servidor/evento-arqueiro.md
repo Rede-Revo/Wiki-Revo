@@ -61,10 +61,10 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | :----------: | :--------------: | :-----------------------------: |
 |  🥇 1º Lugar |     `Filiipe`    |                4                |
 |  🥇 1º Lugar |   `yLuquinhaz`   |                4                |
-|  🥉 3º Lugar |   `Mat_redston`  |                3                |
-|  🥉 3º Lugar |  `RyanGamer2004` |                3                |
-|  🏅 5º Lugar |    `new_miza`    |                2                |
-|  🏅 5º Lugar |    `_Giffoni`    |                2                |
+|  🥇 1º Lugar |  `RyanGamer2004` |                4                |
+|  🏅 4º Lugar |   `Mat_redston`  |                3                |
+| 🎖️ 5º Lugar |    `new_miza`    |                2                |
+| 🎖️ 5º Lugar |    `_Giffoni`    |                2                |
 | 🎖️ 7º Lugar |     `Cebolx`     |                1                |
 | 🎖️ 7º Lugar | `FastDoughnut05` |                1                |
 | 🎖️ 7º Lugar |     `iSamBr_`    |                1                |
@@ -88,9 +88,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥇 1º Lugar  |   `yLuquinhaz`  |                        4                       |
 |  🥈 2º Lugar  |  `Mat_redston`  |                        3                       |
 |  🥈 2º Lugar  |    `Filiipe`    |                        3                       |
-|  🏅 4º Lugar  |     `shyyyy`    |                        2                       |
-|  🏅 4º Lugar  |  `_BRAZINO777`  |                        2                       |
-|  🏅 4º Lugar  | `RyanGamer2004` |                        2                       |
+|  🥈 2º Lugar  | `RyanGamer2004` |                        3                       |
+|  🏅 5º Lugar  |     `shyyyy`    |                        2                       |
+|  🏅 5º Lugar  |  `_BRAZINO777`  |                        2                       |
 |  🎖️ 7º Lugar |     `Cebolx`    |                        1                       |
 |  🎖️ 7º Lugar |     `Vast6`     |                        1                       |
 |  🎖️ 7º Lugar |    `iSamBr_`    |                        1                       |
@@ -150,6 +150,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |    Edição LV - 27/08/2022   |  `RyanGamer2004` |       `RyanGamer2004`      |
 |   Edição LVI - 03/09/2022   |   `Bruno200XD`   |         `Hugo1808`         |
 |   Edição LVII - 10/09/2022  |   `Beckhampro`   |        `Beckhampro`        |
-|  Edição LVIII - 17/09/2022  |         -        |              -             |
+|  Edição LVIII - 17/09/2022  |  `RyanGamer2004` |       `RyanGamer2004`      |
 |   Edição LIX - 24/09/2022   |         -        |              -             |
 

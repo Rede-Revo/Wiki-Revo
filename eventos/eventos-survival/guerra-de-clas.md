@@ -75,7 +75,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |   🥈 2º Lugar   |       \[ZZZ] Bloods       |           13           |
 |   🥉 3º Lugar   |      \[suN] Sunshine      |            8           |
 |   🏅 4º Lugar   | \[knS] Kawamura no Senshi |            6           |
-| **🎖** 5º Lugar |     \[666] The Ritual     |            4           |
+|   🏅 4º Lugar   |     \[666] The Ritual     |            6           |
 | **🎖** 6º Lugar |      \[VhL] Valhalla      |            3           |
 | **🎖** 6º Lugar |        \[TkA] Taka        |            3           |
 | **🎖** 8º Lugar |      \[B12] Calcitran     |            1           |
@@ -142,6 +142,6 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |    Edição LV - 21/08/2022   |     \[TkA]     |        Taka        |
 |   Edição LVI - 28/08/2022   |     \[666]     |     The Ritual     |
 |   Edição LVII - 04/09/2022  |     \[SuN]     |      Sunshine      |
-|  Edição LVIII - 11/09/2022  |        -       |          -         |
-|   Edição LIX - 18/09/2022   |        -       |          -         |
+|  Edição LVIII - 11/09/2022  |     \[666]     |     The Ritual     |
+|   Edição LIX - 18/09/2022   |     \[666]     |     The Ritual     |
 |    Edição LX - 25/09/2022   |        -       |          -         |
