@@ -165,7 +165,6 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 #### Lista de Aprendizes
 
 * ****<img src="../.gitbook/assets/2048 (5).png" alt="" data-size="line"> <mark style="color:green;">**Gutothefoda**</mark>** (data de entrada: 20/06/2022)**
-* ****<img src="../.gitbook/assets/2048 (1).png" alt="" data-size="line"> <mark style="color:green;">**Narciiso**</mark>** (data de entrada: 13/07/2022)**
 * <img src="../.gitbook/assets/2048 (11).png" alt="" data-size="line"> ** **<mark style="color:green;">**ManoBrelson**</mark>** (data de entrada: 26/08/2022)**
 * <img src="../.gitbook/assets/2048 (18).png" alt="" data-size="line"> ** **<mark style="color:green;">**zPantheon\_**</mark>** (data de entrada: 17/09/2022)**
 * <img src="../.gitbook/assets/2048 (19).png" alt="" data-size="line"> ** **<mark style="color:green;">**RonniXGG**</mark>** (data de entrada: 20/09/2022)**
