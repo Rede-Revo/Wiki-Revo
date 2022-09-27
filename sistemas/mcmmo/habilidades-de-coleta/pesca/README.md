@@ -44,5 +44,6 @@ coverY: 0
 | <img src="../../../../.gitbook/assets/Salmon.webp" alt="" data-size="line"> Salmão                                                    |   600   |   |
 | <img src="../../../../.gitbook/assets/Pufferfish_large.webp" alt="" data-size="line"> Baiacu                                          |   2400  |   |
 | <img src="../../../../.gitbook/assets/20190130_213406.webp" alt="" data-size="line"> Peixe Tropical                                   |  10.000 |   |
+| 🗝️ [Tesouros](cacador-de-tesouros.md)                                                                                                |   200   |   |
 | <img src="../../../../.gitbook/assets/Olho_de_Aranha.webp" alt="" data-size="line"> Habilidade [Sacudir](sacudir.md) utilizada em Mob |    50   |   |
 | <img src="../../../../.gitbook/assets/Rotten_Flesh_JE3_BE2.webp" alt="" data-size="line"> Qualquer item restante que não seja peixe   |    50   |   |
