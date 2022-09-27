@@ -70,7 +70,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 
 * ​​<img src="../.gitbook/assets/image (22).png" alt="" data-size="line"> <mark style="color:orange;">**zGumeloBR**</mark>** (data de entrada: 06/04/2022)**
 
-## <img src="../.gitbook/assets/image (20) (1).png" alt="" data-size="line"> <mark style="color:red;">Administrador</mark>
+## <img src="../.gitbook/assets/image (20).png" alt="" data-size="line"> <mark style="color:red;">Administrador</mark>
 
 **O administrador administra e não executa**. A responsabilidade do administrador é coordenar pessoas e recursos, assim, ele consegue atingir os objetivos traçados. Para conseguir aplicar as tarefas de administrador é preciso delegar as tarefas de execução, e evitar perder tempo realizando tarefas de execução.
 
@@ -119,7 +119,7 @@ O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que co
 
 * #### <img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> <mark style="color:orange;">**IsaacChan**</mark> (data de entrada: 10/01/2022)
 
-## <img src="../.gitbook/assets/image (21) (1).png" alt="" data-size="line"> <mark style="color:orange;">Construtor</mark>
+## <img src="../.gitbook/assets/image (21).png" alt="" data-size="line"> <mark style="color:orange;">Construtor</mark>
 
 O **construtor** será responsável pelo desenvolvimento de toda construção realizada no servidor, ficando sob sua supervisão as adequadas medidas técnicas e administrativas para a sua perfeita e integral execução e entrega formal ao final dos trabalhos.
 
