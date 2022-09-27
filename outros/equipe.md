@@ -101,7 +101,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 * <mark style="color:green;">N/A</mark>
 
-## <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
+## <img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
 O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que consiste em uma pessoa que dentro de um "universo" de Minecraft/Servidores tenha um conhecimento avançado em detecção de trapaças "incomuns", sendo elas: "JavaEdit, Injection Client, Ghost Client" entre outras trapaças.
 

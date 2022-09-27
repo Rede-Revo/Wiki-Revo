@@ -34,7 +34,7 @@ Exemplo: Minha conta no Java é `thiagogebrim` e minha conta no Bedrock é `thia
 
 4\.  Faço login em minha conta bedrock:
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (2).png>)
 
 5\.  Faço login em minha conta java:
 
@@ -55,4 +55,4 @@ Sua gamertag é seu nickname dentro do servidor sem o `*`
 
 Você também pode visualizar sua gamertag no launcher Bedrock:
 
-<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
