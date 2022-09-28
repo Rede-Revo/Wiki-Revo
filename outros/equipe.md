@@ -6,7 +6,7 @@ coverY: 0
 
 # 👑 Equipe
 
-## <img src="../.gitbook/assets/image (12).png" alt="" data-size="line"> <mark style="color:yellow;">Diretor</mark>
+## <img src="../.gitbook/assets/image (12) (2).png" alt="" data-size="line"> <mark style="color:yellow;">Diretor</mark>
 
 **Dirige**, **planeja**, **organiza** e controla as atividades de diversas áreas, fixando políticas de gestão dos recursos financeiros, administrativos, estruturação, racionalização, e adequação dos serviços diversos. Desenvolve planejamento estratégico, identifica oportunidades, avalia a viabilidade e faz recomendações sobre novos investimentos ou desenvolvimento de novos negócios.
 
@@ -21,10 +21,10 @@ coverY: 0
 
 #### Lista de Diretores
 
-* [<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) <mark style="color:yellow;">**Nevisk**</mark>**  (data de entrada: 21/05/2021)**
-* ****<img src="../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**thiagogebrim**</mark>**  (data de entrada: 21/05/2021)**
+* [<img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) <mark style="color:yellow;">**Nevisk**</mark>**  (data de entrada: 21/05/2021)**
+* ****<img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**thiagogebrim**</mark>**  (data de entrada: 21/05/2021)**
 
-## <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> <mark style="color:blue;">Gerente</mark>
+## <img src="../.gitbook/assets/image (11) (1) (2).png" alt="" data-size="line"> <mark style="color:blue;">Gerente</mark>
 
 O cargo de **gerente** tem muita relevância e sempre possui muitas responsabilidades. Ele é responsável por manter a organização dos processos e, normalmente, está sempre tomando decisões muito importantes para o desenvolvimento do servidor.
 
@@ -41,7 +41,7 @@ O cargo de **gerente** tem muita relevância e sempre possui muitas responsabili
 * ****<img src="../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt="" data-size="line"> ** **<mark style="color:blue;">**julgzin**</mark>** (data de entrada: 21/06/2021)**
 * <img src="../.gitbook/assets/2048 (16).png" alt="" data-size="line"> <mark style="color:blue;">**Felipesfera**</mark> **(data de entrada: 29/05/2021)**
 
-## <img src="../.gitbook/assets/image (18).png" alt="" data-size="line"> <mark style="color:purple;">Desenvolvedor(a)</mark>
+## <img src="../.gitbook/assets/image (18) (2).png" alt="" data-size="line"> <mark style="color:purple;">Desenvolvedor(a)</mark>
 
 O **desenvolvedor** é o profissional que desenvolve _plugins e os demais sistemas do servidor._ Seu trabalho envolve o entendimento, uso e aplicação de diferentes linguagens de programação, como **java**, **kotlin**, **scala**, além da análise de dados e atualizações sobre o Minecraft que podem ser fundamentais na atualização e/ou melhorias nos sistemas do servidor.
 
@@ -68,9 +68,9 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 
 #### Lista de Técnicos <a href="#lista-de-desenvolvedores" id="lista-de-desenvolvedores"></a>
 
-* ​​<img src="../.gitbook/assets/image (22).png" alt="" data-size="line"> <mark style="color:orange;">**zGumeloBR**</mark>** (data de entrada: 06/04/2022)**
+* ​​<img src="../.gitbook/assets/image (22) (1).png" alt="" data-size="line"> <mark style="color:orange;">**zGumeloBR**</mark>** (data de entrada: 06/04/2022)**
 
-## <img src="../.gitbook/assets/image (20).png" alt="" data-size="line"> <mark style="color:red;">Administrador</mark>
+## <img src="../.gitbook/assets/image (20) (1).png" alt="" data-size="line"> <mark style="color:red;">Administrador</mark>
 
 **O administrador administra e não executa**. A responsabilidade do administrador é coordenar pessoas e recursos, assim, ele consegue atingir os objetivos traçados. Para conseguir aplicar as tarefas de administrador é preciso delegar as tarefas de execução, e evitar perder tempo realizando tarefas de execução.
 
@@ -86,7 +86,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 
 * #### <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> <mark style="color:red;">**Beazika**</mark> (data de entrada: 29/05/2021)
 
-## <img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador</mark>
+## <img src="../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador</mark>
 
 A equipe de moderação está encarregada de conservar um ambiente amigável. Os moderadores são jogadores voluntários a quem concedemos confiança, além de ferramentas para que possam manter a jogatina o mais agradável possível.
 
@@ -101,7 +101,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 * <mark style="color:green;">N/A</mark>
 
-## <img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
+## <img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
 O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que consiste em uma pessoa que dentro de um "universo" de Minecraft/Servidores tenha um conhecimento avançado em detecção de trapaças "incomuns", sendo elas: "JavaEdit, Injection Client, Ghost Client" entre outras trapaças.
 
@@ -119,7 +119,7 @@ O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que co
 
 * #### <img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> <mark style="color:orange;">**IsaacChan**</mark> (data de entrada: 10/01/2022)
 
-## <img src="../.gitbook/assets/image (21).png" alt="" data-size="line"> <mark style="color:orange;">Construtor</mark>
+## <img src="../.gitbook/assets/image (21) (1).png" alt="" data-size="line"> <mark style="color:orange;">Construtor</mark>
 
 O **construtor** será responsável pelo desenvolvimento de toda construção realizada no servidor, ficando sob sua supervisão as adequadas medidas técnicas e administrativas para a sua perfeita e integral execução e entrega formal ao final dos trabalhos.
 
@@ -135,7 +135,7 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 * #### <img src="../.gitbook/assets/2048 (13).png" alt="" data-size="line"> <mark style="color:orange;">MysThyc</mark> (data de entrada: 08/08/2022)
 * <img src="../.gitbook/assets/2048 (17).png" alt="" data-size="line"> <mark style="color:orange;">**KnoowzY**</mark>** (data de entrada: 15/09/2022)**
 
-## <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> <mark style="color:yellow;">Ajudante</mark>
+## <img src="../.gitbook/assets/image (17) (2).png" alt="" data-size="line"> <mark style="color:yellow;">Ajudante</mark>
 
 O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e também garante o suporte necessário esclarecendo todas as dúvidas dos jogadores.
 
@@ -152,7 +152,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 * <img src="../.gitbook/assets/2048 (9).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**ySxnnyy**</mark>** (data de entrada: 25/07/2022)**
 * <img src="../.gitbook/assets/2048 (15).png" alt="" data-size="line"> <mark style="color:yellow;">**FadeMester\_**</mark>** **<mark style="color:green;">****</mark>** (data de entrada: 31/08/2022)**
 
-## <img src="../.gitbook/assets/image (19).png" alt="" data-size="line"> <mark style="color:green;">Aprendiz</mark>
+## <img src="../.gitbook/assets/image (19) (1).png" alt="" data-size="line"> <mark style="color:green;">Aprendiz</mark>
 
 O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, além de garantir o suporte necessário esclarecendo todas as dúvidas dos jogadores.
 

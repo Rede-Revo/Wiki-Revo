@@ -21,7 +21,7 @@ As contas são de responsabilidade do jogador. Não aceitamos desculpa de "Meu i
 **A central de atendimento da Rede Revo tem um sistema de resposta de tickets de denúncia automático, dentro disso, a resposta sendo aprovada ou não chegará no seu privado pelo nosso bot. Portanto, não é necessário abrir outro ticket para solicitar uma resposta para a sua denúncia. Sendo assim, não aceitaremos tickets abertos para solicitação de uma mesma resposta, o mesmo, caso seja aberto, será encerrado sem aviso prévio, podendo ou não ter um retorno.**
 
 {% hint style="info" %}
-Todos os reportes precisam conter a data e horário do ocorrido. Uma dica é que ao passar o mouse em qualquer mensagem no chat você pode obter a data e horário da mensagem: ![](<../.gitbook/assets/image (2) (1).png>)
+Todos os reportes precisam conter a data e horário do ocorrido. Uma dica é que ao passar o mouse em qualquer mensagem no chat você pode obter a data e horário da mensagem: ![](<../.gitbook/assets/image (2) (1) (2).png>)
 {% endhint %}
 
 {% hint style="warning" %}

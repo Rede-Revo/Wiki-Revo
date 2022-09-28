@@ -15,7 +15,7 @@ coverY: 0
     Com fogo amigo entre os membros do clã desativado, os clãs lutarão entre si.
 * Itens definidos pela equipe; (2 armaduras de diamante,  2 armaduras de netherita espada, machado, arco, flecha, totem da imortalidade, poções de força, agilidade e invisibilidade, 32 cenouras douradas, 64 maças encantadas e kit de preparo para poções);
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.

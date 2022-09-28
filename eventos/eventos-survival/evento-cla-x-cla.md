@@ -11,7 +11,7 @@ coverY: 0
 * Batalha ClãvClã entre vários Clãs, o Clã que derrotar todos seus oponentes vence;
 *   Itens definidos pela equipe; (3 armaduras de netherite, espada de diamante, machado de diamante, poções de força e agilidade e 64 maças encantadas)
 
-    <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.
 
@@ -46,7 +46,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### 🥇 **1° Lugar**
 
 * 💰 Premiação de **250.000 Coins**
-* <img src="../../.gitbook/assets/image (14) (1).png" alt="" data-size="line"> TAG **\[Campeã(o)]** durante 7 dias
+* <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Campeã(o)]** durante 7 dias
 * 💎 **\[Liga]** 100 Pontos
 
 #### [🥈](https://emojipedia.org/2nd-place-medal/) **2° Lugar**

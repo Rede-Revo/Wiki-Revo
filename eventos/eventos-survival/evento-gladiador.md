@@ -51,7 +51,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 * 💰 Premiação de **150.000 Coins**
 * 💎**\[Liga]** 50 Pontos
-* <img src="../../.gitbook/assets/image (14) (1).png" alt="" data-size="line">TAG **\[Gladiador(a)]** durante 7 dias
+* <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line">TAG **\[Gladiador(a)]** durante 7 dias
 * 🪓 **Machado do Campeão**
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**

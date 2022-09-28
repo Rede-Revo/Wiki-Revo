@@ -51,7 +51,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
 * 💰 Premiação de **50.000 Coins**
-* <img src="../../.gitbook/assets/image (14) (1).png" alt="" data-size="line"> TAG **\[Sniper]** durante 7 dias
+* <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Sniper]** durante 7 dias
 * ****<img src="../../.gitbook/assets/contador_de_sacrificios (1).png" alt="" data-size="line"> **Contador de Sacrifícios**&#x20;
 * 💎 **\[Liga]** 50 Pontos
 

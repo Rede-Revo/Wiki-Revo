@@ -23,7 +23,7 @@ Exemplos: `25000` ou `1000` (nunca usar ponto ou vírgula)
 
 **Exemplo de uma placa para vender um tereno:**
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (55).png>)
 
 ## Alugar um terreno[​](https://wiki.armamc.com/protecao/venda#alugar-uma-prote%C3%A7%C3%A3o) <a href="#alugar-uma-protecao" id="alugar-uma-protecao"></a>
 
@@ -46,7 +46,7 @@ Caso não seja preenchido o tempo será de 7 dias.
 
 **Exemplo da placa para alugar com permissão para construir:**
 
-****![](<../../.gitbook/assets/image (23).png>)****
+****![](<../../.gitbook/assets/image (23) (1).png>)****
 
 ### Alugar com **a**cesso a Armazém[​](https://wiki.armamc.com/protecao/venda#alugar-com-acesso-a-ba%C3%BAs) <a href="#alugar-com-acesso-a-baus" id="alugar-com-acesso-a-baus"></a>
 
@@ -67,4 +67,4 @@ Caso não seja preenchido o tempo será de 7 dias.
 
 **Exemplo da placa para alugar com permissão apenas a baús:**
 
-****![](<../../.gitbook/assets/image (24).png>)****
+****![](<../../.gitbook/assets/image (24) (1).png>)****
