@@ -99,7 +99,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
-* <mark style="color:green;">N/A</mark>
+* <img src="../.gitbook/assets/2048.png" alt="" data-size="line"> <mark style="color:green;">yasta</mark> **(data de entrada: 24/06/2022)**
 
 ## <img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
@@ -113,7 +113,7 @@ O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que co
 
 * <mark style="color:green;">N/A</mark>
 
-## <mark style="color:orange;"></mark><img src="../.gitbook/assets/Untitled-1.png" alt="" data-size="line"> <mark style="color:orange;">Coordenador de Equipe</mark>
+## <mark style="color:green;"><mark style="color:orange;"><mark style="color:orange;"></mark><img src="../.gitbook/assets/Untitled-1.png" alt="" data-size="line"> <mark style="color:orange;">Coordenador de Equipe</mark>
 
 #### Lista de Coordenadores de Equipe
 
@@ -148,8 +148,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 #### Lista de Ajudantes
 
-* ****<img src="../.gitbook/assets/2048.png" alt="" data-size="line"> ** **<mark style="color:yellow;">**yasta**</mark>** (data de entrada: 24/06/2022)**
-* <img src="../.gitbook/assets/2048 (9).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**ySxnnyy**</mark>** (data de entrada: 25/07/2022)**
+* <img src="../.gitbook/assets/2048 (9).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**IRemedial**</mark>** (data de entrada: 25/07/2022)**
 * <img src="../.gitbook/assets/2048 (15).png" alt="" data-size="line"> <mark style="color:yellow;">**FadeMester\_**</mark>** **<mark style="color:green;">****</mark>** (data de entrada: 31/08/2022)**
 
 ## <img src="../.gitbook/assets/image (19) (1).png" alt="" data-size="line"> <mark style="color:green;">Aprendiz</mark>
