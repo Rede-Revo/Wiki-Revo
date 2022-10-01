@@ -62,7 +62,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🥇 1º Lugar  |           \[VhL] Valhalla           |            9           |
 |  🥈 2º Lugar  |             \[TkA] Taka             |            7           |
 |  🥉 3º Lugar  |            \[ZZZ] Bloods            |            6           |
-|  🏅 4º Lugar  |          \[666] The Ritual          |            4           |
+|  🏅 4º Lugar  |          \[666] The Ritual          |            5           |
 |  🎖️ 5º Lugar |           \[suN] Sunshine           |            3           |
 |  🎖️ 5º Lugar |             \[TkA] Taka             |            3           |
 |  🎖️ 7º Lugar |           \[Nbs] Nairebis           |            1           |
@@ -114,4 +114,13 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LVII - 06/09/2022  |                \[GoD]               |               Godness               |
 |  Edição LVIII - 13/09/2022  |                \[VhL]               |               Valhalla              |
 |   Edição LIX - 20/09/2022   |                \[VhL]               |               Valhalla              |
-|    Edição LX - 27/09/2022   |                  -                  |                  -                  |
+|    Edição LX - 27/09/2022   |                \[666]               |              The Ritual             |
+|   Edição LXI - 04/10/2022   |                  -                  |                  -                  |
+|   Edição LXII - 11/10/2022  |                  -                  |                  -                  |
+|  Edição LXIII - 18/10/2022  |                  -                  |                  -                  |
+|   Edição LXIV - 25/10/2022  |                  -                  |                  -                  |
+|   Edição LXV - 01/11/2022   |                  -                  |                  -                  |
+|   Edição LXVI - 08/11/2022  |                  -                  |                  -                  |
+|  Edição LXVII - 15/11/2022  |                  -                  |                  -                  |
+|  Edição LXVIII - 22/11/2022 |                  -                  |                  -                  |
+|   Edição LXIX - 29/11/2022  |                  -                  |                  -                  |

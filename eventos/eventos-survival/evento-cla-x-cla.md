@@ -68,50 +68,70 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### \* 1ª Colocação: 1 ponto; 2ª Colocação: 0,5 ponto; 3ª Colocação: 0,25 ponto.
 
-|                      » Colocação «                     |     » Clã «     | » Pontuação « |
-| :----------------------------------------------------: | :-------------: | :-----------: |
-|                       🥇 1º Lugar                      |   \[TkA] Taka   |      2,25     |
-| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar | \[SuN] Sunshine |      1,75     |
-|                       🥉 3º Lugar                      |   \[MaF] Máfia  |       1       |
-|                       🥉 3º Lugar                      |  \[GoD] Godness |       1       |
-|                       🏅 4º Lugar                      | \[VhL] Valhalla |      0,75     |
-|                       🎖 5º Lugar                      | \[SoL] Sunshine |      0,25     |
+|                      » Colocação «                     |        » Clã «        | » Pontuação « |
+| :----------------------------------------------------: | :-------------------: | :-----------: |
+|                       🥇 1º Lugar                      |    \[VhL] Valhalla    |      2,75     |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |     \[GoD] Godness    |      2,25     |
+|                       🥉 3º Lugar                      |    \[SuN] Sunshine    |      1,75     |
+|                       🏅 4º Lugar                      |      \[TkA] Taka      |      1,25     |
+|                       🎖 5º Lugar                      |      \[MaF] Máfia     |       1       |
+|                       🎖 5º Lugar                      |   \[666] The Ritual   |       1       |
+|                       🎖 7º Lugar                      |    \[SoL] Sunshine    |      0,25     |
+|                       🎖 7º Lugar                      | \[616] The Real Beast |      0,25     |
 
 ## » Ranking de Clãs Vencedores
 
-|                      » Colocação «                     |     » Clã «    | » Quantidade de vitórias « |
-| :----------------------------------------------------: | :------------: | :------------------------: |
-|                       🥇 1º Lugar                      |   \[TkA] Taka  |              2             |
-| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |  \[MaF] Máfia  |              1             |
-| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar | \[GoD] Godness |              1             |
+|                      » Colocação «                     |     » Clã «     | » Quantidade de vitórias « |
+| :----------------------------------------------------: | :-------------: | :------------------------: |
+|                       🥇 1º Lugar                      |  \[GoD] Godness |              2             |
+|                       🥇 1º Lugar                      | \[VhL] Valhalla |              2             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |   \[MaF] Máfia  |              1             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |   \[TkA] Taka   |              1             |
 
 ## » Ranking de Clãs Segundo Colocados
 
-|                      » Colocação «                     |     » Clã «     | » Quantidade de vitórias « |
-| :----------------------------------------------------: | :-------------: | :------------------------: |
-|                       🥇 1º Lugar                      | \[SuN] Sunshine |              3             |
-| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar | \[VhL] Valhalla |              1             |
+|                      » Colocação «                     |      » Clã «      | » Quantidade de vitórias « |
+| :----------------------------------------------------: | :---------------: | :------------------------: |
+|                       🥇 1º Lugar                      |  \[SuN] Sunshine  |              3             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar | \[666] The Ritual |              2             |
+|                       🥉 3º Lugar                      |  \[VhL] Valhalla  |              1             |
 
 ## » Ranking de Clãs Terceiro Colocados
 
-| » Colocação « |     » Clã «     | » Quantidade de vitórias « |
-| :-----------: | :-------------: | :------------------------: |
-|  🥇 1º Lugar  |   \[TkA] Taka   |              1             |
-|  🥇 1º Lugar  | \[VhL] Valhalla |              1             |
-|  🥇 1º Lugar  | \[SoL] Sunshine |              1             |
-|  🥇 1º Lugar  | \[SuN] Sunshine |              1             |
+| » Colocação « |        » Clã «        | » Quantidade de vitórias « |
+| :-----------: | :-------------------: | :------------------------: |
+|  🥇 1º Lugar  |      \[TkA] Taka      |              1             |
+|  🥇 1º Lugar  |    \[VhL] Valhalla    |              1             |
+|  🥇 1º Lugar  |    \[SoL] Sunshine    |              1             |
+|  🥇 1º Lugar  |    \[SuN] Sunshine    |              1             |
+|  🥇 1º Lugar  |     \[GoD] Godness    |              1             |
+|  🥇 1º Lugar  | \[616] The Real Beast |              1             |
 
 ## » Ranking de Matadores
 
 | » Colocação « |    » Jogador «   | » Número de vezes matador(a) « |
 | :-----------: | :--------------: | :----------------------------: |
 |  🥇 1º Lugar  | `universalizado` |                1               |
+|  🥇 1º Lugar  |   `yLuquinhaz`   |                1               |
+|  🥇 1º Lugar  |    `_IRagnar`    |                1               |
+|  🥇 1º Lugar  |   `EasyBounce`   |                1               |
 
 ## » Histórico do Evento
 
-|        » Edição «       | » 1º Colocado « | » 2º Colocado « | » 3º Colocado « | » Jogador(a) Matador « |
-| :---------------------: | :-------------: | :-------------: | :-------------: | :--------------------: |
-|  Edição I - 24/08/2022  |   \[MaF] Máfia  | \[SuN] Sunshine |   \[TkA] Taka   |           N/A          |
-|  Edição II - 31/08/2022 |   \[TkA] Taka   | \[SuN] Sunshine | \[VhL] Valhalla |           N/A          |
-| Edição III - 07/09/2022 |   \[TkA] Taka   | \[SuN] Sunshine | \[SoL] Sunshine |    `universalizado`    |
-|  Edição IV - 14/09/2022 |  \[GoD] Godness | \[VhL] Valhalla | \[SuN] Sunshine |      `yLuquinhaz`      |
+|        » Edição «        |       » 1º Colocado «       |  » 2º Colocado «  |    » 3º Colocado «    | » Jogador(a) Matador « |
+| :----------------------: | :-------------------------: | :---------------: | :-------------------: | :--------------------: |
+|   Edição I - 24/08/2022  |         \[MaF] Máfia        |  \[SuN] Sunshine  |      \[TkA] Taka      |           N/A          |
+|  Edição II - 31/08/2022  |         \[TkA] Taka         |  \[SuN] Sunshine  |    \[VhL] Valhalla    |           N/A          |
+|  Edição III - 07/09/2022 |        \[GoD] Godness       |  \[SuN] Sunshine  |    \[SoL] Sunshine    |    `universalizado`    |
+|  Edição IV - 14/09/2022  | <p>[GoD] </p><p>Godness</p> |  \[VhL] Valhalla  |    \[SuN] Sunshine    |      `yLuquinhaz`      |
+|   Edição V - 21/09/2022  |       \[VhL] Valhalla       | \[666] The Ritual |     \[GoD] Godness    |       `_IRagnar`       |
+|  Edição VI - 28/09/2022  |       \[VhL] Valhalla       | \[666] The Ritual | \[616] The Real Beast |      `EasyBounce`      |
+|  Edição VII - 05/10/2022 |              -              |         -         |           -           |            -           |
+| Edição VIII - 12/10/2022 |              -              |         -         |           -           |            -           |
+|  Edição IX - 19/10/2022  |              -              |         -         |           -           |            -           |
+|   Edição X - 26/10/2022  |              -              |         -         |           -           |            -           |
+|  Edição XI - 02/11/2022  |              -              |         -         |           -           |            -           |
+|  Edição XII - 09/11/2022 |              -              |         -         |           -           |            -           |
+| Edição XIII - 16/11/2022 |              -              |         -         |           -           |            -           |
+|  Edição XIV - 23/11/2022 |              -              |         -         |           -           |            -           |
+|  Edição XV - 30/11/2022  |              -              |         -         |           -           |            -           |

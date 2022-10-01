@@ -61,7 +61,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 | » Colocação « |               » Clã «               | » Número de Vitórias « |
 | :-----------: | :---------------------------------: | :--------------------: |
-|  🥇 1º Lugar  |           \[VhL] Valhalla           |           10           |
+|  🥇 1º Lugar  |           \[VhL] Valhalla           |           12           |
 |  🥇 1º Lugar  |            \[ZZZ] Bloods            |            6           |
 |  🥉 3º Lugar  |          \[uwu] Cerejinhas          |            3           |
 |  🥉 3º Lugar  |           \[suN] Sunshine           |            3           |
@@ -112,5 +112,13 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LVI - 01/09/2022   |                \[VhL]               |               Valhalla              |
 |   Edição LVII - 08/09/2022  |                \[GoD]               |               Godness               |
 |  Edição LVIII - 15/09/2022  |                \[VhL]               |               Valhalla              |
-|   EDIÇÃO LIX - 22/09/2022   |                  -                  |                  -                  |
-|    Edição LX - 29/09/2022   |                  -                  |                  -                  |
+|   EDIÇÃO LIX - 22/09/2022   |                \[VhL]               |               Valhalla              |
+|    Edição LX - 29/09/2022   |                \[VhL]               |               Valhalla              |
+|   Edição LXI - 06/10/2022   |                  -                  |                  -                  |
+|   Edição LXII - 13/10/2022  |                  -                  |                  -                  |
+|  Edição LXIII - 20/10/2022  |                  -                  |                  -                  |
+|   Edição LXIV - 27/10/2022  |                  -                  |                  -                  |
+|   Edição LXV - 03/11/2022   |                  -                  |                  -                  |
+|   Edição LXVI - 10/11/2022  |                  -                  |                  -                  |
+|  Edição LXVII - 17/11/2022  |                  -                  |                  -                  |
+|  Edição LXVIII - 24/11/2022 |                  -                  |                  -                  |

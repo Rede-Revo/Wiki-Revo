@@ -42,18 +42,18 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## » Ranking de Jogadores Dominadores
 
-| » Colocação « | » Jogador(a) « | » Quantidade de Vitórias « |
-| :-----------: | :------------: | :------------------------: |
-|  🥇 1º Lugar  |    `Nefesto`   |              2             |
-|  🥇 1º Lugar  |  `HxqueBjorn_` |              2             |
-|  🥇 1º Lugar  |    `Guga_S2`   |              2             |
-|  🏅 4º Lugar  |  `MT_MIRANDA`  |              1             |
-|  🏅 4º Lugar  |    `shyyyy`    |              1             |
-|  🏅 4º Lugar  |    `Krenzif`   |              1             |
-|  🏅 4º Lugar  |  `Heinokramm`  |              1             |
-|  🏅 4º Lugar  |   `PauloJLG`   |              1             |
-|  🏅 4º Lugar  |  `zPantheon_`  |              1             |
-|  🏅 4º Lugar  |    ClaxmeteR   |              1             |
+|                      » Colocação «                     | » Jogador(a) « | » Quantidade de Vitórias « |
+| :----------------------------------------------------: | :------------: | :------------------------: |
+|                       🥇 1º Lugar                      |  `HxqueBjorn_` |              3             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |    `Nefesto`   |              2             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |    `Guga_S2`   |              2             |
+|                       🏅 4º Lugar                      |  `MT_MIRANDA`  |              1             |
+|                       🏅 4º Lugar                      |    `shyyyy`    |              1             |
+|                       🏅 4º Lugar                      |    `Krenzif`   |              1             |
+|                       🏅 4º Lugar                      |  `Heinokramm`  |              1             |
+|                       🏅 4º Lugar                      |   `PauloJLG`   |              1             |
+|                       🏅 4º Lugar                      |  `zPantheon_`  |              1             |
+|                       🏅 4º Lugar                      |   `ClaxmeteR`  |              1             |
 
 ## » Ranking de Clãs Vencedores
 
@@ -67,19 +67,28 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## » Histórico do Evento
 
-|        » Edição «        |  » Clã Vencedor « | » Jogador Dominador « |
-| :----------------------: | :---------------: | :-------------------: |
-|   Edição I - 25/06/2022  |  \[VhL] Valhalla  |      `MT_MIRANDA`     |
-|  Edição II - 02/07/2022  |  \[VhL] Valhalla  |        `shyyyy`       |
-|  Edição III - 09/07/2022 |  \[VhL] Valhalla  |       `Krenzif`       |
-|  Edição IV - 16/07/2022  | \[666] The Ritual |       `Nefesto`       |
-|   Edição V - 23/07/2022  | \[666] The Ritual |       `Nefesto`       |
-|  Edição VI - 30/07/2022  | \[666] The Ritual |      `Heinokramm`     |
-|  Edição VII - 06/08/2022 |  \[suN] Sunshine  |       `Guga_S2`       |
-| Edição VIII - 13/08/2022 |    \[TkA] Taka    |       `PauloJLG`      |
-|  Edição IX - 20/08/2022  |   \[GoD] Godness  |     `HxqueBjorn_`     |
-|   Edição X - 27/08/2022  |  \[SuN] Sunshine  |      `zPantheon_`     |
-|  Edição XI - 03/09/2022  |   \[GoD] Godness  |     `HxqueBjorn_`     |
-|  Edição XII - 10/09/2022 |  \[SuN] Sunshine  |       `Guga_S2`       |
-| Edição XIII - 17/09/2022 | \[666] The Ritual |      `ClaxmeteR`      |
-|  Edição XIV - 24/09/2022 |         -         |           -           |
+|         » Edição «        |  » Clã Vencedor « | » Jogador Dominador « |
+| :-----------------------: | :---------------: | :-------------------: |
+|   Edição I - 25/06/2022   |  \[VhL] Valhalla  |      `MT_MIRANDA`     |
+|   Edição II - 02/07/2022  |  \[VhL] Valhalla  |        `shyyyy`       |
+|  Edição III - 09/07/2022  |  \[VhL] Valhalla  |       `Krenzif`       |
+|   Edição IV - 16/07/2022  | \[666] The Ritual |       `Nefesto`       |
+|   Edição V - 23/07/2022   | \[666] The Ritual |       `Nefesto`       |
+|   Edição VI - 30/07/2022  | \[666] The Ritual |      `Heinokramm`     |
+|  Edição VII - 06/08/2022  |  \[suN] Sunshine  |       `Guga_S2`       |
+|  Edição VIII - 13/08/2022 |    \[TkA] Taka    |       `PauloJLG`      |
+|   Edição IX - 20/08/2022  |   \[GoD] Godness  |     `HxqueBjorn_`     |
+|   Edição X - 27/08/2022   |  \[SuN] Sunshine  |      `zPantheon_`     |
+|   Edição XI - 03/09/2022  |   \[GoD] Godness  |     `HxqueBjorn_`     |
+|  Edição XII - 10/09/2022  |  \[SuN] Sunshine  |       `Guga_S2`       |
+|  Edição XIII - 17/09/2022 | \[666] The Ritual |      `ClaxmeteR`      |
+|  Edição XIV - 24/09/2022  |   \[GoD] Godness  |     `HxqueBjorn_`     |
+|   Edição XV - 01/10/2022  |         -         |           -           |
+|  Edição XVI - 08/10/2022  |         -         |           -           |
+|  Edição XVII - 15/10/2022 |         -         |           -           |
+| Edição XVIII - 22/10/2022 |         -         |           -           |
+|  Edição XIX - 29/10/2022  |         -         |           -           |
+|   Edição XX - 05/11/2022  |         -         |           -           |
+|  Edição XXI - 12/11/2022  |         -         |           -           |
+|  Edição XXII - 19/11/2022 |         -         |           -           |
+| Edição XXIII - 26/11/2022 |         -         |           -           |

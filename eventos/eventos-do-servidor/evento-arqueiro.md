@@ -59,9 +59,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 |  » Posição « |  » Jogador(a) «  | » Quantidade de Vezes Matador « |
 | :----------: | :--------------: | :-----------------------------: |
+|  🥇 1º Lugar |  `RyanGamer2004` |                5                |
 |  🥇 1º Lugar |     `Filiipe`    |                4                |
 |  🥇 1º Lugar |   `yLuquinhaz`   |                4                |
-|  🥇 1º Lugar |  `RyanGamer2004` |                4                |
 |  🏅 4º Lugar |   `Mat_redston`  |                3                |
 | 🎖️ 5º Lugar |    `new_miza`    |                2                |
 | 🎖️ 5º Lugar |    `_Giffoni`    |                2                |
@@ -110,6 +110,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 7º Lugar |    `Pedrynn`    |                        1                       |
 |  🎖️ 7º Lugar |   `Beckhampro`  |                        1                       |
 |  🎖️ 7º Lugar |    `Hugo1808`   |                        1                       |
+|  🎖️ 7º Lugar |   `themadson`   |                        1                       |
 
 ## » Histórico do Evento
 
@@ -151,5 +152,14 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LVI - 03/09/2022   |   `Bruno200XD`   |         `Hugo1808`         |
 |   Edição LVII - 10/09/2022  |   `Beckhampro`   |        `Beckhampro`        |
 |  Edição LVIII - 17/09/2022  |  `RyanGamer2004` |       `RyanGamer2004`      |
-|   Edição LIX - 24/09/2022   |         -        |              -             |
+|   Edição LIX - 24/09/2022   |  `RyanGamer2004` |         `themadson`        |
+|    Edição LX - 01/10/2022   |         -        |              -             |
+|   Edição LXI - 08/10/2022   |         -        |              -             |
+|   Edição LXII - 15/10/2022  |         -        |              -             |
+|  Edição LXIII - 22/10/2022  |         -        |              -             |
+|   Edição LXIV - 29/10/2022  |         -        |              -             |
+|   Edição LXV - 05/11/2022   |         -        |              -             |
+|   Edição LXVI - 12/11/2022  |         -        |              -             |
+|  Edição LXVII - 19/11/2022  |         -        |              -             |
+|  Edição LXVIII - 26/11/2022 |         -        |              -             |
 

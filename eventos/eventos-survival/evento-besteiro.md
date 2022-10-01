@@ -59,7 +59,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 | » Classificação « | » Jogador(a) « | » Número de vezes último(a) sobrevivente « |
 | :---------------: | :------------: | :----------------------------------------: |
-|    🥇 1º Lugar    |  `Beckhampro`  |                      2                     |
+|    🥇 1º Lugar    |  `Beckhampro`  |                      3                     |
 |    🥈 2º Lugar    |  `jesus536be`  |                      1                     |
 |    🥈 2º Lugar    |  `Beckhampro`  |                      1                     |
 |    🥈 2º Lugar    |   `cryngpeep`  |                      1                     |
@@ -68,14 +68,24 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 | » Classificação « | » Jogador(a) « | » Número de vezes matador(a) « |
 | :---------------: | :------------: | :----------------------------: |
-|    🥇 1º Lugar    |  `Beckhampro`  |                2               |
+|    🥇 1º Lugar    |  `Beckhampro`  |                3               |
 |    🥈 2º Lugar    |   `cryngpeep`  |                1               |
 
 ## » Histórico do Evento
 
-|        » Edição «       | » Último(a) Sobrevivente « | » Matador(a) « |
-| :---------------------: | :------------------------: | :------------: |
-|  Edição I - 28/08/2022  |        `jesus536be`        |  `Beckhampro`  |
-|  Edição II - 04/09/2022 |        `Beckhampro`        |  `Beckhampro`  |
-| Edição III - 11/09/2022 |         `cryngpeep`        |   `cryngpeep`  |
-|  Edição IV - 18/09/2022 |        `Beckhampro`        |  `Beckhampro`  |
+|        » Edição «        | » Último(a) Sobrevivente « | » Matador(a) « |
+| :----------------------: | :------------------------: | :------------: |
+|   Edição I - 28/08/2022  |        `jesus536be`        |  `Beckhampro`  |
+|  Edição II - 04/09/2022  |        `Beckhampro`        |  `Beckhampro`  |
+|  Edição III - 11/09/2022 |         `cryngpeep`        |   `cryngpeep`  |
+|  Edição IV - 18/09/2022  |        `Beckhampro`        |  `Beckhampro`  |
+|   Edição V - 25/09/2022  |        `Beckhampro`        |  `Beckhampro`  |
+|  Edição VI - 02/10/2022  |              -             |        -       |
+|  Edição VII - 09/10/2022 |              -             |        -       |
+| Edição VIII - 16/10/2022 |              -             |        -       |
+|  Edição IX - 23/10/2022  |              -             |        -       |
+|   Edição X - 30/10/2022  |              -             |        -       |
+|  Edição XI - 06/11/2022  |              -             |        -       |
+|  Edição XII - 13/11/2022 |              -             |        -       |
+| Edição XIII - 20/11/2022 |              -             |        -       |
+|  Edição XIV - 27/11/2022 |              -             |        -       |

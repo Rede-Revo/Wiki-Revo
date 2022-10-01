@@ -67,18 +67,18 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   🥇 1º Lugar   |     `shyyyy`     |                      3                     |
 |   🥉 3º Lugar   |    `Pedriin_`    |                      2                     |
 |   🥉 3º Lugar   |    `_Giffoni`    |                      2                     |
-| **🎖** 5º Lugar | `universalizado` |                      1                     |
-| **🎖** 5º Lugar |    `ClaxmeteR`   |                      1                     |
-| **🎖** 5º Lugar |  `falcaonava12`  |                      1                     |
-| **🎖** 5º Lugar |    `new_miza`    |                      1                     |
-| **🎖** 5º Lugar |   `kaduzinsan`   |                      1                     |
-| **🎖** 5º Lugar |    `_gueiibs`    |                      1                     |
-| **🎖** 5º Lugar |     `Krenzif`    |                      1                     |
-| **🎖** 5º Lugar |     `_InAway`    |                      1                     |
-| **🎖** 5º Lugar |     `Taayboy`    |                      1                     |
-| **🎖** 5º Lugar |   `HxqueBjorn_`  |                      1                     |
-| **🎖** 5º Lugar |   `MT_MIRANDA`   |                      1                     |
-| **🎖** 5º Lugar |   `ValhallaVK`   |                      1                     |
+|   🥉 3º Lugar   |   `MT_MIRANDA`   |                      2                     |
+| **🎖** 6º Lugar | `universalizado` |                      1                     |
+| **🎖** 6º Lugar |    `ClaxmeteR`   |                      1                     |
+| **🎖** 6º Lugar |  `falcaonava12`  |                      1                     |
+| **🎖** 6º Lugar |    `new_miza`    |                      1                     |
+| **🎖** 6º Lugar |   `kaduzinsan`   |                      1                     |
+| **🎖** 6º Lugar |    `_gueiibs`    |                      1                     |
+| **🎖** 6º Lugar |     `Krenzif`    |                      1                     |
+| **🎖** 6º Lugar |     `_InAway`    |                      1                     |
+| **🎖** 6º Lugar |     `Taayboy`    |                      1                     |
+| **🎖** 6º Lugar |   `HxqueBjorn_`  |                      1                     |
+| **🎖** 6º Lugar |   `ValhallaVK`   |                      1                     |
 
 ## » Ranking de Matadores
 
@@ -87,11 +87,11 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   🥇 1º Lugar   |  `kaduzinsan`  |                3               |
 |   🥇 1º Lugar   |   `_IRagnar`   |                3               |
 |   🥇 1º Lugar   |    `shyyyy`    |                3               |
-|   🏅 4º Lugar   | `falcaonava12` |                2               |
-|   🏅 4º Lugar   |   `ClaxMeteR`  |                2               |
-|   🏅 4º Lugar   |  `MT_MIRANDA`  |                2               |
+|   🥇 1º Lugar   |  `MT_MIRANDA`  |                3               |
+|   🏅 5º Lugar   | `falcaonava12` |                2               |
+|   🏅 5º Lugar   |   `ClaxMeteR`  |                2               |
+|   🏅 5º Lugar   |  `MT_MIRANDA`  |                2               |
 | **🎖** 7º Lugar |   `banzinbr7`  |                1               |
-| **🎖** 7º Lugar |  `MT_MIRANDA`  |                1               |
 | **🎖** 7º Lugar |   `new_miza`   |                1               |
 | **🎖** 7º Lugar |    `Krenzif`   |                1               |
 | **🎖** 7º Lugar |    `_InAway`   |                1               |
@@ -101,28 +101,37 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## » Histórico do Evento
 
-|         » Edição «        | » Último(a) Sobrevivente « | » Matador(a) « |
-| :-----------------------: | :------------------------: | :------------: |
-|   Edição I - 23/04/2022   |      `universalizado`      | `falcaonava12` |
-|   Edição II - 30/04/2022  |         `_IRagnar`         |   `_IRagnar`   |
-|  Edição III - 07/05/2022  |         `Pedriin_`         |    `shyyyy`    |
-|   Edição IV - 14/05/2022  |         `_Giffoni`         |   `banzinbr7`  |
-|   Edição V - 21/05/2022   |          `shyyyy`          |  `MT_MIRANDA`  |
-|   Edição VI - 28/05/2022  |         `ClaxmeteR`        |   `ClaxmeteR`  |
-|  Edição VII - 11/06/2022  |         `_IRagnar`         |  `kaduzinsan`  |
-|  Edição VIII - 11/06/2022 |       `falcaonava12`       | `falcaonava12` |
-|   Edição IX - 18/06/2022  |         `new_miza`         |   `new_miza`   |
-|   Edição X - 25/06/2022   |         `Pedriin_`         |   `_IRagnar`   |
-|   Edição XI - 02/07/2022  |        `kaduzinsan`        |  `kaduzinsan`  |
-|  Edição XII - 09/07/2022  |         `_gueiibs`         |  `kaduzinsan`  |
-|  Edição XIII - 16/07/2022 |         `_Giffoni`         |   `ClaxMeteR`  |
-|  Edição XIV - 23/07/2022  |          `Krenzif`         |    `Krenzif`   |
-|   Edição XV - 30/07/2022  |         `_IRagnar`         |   `_IRagnar`   |
-|  Edição XVI - 06/08/2022  |          `_InAway`         |    `_InAway`   |
-|  Edição XVII - 13/08/2022 |          `Taayboy`         |    `alceofc`   |
-| Edição XVIII - 20/08/2022 |          `shyyyy`          |    `shyyyy`    |
-|  Edição XIX - 27/08/2022  |          `shyyyy`          |    `shyyyy`    |
-|   Edição XX - 03/09/2022  |        `MT_MIRANDA`        |  `MT_MIRANDA`  |
-|  Edição XXI - 10/09/2022  |        `HxqueBjorn_`       |  `HxqueBjorn_` |
-|  Edição XXII - 17/09/2022 |        `ValhallaVK`        |  `ValhallaVK`  |
-| Edição XXIII - 24/09/2022 |              -             |        -       |
+|         » Edição «         | » Último(a) Sobrevivente « | » Matador(a) « |
+| :------------------------: | :------------------------: | :------------: |
+|    Edição I - 23/04/2022   |      `universalizado`      | `falcaonava12` |
+|   Edição II - 30/04/2022   |         `_IRagnar`         |   `_IRagnar`   |
+|   Edição III - 07/05/2022  |         `Pedriin_`         |    `shyyyy`    |
+|   Edição IV - 14/05/2022   |         `_Giffoni`         |   `banzinbr7`  |
+|    Edição V - 21/05/2022   |          `shyyyy`          |  `MT_MIRANDA`  |
+|   Edição VI - 28/05/2022   |         `ClaxmeteR`        |   `ClaxmeteR`  |
+|   Edição VII - 11/06/2022  |         `_IRagnar`         |  `kaduzinsan`  |
+|  Edição VIII - 11/06/2022  |       `falcaonava12`       | `falcaonava12` |
+|   Edição IX - 18/06/2022   |         `new_miza`         |   `new_miza`   |
+|    Edição X - 25/06/2022   |         `Pedriin_`         |   `_IRagnar`   |
+|   Edição XI - 02/07/2022   |        `kaduzinsan`        |  `kaduzinsan`  |
+|   Edição XII - 09/07/2022  |         `_gueiibs`         |  `kaduzinsan`  |
+|  Edição XIII - 16/07/2022  |         `_Giffoni`         |   `ClaxMeteR`  |
+|   Edição XIV - 23/07/2022  |          `Krenzif`         |    `Krenzif`   |
+|   Edição XV - 30/07/2022   |         `_IRagnar`         |   `_IRagnar`   |
+|   Edição XVI - 06/08/2022  |          `_InAway`         |    `_InAway`   |
+|  Edição XVII - 13/08/2022  |          `Taayboy`         |    `alceofc`   |
+|  Edição XVIII - 20/08/2022 |          `shyyyy`          |    `shyyyy`    |
+|   Edição XIX - 27/08/2022  |          `shyyyy`          |    `shyyyy`    |
+|   Edição XX - 03/09/2022   |        `MT_MIRANDA`        |  `MT_MIRANDA`  |
+|   Edição XXI - 10/09/2022  |        `HxqueBjorn_`       |  `HxqueBjorn_` |
+|  Edição XXII - 17/09/2022  |        `ValhallaVK`        |  `ValhallaVK`  |
+|  Edição XXIII - 24/09/2022 |        `MT_MIRANDA`        |  `MT_MIRANDA`  |
+|  Edição XXIV - 01/10/2022  |              -             |        -       |
+|   Edição XXV - 08/10/2022  |              -             |        -       |
+|  Edição XXVI - 15/10/2022  |              -             |        -       |
+|  Edição XXVII - 22/10/2022 |              -             |        -       |
+| Edição XXVIII - 29/10/2022 |              -             |        -       |
+|  Edição XXIX - 05/11/2022  |              -             |        -       |
+|   Edição XXX - 12/11/2022  |              -             |        -       |
+|  Edição XXXI - 19/11/2022  |              -             |        -       |
+|  Edição XXXII - 26/11/2022 |              -             |        -       |
