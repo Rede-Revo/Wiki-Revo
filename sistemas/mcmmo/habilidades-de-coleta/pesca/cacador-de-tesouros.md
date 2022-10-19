@@ -98,13 +98,13 @@ coverY: 0
 
 ### » Mítico «
 
-| » Item Pescado «                                                                                        |
-| ------------------------------------------------------------------------------------------------------- |
-| <img src="../../../../.gitbook/assets/image (36).png" alt="" data-size="line"> Capacete de netherita    |
-| <img src="../../../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> Peitoral de netherita |
-| <img src="../../../../.gitbook/assets/image (38).png" alt="" data-size="line"> Calças de netherita      |
-| <img src="../../../../.gitbook/assets/image (1) (3).png" alt="" data-size="line"> Botas de netherita    |
-| Itens de netherita                                                                                      |
-| <img src="../../../../.gitbook/assets/image.png" alt="" data-size="line"> 1x Barra de netherita         |
-| <img src="../../../../.gitbook/assets/image (5).png" alt="" data-size="line"> 1x Balde com axolote      |
-| <img src="../../../../.gitbook/assets/image (1).png" alt="" data-size="line"> 1x Ovo gerador de lula    |
+| » Item Pescado «                                                                                         |
+| -------------------------------------------------------------------------------------------------------- |
+| <img src="../../../../.gitbook/assets/image (36).png" alt="" data-size="line"> Capacete de netherita     |
+| <img src="../../../../.gitbook/assets/image (8) (2).png" alt="" data-size="line"> Peitoral de netherita  |
+| <img src="../../../../.gitbook/assets/image (38).png" alt="" data-size="line"> Calças de netherita       |
+| <img src="../../../../.gitbook/assets/image (1) (3).png" alt="" data-size="line"> Botas de netherita     |
+| Itens de netherita                                                                                       |
+| <img src="../../../../.gitbook/assets/image.png" alt="" data-size="line"> 1x Barra de netherita          |
+| <img src="../../../../.gitbook/assets/image (5).png" alt="" data-size="line"> 1x Balde com axolote       |
+| <img src="../../../../.gitbook/assets/image (1) (4).png" alt="" data-size="line"> 1x Ovo gerador de lula |

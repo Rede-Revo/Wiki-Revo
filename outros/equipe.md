@@ -150,6 +150,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 * <img src="../.gitbook/assets/2048 (9).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**IRemedial**</mark>** (data de entrada: 25/07/2022)**
 * <img src="../.gitbook/assets/2048 (15).png" alt="" data-size="line"> <mark style="color:yellow;">**FadeMester\_**</mark>** **<mark style="color:green;">****</mark>** (data de entrada: 31/08/2022)**
+* <img src="../.gitbook/assets/2048 (11).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**ManoBrelson**</mark>** **<mark style="color:blue;">****</mark>** (data de entrada: 26/08/2022)**
 
 ## <img src="../.gitbook/assets/image (19) (1).png" alt="" data-size="line"> <mark style="color:green;">Aprendiz</mark>
 
@@ -168,6 +169,7 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 * <img src="../.gitbook/assets/2048 (18).png" alt="" data-size="line"> ** **<mark style="color:green;">**zPantheon\_**</mark>** (data de entrada: 17/09/2022)**
 * <img src="../.gitbook/assets/2048 (19).png" alt="" data-size="line"> ** **<mark style="color:green;">**RonniXGG**</mark>** (data de entrada: 20/09/2022)**
 * ****<img src="../.gitbook/assets/2048 (19).png" alt="" data-size="line"> ** **<mark style="color:green;">**Rottenberg111**</mark>** (data de entrada: 20/09/2022)**
+* <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> <mark style="color:green;">**lucasalalves**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 04/10/2022)**
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> <mark style="color:purple;">Designer</mark>
 
