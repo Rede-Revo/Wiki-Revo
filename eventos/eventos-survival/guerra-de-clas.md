@@ -59,7 +59,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 #### 🥇 **Clã Vencedor**
 
 * :moneybag: Premiação de **1.000.000 Coins** depositados no banco do clã
-* <img src="../../.gitbook/assets/trofeurevo (1).png" alt="" data-size="line"> **Troféu personalizado** para recordação adicionado no inventario do líder do clã
+* <img src="../../.gitbook/assets/trofeurevo (2).png" alt="" data-size="line">**Troféu personalizado** para recordação adicionado no inventario do líder do clã
 * :flag\_black: Será listado como clã campeão no [Histórico do Evento](guerra-de-clas.md#historico-do-evento) e no [Ranking de Vencedores](guerra-de-clas.md#undefined)
 * 💎**\[Liga]** 250 Pontos
 

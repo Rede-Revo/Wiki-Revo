@@ -48,6 +48,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * 💰 Premiação de **250.000 Coins**
 * <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Campeã(o)]** durante 7 dias
 * 💎 **\[Liga]** 100 Pontos
+* <img src="../../.gitbook/assets/trofeurevo (2).png" alt="" data-size="line"> **Troféu personalizado** para recordação adicionado no inventario do líder do clã
 
 #### [🥈](https://emojipedia.org/2nd-place-medal/) **2° Lugar**
 
