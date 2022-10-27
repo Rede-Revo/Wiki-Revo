@@ -123,9 +123,17 @@ Aumento de Coins:&#x20;
 
 Aumento de Habilidades
 
-* 1º - Habilidade específica redefinida pra 0.
+* 1º - Habilidade específica redefinida para 0.
 * 2º - Todas habilidades redefinidas para 50%
 * 3º - Todas habilidades redefinidas para 25%
+
+
+
+Aumento de Torneios
+
+* 1º - Torneio específico redefinida para 0.
+* 2º - Torneio específico redefinida para 0.
+* 2º - Torneio específico redefinida para 0.
 {% endhint %}
 
 ## Regra 14 - Falsificação de fatos
