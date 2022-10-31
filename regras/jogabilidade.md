@@ -50,6 +50,10 @@ Aproveitar-se de qualquer maneira de um erro em nossos sistemas para benefício 
 Jogadores(as) que reportarem quaisquer bug que afetem a jogabilidade do servidor serão diretamente recompensados(as).
 {% endhint %}
 
+{% hint style="danger" %}
+Em bugs de duplicação a punição aplicada é permanente e caso adquira o desbanimento em nosso site terá a conta resetada.
+{% endhint %}
+
 ### Lista de Punições <a href="#lista-de-punicoes-1" id="lista-de-punicoes-1"></a>
 
 | Incidência |             Punição             |
@@ -131,9 +135,9 @@ Aumento de Habilidades
 
 Aumento de Torneios
 
-* 1º - Torneio específico redefinida para 0.
-* 2º - Torneio específico redefinida para 0.
-* 2º - Torneio específico redefinida para 0.
+* 1º - Torneio específico redefinido para 0.
+* 2º - Torneio específico redefinido para 0.
+* 2º - Torneio específico redefinido para 0.
 {% endhint %}
 
 ## Regra 14 - Falsificação de fatos
