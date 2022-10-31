@@ -51,7 +51,7 @@ Jogadores(as) que reportarem quaisquer bug que afetem a jogabilidade do servidor
 {% endhint %}
 
 {% hint style="danger" %}
-Em bugs de duplicação a punição aplicada é permanente e caso adquira o desbanimento em nosso site terá a conta resetada.
+Em bugs de duplicação a punição aplicada é permanente e o jogador terá a conta resetada.
 {% endhint %}
 
 ### Lista de Punições <a href="#lista-de-punicoes-1" id="lista-de-punicoes-1"></a>
