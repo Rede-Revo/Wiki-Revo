@@ -73,10 +73,10 @@ Também se aplica a discriminação social, nem todos jogadores possuem condiç�
 
 ### Lista de Punições <a href="#lista-de-punicoes-1" id="lista-de-punicoes-1"></a>
 
-| Incidência |             Punição             |
-| :--------: | :-----------------------------: |
-|      1     | Banimento temporário de 30 dias |
-|      2     |          **Blacklist**          |
+| Incidência |      Punição     |
+| :--------: | :--------------: |
+|      1     | Prisão de 5 dias |
+|      2     |   **Blacklist**  |
 
 ## Regra 03 - **Divulgação Simples** <a href="#02" id="02"></a>
 
@@ -98,10 +98,10 @@ Fazer divulgação de outros servidores de Minecraft ou lojas do gênero como fe
 
 ### Lista de Punições <a href="#lista-de-punicoes-3" id="lista-de-punicoes-3"></a>
 
-| Incidência |             Punição             |
-| :--------: | :-----------------------------: |
-|      1     | Banimento temporário de 30 dias |
-|      2     |       Banimento permanente      |
+| Incidência |        Punição       |
+| :--------: | :------------------: |
+|      1     |   Prisão de 5 dias   |
+|      2     | Banimento permanente |
 
 ## Regra 05 - **Desordem no Chat** <a href="#02" id="02"></a>
 

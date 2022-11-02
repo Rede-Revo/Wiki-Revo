@@ -35,10 +35,10 @@ Utilizar uma skin sexual ou discriminatória.
 
 ### Lista de Punições <a href="#lista-de-punicoes" id="lista-de-punicoes"></a>
 
-| Incidência |                                            Punição                                            |
-| :--------: | :-------------------------------------------------------------------------------------------: |
-|      1     | Banimento temporário de 7 dias (em caso de não atender o pedido de alterar a skin inadequada) |
-|      2     |                                      Banimento permanente                                     |
+| Incidência |                                     Punição                                    |
+| :--------: | :----------------------------------------------------------------------------: |
+|      1     | Prisão de 1 dia (em caso de não atender o pedido de alterar a skin inadequada) |
+|      2     |                              Banimento permanente                              |
 
 ## Regra 09 - Abuso de Bug
 
@@ -56,10 +56,10 @@ Em bugs de duplicação a punição aplicada é permanente e o jogador terá a c
 
 ### Lista de Punições <a href="#lista-de-punicoes-1" id="lista-de-punicoes-1"></a>
 
-| Incidência |             Punição             |
-| :--------: | :-----------------------------: |
-|      1     | Banimento temporário de 30 dias |
-|      2     |       Banimento permanente      |
+| Incidência |        Punição       |
+| :--------: | :------------------: |
+|      1     |   Prisão de 5 dias   |
+|      2     | Banimento permanente |
 
 ## Regra 10 - Conta falsa <a href="#01" id="01"></a>
 
@@ -67,10 +67,10 @@ Criar uma conta secundária com intuito de cometer qualquer infração, para ben
 
 ### Lista de Punições <a href="#lista-de-punicoes-2" id="lista-de-punicoes-2"></a>
 
-| Incidência |             Punição            |
-| :--------: | :----------------------------: |
-|      1     | Banimento temporário de 7 dias |
-|      2     |      Banimento permanente      |
+| Incidência |        Punição       |
+| :--------: | :------------------: |
+|      1     |    Prisão de 1 dia   |
+|      2     | Banimento permanente |
 
 ## Regra 11 - Estorno de pagamento <a href="#01" id="01"></a>
 
@@ -92,11 +92,11 @@ Consiste na tentativa de negociação e/ou transação de itens ou vantagens no 
 
 ### Lista de Punições <a href="#lista-de-punicoes-4" id="lista-de-punicoes-4"></a>
 
-| Incidência |                                Punição                                |
-| :--------: | :-------------------------------------------------------------------: |
-|      1     | Banimento temporário de 15 dias + Confisco do conteúdo comercializado |
-|      2     | Banimento temporário de 30 dias + Confisco do conteúdo comercializado |
-|      3     |       Banimento Permanente + Confisco do conteúdo comercializado      |
+| Incidência |                           Punição                          |
+| :--------: | :--------------------------------------------------------: |
+|      1     |   Prisão de 3 dias + Confisco do conteúdo comercializado   |
+|      2     |   Prisão de 5 dias + Confisco do conteúdo comercializado   |
+|      3     | Banimento Permanente + Confisco do conteúdo comercializado |
 
 ## Regra 13 - AFK Farm
 
@@ -108,11 +108,11 @@ Jogadores(as) com atividade suspeita que não atenderem o chamado no período de
 
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
-| Incidência |             Punição             |
-| :--------: | :-----------------------------: |
-|      1     | Banimento temporário de 15 dias |
-|      2     | Banimento temporário de 30 dias |
-|      3     |       Banimento permanente      |
+| Incidência |        Punição       |
+| :--------: | :------------------: |
+|      1     |   Prisão de 3 dias   |
+|      2     |   Prisão de 5 dias   |
+|      3     | Banimento permanente |
 
 {% hint style="danger" %}
 Além do banimento, punições extras são aplicadas referentes ação praticada pelo jogador e a incidência:\
@@ -174,12 +174,12 @@ O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros
 
 ### Lista de Punições <a href="#lista-de-punicoes-7" id="lista-de-punicoes-7"></a>
 
-| Incidência |                 Punição                 |
-| :--------: | :-------------------------------------: |
-|      1     |      Banimento temporário de 7 dias     |
-|      2     | Aviso + Banimento temporário de 15 dias |
-|      3     | Aviso + Banimento temporário de 30 dias |
-|      4     |       Aviso + Banimento Permanente      |
+| Incidência |            Punição           |
+| :--------: | :--------------------------: |
+|      1     |        Prisão de 1 dia       |
+|      2     |   Aviso + Prisão de 3 dias   |
+|      3     |   Aviso + Prisão de 5 dias   |
+|      4     | Aviso + Banimento Permanente |
 
 ## Regra 16 - Griefing <a href="#01" id="01"></a>
 
@@ -195,12 +195,12 @@ Dica: Para evitar problemas futuros, utilize os mundos de recursos, The End ou N
 
 ### Lista de Punições <a href="#lista-de-punicoes-8" id="lista-de-punicoes-8"></a>
 
-| Incidência |                 Punição                 |
-| :--------: | :-------------------------------------: |
-|      1     |      Banimento temporário de 7 dias     |
-|      2     | Aviso + Banimento temporário de 15 dias |
-|      3     | Aviso + Banimento temporário de 30 dias |
-|      4     |       Aviso + Banimento Permanente      |
+| Incidência |            Punição           |
+| :--------: | :--------------------------: |
+|      1     |        Prisão de 1 dia       |
+|      2     |   Aviso + Prisão de 3 dias   |
+|      3     |   Aviso + Prisão de 5 dias   |
+|      4     | Aviso + Banimento Permanente |
 
 ## Regra 17 - Cúmplice de Infrator <a href="#01" id="01"></a>
 
@@ -212,12 +212,12 @@ O ato de não reportar o trapaceiro (regra 18) será interpretado automaticament
 
 ### Lista de Punições <a href="#lista-de-punicoes-9" id="lista-de-punicoes-9"></a>
 
-| Incidência |             Punição             |
-| :--------: | :-----------------------------: |
-|      1     |  Banimento temporário de 7 dias |
-|      2     | Banimento temporário de 15 dias |
-|      3     | Banimento temporário de 30 dias |
-|      4     |       Banimento Permanente      |
+| Incidência |        Punição       |
+| :--------: | :------------------: |
+|      1     |    Prisão de 1 dia   |
+|      2     |   Prisão de 3 dias   |
+|      3     |   Prisão de 5 dias   |
+|      4     | Banimento Permanente |
 
 ## Regra 18 - Uso de Trapaças <a href="#01" id="01"></a>
 
