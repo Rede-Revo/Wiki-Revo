@@ -131,8 +131,6 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 
 #### Lista de Construtores
 
-* #### <img src="../.gitbook/assets/2048 (14).png" alt="" data-size="line"> <mark style="color:orange;">**yQuack**</mark> (data de entrada: 12/06/2022)
-* #### <img src="../.gitbook/assets/2048 (13).png" alt="" data-size="line"> <mark style="color:orange;">MysThyc</mark> (data de entrada: 08/08/2022)
 * <img src="../.gitbook/assets/2048 (17).png" alt="" data-size="line"> <mark style="color:orange;">**KnoowzY**</mark>** (data de entrada: 15/09/2022)**
 
 ## <img src="../.gitbook/assets/image (17) (2).png" alt="" data-size="line"> <mark style="color:yellow;">Ajudante</mark>
