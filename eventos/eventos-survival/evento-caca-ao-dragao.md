@@ -27,6 +27,7 @@ coverY: 0
 
 * 🥚 O raríssimo **Ovo de Dragão** com nome do portador
 * 💎**\[Liga]** 250 Pontos
+* <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Slayer]** durante 3 meses
 
 ## » Ranking de Vencedores
 
