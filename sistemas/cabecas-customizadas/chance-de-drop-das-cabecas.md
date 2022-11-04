@@ -16,7 +16,7 @@ coverY: 0
 * **Aldeão zumbi: `1.9%`**
 * **Aranha: `0.4%`**
 * **Aranha das cavernas: `0.1%`**
-* **Axolot: `0.7%`**
+* **Axolote: `0.7%`**
 * **Bacalhau: `0.2%`**
 * **Baiacu: `0.4%`**
 * **Blaze: `0.3%`**
