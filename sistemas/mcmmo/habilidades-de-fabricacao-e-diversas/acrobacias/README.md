@@ -24,8 +24,4 @@ coverY: 0
 
 ## » Tabela de EXP ganho
 
-| » Ação «                                                                                                                             | » EXP « |   |
-| ------------------------------------------------------------------------------------------------------------------------------------ | :-----: | - |
-| <img src="../../../../.gitbook/assets/Botas_de_Couro.webp" alt="" data-size="line"> Ao cair                                          |   600   |   |
-| <img src="../../../../.gitbook/assets/Botas_de_Diamante.webp" alt="" data-size="line"> Ao [rolar](rolar.md)                          |   600   |   |
-| <img src="../../../../.gitbook/assets/Netherite_Boots_JE2_BE1.webp" alt="" data-size="line"> Ao [esquivar](esquivar.md) de um ataque |   800   |   |
+<table><thead><tr><th>» Ação «</th><th align="center">» EXP «</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/Botas_de_Couro.webp" alt="" data-size="line"> Ao cair</td><td align="center">600</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Botas_de_Diamante.webp" alt="" data-size="line"> Ao <a href="rolar.md">rolar</a></td><td align="center">600</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Netherite_Boots_JE2_BE1.webp" alt="" data-size="line"> Ao <a href="esquivar.md">esquivar</a> de um ataque</td><td align="center">800</td><td></td></tr></tbody></table>

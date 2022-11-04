@@ -9,10 +9,9 @@ coverY: 0
 ## » Como Funciona
 
 * Mate o mate o ultimo sobrevivente na arena e torne-se o vencedor ou mate a maior quantidade de inimigos e torne-se o matador;
-* Itens definidos pela equipe; (3 armaduras de diamante, espada, machado, arco, flecha, poções de força e agilidade, 32 cenouras douradas e 32 maças encantadas);
+*   Itens definidos pela equipe; (3 armaduras de diamante, 1 capacete extra, 1 bota extra, espada, machado, arco, flecha, poções de força e agilidade, 32 cenouras douradas e 32 maças encantadas);
 
-![](<../../.gitbook/assets/image (15) (1) (1).png>)
-
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 * As habilidades do mcMMO serão desativadas durante o evento
 * Borda que reduz no decorrer da batalha;\
   Com o decorrer do tempo a borda do mapa vai reduzindo para que não seja um evento cansativo em que jogadores ficam correndo pelo mapa.

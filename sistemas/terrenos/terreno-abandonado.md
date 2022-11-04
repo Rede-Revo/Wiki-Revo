@@ -12,12 +12,7 @@ Caso encontre um terreno abandonado utilize o comando `/terrenoreivindicar` para
 
 ## Tempo necessário
 
-| Tempo offline (dias) | Tamanho (blocos) | Preço por Bloco |   |
-| :------------------: | :--------------: | :-------------: | - |
-|          30          |      Até 999     |                 |   |
-|          60          |   1000 a 9.999   |        50       |   |
-|          90          |  10.000 a 24.999 |        75       |   |
-|          120         |      25.000+     |       100       |   |
+<table><thead><tr><th align="center">Tempo offline (dias)</th><th align="center">Tamanho (blocos)</th><th data-hidden align="center">Preço por Bloco</th><th data-hidden></th></tr></thead><tbody><tr><td align="center">30</td><td align="center">Até 999</td><td align="center"></td><td></td></tr><tr><td align="center">60</td><td align="center">1000 a 9.999</td><td align="center">50</td><td></td></tr><tr><td align="center">90</td><td align="center">10.000 a 24.999</td><td align="center">75</td><td></td></tr><tr><td align="center">120</td><td align="center">25.000+</td><td align="center">100</td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 O custo de reivindicação é de 75 coins por bloco.

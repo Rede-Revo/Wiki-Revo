@@ -28,14 +28,4 @@ coverY: 0
 
 ## » Tabela de EXP ganho
 
-| » Item Reparado «                                                                                                   | » EXP « |   |
-| ------------------------------------------------------------------------------------------------------------------- | :-----: | - |
-| <img src="../../../../.gitbook/assets/Golden_Chestplate_JE2_BE2.webp" alt="" data-size="line"> Item de Ouro         |   300   |   |
-| <img src="../../../../.gitbook/assets/Wooden_Pickaxe_JE2_BE2.webp" alt="" data-size="line"> Item de Madeira         |   600   |   |
-| <img src="../../../../.gitbook/assets/Stone_Pickaxe_JE2_BE2.webp" alt="" data-size="line"> Item de Pedra            |   1300  |   |
-| <img src="../../../../.gitbook/assets/Leather_Tunic_JE4_BE2.webp" alt="" data-size="line"> Item de Couro            |   1600  |   |
-| <img src="../../../../.gitbook/assets/Cast_Fishing_Rod_JE3_BE2.webp" alt="" data-size="line"> Item de Linha         |   1800  |   |
-| <img src="../../../../.gitbook/assets/Iron_Chestplate_JE2_BE2.webp" alt="" data-size="line"> Item de Ferro          |   2500  |   |
-| <img src="../../../../.gitbook/assets/Diamond_Chestplate_JE3_BE2.webp" alt="" data-size="line"> Item de Diamante    |   5000  |   |
-| <img src="../../../../.gitbook/assets/Netherite_Chestplate_JE2_BE1.webp" alt="" data-size="line"> Item de Netherite |   6000  |   |
-| <img src="../../../../.gitbook/assets/Chainmail_Chestplate_JE3_BE2.webp" alt="" data-size="line"> Outros Itens      |   1500  |   |
+<table><thead><tr><th>» Item Reparado «</th><th align="center">» EXP «</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/Golden_Chestplate_JE2_BE2.webp" alt="" data-size="line"> Item de Ouro</td><td align="center">300</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Wooden_Pickaxe_JE2_BE2.webp" alt="" data-size="line"> Item de Madeira</td><td align="center">600</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Stone_Pickaxe_JE2_BE2.webp" alt="" data-size="line"> Item de Pedra</td><td align="center">1300</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Leather_Tunic_JE4_BE2.webp" alt="" data-size="line"> Item de Couro</td><td align="center">1600</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Cast_Fishing_Rod_JE3_BE2.webp" alt="" data-size="line"> Item de Linha</td><td align="center">1800</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Iron_Chestplate_JE2_BE2.webp" alt="" data-size="line"> Item de Ferro</td><td align="center">2500</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Diamond_Chestplate_JE3_BE2.webp" alt="" data-size="line"> Item de Diamante</td><td align="center">5000</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Netherite_Chestplate_JE2_BE1.webp" alt="" data-size="line"> Item de Netherite</td><td align="center">6000</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Chainmail_Chestplate_JE3_BE2.webp" alt="" data-size="line"> Outros Itens</td><td align="center">1500</td><td></td></tr></tbody></table>

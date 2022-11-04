@@ -40,11 +40,4 @@ coverY: 0
 
 ## » Histórico do Evento
 
-|            » Edição «           |  » Vencedor(a) « |   |
-| :-----------------------------: | :--------------: | - |
-|   Edição I, Temporada Medieval  |     `jakseli`    |   |
-|  Edição II, Temporada SteamPunk |    `banzinbr7`   |   |
-|   Edição III, Temporada Pirata  |     `lulinha`    |   |
-|  Edição IV, Temporada Tropical  | `AndreusRichard` |   |
-| Edição V, Temporada Velho Oeste |    `cryngpeep`   |   |
-|           Edição VI, -          |         -        |   |
+<table><thead><tr><th align="center">» Edição «</th><th align="center">» Vencedor(a) «</th><th data-hidden></th></tr></thead><tbody><tr><td align="center">Edição I, Temporada Medieval</td><td align="center"><code>jakseli</code></td><td></td></tr><tr><td align="center">Edição II, Temporada SteamPunk</td><td align="center"><code>banzinbr7</code></td><td></td></tr><tr><td align="center">Edição III, Temporada Pirata</td><td align="center"><code>lulinha</code></td><td></td></tr><tr><td align="center">Edição IV, Temporada Tropical</td><td align="center"><code>AndreusRichard</code></td><td></td></tr><tr><td align="center">Edição V, Temporada Velho Oeste</td><td align="center"><code>cryngpeep</code></td><td></td></tr><tr><td align="center">Edição VI, -</td><td align="center">-</td><td></td></tr></tbody></table>
