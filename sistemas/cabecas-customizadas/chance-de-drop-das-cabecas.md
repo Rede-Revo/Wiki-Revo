@@ -14,7 +14,6 @@ coverY: 0
 * **Allay: `0.5%`**
 * **Aldeão: `2.5%`**
 * **Aldeão zumbi: `1.9%`**
-* **Andarilho: `0.3%`**
 * **Aranha: `0.4%`**
 * **Aranha das cavernas: `0.1%`**
 * **Axolot: `0.7%`**
@@ -50,6 +49,7 @@ coverY: 0
 * **Hoglin: `0.4%`**
 * **Invocador: `0.5%`**
 * **Jaguatirica: `0.7%`**
+* **Lavagante: `0.3%`**
 * **Lhama: `0.7%`**
 * **Lhama do vendedor: `0.7%`**
 * **Lobo: `0.7%`**
