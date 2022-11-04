@@ -61,7 +61,6 @@ coverY: 0
 * **Panda: `0.4%`**
 * **Papagaio: `0.8%`**
 * **Peixe tropical: `0.4%`**
-* **Pillager: `0.5%`**
 * **Piglin: `0.4%`**
 * **Piglin bárbaro: `0.9%`**
 * **Piglin-zumbi: `0`.2%**
