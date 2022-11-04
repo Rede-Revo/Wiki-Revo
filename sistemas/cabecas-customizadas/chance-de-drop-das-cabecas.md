@@ -69,7 +69,7 @@ coverY: 0
 * **Salmão: `0.4%`**
 * **Sapo: `0.6%`**
 * **Saqueador: `0.5%`**
-* **Shulker: 1`.5%`**
+* **Shulker: `1.5%`**
 * **Slime: `0.4%`**
 * **Tartaruga: `0.3%`**
 * **Traça: `0.5%`**
