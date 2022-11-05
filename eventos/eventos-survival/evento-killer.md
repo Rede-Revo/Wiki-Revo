@@ -32,9 +32,9 @@ coverY: 0
 
 #### 1. Não é permitido a formação de times.
 
-Formação de time ou grupos no evento Arqueiro não é permitido. Jogadores que forem flagrados em times ou grupos serão penalizados.
+Formação de time ou grupos no evento Killer não é permitido. Jogadores que forem flagrados em times ou grupos serão penalizados.
 
-* Em casos de formações de alianças com baixo número de jogadores no evento, jogadores em formação de aliança serão colocados em formato de mata-mata.
+* Em casos de formações de alianças os jogadores serão expulsos do evento e ficarão 7 dias sem poder participar de nenhum outro evento semanal.
 
 #### **2. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
 
