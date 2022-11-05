@@ -73,11 +73,11 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 | :-------------: | :-----------------------: | :--------------------: |
 |   🥇 1º Lugar   |      \[sbN] SiberiaN      |           18           |
 |   🥈 2º Lugar   |       \[ZZZ] Bloods       |           13           |
-|   🥉 3º Lugar   |      \[suN] Sunshine      |            8           |
-|   🏅 4º Lugar   |     \[666] The Ritual     |            7           |
+|   🥉 3º Lugar   |     \[666] The Ritual     |            9           |
+|   🥉 3º Lugar   |      \[suN] Sunshine      |            9           |
 | **🎖** 5º Lugar | \[knS] Kawamura no Senshi |            6           |
-| **🎖** 6º Lugar |      \[VhL] Valhalla      |            3           |
-| **🎖** 6º Lugar |        \[TkA] Taka        |            3           |
+| **🎖** 6º Lugar |      \[VhL] Valhalla      |            5           |
+| **🎖** 7º Lugar |        \[TkA] Taka        |            3           |
 | **🎖** 8º Lugar |      \[B12] Calcitran     |            1           |
 | **🎖** 8º Lugar |       \[30P] 30Praum      |            1           |
 
@@ -145,11 +145,11 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |  Edição LVIII - 11/09/2022  |     \[666]     |     The Ritual     |
 |   Edição LIX - 18/09/2022   |     \[666]     |     The Ritual     |
 |    Edição LX - 25/09/2022   |     \[666]     |     The Ritual     |
-|   Edição LXI - 02/10/2022   |        -       |          -         |
-|   Edição LXII - 09/10/2022  |        -       |          -         |
-|  Edição LXIII - 16/10/2022  |        -       |          -         |
-|   Edição LXIV - 23/10/2022  |        -       |          -         |
-|   Edição LXV - 30/10/2022   |        -       |          -         |
+|   Edição LXI - 02/10/2022   |     \[VhL]     |      Valhalla      |
+|   Edição LXII - 09/10/2022  |     \[666]     |     The Ritual     |
+|  Edição LXIII - 16/10/2022  |     \[666]     |     The Ritual     |
+|   Edição LXIV - 23/10/2022  |     \[VhL]     |      Valhalla      |
+|   Edição LXV - 30/10/2022   |     \[suN]     |      Sunshine      |
 |   Edição LXVI - 06/11/2022  |        -       |          -         |
 |  Edição LXVII - 13/11/2022  |        -       |          -         |
 |  Edição LXVIII - 20/11/2022 |        -       |          -         |

@@ -59,7 +59,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 | » Colocação « |               » Clã «               | » Número de Vitórias « |
 | :-----------: | :---------------------------------: | :--------------------: |
-|  🥇 1º Lugar  |           \[VhL] Valhalla           |            9           |
+|  🥇 1º Lugar  |           \[VhL] Valhalla           |           14           |
 |  🥈 2º Lugar  |             \[TkA] Taka             |            7           |
 |  🥉 3º Lugar  |            \[ZZZ] Bloods            |            6           |
 |  🏅 4º Lugar  |          \[666] The Ritual          |            5           |
@@ -115,11 +115,11 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição LVIII - 13/09/2022  |                \[VhL]               |               Valhalla              |
 |   Edição LIX - 20/09/2022   |                \[VhL]               |               Valhalla              |
 |    Edição LX - 27/09/2022   |                \[666]               |              The Ritual             |
-|   Edição LXI - 04/10/2022   |                  -                  |                  -                  |
-|   Edição LXII - 11/10/2022  |                  -                  |                  -                  |
-|  Edição LXIII - 18/10/2022  |                  -                  |                  -                  |
-|   Edição LXIV - 25/10/2022  |                  -                  |                  -                  |
-|   Edição LXV - 01/11/2022   |                  -                  |                  -                  |
+|   Edição LXI - 04/10/2022   |                \[VhL]               |               Valhalla              |
+|   Edição LXII - 11/10/2022  |                \[VhL]               |               Valhalla              |
+|  Edição LXIII - 18/10/2022  |                \[VhL]               |               Valhalla              |
+|   Edição LXIV - 25/10/2022  |                \[VhL]               |               Valhalla              |
+|   Edição LXV - 01/11/2022   |                \[VhL]               |               Valhalla              |
 |   Edição LXVI - 08/11/2022  |                  -                  |                  -                  |
 |  Edição LXVII - 15/11/2022  |                  -                  |                  -                  |
 |  Edição LXVIII - 22/11/2022 |                  -                  |                  -                  |

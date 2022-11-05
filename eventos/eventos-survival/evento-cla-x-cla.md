@@ -71,51 +71,62 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 |                      » Colocação «                     |        » Clã «        | » Pontuação « |
 | :----------------------------------------------------: | :-------------------: | :-----------: |
-|                       🥇 1º Lugar                      |    \[VhL] Valhalla    |      2,75     |
-| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |     \[GoD] Godness    |      2,25     |
-|                       🥉 3º Lugar                      |    \[SuN] Sunshine    |      1,75     |
-|                       🏅 4º Lugar                      |      \[TkA] Taka      |      1,25     |
-|                       🎖 5º Lugar                      |      \[MaF] Máfia     |       1       |
-|                       🎖 5º Lugar                      |   \[666] The Ritual   |       1       |
-|                       🎖 7º Lugar                      |    \[SoL] Sunshine    |      0,25     |
-|                       🎖 7º Lugar                      | \[616] The Real Beast |      0,25     |
+|                       🥇 1º Lugar                      |    \[VhL] Valhalla    |      7,25     |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |   \[666] The Ritual   |       3       |
+|                       🥉 3º Lugar                      |    \[SuN] Sunshine    |      2,75     |
+|                       🏅 4º Lugar                      |     \[GoD] Godness    |      2,25     |
+|                       🎖 5º Lugar                      |      \[TkA] Taka      |      1,25     |
+|                       🎖 6º Lugar                      |      \[MaF] Máfia     |       1       |
+|                       🎖 7º Lugar                      | \[616] The Real Beast |      0,5      |
+|                       🎖 7º Lugar                      |     \[ZZZ] Bloods     |      0,5      |
+|                       🎖 9º Lugar                      |    \[SoL] Sunshine    |      0,25     |
+|                       🎖 9º Lugar                      |  \[TMN] Toquio Manji  |      0,25     |
+|                       🎖 9º Lugar                      |       \[owo] owo      |      0,25     |
 
 ## » Ranking de Clãs Vencedores
 
-|                      » Colocação «                     |     » Clã «     | » Quantidade de vitórias « |
-| :----------------------------------------------------: | :-------------: | :------------------------: |
-|                       🥇 1º Lugar                      |  \[GoD] Godness |              2             |
-|                       🥇 1º Lugar                      | \[VhL] Valhalla |              2             |
-| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |   \[MaF] Máfia  |              1             |
-| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |   \[TkA] Taka   |              1             |
+|                      » Colocação «                     |      » Clã «      | » Quantidade de vitórias « |
+| :----------------------------------------------------: | :---------------: | :------------------------: |
+|                       🥇 1º Lugar                      |  \[VhL] Valhalla  |              6             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |   \[GoD] Godness  |              2             |
+|                       🥉 3º Lugar                      |    \[MaF] Máfia   |              1             |
+|                       🥉 3º Lugar                      |    \[TkA] Taka    |              1             |
+|                       🥉 3º Lugar                      | \[666] The Ritual |              1             |
 
 ## » Ranking de Clãs Segundo Colocados
 
-|                      » Colocação «                     |      » Clã «      | » Quantidade de vitórias « |
-| :----------------------------------------------------: | :---------------: | :------------------------: |
-|                       🥇 1º Lugar                      |  \[SuN] Sunshine  |              3             |
-| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar | \[666] The Ritual |              2             |
-|                       🥉 3º Lugar                      |  \[VhL] Valhalla  |              1             |
+| » Colocação « |      » Clã «      | » Quantidade de vitórias « |
+| :-----------: | :---------------: | :------------------------: |
+|  🥇 1º Lugar  | \[666] The Ritual |              4             |
+|  🥇 1º Lugar  |  \[SuN] Sunshine  |              4             |
+|  🥉 3º Lugar  |  \[VhL] Valhalla  |              2             |
+|  🏅 4º Lugar  |   \[ZZZ] Bloods   |              1             |
 
 ## » Ranking de Clãs Terceiro Colocados
 
-| » Colocação « |        » Clã «        | » Quantidade de vitórias « |
-| :-----------: | :-------------------: | :------------------------: |
-|  🥇 1º Lugar  |      \[TkA] Taka      |              1             |
-|  🥇 1º Lugar  |    \[VhL] Valhalla    |              1             |
-|  🥇 1º Lugar  |    \[SoL] Sunshine    |              1             |
-|  🥇 1º Lugar  |    \[SuN] Sunshine    |              1             |
-|  🥇 1º Lugar  |     \[GoD] Godness    |              1             |
-|  🥇 1º Lugar  | \[616] The Real Beast |              1             |
+|                      » Colocação «                     |        » Clã «        | » Quantidade de vitórias « |
+| :----------------------------------------------------: | :-------------------: | :------------------------: |
+|                       🥇 1º Lugar                      |    \[SuN] Sunshine    |              3             |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar | \[616] The Real Beast |              2             |
+|                       🥉 3º Lugar                      |      \[TkA] Taka      |              1             |
+|                       🥉 3º Lugar                      |    \[VhL] Valhalla    |              1             |
+|                       🥉 3º Lugar                      |    \[SoL] Sunshine    |              1             |
+|                       🥉 3º Lugar                      |     \[GoD] Godness    |              1             |
+|                       🥉 3º Lugar                      |  \[TMN] Toquio Manji  |              1             |
+|                       🥉 3º Lugar                      |       \[owo] owo      |              1             |
 
 ## » Ranking de Matadores
 
-| » Colocação « |    » Jogador «   | » Número de vezes matador(a) « |
-| :-----------: | :--------------: | :----------------------------: |
-|  🥇 1º Lugar  | `universalizado` |                1               |
-|  🥇 1º Lugar  |   `yLuquinhaz`   |                1               |
-|  🥇 1º Lugar  |    `_IRagnar`    |                1               |
-|  🥇 1º Lugar  |   `EasyBounce`   |                1               |
+|                      » Colocação «                     |    » Jogador «   | » Número de vezes matador(a) « |
+| :----------------------------------------------------: | :--------------: | :----------------------------: |
+|                       🥇 1º Lugar                      |   `yLuquinhaz`   |                2               |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar | `universalizado` |                1               |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |   `yLuquinhaz`   |                1               |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |    `_IRagnar`    |                1               |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |   `EasyBounce`   |                1               |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |    `cryngpeep`   |                1               |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |     `Krenzif`    |                1               |
+| [🥈](https://emojipedia.org/2nd-place-medal/) 2º Lugar |   `Beckhampro`   |                1               |
 
 ## » Histórico do Evento
 
@@ -127,11 +138,11 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição IV - 14/09/2022  | <p>[GoD] </p><p>Godness</p> |  \[VhL] Valhalla  |    \[SuN] Sunshine    |      `yLuquinhaz`      |
 |   Edição V - 21/09/2022  |       \[VhL] Valhalla       | \[666] The Ritual |     \[GoD] Godness    |       `_IRagnar`       |
 |  Edição VI - 28/09/2022  |       \[VhL] Valhalla       | \[666] The Ritual | \[616] The Real Beast |      `EasyBounce`      |
-|  Edição VII - 05/10/2022 |              -              |         -         |           -           |            -           |
-| Edição VIII - 12/10/2022 |              -              |         -         |           -           |            -           |
-|  Edição IX - 19/10/2022  |              -              |         -         |           -           |            -           |
-|   Edição X - 26/10/2022  |              -              |         -         |           -           |            -           |
-|  Edição XI - 02/11/2022  |              -              |         -         |           -           |            -           |
+|  Edição VII - 05/10/2022 |       \[VhL] Valhalla       | \[666] The Ritual |    \[SuN] Sunshine    |       `cryngpeep`      |
+| Edição VIII - 12/10/2022 |       \[VhL] Valhalla       |   \[ZZZ] Bloods   |  \[TMN] Toquio Manji  |      `yLuquinhaz`      |
+|  Edição IX - 19/10/2022  |      \[666] The Ritual      |  \[VhL] Valhalla  |       \[owo] owo      |        `Krenzif`       |
+|   Edição X - 26/10/2022  |       \[VhL] Valhalla       |  \[SuN] Sunshine  | \[616] The Real Beast |      `yLuquinhaz`      |
+|  Edição XI - 02/11/2022  |       \[VhL] Valhalla       | \[666] The Ritual |    \[SuN] Sunshine    |      `Beckhampro`      |
 |  Edição XII - 09/11/2022 |              -              |         -         |           -           |            -           |
 | Edição XIII - 16/11/2022 |              -              |         -         |           -           |            -           |
 |  Edição XIV - 23/11/2022 |              -              |         -         |           -           |            -           |

@@ -59,58 +59,59 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 |  » Posição « |  » Jogador(a) «  | » Quantidade de Vezes Matador « |
 | :----------: | :--------------: | :-----------------------------: |
-|  🥇 1º Lugar |  `RyanGamer2004` |                5                |
-|  🥇 1º Lugar |     `Filiipe`    |                4                |
-|  🥇 1º Lugar |   `yLuquinhaz`   |                4                |
+|  🥇 1º Lugar |   `yLuquinhaz`   |                7                |
+|  🥈 2º Lugar |  `RyanGamer2004` |                6                |
+|  🥉 3º Lugar |     `Filiipe`    |                4                |
 |  🏅 4º Lugar |   `Mat_redston`  |                3                |
 | 🎖️ 5º Lugar |    `new_miza`    |                2                |
 | 🎖️ 5º Lugar |    `_Giffoni`    |                2                |
-| 🎖️ 7º Lugar |     `Cebolx`     |                1                |
-| 🎖️ 7º Lugar | `FastDoughnut05` |                1                |
-| 🎖️ 7º Lugar |     `iSamBr_`    |                1                |
-| 🎖️ 7º Lugar |     `jakseli`    |                1                |
-| 🎖️ 7º Lugar |   `GameplayPE`   |                1                |
-| 🎖️ 7º Lugar |   `Oo_Gustavo`   |                1                |
-| 🎖️ 7º Lugar |    `_gueiibs`    |                1                |
-| 🎖️ 7º Lugar |   `MT_MIRANDA`   |                1                |
-| 🎖️ 7º Lugar |     `shyyyy`     |                1                |
-| 🎖️ 7º Lugar |       `666`      |                1                |
-| 🎖️ 7º Lugar |     `shooqy`     |                1                |
-| 🎖️ 7º Lugar |    `cryngpeep`   |                1                |
-| 🎖️ 7º Lugar |   `cafenaDEPRE`  |                1                |
-| 🎖️ 7º Lugar |   `Beckhampro`   |                1                |
-| 🎖️ 7º Lugar |   `Bruno200XD`   |                1                |
+| 🎖️ 5º Lugar |     `shyyyy`     |                2                |
+| 🎖️ 5º Lugar |   `Beckhampro`   |                2                |
+| 🎖️ 9º Lugar |     `Cebolx`     |                1                |
+| 🎖️ 9º Lugar | `FastDoughnut05` |                1                |
+| 🎖️ 9º Lugar |     `iSamBr_`    |                1                |
+| 🎖️ 9º Lugar |     `jakseli`    |                1                |
+| 🎖️ 9º Lugar |   `GameplayPE`   |                1                |
+| 🎖️ 9º Lugar |   `Oo_Gustavo`   |                1                |
+| 🎖️ 9º Lugar |    `_gueiibs`    |                1                |
+| 🎖️ 9º Lugar |   `MT_MIRANDA`   |                1                |
+| 🎖️ 9º Lugar |       `666`      |                1                |
+| 🎖️ 9º Lugar |     `shooqy`     |                1                |
+| 🎖️ 9º Lugar |    `cryngpeep`   |                1                |
+| 🎖️ 9º Lugar |   `cafenaDEPRE`  |                1                |
+| 🎖️ 9º Lugar |   `Bruno200XD`   |                1                |
 
 ## » Ranking de Últimos Sobreviventes
 
 | » Colocação « |  » Jogador(a) « | » Quantidade de Vezes Último(a) Sobrevivente « |
 | :-----------: | :-------------: | :--------------------------------------------: |
-|  🥇 1º Lugar  |   `yLuquinhaz`  |                        4                       |
-|  🥈 2º Lugar  |  `Mat_redston`  |                        3                       |
-|  🥈 2º Lugar  |    `Filiipe`    |                        3                       |
-|  🥈 2º Lugar  | `RyanGamer2004` |                        3                       |
+|  🥇 1º Lugar  |   `yLuquinhaz`  |                        6                       |
+|  🥈 2º Lugar  | `RyanGamer2004` |                        4                       |
+|  🥉 3º Lugar  |  `Mat_redston`  |                        3                       |
+|  🥉 3º Lugar  |    `Filiipe`    |                        3                       |
 |  🏅 5º Lugar  |     `shyyyy`    |                        2                       |
 |  🏅 5º Lugar  |  `_BRAZINO777`  |                        2                       |
-|  🎖️ 7º Lugar |     `Cebolx`    |                        1                       |
-|  🎖️ 7º Lugar |     `Vast6`     |                        1                       |
-|  🎖️ 7º Lugar |    `iSamBr_`    |                        1                       |
-|  🎖️ 7º Lugar |    `jakseli`    |                        1                       |
-|  🎖️ 7º Lugar |    `Pedriin_`   |                        1                       |
-|  🎖️ 7º Lugar |    `luuke18`    |                        1                       |
-|  🎖️ 7º Lugar |   `GameplayPE`  |                        1                       |
-|  🎖️ 7º Lugar |   `Oo_Gustavo`  |                        1                       |
-|  🎖️ 7º Lugar |   `LeoSoviet`   |                        1                       |
-|  🎖️ 7º Lugar | `TheTitaniumBR` |                        1                       |
-|  🎖️ 7º Lugar |     `Mth030`    |                        1                       |
-|  🎖️ 7º Lugar |   `MT_MIRANDA`  |                        1                       |
-|  🎖️ 7º Lugar |  `Gutothefoda`  |                        1                       |
-|  🎖️ 7º Lugar |   `banzinbr7`   |                        1                       |
-|  🎖️ 7º Lugar |   `SoUris_001`  |                        1                       |
-|  🎖️ 7º Lugar |      `666`      |                        1                       |
-|  🎖️ 7º Lugar |    `Pedrynn`    |                        1                       |
-|  🎖️ 7º Lugar |   `Beckhampro`  |                        1                       |
-|  🎖️ 7º Lugar |    `Hugo1808`   |                        1                       |
-|  🎖️ 7º Lugar |   `themadson`   |                        1                       |
+|  🏅 5º Lugar  |  `GUSTAVO0405`  |                        2                       |
+|  🏅 5º Lugar  |   `Beckhampro`  |                        2                       |
+|  🎖️ 9º Lugar |     `Cebolx`    |                        1                       |
+|  🎖️ 9º Lugar |     `Vast6`     |                        1                       |
+|  🎖️ 9º Lugar |    `iSamBr_`    |                        1                       |
+|  🎖️ 9º Lugar |    `jakseli`    |                        1                       |
+|  🎖️ 9º Lugar |    `Pedriin_`   |                        1                       |
+|  🎖️ 9º Lugar |    `luuke18`    |                        1                       |
+|  🎖️ 9º Lugar |   `GameplayPE`  |                        1                       |
+|  🎖️ 9º Lugar |   `Oo_Gustavo`  |                        1                       |
+|  🎖️ 9º Lugar |   `LeoSoviet`   |                        1                       |
+|  🎖️ 9º Lugar | `TheTitaniumBR` |                        1                       |
+|  🎖️ 9º Lugar |     `Mth030`    |                        1                       |
+|  🎖️ 9º Lugar |   `MT_MIRANDA`  |                        1                       |
+|  🎖️ 9º Lugar |  `Gutothefoda`  |                        1                       |
+|  🎖️ 9º Lugar |   `banzinbr7`   |                        1                       |
+|  🎖️ 9º Lugar |   `SoUris_001`  |                        1                       |
+|  🎖️ 9º Lugar |      `666`      |                        1                       |
+|  🎖️ 9º Lugar |    `Pedrynn`    |                        1                       |
+|  🎖️ 9º Lugar |    `Hugo1808`   |                        1                       |
+|  🎖️ 9º Lugar |   `themadson`   |                        1                       |
 
 ## » Histórico do Evento
 
@@ -153,12 +154,12 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LVII - 10/09/2022  |   `Beckhampro`   |        `Beckhampro`        |
 |  Edição LVIII - 17/09/2022  |  `RyanGamer2004` |       `RyanGamer2004`      |
 |   Edição LIX - 24/09/2022   |  `RyanGamer2004` |         `themadson`        |
-|    Edição LX - 01/10/2022   |         -        |              -             |
-|   Edição LXI - 08/10/2022   |         -        |              -             |
-|   Edição LXII - 15/10/2022  |         -        |              -             |
-|  Edição LXIII - 22/10/2022  |         -        |              -             |
-|   Edição LXIV - 29/10/2022  |         -        |              -             |
-|   Edição LXV - 05/11/2022   |         -        |              -             |
+|    Edição LX - 01/10/2022   |  `RyanGamer2004` |       `RyanGamer2004`      |
+|   Edição LXI - 08/10/2022   |   `yLuquin`haz   |        `yLuquinhaz`        |
+|   Edição LXII - 15/10/2022  |     `shyyyy`     |        `GUSTAVO0405`       |
+|  Edição LXIII - 22/10/2022  |   `Beckhampro`   |        `Beckhampro`        |
+|   Edição LXIV - 29/10/2022  |   `yLuquinhaz`   |        `GUSTAVO0405`       |
+|   Edição LXV - 05/11/2022   |   `yLuquinhaz`   |        `yLuquinhaz`        |
 |   Edição LXVI - 12/11/2022  |         -        |              -             |
 |  Edição LXVII - 19/11/2022  |         -        |              -             |
 |  Edição LXVIII - 26/11/2022 |         -        |              -             |

@@ -11,7 +11,7 @@ coverY: 0
 * Mate o mate o ultimo sobrevivente na arena e torne-se o vencedor ou mate a maior quantidade de inimigos e torne-se o matador;
 *   Itens definidos pela equipe; (3 armaduras de diamante, 1 capacete extra, 1 bota extra, espada, machado, arco, flecha, poções de força e agilidade, 32 cenouras douradas e 32 maças encantadas);
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 * As habilidades do mcMMO serão desativadas durante o evento
 * Borda que reduz no decorrer da batalha;\
   Com o decorrer do tempo a borda do mapa vai reduzindo para que não seja um evento cansativo em que jogadores ficam correndo pelo mapa.
@@ -58,61 +58,63 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 | » Colocação « | » Jogador(a) « | » Quantidade de Vezes Matador « |
 | :-----------: | :------------: | :-----------------------------: |
-|  🥇 1º Lugar  |   `_IRagnar`   |                6                |
+|  🥇 1º Lugar  |   `_IRagnar`   |                7                |
 |  🥈 2º Lugar  | `falcaonava12` |                5                |
-|  🥉 3º Lugar  |   `banzinbr7`  |                2                |
-|  🥉 3º Lugar  |   `_Giffoni`   |                2                |
-|  🥉 3º Lugar  |  `yLuquinhaz`  |                2                |
-|  🎖️ 6º Lugar |  `____Why___`  |                1                |
-|  🎖️ 6º Lugar | `koalaISOLADO` |                1                |
-|  🎖️ 6º Lugar |   `HDQueiroz`  |                1                |
-|  🎖️ 6º Lugar |    `jakseli`   |                1                |
-|  🎖️ 6º Lugar |    `Cebolx`    |                1                |
-|  🎖️ 6º Lugar |  `Mat_redston` |                1                |
-|  🎖️ 6º Lugar |  `GameplayPE`  |                1                |
-|  🎖️ 6º Lugar | `Otaku_Manero` |                1                |
-|  🎖️ 6º Lugar |   `new_miza`   |                1                |
-|  🎖️ 6º Lugar |   `SelvaKing`  |                1                |
-|  🎖️ 6º Lugar |   `ClaxmeteR`  |                1                |
-|  🎖️ 6º Lugar |   `_gueiibs`   |                1                |
-|  🎖️ 6º Lugar |    `eusoujc`   |                1                |
-|  🎖️ 6º Lugar |      `666`     |                1                |
-|  🎖️ 6º Lugar |    `shooqy`    |                1                |
-|  🎖️ 6º Lugar |    `Taayboy`   |                1                |
-|  🎖️ 6º Lugar |    `tremeu`    |                1                |
-|  🎖️ 6º Lugar |    `ySpxce`    |                1                |
-|  🎖️ 6º Lugar |  `HxqueBjorn_` |                1                |
+|  🥉 3º Lugar  |  `yLuquinhaz`  |                4                |
+|  🏅 4º Lugar  |    `tremeu`    |                3                |
+|  🎖️ 5º Lugar |   `banzinbr7`  |                2                |
+|  🎖️ 5º Lugar |   `_Giffoni`   |                2                |
+|  🎖️ 7º Lugar |  `____Why___`  |                1                |
+|  🎖️ 7º Lugar | `koalaISOLADO` |                1                |
+|  🎖️ 7º Lugar |   `HDQueiroz`  |                1                |
+|  🎖️ 7º Lugar |    `jakseli`   |                1                |
+|  🎖️ 7º Lugar |    `Cebolx`    |                1                |
+|  🎖️ 7º Lugar |  `Mat_redston` |                1                |
+|  🎖️ 7º Lugar |  `GameplayPE`  |                1                |
+|  🎖️ 7º Lugar | `Otaku_Manero` |                1                |
+|  🎖️ 7º Lugar |   `new_miza`   |                1                |
+|  🎖️ 7º Lugar |   `SelvaKing`  |                1                |
+|  🎖️ 7º Lugar |   `ClaxmeteR`  |                1                |
+|  🎖️ 7º Lugar |   `_gueiibs`   |                1                |
+|  🎖️ 7º Lugar |    `eusoujc`   |                1                |
+|  🎖️ 7º Lugar |      `666`     |                1                |
+|  🎖️ 7º Lugar |    `shooqy`    |                1                |
+|  🎖️ 7º Lugar |    `Taayboy`   |                1                |
+|  🎖️ 7º Lugar |    `ySpxce`    |                1                |
+|  🎖️ 7º Lugar |  `HxqueBjorn_` |                1                |
 
 ## » Ranking de Últimos Sobreviventes
 
 | » Colocação « | » Jogador(a) « | » Quantidade de Vezes Último(a) Sobrevivente « |
 | :-----------: | :------------: | :--------------------------------------------: |
 |  🥇 1º Lugar  | `falcaonava12` |                        5                       |
-|  🥈 2º Lugar  |   `_gueiibs`   |                        3                       |
-|  🥈 2º Lugar  |   `_IRagnar`   |                        3                       |
-|  🥈 2º Lugar  |  `yLuquinhaz`  |                        3                       |
-|  🏅 4º Lugar  |  `Mat_Redston` |                        2                       |
-|  🎖️ 6º Lugar |  `____Why____` |                        1                       |
-|  🎖️ 6º Lugar | `koalaISOLADO` |                        1                       |
-|  🎖️ 6º Lugar |  `Oo_Gustavo`  |                        1                       |
-|  🎖️ 6º Lugar |    `lulinha`   |                        1                       |
-|  🎖️ 6º Lugar |    `jakseli`   |                        1                       |
-|  🎖️ 6º Lugar |    `Cebolx`    |                        1                       |
-|  🎖️ 6º Lugar |  `EasyBounce`  |                        1                       |
-|  🎖️ 6º Lugar |  `GameplayPE`  |                        1                       |
-|  🎖️ 6º Lugar |  `LauraPrado`  |                        1                       |
-|  🎖️ 6º Lugar | `Otaku_Manero` |                        1                       |
-|  🎖️ 6º Lugar |   `ClaxmeteR`  |                        1                       |
-|  🎖️ 6º Lugar |   `Pedriin_`   |                        1                       |
-|  🎖️ 6º Lugar |   `_Giffoni`   |                        1                       |
-|  🎖️ 6º Lugar |   `zKnusttZ`   |                        1                       |
-|  🎖️ 6º Lugar |    `Krenzif`   |                        1                       |
-|  🎖️ 6º Lugar |   `Maritopx`   |                        1                       |
-|  🎖️ 6º Lugar |    `shooqy`    |                        1                       |
-|  🎖️ 6º Lugar |    `Taayboy`   |                        1                       |
-|  🎖️ 6º Lugar |    `tremeu`    |                        1                       |
-|  🎖️ 6º Lugar |    `ySpxce`    |                        1                       |
-|  🎖️6º Lugar  |   `zFelpsPvP`  |                        1                       |
+|  🥈 2º Lugar  |  `yLuquinhaz`  |                        4                       |
+|  🥉 3º Lugar  |   `_gueiibs`   |                        3                       |
+|  🥉 3º Lugar  |   `_IRagnar`   |                        3                       |
+|  🥉 3º Lugar  |    `tremeu`    |                        3                       |
+|  🏅 6º Lugar  |  `Mat_Redston` |                        2                       |
+|  🎖️ 7º Lugar |  `____Why____` |                        1                       |
+|  🎖️ 7º Lugar | `koalaISOLADO` |                        1                       |
+|  🎖️ 7º Lugar |  `Oo_Gustavo`  |                        1                       |
+|  🎖️ 7º Lugar |    `lulinha`   |                        1                       |
+|  🎖️ 7º Lugar |    `jakseli`   |                        1                       |
+|  🎖️ 7º Lugar |    `Cebolx`    |                        1                       |
+|  🎖️ 7º Lugar |  `EasyBounce`  |                        1                       |
+|  🎖️ 7º Lugar |  `GameplayPE`  |                        1                       |
+|  🎖️ 7º Lugar |  `LauraPrado`  |                        1                       |
+|  🎖️ 7º Lugar | `Otaku_Manero` |                        1                       |
+|  🎖️ 7º Lugar |   `ClaxmeteR`  |                        1                       |
+|  🎖️ 7º Lugar |   `Pedriin_`   |                        1                       |
+|  🎖️ 7º Lugar |   `_Giffoni`   |                        1                       |
+|  🎖️ 7º Lugar |   `zKnusttZ`   |                        1                       |
+|  🎖️ 7º Lugar |    `Krenzif`   |                        1                       |
+|  🎖️ 7º Lugar |   `Maritopx`   |                        1                       |
+|  🎖️ 7º Lugar |    `shooqy`    |                        1                       |
+|  🎖️ 7º Lugar |    `Taayboy`   |                        1                       |
+|  🎖️ 7º Lugar |    `ySpxce`    |                        1                       |
+|  🎖️ 7º Lugar |   `zFelpsPvP`  |                        1                       |
+|  🎖️ 7º Lugar |  `jesus536be`  |                        1                       |
+|  🎖️ 7º Lugar |  `Bleckzin___` |                        1                       |
 
 ## » Histórico do Evento
 
@@ -156,11 +158,11 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição LVIII - 16/09/2022  |            `HxqueBjorn_`            |               `_IRagnar`              |
 |   Edição LIX - 23/09/2022   |             `yLuquinhaz`            |              `yLuquinhaz`             |
 |    Edição LX - 30/09/2022   |             `yLuquinhaz`            |              `zFelpsPvP`              |
-|   Edição LXI - 07/10/2022   |                  -                  |                   -                   |
-|   Edição LXII - 14/10/2022  |                  -                  |                   -                   |
-|  Edição LXIII - 21/10/2022  |                  -                  |                   -                   |
-|   Edição LXIV - 28/10/2022  |                  -                  |                   -                   |
-|   Edição LXV - 04/11/2022   |                  -                  |                   -                   |
+|   Edição LXI - 07/10/2022   |             `yLuquinhaz`            |              `yLuquinhaz`             |
+|   Edição LXII - 14/10/2022  |               `tremeu`              |                `tremeu`               |
+|  Edição LXIII - 21/10/2022  |              `_IRagnar`             |              `jesus536be`             |
+|   Edição LXIV - 28/10/2022  |             `yLuquinhaz`            |             `Bleckzin___`             |
+|   Edição LXV - 04/11/2022   |               `tremeu`              |                `tremeu`               |
 |   Edição LXVI - 11/11/2022  |                  -                  |                   -                   |
 |  Edição LXVII - 18/11/2022  |                  -                  |                   -                   |
 |  Edição LXVIII - 25/11/2022 |                  -                  |                   -                   |

@@ -93,7 +93,7 @@ coverY: 0
 | <img src="../../../../.gitbook/assets/image (25).png" alt="" data-size="line"> 1x Casco de shulker           |
 | <img src="../../../../.gitbook/assets/image (47).png" alt="" data-size="line"> 1x Ovos de sapo               |
 | <img src="../../../../.gitbook/assets/image (46).png" alt="" data-size="line"> 1x Fragmentos de netherita    |
-| <img src="../../../../.gitbook/assets/image (2) (5).png" alt="" data-size="line"> 1x Ovo gerador de zumbi    |
+| <img src="../../../../.gitbook/assets/image (2).png" alt="" data-size="line"> 1x Ovo gerador de zumbi        |
 | <img src="../../../../.gitbook/assets/image (30).png" alt="" data-size="line">1x Ovo gerador de esqueleto    |
 
 ### » Mítico «
@@ -105,6 +105,6 @@ coverY: 0
 | <img src="../../../../.gitbook/assets/image (38).png" alt="" data-size="line"> Calças de netherita       |
 | <img src="../../../../.gitbook/assets/image (1) (3).png" alt="" data-size="line"> Botas de netherita     |
 | Itens de netherita                                                                                       |
-| <img src="../../../../.gitbook/assets/image (2).png" alt="" data-size="line"> 1x Barra de netherita      |
+| <img src="../../../../.gitbook/assets/image.png" alt="" data-size="line"> 1x Barra de netherita          |
 | <img src="../../../../.gitbook/assets/image (5).png" alt="" data-size="line"> 1x Balde com axolote       |
 | <img src="../../../../.gitbook/assets/image (1) (4).png" alt="" data-size="line"> 1x Ovo gerador de lula |

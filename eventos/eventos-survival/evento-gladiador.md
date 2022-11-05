@@ -68,17 +68,21 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   🥉 3º Lugar   |    `Pedriin_`    |                      2                     |
 |   🥉 3º Lugar   |    `_Giffoni`    |                      2                     |
 |   🥉 3º Lugar   |   `MT_MIRANDA`   |                      2                     |
-| **🎖** 6º Lugar | `universalizado` |                      1                     |
-| **🎖** 6º Lugar |    `ClaxmeteR`   |                      1                     |
-| **🎖** 6º Lugar |  `falcaonava12`  |                      1                     |
-| **🎖** 6º Lugar |    `new_miza`    |                      1                     |
-| **🎖** 6º Lugar |   `kaduzinsan`   |                      1                     |
-| **🎖** 6º Lugar |    `_gueiibs`    |                      1                     |
-| **🎖** 6º Lugar |     `Krenzif`    |                      1                     |
-| **🎖** 6º Lugar |     `_InAway`    |                      1                     |
-| **🎖** 6º Lugar |     `Taayboy`    |                      1                     |
-| **🎖** 6º Lugar |   `HxqueBjorn_`  |                      1                     |
-| **🎖** 6º Lugar |   `ValhallaVK`   |                      1                     |
+|   🥉 3º Lugar   |   `jesus536be`   |                      2                     |
+| **🎖** 7º Lugar | `universalizado` |                      1                     |
+| **🎖** 7º Lugar |    `ClaxmeteR`   |                      1                     |
+| **🎖** 7º Lugar |  `falcaonava12`  |                      1                     |
+| **🎖** 7º Lugar |    `new_miza`    |                      1                     |
+| **🎖** 7º Lugar |   `kaduzinsan`   |                      1                     |
+| **🎖** 7º Lugar |    `_gueiibs`    |                      1                     |
+| **🎖** 7º Lugar |     `Krenzif`    |                      1                     |
+| **🎖** 7º Lugar |     `_InAway`    |                      1                     |
+| **🎖** 7º Lugar |     `Taayboy`    |                      1                     |
+| **🎖** 7º Lugar |   `HxqueBjorn_`  |                      1                     |
+| **🎖** 7º Lugar |   `ValhallaVK`   |                      1                     |
+| **🎖** 7º Lugar |   `LauraPrado`   |                      1                     |
+| **🎖** 7º Lugar |   `yLuquinhaz`   |                      1                     |
+| **🎖** 7º Lugar |    `cryngpeep`   |                      1                     |
 
 ## » Ranking de Matadores
 
@@ -91,13 +95,17 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   🏅 5º Lugar   | `falcaonava12` |                2               |
 |   🏅 5º Lugar   |   `ClaxMeteR`  |                2               |
 |   🏅 5º Lugar   |  `MT_MIRANDA`  |                2               |
-| **🎖** 7º Lugar |   `banzinbr7`  |                1               |
-| **🎖** 7º Lugar |   `new_miza`   |                1               |
-| **🎖** 7º Lugar |    `Krenzif`   |                1               |
-| **🎖** 7º Lugar |    `_InAway`   |                1               |
-| **🎖** 7º Lugar |    `alceofc`   |                1               |
-| **🎖** 7º Lugar |  `HxqueBjorn_` |                1               |
-| **🎖** 7º Lugar |  `ValhallaVK`  |                1               |
+|   🏅 5º Lugar   |  `yLuquinhaz`  |                2               |
+| **🎖** 9º Lugar |   `banzinbr7`  |                1               |
+| **🎖** 9º Lugar |   `new_miza`   |                1               |
+| **🎖** 9º Lugar |    `Krenzif`   |                1               |
+| **🎖** 9º Lugar |    `_InAway`   |                1               |
+| **🎖** 9º Lugar |    `alceofc`   |                1               |
+| **🎖** 9º Lugar |  `HxqueBjorn_` |                1               |
+| **🎖** 9º Lugar |  `ValhallaVK`  |                1               |
+| **🎖** 9º Lugar |   `cryngpeep`  |                1               |
+| **🎖** 9º Lugar |    `iSamBr_`   |                1               |
+| **🎖** 9º Lugar |  `GansoAssado` |                1               |
 
 ## » Histórico do Evento
 
@@ -126,11 +134,11 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XXI - 10/09/2022  |        `HxqueBjorn_`       |  `HxqueBjorn_` |
 |  Edição XXII - 17/09/2022  |        `ValhallaVK`        |  `ValhallaVK`  |
 |  Edição XXIII - 24/09/2022 |        `MT_MIRANDA`        |  `MT_MIRANDA`  |
-|  Edição XXIV - 01/10/2022  |              -             |        -       |
-|   Edição XXV - 08/10/2022  |              -             |        -       |
-|  Edição XXVI - 15/10/2022  |              -             |        -       |
-|  Edição XXVII - 22/10/2022 |              -             |        -       |
-| Edição XXVIII - 29/10/2022 |              -             |        -       |
+|  Edição XXIV - 01/10/2022  |        `LauraPrado`        |  `yLuquinhaz`  |
+|   Edição XXV - 08/10/2022  |        `yLuquinhaz`        |   `cryngpeep`  |
+|  Edição XXVI - 15/10/2022  |         `cryngpeep`        |    `iSamBr_`   |
+|  Edição XXVII - 22/10/2022 |        `jesus536be`        |  `yLuquinhaz`  |
+| Edição XXVIII - 29/10/2022 |        `jesus536be`        |  `GansoAssado` |
 |  Edição XXIX - 05/11/2022  |              -             |        -       |
 |   Edição XXX - 12/11/2022  |              -             |        -       |
 |  Edição XXXI - 19/11/2022  |              -             |        -       |
