@@ -98,6 +98,10 @@ Consiste na tentativa de negociação e/ou transação de itens ou vantagens no 
 |      2     |   Prisão de 10 dias + Confisco do conteúdo comercializado  |
 |      3     | Banimento Permanente + Confisco do conteúdo comercializado |
 
+{% hint style="warning" %}
+Item comercializado ilegalmente é deletado, no caso de comercio ilegal de conta ela será zerada.
+{% endhint %}
+
 ## Regra 13 - AFK Farm
 
 Evoluir seu personagem no servidor de forma automática com recursos internos ou externos, ou seja, qualquer software, hardware, firmware ou modificação no jogo que execute ações de forma automática é proibida no servidor, não inclui autotext.
