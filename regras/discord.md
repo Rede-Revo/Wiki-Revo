@@ -33,7 +33,7 @@ O Discord é nosso principal meio de comunicação e diversas vezes criamos algu
 |      5     |         Banimento Permanente.        |
 
 {% hint style="warning" %}
-Todas as regras de Chat valem também para o discord.
+Todas as regras do servidor valem também para o discord.
 
-(OBS: Todos os banimentos do discord são permanentes)
+(OBS: Todos os banimentos do discord são permanentes, em caso de prisão a punição aplicada será o banimento.)
 {% endhint %}
