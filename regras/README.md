@@ -30,3 +30,7 @@ Todas as provas possuem validade de 3 dias, caso o acontecido passe de 3 dias o 
 OBS: Para a [Regra 12 - Comércio não autorizado](https://wiki.rederevo.com/regras/jogabilidade#01-3) e a [Regra 16 - Griefing](https://wiki.rederevo.com/regras/jogabilidade#01-5) as provas não possuem validade.
 {% endhint %}
 
+{% hint style="danger" %}
+Jogadores presos que trocarem de nick na mojang terão o tempo da punição duplicado.
+{% endhint %}
+
