@@ -15,7 +15,7 @@
   * [💎 VIPs](sistemas/cash/vips.md)
   * [🗝 Chaves](sistemas/cash/chaves.md)
   * [🏷 TAGs](sistemas/cash/tags.md)
-  * [🌻 Divino(a)](sistemas/cash/divino-a.md)
+  * [🌻 Divindade](sistemas/cash/divino-a.md)
   * [🪅 Super Pinhata](sistemas/cash/super-pinhata.md)
   * [💰 Adquirir Cash](https://rederevo.com/itens)
 * [🪓 mcMMO](sistemas/mcmmo/README.md)
