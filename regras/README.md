@@ -31,6 +31,6 @@ OBS: Para a [Regra 12 - Comércio não autorizado](https://wiki.rederevo.com/reg
 {% endhint %}
 
 {% hint style="danger" %}
-Jogadores presos que trocarem de nick na mojang terão o tempo da punição duplicado.
+Jogadores que tentarem burlar alguma punição na sua conta trocando de nick na mojang terão o tempo da punição duplicado.
 {% endhint %}
 
