@@ -98,7 +98,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
-* <img src="../.gitbook/assets/2048.png" alt="" data-size="line"> <mark style="color:green;">yasta</mark> **(data de entrada: 24/06/2022)**
+* <img src="../.gitbook/assets/2048.png" alt="" data-size="line"> <mark style="color:green;">**yasta**</mark>** (data de entrada: 24/06/2022)**
 
 ## <img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
@@ -182,3 +182,4 @@ O **Designer** é o responsável pelo desenvolvimento da parte visual do servido
 #### Lista de Designers
 
 * <img src="../.gitbook/assets/2048 (1) (1).png" alt="" data-size="line"> <mark style="color:purple;">**ThojY**</mark>** (data de entrada: 16/03/2022)**
+* <img src="../.gitbook/assets/2048.png" alt="" data-size="line"> <mark style="color:purple;">**giovanna2005lb**</mark>** (data de entrada: 28/11/2022)**
