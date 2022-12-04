@@ -63,18 +63,23 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 | » Classificação « | » Jogador(a) « | » Número de vezes último(a) sobrevivente « |
 | :---------------: | :------------: | :----------------------------------------: |
-|    🥇 1º Lugar    |  `Beckhampro`  |                      7                     |
+|    🥇 1º Lugar    |  `Beckhampro`  |                      8                     |
 |    🥈 2º Lugar    |  `jesus536be`  |                      1                     |
 |    🥈 2º Lugar    |  `Beckhampro`  |                      1                     |
 |    🥈 2º Lugar    |   `cryngpeep`  |                      1                     |
 |    🥈 2º Lugar    |    `shyyyy`    |                      1                     |
+|    🥈 2º Lugar    |   `nicogg15`   |                      1                     |
+|    🥈 2º Lugar    |   `Hugo1808`   |                      1                     |
+|    🥈 2º Lugar    |   `yHermes_`   |                      1                     |
 
 ## » Ranking de Matadores
 
 | » Classificação « | » Jogador(a) « | » Número de vezes matador(a) « |
 | :---------------: | :------------: | :----------------------------: |
-|    🥇 1º Lugar    |  `Beckhampro`  |                8               |
-|    🥈 2º Lugar    |   `cryngpeep`  |                1               |
+|    🥇 1º Lugar    |  `Beckhampro`  |                9               |
+|    🥈 2º Lugar    |   `Hugo1808`   |                2               |
+|    🥉 3º Lugar    |   `cryngpeep`  |                1               |
+|    🥉 3º Lugar    |    `Roxzin`    |                1               |
 
 ## » Histórico do Evento
 
@@ -90,7 +95,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | Edição VIII - 16/10/2022 |          `shyyyy`          |  `Beckhampro`  |
 |  Edição IX - 23/10/2022  |        `Beckhampro`        |  `Beckhampro`  |
 |   Edição X - 30/10/2022  |        `Beckhampro`        |  `Beckhampro`  |
-|  Edição XI - 06/11/2022  |              -             |        -       |
-|  Edição XII - 13/11/2022 |              -             |        -       |
-| Edição XIII - 20/11/2022 |              -             |        -       |
-|  Edição XIV - 27/11/2022 |              -             |        -       |
+|  Edição XI - 06/11/2022  |        `Beckhampro`        |  `Beckhampro`  |
+|  Edição XII - 13/11/2022 |         `Hugo1808`         |   `Hugo1808`   |
+| Edição XIII - 20/11/2022 |         `yHermes_`         |   `Hugo1808`   |
+|  Edição XIV - 27/11/2022 |         `nicogg15`         |    `Roxzin`    |

@@ -64,13 +64,13 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  » Posição « |  » Jogador(a) «  | » Quantidade de Vezes Matador « |
 | :----------: | :--------------: | :-----------------------------: |
 |  🥇 1º Lugar |   `yLuquinhaz`   |                7                |
-|  🥈 2º Lugar |  `RyanGamer2004` |                6                |
+|  🥇 1º Lugar |  `RyanGamer2004` |                7                |
 |  🥉 3º Lugar |     `Filiipe`    |                4                |
 |  🏅 4º Lugar |   `Mat_redston`  |                3                |
-| 🎖️ 5º Lugar |    `new_miza`    |                2                |
-| 🎖️ 5º Lugar |    `_Giffoni`    |                2                |
-| 🎖️ 5º Lugar |     `shyyyy`     |                2                |
-| 🎖️ 5º Lugar |   `Beckhampro`   |                2                |
+|  🏅 4º Lugar |   `Beckhampro`   |                3                |
+| 🎖️ 6º Lugar |    `new_miza`    |                2                |
+| 🎖️ 6º Lugar |    `_Giffoni`    |                2                |
+| 🎖️ 6º Lugar |     `shyyyy`     |                2                |
 | 🎖️ 9º Lugar |     `Cebolx`     |                1                |
 | 🎖️ 9º Lugar | `FastDoughnut05` |                1                |
 | 🎖️ 9º Lugar |     `iSamBr_`    |                1                |
@@ -84,6 +84,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | 🎖️ 9º Lugar |    `cryngpeep`   |                1                |
 | 🎖️ 9º Lugar |   `cafenaDEPRE`  |                1                |
 | 🎖️ 9º Lugar |   `Bruno200XD`   |                1                |
+| 🎖️ 9º Lugar |    `Randoomm`    |                1                |
+| 🎖️ 9º Lugar |   `HxqueBjorn_`  |                1                |
 
 ## » Ranking de Últimos Sobreviventes
 
@@ -116,6 +118,10 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  🎖️ 9º Lugar |    `Pedrynn`    |                        1                       |
 |  🎖️ 9º Lugar |    `Hugo1808`   |                        1                       |
 |  🎖️ 9º Lugar |   `themadson`   |                        1                       |
+|  🎖️ 9º Lugar |    `Randoomm`   |                        1                       |
+|  🎖️ 9º Lugar |   `Vingativa`   |                        1                       |
+|  🎖️ 9º Lugar |  `HxqueBjorn_`  |                        1                       |
+|  🎖️ 9º Lugar |   `cryngpeep`   |                        1                       |
 
 ## » Histórico do Evento
 
@@ -164,7 +170,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição LXIII - 22/10/2022  |   `Beckhampro`   |        `Beckhampro`        |
 |   Edição LXIV - 29/10/2022  |   `yLuquinhaz`   |        `GUSTAVO0405`       |
 |   Edição LXV - 05/11/2022   |   `yLuquinhaz`   |        `yLuquinhaz`        |
-|   Edição LXVI - 12/11/2022  |         -        |              -             |
-|  Edição LXVII - 19/11/2022  |         -        |              -             |
-|  Edição LXVIII - 26/11/2022 |         -        |              -             |
+|   Edição LXVI - 12/11/2022  |    `Randoomm`    |         `Randoomm`         |
+|  Edição LXVII - 19/11/2022  |  `RyanGamer2004` |         `Vingativa`        |
+|  Edição LXVIII - 26/11/2022 |   `HxqueBjorn_`  |        `HxqueBjorn_`       |
+|   Edição LXIX - 03/12/2022  |   `Beckhampro`   |         `cryngpeep`        |
 
