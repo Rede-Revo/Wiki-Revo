@@ -22,7 +22,7 @@ Os avisos expiram automaticamente ao chegar a 30 dias.
 {% endhint %}
 
 {% hint style="danger" %}
-A staff a qualquer momento pode solicitar o compartilhamento de tela através de AnyDesk, a recusa será interpretada como atividade atividade suspeita e o(a) jogador(a) será punido(a).
+A staff a qualquer momento pode solicitar o compartilhamento de tela através de AnyDesk, a recusa será interpretada como atividade suspeita e o(a) jogador(a) será punido(a).
 
 _OBS: Desconectar enquanto congelado por um STAFF também será interpretado como recusa._
 {% endhint %}
