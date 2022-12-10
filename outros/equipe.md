@@ -164,11 +164,9 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 #### Lista de Aprendizes
 
 * ****<img src="../.gitbook/assets/2048 (5).png" alt="" data-size="line"> <mark style="color:green;">**Gutothefoda**</mark>** (data de entrada: 20/06/2022)**
-* ****<img src="../.gitbook/assets/image (8).png" alt="" data-size="line"> ** **<mark style="color:green;">**Finnusz**</mark>** (data de entrada: 04/11/2022)**
-* <img src="../.gitbook/assets/image (1) (5).png" alt="" data-size="line"> <mark style="color:green;">**lucasalalves**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 04/10/2022)**
-* <mark style="color:green;">****</mark><img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:green;">**cafeS2**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 22/11/2022)**
+* ****<img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:green;">**cafeS2**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 22/11/2022)**
 * <img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:green;">**\*Nony01234**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 23/11/2022)**
-* <img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:green;">**\*SammyJK0604**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 23/11/2022)**
+* <img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:green;">**Arlan\_rabbit**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 05/12/2022)**
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> <mark style="color:purple;">Designer</mark>
 
