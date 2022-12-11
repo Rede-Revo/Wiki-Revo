@@ -42,8 +42,10 @@ Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores
 > * Cyberbullying é o bullying realizado por meio das plataformas digitais. É o comportamento repetido, com intuito de intimidar e hostilizar pessoas caluniando, insultando ou atacando covardemente.
 
 {% hint style="info" %}
-Ameaças a outros jogadores(as) sejam elas com relação à sua pessoa, sua família, seus bens ou sua conta também são incluídos neste tópico.
+Ameaças ou perseguições a outros jogadores(as) sejam elas com relação à sua pessoa, sua família, seus bens ou sua conta também são incluídos neste tópico.\*
 {% endhint %}
+
+* &#x20;Em casos em que ocorra a membros da equipe independente dos meios de comunicação a depender da gravidade o mesmo poderá ser adicionado a blacklist.
 
 {% hint style="warning" %}
 Ofender diretamente ou caluniar o servidor também se enquadra nessa regra.
@@ -52,6 +54,8 @@ Ofender diretamente ou caluniar o servidor também se enquadra nessa regra.
 {% endhint %}
 
 ### Lista de Punições <a href="#lista-de-punicoes" id="lista-de-punicoes"></a>
+
+
 
 | Incidência |                   Punição                   |
 | :--------: | :-----------------------------------------: |
