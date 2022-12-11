@@ -251,10 +251,10 @@ Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só 
 
 ## Considerações finais <a href="#01" id="01"></a>
 
-O jogador banido permanentemente tem direito a solicitar revisão da punição [clicando aqui](https://discord.com/invite/h6pQ5VwcMz), caso recusada tem o direito de adquirir o desbanimento através de [nosso site](https://rederevo.com/itens), a primeira incidência necessita da compra do 1° desbanimento, a segunda necessita da compra do 2° desbanimento, e por fim, a terceira necessita da compra do 3° desbanimento. Sendo assim, o jogador que atingir o 4° banimento não tem direito a desbanimento.
+O jogador banido permanentemente tem direito a solicitar revisão da punição [clicando aqui](https://discord.com/invite/h6pQ5VwcMz), caso recusada tem o direito de adquirir o desbanimento através de [nosso site](https://rederevo.com/itens), a primeira incidência necessita da compra do 1° desbanimento, a segunda necessita da compra do 2° desbanimento. Sendo assim, o jogador que atingir o 3° banimento não tem direito a desbanimento.
 
 {% hint style="danger" %}
-Jogadores na **Black List** não possuem direito de desbanimento.
+Jogadores na **Black List** não possuem direito de desbanimento, nem a criação de novas contas.
 {% endhint %}
 
 {% hint style="danger" %}
