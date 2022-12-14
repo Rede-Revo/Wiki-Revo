@@ -24,4 +24,5 @@ Para remover o e-mail de sua conta utilize: `/2fa email remove`.
 
 ## Através de seu IP
 
-Podemos fazer uma verificação com o seu ip e o ip usado na conta, caso coincida iremos realizar algumas analises e realizar a troca da senha. Para solicitar essa verificação abra um ticket em nosso [discord](https://discord.gg/rederevo).
+Podemos fazer uma verificação com o seu ip e o ip usado na conta, caso coincida iremos realizar algumas analises e realizar a troca da senha. Para solicitar essa verificação abra um ticket em nosso [discord](https://discord.gg/rederevo).\
+Para saber o seu ip para enviar em seu ticket use o site: [https://meuip.com.br/](https://meuip.com.br/). So aceitaremos prints da tela inteira.
