@@ -67,7 +67,7 @@ Ofender diretamente ou caluniar o servidor também se enquadra nessa regra.
 
 ## Regra 02 - **Discriminação** <a href="#01" id="01"></a>
 
-Será Punido por Discriminação o(a) jogador(a) que intimidar outro jogador agredindo verbalmente/ofendendo/humilhando com qualquer tipo de preconceito racial, xenofóbico, homofóbico, entre outros.
+Será Punido por Discriminação o(a) jogador(a) que agredir de qualquer forma de linguagem um jogador(a), comunidades, raças, etnias e/ou minorias com qualquer tipo de preconceito racial, xenofóbico, homofóbico, entre outros.
 
 > A Equipe da Rede Revo repudia qualquer tipo de discriminação e, dependendo do caso, nos reservamos o direito de aplicar blacklist e/ou banimento permanente na primeira infração.
 
