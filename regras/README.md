@@ -14,6 +14,10 @@ Para uma melhor organização fica-se organizado em 3 partes: [**Chat**](chat.md
 As contas são de responsabilidade do jogador. Não aceitamos desculpa de "Meu irmão entrou em minha conta", "Meu amigo que veio em minha casa que infringiu x regra". As punições são aplicadas na conta e não para a pessoa.
 {% endhint %}
 
+{% hint style="warning" %}
+Prezando pela boa convivência no servidor, caso seja julgado pela equipe jogadores que não contribuem a serviço da comunidade e ou desarmonizam a convivência da mesma, o indivíduo em questão será convidado a se abster de qualquer vínculo como servidor.
+{% endhint %}
+
 ## Como criar uma denúncia?
 
 É importante saber que para a realização de reporte de infratores é necessário possuir provas concretas e com o contexto completo para podermos apurar da melhor forma já que em casos de ofensa o alvo quem deve reportar, em casos de capturas de tela só iremos analisar caso a imagem seja da tela inteira!
