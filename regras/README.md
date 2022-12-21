@@ -15,7 +15,7 @@ As contas são de responsabilidade do jogador. Não aceitamos desculpa de "Meu i
 {% endhint %}
 
 {% hint style="warning" %}
-Prezando pela boa convivência no servidor, caso seja julgado pela equipe jogadores que não contribuem a serviço da comunidade e ou desarmonizam a convivência da mesma, o indivíduo em questão será convidado a se abster de qualquer vínculo como servidor.
+Prezando pela boa convivência no servidor, caso seja julgado pela equipe jogadores que não contribuem a serviço da comunidade e ou desarmonizam a convivência da mesma, o indivíduo em questão será convidado a se abster de qualquer vínculo com o servidor.
 {% endhint %}
 
 ## Como criar uma denúncia?
