@@ -122,7 +122,7 @@
   * [🏆 Evento Guerra de Clãs](eventos/eventos-survival/guerra-de-clas.md)
   * [⚔ Evento Guerreiro](eventos/eventos-survival/evento-guerreiro.md)
   * [🔪 Evento Killer](eventos/eventos-survival/evento-killer.md)
-  * [🔱 Lanceiro](eventos/eventos-do-servidor/lanceiro.md)
+  * [🔱 Evento Lanceiro](eventos/eventos-do-servidor/evento-lanceiro.md)
   * [🗡 Evento Pré-Guerra de Clãs](eventos/eventos-survival/evento-pre-guerra-de-clas.md)
   * [🗡 Evento Pré-Guerra de Clãs - mcMMO](eventos/eventos-survival/evento-pre-guerra-de-clas-mcmmo.md)
   * [🏵 Evento Super Guerra de Clãs](eventos/eventos-do-servidor/evento-super-guerra-de-clas.md)
