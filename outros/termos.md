@@ -1,6 +1,6 @@
 ---
 description: Termos e Condições da Rede Revo
-cover: ../.gitbook/assets/Inserir_um_titulo_3.png
+cover: ../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

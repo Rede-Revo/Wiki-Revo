@@ -1,6 +1,6 @@
 ---
 description: Aprimore a fabricação de poções com a habilidade de Alquimia!
-cover: ../../../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

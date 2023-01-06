@@ -1,6 +1,6 @@
 ---
 description: Melhore a saciação de alimentos cultivados.
-cover: ../../../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

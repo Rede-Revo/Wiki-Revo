@@ -2,7 +2,7 @@
 description: >-
   Reduza o dano de quedas aprimorando esta habilidade. Habilidade focada em
   quedas graciosas!
-cover: ../../../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

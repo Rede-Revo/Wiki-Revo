@@ -2,7 +2,7 @@
 description: >-
   Tutorial sobre o sistema de terrenos do servidor. Saiba como criar, expandir,
   compartilhar permissões, criar sub proteções e abandonar proteções.
-cover: ../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: Faça suas plantações crescer mais rapidamente!
-cover: ../../../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

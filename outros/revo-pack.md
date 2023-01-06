@@ -2,7 +2,7 @@
 description: >-
   Um resource pack feito por nossa equipe para deixar o jogo mais divertido e
   interativo
-cover: ../.gitbook/assets/bannercomfundorevo.png
+cover: ../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
@@ -10,7 +10,7 @@ coverY: 0
 
 ### Lista de emojis para utilizar no servidor
 
-<img src="../.gitbook/assets/peposleep (1).png" alt="" data-size="line"> = :peposleep:\
+<img src="../.gitbook/assets/peposleep.png" alt="" data-size="line"> = :peposleep:\
 <img src="../.gitbook/assets/GG.png" alt="" data-size="line"> = :gg: \
 <img src="../.gitbook/assets/revo.png" alt="" data-size="line"> = :revo:\
 <img src="../.gitbook/assets/pray.png" alt="" data-size="line"> = :pray: ou :reza: \

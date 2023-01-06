@@ -1,6 +1,6 @@
 ---
 description: Aprimore a luta com Machados com esta habilidade!
-cover: ../../../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
@@ -12,7 +12,7 @@ coverY: 0
 
 Os machados podem ser muito úteis no PvP, pois podem quebrar armaduras rapidamente e causar danos críticos. Dependendo do nível do seu machado, é possível quebrar a armadura em um ritmo muito rápido. Os machados também podem ser muito úteis se você estiver lutando 1v2, pois a habilidade ativa permite que você cause dano em área.
 
-* [x] Ferramenta usada: <img src="../../../../.gitbook/assets/Stoneaxe.webp" alt="" data-size="line">Machado de qualquer material.
+* [x] Ferramenta usada: <img src="../../../../.gitbook/assets/Stoneaxe (1).webp" alt="" data-size="line">Machado de qualquer material.
 * [x] Interage com mobs e jogadores.
 * [x] Habilidades: _Ativas:_ Racha Crânio; _Passivas:_ Grande Impacto, Quebra de Limite com Machados, Maestria com Machados, Golpes Críticos e Impacto em Armaduras.
 * [x] Up ao bater em jogadores ou mobs com machado.

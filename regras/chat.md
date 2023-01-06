@@ -3,7 +3,7 @@ description: >-
   O descumprimento de regras resultará em punição, então para uma melhor
   jogabilidade leia e respeite as mesmas, esta seção é aplicável a ações feitas
   através do chat do servidor.
-cover: ../.gitbook/assets/bannercomfundorevo.png
+cover: ../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

@@ -1,10 +1,10 @@
 ---
 description: Quebre o limite de seu arco e de sua besta!
-cover: ../../../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# 🧗♂ Quebra de Limite de Arqueiro
+# 🧗♂ 🧗♂ 🧗♂ Quebra de Limite de Arqueiro
 
 Esta habilidade quebra o limite prefixo de dano no qual seu arco e besta causa. O dano adicional é fixo.
 

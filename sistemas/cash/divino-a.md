@@ -1,6 +1,6 @@
 ---
 description: O que é o cargo Divindade e como conseguir?
-cover: ../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

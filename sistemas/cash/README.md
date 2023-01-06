@@ -2,7 +2,7 @@
 description: >-
   Com cash você pode adquirir VIPs, negociar com outros jogadores e muito mais
   em nossos servidores, acesse o /cash shop no servidor para mais informações
-cover: ../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

@@ -2,7 +2,7 @@
 description: >-
   Tudo sobre as TAGs do servidor. Ganhe TAGs em eventos, torneios, sendo o top
   ou comprando na loja do servidor.
-cover: ../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

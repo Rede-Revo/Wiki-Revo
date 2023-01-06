@@ -3,7 +3,7 @@ description: >-
   O processo de aplicação ao cargo de ajudante e construtor(a) em nossa equipe
   funciona a partir do envio de formulários de jogadores interessados em nos
   ajudar.
-cover: ../.gitbook/assets/bannercomfundorevo.png
+cover: ../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

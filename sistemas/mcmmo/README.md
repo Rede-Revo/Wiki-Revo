@@ -2,7 +2,7 @@
 description: >-
   Sistema de up de habilidades, habilidades especiais, loots raros e mecânicas
   únicas como um todo.
-cover: ../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

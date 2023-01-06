@@ -2,7 +2,7 @@
 description: >-
   Alguns jogadores podem enfrentar algumas vezes problemas com a conexão em
   nosso servidor, então fizemos esse pequeno guia com algumas possíveis soluções
-cover: ../.gitbook/assets/bannercomfundorevo.png
+cover: ../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

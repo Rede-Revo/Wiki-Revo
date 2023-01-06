@@ -1,6 +1,6 @@
 ---
 description: Todas as informações que você precisa saber sobre o evento semanal Besteiro.
-cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

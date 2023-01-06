@@ -2,7 +2,7 @@
 description: >-
   Não consegue entrar no servidor porque não tem uma conta no TLauncher? Aqui
   está a solução para o seu problema!
-cover: ../../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

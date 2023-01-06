@@ -1,6 +1,6 @@
 ---
 description: Todas as informações que você precisa saber sobre o evento semanal Arqueiro.
-cover: ../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
@@ -56,7 +56,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 * 💰 Premiação de **50.000 Coins**
 * <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Sniper]** durante 7 dias
-* ****<img src="../../.gitbook/assets/contador_de_sacrificios (1).png" alt="" data-size="line"> **Contador de Sacrifícios**&#x20;
+* ****<img src="../../.gitbook/assets/contador_de_sacrificios.png" alt="" data-size="line"> **Contador de Sacrifícios**&#x20;
 * 💎 **\[Liga]** 50 Pontos
 
 ## » Ranking de Matadores

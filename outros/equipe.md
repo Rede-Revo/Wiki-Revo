@@ -1,6 +1,6 @@
 ---
 description: Lista com cargos e funções da equipe do servidor.
-cover: ../.gitbook/assets/bannercomfundorevo.png
+cover: ../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
@@ -83,7 +83,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 
 #### Lista de Administradores
 
-* #### <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> <mark style="color:red;">**Beazika**</mark> (data de entrada: 29/05/2021)
+* #### <img src="../.gitbook/assets/image (18) (1).png" alt="" data-size="line"> <mark style="color:red;">**Beazika**</mark> (data de entrada: 29/05/2021)
 
 ## <img src="../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador</mark>
 
@@ -146,12 +146,12 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 #### Lista de Ajudantes
 
-* ****<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**MiltonHZ**</mark>** (data de entrada: 03/10/2022)**
+* ****<img src="../.gitbook/assets/image (11) (1) (3).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**MiltonHZ**</mark>** (data de entrada: 03/10/2022)**
 * <img src="../.gitbook/assets/2048 (15).png" alt="" data-size="line"> <mark style="color:yellow;">**FadeMester\_**</mark>** **<mark style="color:green;">****</mark>** (data de entrada: 31/08/2022)**
 * <img src="../.gitbook/assets/2048 (11).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**ManoBrelson**</mark>** **<mark style="color:blue;">****</mark>** (data de entrada: 26/08/2022)**
-* <img src="../.gitbook/assets/2048 (19).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**RonniXGG**</mark>** (data de entrada: 20/09/2022)**
+* <img src="../.gitbook/assets/2048 (8).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**RonniXGG**</mark>** (data de entrada: 20/09/2022)**
 
-## <img src="../.gitbook/assets/image (19) (1).png" alt="" data-size="line"> <mark style="color:green;">Aprendiz</mark>
+## <img src="../.gitbook/assets/image (13) (1) (2).png" alt="" data-size="line"> <mark style="color:green;">Aprendiz</mark>
 
 O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, além de garantir o suporte necessário esclarecendo todas as dúvidas dos jogadores.
 
@@ -164,9 +164,9 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 #### Lista de Aprendizes
 
 * ****<img src="../.gitbook/assets/2048 (5).png" alt="" data-size="line"> <mark style="color:green;">**Gutothefoda**</mark>** (data de entrada: 20/06/2022)**
-* ****<img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:green;">**cafeS2**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 22/11/2022)**
-* <img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:green;">**\*Nony01234**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 23/11/2022)**
-* <img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:green;">**Arlan\_rabbit**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 05/12/2022)**
+* ****<img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> <mark style="color:green;">**cafeS2**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 22/11/2022)**
+* <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> <mark style="color:green;">**\*Nony01234**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 23/11/2022)**
+* <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> <mark style="color:green;">**Arlan\_rabbit**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 05/12/2022)**
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> <mark style="color:purple;">Designer</mark>
 

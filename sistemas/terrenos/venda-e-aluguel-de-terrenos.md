@@ -2,7 +2,7 @@
 description: >-
   Para comprar ou alugar uma proteção de outro jogador basta clicar com o botão
   direito na placa onde contém as informações da venda ou aluguel da proteção.
-cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
+cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 

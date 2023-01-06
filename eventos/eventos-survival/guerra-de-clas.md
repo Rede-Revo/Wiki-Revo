@@ -2,7 +2,7 @@
 description: >-
   Todas as informações que você precisa saber sobre o evento semanal Guerra de
   Clãs.
-cover: ../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

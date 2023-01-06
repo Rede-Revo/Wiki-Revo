@@ -1,6 +1,6 @@
 ---
 description: Saiba todas as informações sobre o evento temporal Desbravador!
-cover: ../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 

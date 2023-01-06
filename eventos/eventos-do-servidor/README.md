@@ -1,6 +1,6 @@
 ---
 description: Guia com todas as informações necessárias sobre os eventos do Survival.
-cover: ../../.gitbook/assets/bannercomfundorevo.png
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
