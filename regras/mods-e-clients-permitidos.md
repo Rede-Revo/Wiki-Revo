@@ -9,6 +9,11 @@ coverY: 0
 
 # 🚧 MODs e Clients permitidos
 
+{% hint style="success" %}
+Use nosso mod de discord rich presence e mostre o seu carinho pela Rede Revo.\
+[Baixe aqui](https://www.curseforge.com/minecraft/mc-mods/rede-revo-discord-rich-presence/files).
+{% endhint %}
+
 #### Clients Permitidos:
 
 * Lunar Client
