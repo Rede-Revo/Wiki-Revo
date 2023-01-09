@@ -59,70 +59,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * ****<img src="../../.gitbook/assets/contador_de_sacrificios.png" alt="" data-size="line"> **Contador de Sacrifícios**&#x20;
 * 💎 **\[Liga]** 50 Pontos
 
-## » Ranking de Matadores
-
-|  » Posição « |  » Jogador(a) «  | » Quantidade de Vezes Matador « |
-| :----------: | :--------------: | :-----------------------------: |
-|  🥇 1º Lugar |   `yLuquinhaz`   |                7                |
-|  🥇 1º Lugar |  `RyanGamer2004` |                7                |
-|  🥉 3º Lugar |     `Filiipe`    |                4                |
-|  🏅 4º Lugar |   `Mat_redston`  |                3                |
-|  🏅 4º Lugar |   `Beckhampro`   |                3                |
-| 🎖️ 6º Lugar |    `new_miza`    |                2                |
-| 🎖️ 6º Lugar |    `_Giffoni`    |                2                |
-| 🎖️ 6º Lugar |     `shyyyy`     |                2                |
-| 🎖️ 9º Lugar |     `Cebolx`     |                1                |
-| 🎖️ 9º Lugar | `FastDoughnut05` |                1                |
-| 🎖️ 9º Lugar |     `iSamBr_`    |                1                |
-| 🎖️ 9º Lugar |     `jakseli`    |                1                |
-| 🎖️ 9º Lugar |   `GameplayPE`   |                1                |
-| 🎖️ 9º Lugar |   `Oo_Gustavo`   |                1                |
-| 🎖️ 9º Lugar |    `_gueiibs`    |                1                |
-| 🎖️ 9º Lugar |   `MT_MIRANDA`   |                1                |
-| 🎖️ 9º Lugar |       `666`      |                1                |
-| 🎖️ 9º Lugar |     `shooqy`     |                1                |
-| 🎖️ 9º Lugar |    `cryngpeep`   |                1                |
-| 🎖️ 9º Lugar |   `cafenaDEPRE`  |                1                |
-| 🎖️ 9º Lugar |   `Bruno200XD`   |                1                |
-| 🎖️ 9º Lugar |    `Randoomm`    |                1                |
-| 🎖️ 9º Lugar |   `HxqueBjorn_`  |                1                |
-
-## » Ranking de Últimos Sobreviventes
-
-| » Colocação « |  » Jogador(a) « | » Quantidade de Vezes Último(a) Sobrevivente « |
-| :-----------: | :-------------: | :--------------------------------------------: |
-|  🥇 1º Lugar  |   `yLuquinhaz`  |                        6                       |
-|  🥈 2º Lugar  | `RyanGamer2004` |                        4                       |
-|  🥉 3º Lugar  |  `Mat_redston`  |                        3                       |
-|  🥉 3º Lugar  |    `Filiipe`    |                        3                       |
-|  🏅 5º Lugar  |     `shyyyy`    |                        2                       |
-|  🏅 5º Lugar  |  `_BRAZINO777`  |                        2                       |
-|  🏅 5º Lugar  |  `GUSTAVO0405`  |                        2                       |
-|  🏅 5º Lugar  |   `Beckhampro`  |                        2                       |
-|  🎖️ 9º Lugar |     `Cebolx`    |                        1                       |
-|  🎖️ 9º Lugar |     `Vast6`     |                        1                       |
-|  🎖️ 9º Lugar |    `iSamBr_`    |                        1                       |
-|  🎖️ 9º Lugar |    `jakseli`    |                        1                       |
-|  🎖️ 9º Lugar |    `Pedriin_`   |                        1                       |
-|  🎖️ 9º Lugar |    `luuke18`    |                        1                       |
-|  🎖️ 9º Lugar |   `GameplayPE`  |                        1                       |
-|  🎖️ 9º Lugar |   `Oo_Gustavo`  |                        1                       |
-|  🎖️ 9º Lugar |   `LeoSoviet`   |                        1                       |
-|  🎖️ 9º Lugar | `TheTitaniumBR` |                        1                       |
-|  🎖️ 9º Lugar |     `Mth030`    |                        1                       |
-|  🎖️ 9º Lugar |   `MT_MIRANDA`  |                        1                       |
-|  🎖️ 9º Lugar |  `Gutothefoda`  |                        1                       |
-|  🎖️ 9º Lugar |   `banzinbr7`   |                        1                       |
-|  🎖️ 9º Lugar |   `SoUris_001`  |                        1                       |
-|  🎖️ 9º Lugar |      `666`      |                        1                       |
-|  🎖️ 9º Lugar |    `Pedrynn`    |                        1                       |
-|  🎖️ 9º Lugar |    `Hugo1808`   |                        1                       |
-|  🎖️ 9º Lugar |   `themadson`   |                        1                       |
-|  🎖️ 9º Lugar |    `Randoomm`   |                        1                       |
-|  🎖️ 9º Lugar |   `Vingativa`   |                        1                       |
-|  🎖️ 9º Lugar |  `HxqueBjorn_`  |                        1                       |
-|  🎖️ 9º Lugar |   `cryngpeep`   |                        1                       |
-
 ## » Histórico do Evento
 
 |          » Edição «         |  » Matador(a) «  | » Último(a) Sobrevivente « |
@@ -174,4 +110,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição LXVII - 19/11/2022  |  `RyanGamer2004` |         `Vingativa`        |
 |  Edição LXVIII - 26/11/2022 |   `HxqueBjorn_`  |        `HxqueBjorn_`       |
 |   Edição LXIX - 03/12/2022  |   `Beckhampro`   |         `cryngpeep`        |
+|   Evento LXX - 10/12/2022   |   `batatapodi`   |        `batatapodi`        |
+|   Evento LXXI - 17/12/2022  |   `Beckhampro`   |        `Beckhampro`        |
+|  Evento LXXII - 24/12/2022  |   `xXxBL4CKxXx`  |        `xXxBL4CKxXx`       |
+|  Evento LXXIII - 31/12/2022 |   `luansinhoxd`  |      `AndreusRichard`      |
+|  Evento LXXIV - 07/01/2023  |   `Beckhampro`   |        `Beckhampro`        |
 
