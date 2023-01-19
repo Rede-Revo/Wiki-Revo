@@ -10,17 +10,6 @@ coverY: 0
 
 ### Eventos Semanais <a href="#eventos-semanais" id="eventos-semanais"></a>
 
-| Evento                                                                           | Dia da Semana | Horário                     |
-| -------------------------------------------------------------------------------- | ------------- | --------------------------- |
-| [Evento Besteiro (mcMMO)](eventos-survival/evento-besteiro.md)                   | Domingo       | 15:00 (Horário de Brasília) |
-| [Evento Guerra (mcMMO)](eventos-survival/guerra-de-clas.md)                      | Domingo       | 18:00 (Horário de Brasília) |
-| [Evento Guerreiro](eventos-survival/evento-guerreiro.md)                         | Segunda-feira | 19:30 (Horário de Brasília) |
-| [Evento Pré-Guerra](eventos-survival/evento-pre-guerra-de-clas.md)               | Terça-feira   | 19:30 (Horário de Brasília) |
-| [Evento Clã x Clã](eventos-survival/evento-cla-x-cla.md)                         | Quarta-feira  | 19:30 (Horário de Brasília) |
-| [Evento Pré Guerra (mcMMO)](eventos-survival/evento-pre-guerra-de-clas-mcmmo.md) | Quinta-feira  | 19:30 (Horário de Brasília) |
-| [Evento Killer](eventos-survival/evento-killer.md)                               | Sexta-feira   | 19:30 (Horário de Brasília) |
-| [Evento Arqueiro](eventos-do-servidor/evento-arqueiro.md)                        | Sábado        | 15:00 (Horário de Brasília) |
-| [Evento Gladiador](eventos-survival/evento-gladiador.md)                         | Sábado        | 18:00 (Horário de Brasília) |
-| [Evento Dominador Arena](eventos-survival/evento-dominador-arena.md)             | Sábado        | 19:30 (Horário de Brasília) |
+<table><thead><tr><th>Evento</th><th>Dia da Semana</th><th>Horário</th><th data-hidden></th></tr></thead><tbody><tr><td><a href="eventos-survival/evento-besteiro.md">Evento Besteiro (mcMMO)</a></td><td>Domingo</td><td>15:00 (Horário de Brasília)</td><td></td></tr><tr><td><a href="eventos-survival/guerra-de-clas.md">Evento Guerra (mcMMO)</a></td><td>Domingo</td><td>18:00 (Horário de Brasília)</td><td></td></tr><tr><td><a href="eventos-survival/evento-guerreiro.md">Evento Guerreiro</a></td><td>Segunda-feira</td><td>19:30 (Horário de Brasília)</td><td></td></tr><tr><td><a href="eventos-survival/evento-pre-guerra-de-clas.md">Evento Pré-Guerra</a></td><td>Terça-feira</td><td>19:30 (Horário de Brasília)</td><td></td></tr><tr><td><a href="https://wiki.rederevo.com/eventos/eventos-do-servidor/evento-lanceiro">Evento Lanceiro</a></td><td>Quarta-feira</td><td>17:00 (Horário de Brasília)</td><td></td></tr><tr><td><a href="eventos-survival/evento-cla-x-cla.md">Evento Clã x Clã</a></td><td>Quarta-feira</td><td>19:30 (Horário de Brasília)</td><td></td></tr><tr><td><a href="eventos-survival/evento-pre-guerra-de-clas-mcmmo.md">Evento Pré Guerra (mcMMO)</a></td><td>Quinta-feira</td><td>19:30 (Horário de Brasília)</td><td></td></tr><tr><td><a href="eventos-survival/evento-killer.md">Evento Killer</a></td><td>Sexta-feira</td><td>19:30 (Horário de Brasília)</td><td></td></tr><tr><td><a href="eventos-do-servidor/evento-arqueiro.md">Evento Arqueiro</a></td><td>Sábado</td><td>15:00 (Horário de Brasília)</td><td></td></tr><tr><td><a href="eventos-survival/evento-gladiador.md">Evento Gladiador</a></td><td>Sábado</td><td>18:00 (Horário de Brasília)</td><td></td></tr><tr><td><a href="eventos-survival/evento-dominador-arena.md">Evento Dominador Arena</a></td><td>Sábado</td><td>19:30 (Horário de Brasília)</td><td></td></tr></tbody></table>
 
 ### Eventos Mensais
