@@ -29,16 +29,6 @@ coverY: 0
 * 💎**\[Liga]** 250 Pontos
 * <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Slayer]** durante 3 meses
 
-## » Ranking de Vencedores
-
-|  » Colocação «  |  » Jogador(a) «  | » Número de Vitórias « |
-| :-------------: | :--------------: | :--------------------: |
-| **🥇** 1º Lugar |     `jakseli`    |            1           |
-|   🥇 1º Lugar   |    `banzinbr7`   |            1           |
-|   🥇 1º Lugar   |     `lulinha`    |            1           |
-|   🥇 1º Lugar   | `AndreusRichard` |            1           |
-|   🥇 1º Lugar   |    `cryngpeep`   |            1           |
-
 ## » Histórico do Evento
 
-<table><thead><tr><th align="center">» Edição «</th><th align="center">» Vencedor(a) «</th><th data-hidden></th></tr></thead><tbody><tr><td align="center">Edição I, Temporada Medieval</td><td align="center"><code>jakseli</code></td><td></td></tr><tr><td align="center">Edição II, Temporada SteamPunk</td><td align="center"><code>banzinbr7</code></td><td></td></tr><tr><td align="center">Edição III, Temporada Pirata</td><td align="center"><code>lulinha</code></td><td></td></tr><tr><td align="center">Edição IV, Temporada Tropical</td><td align="center"><code>AndreusRichard</code></td><td></td></tr><tr><td align="center">Edição V, Temporada Velho Oeste</td><td align="center"><code>cryngpeep</code></td><td></td></tr><tr><td align="center">Edição VI, Temporada Apocalíptica</td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th align="center">» Edição «</th><th align="center">» Vencedor(a) «</th><th data-hidden></th></tr></thead><tbody><tr><td align="center">Edição I, Temporada Medieval</td><td align="center"><code>jakseli</code></td><td></td></tr><tr><td align="center">Edição II, Temporada SteamPunk</td><td align="center"><code>banzinbr7</code></td><td></td></tr><tr><td align="center">Edição III, Temporada Pirata</td><td align="center"><code>lulinha</code></td><td></td></tr><tr><td align="center">Edição IV, Temporada Tropical</td><td align="center"><code>AndreusRichard</code></td><td></td></tr><tr><td align="center">Edição V, Temporada Velho Oeste</td><td align="center"><code>cryngpeep</code></td><td></td></tr><tr><td align="center">Edição VI, Temporada Apocalíptica</td><td align="center"><code>lovely_pixel</code></td><td></td></tr></tbody></table>

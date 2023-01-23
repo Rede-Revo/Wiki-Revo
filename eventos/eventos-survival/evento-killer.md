@@ -58,68 +58,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * ****<img src="../../.gitbook/assets/contador_de_almas_icon.png" alt="" data-size="line"> **Contador de Almas**&#x20;
 * 💎**\[Liga]** 50 Pontos
 
-## » Ranking de Matadores
-
-| » Colocação « | » Jogador(a) « | » Quantidade de Vezes Matador « |
-| :-----------: | :------------: | :-----------------------------: |
-|  🥇 1º Lugar  |   `_IRagnar`   |                7                |
-|  🥈 2º Lugar  | `falcaonava12` |                5                |
-|  🥉 3º Lugar  |  `yLuquinhaz`  |                4                |
-|  🏅 4º Lugar  |    `tremeu`    |                3                |
-|  🎖️ 5º Lugar |   `banzinbr7`  |                2                |
-|  🎖️ 5º Lugar |   `_Giffoni`   |                2                |
-|  🎖️ 7º Lugar |  `____Why___`  |                1                |
-|  🎖️ 7º Lugar | `koalaISOLADO` |                1                |
-|  🎖️ 7º Lugar |   `HDQueiroz`  |                1                |
-|  🎖️ 7º Lugar |    `jakseli`   |                1                |
-|  🎖️ 7º Lugar |    `Cebolx`    |                1                |
-|  🎖️ 7º Lugar |  `Mat_redston` |                1                |
-|  🎖️ 7º Lugar |  `GameplayPE`  |                1                |
-|  🎖️ 7º Lugar | `Otaku_Manero` |                1                |
-|  🎖️ 7º Lugar |   `new_miza`   |                1                |
-|  🎖️ 7º Lugar |   `SelvaKing`  |                1                |
-|  🎖️ 7º Lugar |   `ClaxmeteR`  |                1                |
-|  🎖️ 7º Lugar |   `_gueiibs`   |                1                |
-|  🎖️ 7º Lugar |    `eusoujc`   |                1                |
-|  🎖️ 7º Lugar |      `666`     |                1                |
-|  🎖️ 7º Lugar |    `shooqy`    |                1                |
-|  🎖️ 7º Lugar |    `Taayboy`   |                1                |
-|  🎖️ 7º Lugar |    `ySpxce`    |                1                |
-|  🎖️ 7º Lugar |  `HxqueBjorn_` |                1                |
-
-## » Ranking de Últimos Sobreviventes
-
-| » Colocação « | » Jogador(a) « | » Quantidade de Vezes Último(a) Sobrevivente « |
-| :-----------: | :------------: | :--------------------------------------------: |
-|  🥇 1º Lugar  | `falcaonava12` |                        5                       |
-|  🥈 2º Lugar  |  `yLuquinhaz`  |                        4                       |
-|  🥉 3º Lugar  |   `_gueiibs`   |                        3                       |
-|  🥉 3º Lugar  |   `_IRagnar`   |                        3                       |
-|  🥉 3º Lugar  |    `tremeu`    |                        3                       |
-|  🏅 6º Lugar  |  `Mat_Redston` |                        2                       |
-|  🎖️ 7º Lugar |  `____Why____` |                        1                       |
-|  🎖️ 7º Lugar | `koalaISOLADO` |                        1                       |
-|  🎖️ 7º Lugar |  `Oo_Gustavo`  |                        1                       |
-|  🎖️ 7º Lugar |    `lulinha`   |                        1                       |
-|  🎖️ 7º Lugar |    `jakseli`   |                        1                       |
-|  🎖️ 7º Lugar |    `Cebolx`    |                        1                       |
-|  🎖️ 7º Lugar |  `EasyBounce`  |                        1                       |
-|  🎖️ 7º Lugar |  `GameplayPE`  |                        1                       |
-|  🎖️ 7º Lugar |  `LauraPrado`  |                        1                       |
-|  🎖️ 7º Lugar | `Otaku_Manero` |                        1                       |
-|  🎖️ 7º Lugar |   `ClaxmeteR`  |                        1                       |
-|  🎖️ 7º Lugar |   `Pedriin_`   |                        1                       |
-|  🎖️ 7º Lugar |   `_Giffoni`   |                        1                       |
-|  🎖️ 7º Lugar |   `zKnusttZ`   |                        1                       |
-|  🎖️ 7º Lugar |    `Krenzif`   |                        1                       |
-|  🎖️ 7º Lugar |   `Maritopx`   |                        1                       |
-|  🎖️ 7º Lugar |    `shooqy`    |                        1                       |
-|  🎖️ 7º Lugar |    `Taayboy`   |                        1                       |
-|  🎖️ 7º Lugar |    `ySpxce`    |                        1                       |
-|  🎖️ 7º Lugar |   `zFelpsPvP`  |                        1                       |
-|  🎖️ 7º Lugar |  `jesus536be`  |                        1                       |
-|  🎖️ 7º Lugar |  `Bleckzin___` |                        1                       |
-
 ## » Histórico do Evento
 
 |          » Edição «         |        » Jogador(a) Matador «       | » Jogador(a) Último(a) Sobrevivente « |
@@ -167,6 +105,14 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição LXIII - 21/10/2022  |              `_IRagnar`             |              `jesus536be`             |
 |   Edição LXIV - 28/10/2022  |             `yLuquinhaz`            |             `Bleckzin___`             |
 |   Edição LXV - 04/11/2022   |               `tremeu`              |                `tremeu`               |
-|   Edição LXVI - 11/11/2022  |                  -                  |                   -                   |
-|  Edição LXVII - 18/11/2022  |                  -                  |                   -                   |
-|  Edição LXVIII - 25/11/2022 |                  -                  |                   -                   |
+|   Edição LXVI - 11/11/2022  |             `cryngpeep`             |              `cryngpeep`              |
+|  Edição LXVII - 18/11/2022  |             `yLuquinhaz`            |              `yLuquinhaz`             |
+|  Edição LXVIII - 25/11/2022 |               `shyyyy`              |               `Mth0309`               |
+|   Edição LXIX - 02/12/2022  |               `shyyyy`              |           `IdentificarDeus`           |
+|   Edição LXX - 09/12/2022   |            `HxqueBjorn_`            |                `ySpxce`               |
+|   Edição LXXI - 16/12/2022  |            `luansinhoxd`            |               `ez_life`               |
+|  Edição LXXII - 23/12/2022  |               `ySpxce`              |                `ySpxce`               |
+|  Edição LXXIII - 30/12/2022 |              `_IRagnar`             |                `ySpxce`               |
+|  Edição LXXIV - 06/01/2023  |             `SynysterBR`            |             `luansinhoxd`             |
+|   Edição LXXV - 13/01/2023  |               `ySpxce`              |                `ySpxce`               |
+|  Edição LXXVI - 20/01/2023  |              `_IRagnar`             |              `Beckhampro`             |

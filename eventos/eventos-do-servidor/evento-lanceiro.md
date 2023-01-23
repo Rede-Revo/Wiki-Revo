@@ -55,3 +55,10 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * 💰 Premiação de **50.000 Coins**
 * <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Lanceiro(a)]** durante 7 dias
 * 💎 **\[Liga]** 50 Pontos
+
+## » Histórico do Evento
+
+|         Edição         | Jogador(a) Matador | Último(a) Sobrevivente |
+| :--------------------: | :----------------: | :--------------------: |
+|  Edição I - 11/01/2023 |      `tenero8`     |        `tenero8`       |
+| Edição II - 18/01/2023 |     `nobru_ff`     |       `nobru_ff`       |

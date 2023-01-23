@@ -63,87 +63,47 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * 💰 Premiação de **100.000 Coins**
 * 💎**\[Liga]** 25 Pontos
 
-## » Ranking de Últimos Sobreviventes
-
-|  » Colocação «  |  » Jogador(a) «  | » Número de Vezes Último(a) Sobrevivente « |
-| :-------------: | :--------------: | :----------------------------------------: |
-|   🥇 1º Lugar   |    `_IRagnar`    |                      3                     |
-|   🥇 1º Lugar   |     `shyyyy`     |                      3                     |
-|   🥉 3º Lugar   |    `Pedriin_`    |                      2                     |
-|   🥉 3º Lugar   |    `_Giffoni`    |                      2                     |
-|   🥉 3º Lugar   |   `MT_MIRANDA`   |                      2                     |
-|   🥉 3º Lugar   |   `jesus536be`   |                      2                     |
-| **🎖** 7º Lugar | `universalizado` |                      1                     |
-| **🎖** 7º Lugar |    `ClaxmeteR`   |                      1                     |
-| **🎖** 7º Lugar |  `falcaonava12`  |                      1                     |
-| **🎖** 7º Lugar |    `new_miza`    |                      1                     |
-| **🎖** 7º Lugar |   `kaduzinsan`   |                      1                     |
-| **🎖** 7º Lugar |    `_gueiibs`    |                      1                     |
-| **🎖** 7º Lugar |     `Krenzif`    |                      1                     |
-| **🎖** 7º Lugar |     `_InAway`    |                      1                     |
-| **🎖** 7º Lugar |     `Taayboy`    |                      1                     |
-| **🎖** 7º Lugar |   `HxqueBjorn_`  |                      1                     |
-| **🎖** 7º Lugar |   `ValhallaVK`   |                      1                     |
-| **🎖** 7º Lugar |   `LauraPrado`   |                      1                     |
-| **🎖** 7º Lugar |   `yLuquinhaz`   |                      1                     |
-| **🎖** 7º Lugar |    `cryngpeep`   |                      1                     |
-
-## » Ranking de Matadores
-
-|  » Colocação «  | » Jogador(a) « | » Número de Vezes Matador(a) « |
-| :-------------: | :------------: | :----------------------------: |
-|   🥇 1º Lugar   |  `kaduzinsan`  |                3               |
-|   🥇 1º Lugar   |   `_IRagnar`   |                3               |
-|   🥇 1º Lugar   |    `shyyyy`    |                3               |
-|   🥇 1º Lugar   |  `MT_MIRANDA`  |                3               |
-|   🏅 5º Lugar   | `falcaonava12` |                2               |
-|   🏅 5º Lugar   |   `ClaxMeteR`  |                2               |
-|   🏅 5º Lugar   |  `MT_MIRANDA`  |                2               |
-|   🏅 5º Lugar   |  `yLuquinhaz`  |                2               |
-| **🎖** 9º Lugar |   `banzinbr7`  |                1               |
-| **🎖** 9º Lugar |   `new_miza`   |                1               |
-| **🎖** 9º Lugar |    `Krenzif`   |                1               |
-| **🎖** 9º Lugar |    `_InAway`   |                1               |
-| **🎖** 9º Lugar |    `alceofc`   |                1               |
-| **🎖** 9º Lugar |  `HxqueBjorn_` |                1               |
-| **🎖** 9º Lugar |  `ValhallaVK`  |                1               |
-| **🎖** 9º Lugar |   `cryngpeep`  |                1               |
-| **🎖** 9º Lugar |    `iSamBr_`   |                1               |
-| **🎖** 9º Lugar |  `GansoAssado` |                1               |
-
 ## » Histórico do Evento
 
-|         » Edição «         | » Último(a) Sobrevivente « | » Matador(a) « |
-| :------------------------: | :------------------------: | :------------: |
-|    Edição I - 23/04/2022   |      `universalizado`      | `falcaonava12` |
-|   Edição II - 30/04/2022   |         `_IRagnar`         |   `_IRagnar`   |
-|   Edição III - 07/05/2022  |         `Pedriin_`         |    `shyyyy`    |
-|   Edição IV - 14/05/2022   |         `_Giffoni`         |   `banzinbr7`  |
-|    Edição V - 21/05/2022   |          `shyyyy`          |  `MT_MIRANDA`  |
-|   Edição VI - 28/05/2022   |         `ClaxmeteR`        |   `ClaxmeteR`  |
-|   Edição VII - 11/06/2022  |         `_IRagnar`         |  `kaduzinsan`  |
-|  Edição VIII - 11/06/2022  |       `falcaonava12`       | `falcaonava12` |
-|   Edição IX - 18/06/2022   |         `new_miza`         |   `new_miza`   |
-|    Edição X - 25/06/2022   |         `Pedriin_`         |   `_IRagnar`   |
-|   Edição XI - 02/07/2022   |        `kaduzinsan`        |  `kaduzinsan`  |
-|   Edição XII - 09/07/2022  |         `_gueiibs`         |  `kaduzinsan`  |
-|  Edição XIII - 16/07/2022  |         `_Giffoni`         |   `ClaxMeteR`  |
-|   Edição XIV - 23/07/2022  |          `Krenzif`         |    `Krenzif`   |
-|   Edição XV - 30/07/2022   |         `_IRagnar`         |   `_IRagnar`   |
-|   Edição XVI - 06/08/2022  |          `_InAway`         |    `_InAway`   |
-|  Edição XVII - 13/08/2022  |          `Taayboy`         |    `alceofc`   |
-|  Edição XVIII - 20/08/2022 |          `shyyyy`          |    `shyyyy`    |
-|   Edição XIX - 27/08/2022  |          `shyyyy`          |    `shyyyy`    |
-|   Edição XX - 03/09/2022   |        `MT_MIRANDA`        |  `MT_MIRANDA`  |
-|   Edição XXI - 10/09/2022  |        `HxqueBjorn_`       |  `HxqueBjorn_` |
-|  Edição XXII - 17/09/2022  |        `ValhallaVK`        |  `ValhallaVK`  |
-|  Edição XXIII - 24/09/2022 |        `MT_MIRANDA`        |  `MT_MIRANDA`  |
-|  Edição XXIV - 01/10/2022  |        `LauraPrado`        |  `yLuquinhaz`  |
-|   Edição XXV - 08/10/2022  |        `yLuquinhaz`        |   `cryngpeep`  |
-|  Edição XXVI - 15/10/2022  |         `cryngpeep`        |    `iSamBr_`   |
-|  Edição XXVII - 22/10/2022 |        `jesus536be`        |  `yLuquinhaz`  |
-| Edição XXVIII - 29/10/2022 |        `jesus536be`        |  `GansoAssado` |
-|  Edição XXIX - 05/11/2022  |              -             |        -       |
-|   Edição XXX - 12/11/2022  |              -             |        -       |
-|  Edição XXXI - 19/11/2022  |              -             |        -       |
-|  Edição XXXII - 26/11/2022 |              -             |        -       |
+|          » Edição «         | » Último(a) Sobrevivente « | » Matador(a) « |
+| :-------------------------: | :------------------------: | :------------: |
+|    Edição I - 23/04/2022    |      `universalizado`      | `falcaonava12` |
+|    Edição II - 30/04/2022   |         `_IRagnar`         |   `_IRagnar`   |
+|   Edição III - 07/05/2022   |         `Pedriin_`         |    `shyyyy`    |
+|    Edição IV - 14/05/2022   |         `_Giffoni`         |   `banzinbr7`  |
+|    Edição V - 21/05/2022    |          `shyyyy`          |  `MT_MIRANDA`  |
+|    Edição VI - 28/05/2022   |         `ClaxmeteR`        |   `ClaxmeteR`  |
+|   Edição VII - 11/06/2022   |         `_IRagnar`         |  `kaduzinsan`  |
+|   Edição VIII - 11/06/2022  |       `falcaonava12`       | `falcaonava12` |
+|    Edição IX - 18/06/2022   |         `new_miza`         |   `new_miza`   |
+|    Edição X - 25/06/2022    |         `Pedriin_`         |   `_IRagnar`   |
+|    Edição XI - 02/07/2022   |        `kaduzinsan`        |  `kaduzinsan`  |
+|   Edição XII - 09/07/2022   |         `_gueiibs`         |  `kaduzinsan`  |
+|   Edição XIII - 16/07/2022  |         `_Giffoni`         |   `ClaxMeteR`  |
+|   Edição XIV - 23/07/2022   |          `Krenzif`         |    `Krenzif`   |
+|    Edição XV - 30/07/2022   |         `_IRagnar`         |   `_IRagnar`   |
+|   Edição XVI - 06/08/2022   |          `_InAway`         |    `_InAway`   |
+|   Edição XVII - 13/08/2022  |          `Taayboy`         |    `alceofc`   |
+|  Edição XVIII - 20/08/2022  |          `shyyyy`          |    `shyyyy`    |
+|   Edição XIX - 27/08/2022   |          `shyyyy`          |    `shyyyy`    |
+|    Edição XX - 03/09/2022   |        `MT_MIRANDA`        |  `MT_MIRANDA`  |
+|   Edição XXI - 10/09/2022   |        `HxqueBjorn_`       |  `HxqueBjorn_` |
+|   Edição XXII - 17/09/2022  |        `ValhallaVK`        |  `ValhallaVK`  |
+|  Edição XXIII - 24/09/2022  |        `MT_MIRANDA`        |  `MT_MIRANDA`  |
+|   Edição XXIV - 01/10/2022  |        `LauraPrado`        |  `yLuquinhaz`  |
+|   Edição XXV - 08/10/2022   |        `yLuquinhaz`        |   `cryngpeep`  |
+|   Edição XXVI - 15/10/2022  |         `cryngpeep`        |    `iSamBr_`   |
+|  Edição XXVII - 22/10/2022  |        `jesus536be`        |  `yLuquinhaz`  |
+|  Edição XXVIII - 29/10/2022 |        `jesus536be`        |  `GansoAssado` |
+|   Edição XXIX - 05/11/2022  |           `_Sp5`           |    `ySpxce`    |
+|   Edição XXX - 12/11/2022   |        `yLuquinhaz`        |  `yLuquinhaz`  |
+|   Edição XXXI - 19/11/2022  |        `yLuquinhaz`        |  `yLuquinhaz`  |
+|  Edição XXXII - 26/11/2022  |       `falcaonava12`       | `falcaonava12` |
+|  Edição XXXIII - 03/12/2022 |          `shyyyy`          |        -       |
+|  Edição XXXIV - 10/12/2022  |          `ySpxce`          |   `cryngpeep`  |
+|   Edição XXXV - 17/12/2022  |        `Beckhampro`        |  `Beckhampro`  |
+|  Edição XXXVI - 24/12/2022  |          `ySpxce`          |  `Beckhampro`  |
+|  Edição XXXVII - 31/12/2022 |          `ySpxce`          |    `ySpxce`    |
+| Edição XXXVIII - 07/01/2023 |          `ySpxce`          |   `_IRagnar`   |
+|  Edição XXXIX - 14/01/2023  |         `_IRagnar`         |   `_IRagnar`   |
+|    Edição XL - 21/01/2023   |         `_IRagnar`         |  `Beckhampro`  |

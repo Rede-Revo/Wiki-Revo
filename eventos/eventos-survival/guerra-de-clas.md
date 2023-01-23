@@ -72,14 +72,15 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |  » Colocação «  |          » Clã «          | » Número de Vitórias « |
 | :-------------: | :-----------------------: | :--------------------: |
 |   🥇 1º Lugar   |      \[sbN] SiberiaN      |           18           |
-|   🥈 2º Lugar   |       \[ZZZ] Bloods       |           13           |
-|   🥉 3º Lugar   |     \[666] The Ritual     |            9           |
-|   🥉 3º Lugar   |      \[suN] Sunshine      |            9           |
+|   🥈 2º Lugar   |     \[666] The Ritual     |           17           |
+|   🥉 3º Lugar   |       \[ZZZ] Bloods       |           13           |
+| **🎖** 4º Lugar |      \[suN] Sunshine      |            9           |
 | **🎖** 5º Lugar | \[knS] Kawamura no Senshi |            6           |
-| **🎖** 6º Lugar |      \[VhL] Valhalla      |            5           |
+| **🎖** 6º Lugar |      \[VhL] Valhalla      |            6           |
 | **🎖** 7º Lugar |        \[TkA] Taka        |            3           |
 | **🎖** 8º Lugar |      \[B12] Calcitran     |            1           |
 | **🎖** 8º Lugar |       \[30P] 30Praum      |            1           |
+| **🎖** 8º Lugar |   \[NtP] Ninguém ta Puro  |            1           |
 
 ## » Histórico do Evento
 
@@ -150,7 +151,13 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |  Edição LXIII - 16/10/2022  |     \[666]     |     The Ritual     |
 |   Edição LXIV - 23/10/2022  |     \[VhL]     |      Valhalla      |
 |   Edição LXV - 30/10/2022   |     \[suN]     |      Sunshine      |
-|   Edição LXVI - 06/11/2022  |        -       |          -         |
-|  Edição LXVII - 13/11/2022  |        -       |          -         |
-|  Edição LXVIII - 20/11/2022 |        -       |          -         |
-|   Edição LXIX - 27/11/2022  |        -       |          -         |
+|  Edição LXVI - 06/11/2022-- |     \[VhL]     |      Valhalla      |
+|  Edição LXVII - 13/11/2022  |     \[666]     |     The Ritual     |
+|  Edição LXVIII - 20/11/2022 |     \[666]     |     The Ritual     |
+|   Edição LXIX - 27/11/2022  |     \[666]     |     The Ritual     |
+|   Edição LXX - 04/12/2022   |     \[666]     |     The Ritual     |
+|   Edição LXXI - 11/12/2022  |     \[NtP]     |   Ninguém ta Puro  |
+|  Edição LXXII - 18/12/2022  |     \[666]     |     The Ritual     |
+|  Edição LXXIII - 25/12/2022 |     \[666]     |     The Ritual     |
+|  Edição LXXIV - 08/01/2023  |     \[666]     |     The Ritual     |
+|   Edição LXXV - 22/01/2023  |     \[666]     |     The Ritual     |

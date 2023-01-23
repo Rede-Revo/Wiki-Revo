@@ -57,22 +57,6 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * :moneybag: Premiação de **250.000 Coins** depositados no banco do clã.
 * 💎**\[Liga]** 150 Pontos
 
-## » Ranking de Vencedores
-
-| » Colocação « |               » Clã «               | » Número de Vitórias « |
-| :-----------: | :---------------------------------: | :--------------------: |
-|  🥇 1º Lugar  |           \[VhL] Valhalla           |           17           |
-|  🥇 1º Lugar  |            \[ZZZ] Bloods            |            6           |
-|  🥉 3º Lugar  |          \[uwu] Cerejinhas          |            3           |
-|  🥉 3º Lugar  |           \[suN] Sunshine           |            3           |
-|  🥉 3º Lugar  |             \[TkA] Taka             |            3           |
-|  🏅 6º Lugar  |           \[sbN] SiberiaN           |            2           |
-|  🏅 6º Lugar  |          \[666] The Ritual          |            2           |
-|  🏅 6º Lugar  |            \[GoD] Godness           |            2           |
-|  🎖️ 8º Lugar | \[PAT] De dia Assada de noite Frita |            1           |
-|  🎖️ 8º Lugar |            \[ZZ2] Bloods            |            1           |
-|  🎖️ 8º Lugar |      \[knS] Kawamura no Senshi      |            1           |
-
 ## » Histórico do Evento
 
 |          » Edição «         |            » TAG do Clã «           |           » Nome do Clã «           |
@@ -118,7 +102,14 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LXII - 13/10/2022  |                \[VhL]               |               Valhalla              |
 |  Edição LXIII - 20/10/2022  |                \[VhL]               |               Valhalla              |
 |   Edição LXIV - 27/10/2022  |                \[VhL]               |               Valhalla              |
-|   Edição LXV - 03/11/2022   |                  -                  |                  -                  |
-|   Edição LXVI - 10/11/2022  |                  -                  |                  -                  |
-|  Edição LXVII - 17/11/2022  |                  -                  |                  -                  |
-|  Edição LXVIII - 24/11/2022 |                  -                  |                  -                  |
+|   Edição LXV - 03/11/2022   |                \[VhL]               |               Valhalla              |
+|   Edição LXVI - 17/11/2022  |                \[VhL]               |               Valhalla              |
+|  Edição LXVII - 24/11/2022  |                \[VhL]               |               Valhalla              |
+|  Edição LXVIII - 01/12/2022 |                \[VhL]               |               Valhalla              |
+|   Edição LXIX - 08/12/2022  |                \[NtP]               |           Ninguém ta Puro           |
+|   Edição LXX - 15/12/2022   |                \[666]               |              The Ritual             |
+|   Edição LXXI - 22/12/2022  |                \[ZR5]               |               ZU3IROS               |
+|  Edição LXXII - 29/12/2022  |                \[NtP]               |           Ninguém ta Puro           |
+|  Edição LXXIII - 05/01/2022 |                \[ZR5]               |               ZU3IROS               |
+|  Edição LXXIV - 12/01/2022  |                \[666]               |              The Ritual             |
+|   Edição LXXV - 19/01/2022  |                \[ZR5]               |               ZU3IROS               |
