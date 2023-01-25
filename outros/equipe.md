@@ -84,7 +84,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 #### Lista de Administradores
 
 * #### <img src="../.gitbook/assets/image (18) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">**Beazika**</mark> (data de entrada: 29/05/2021)
-* <img src="../.gitbook/assets/2048.png" alt="" data-size="line"> <mark style="color:red;">**yasta**</mark>** (data de entrada: 24/06/2022)**
+* <img src="../.gitbook/assets/2048 (2).png" alt="" data-size="line"> <mark style="color:red;">**yasta**</mark>** (data de entrada: 24/06/2022)**
 
 ## <img src="../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador</mark>
 
@@ -148,7 +148,6 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 #### Lista de Ajudantes
 
 * ****<img src="../.gitbook/assets/image (11) (1) (2).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**MiltonHZ**</mark>** (data de entrada: 03/10/2022)**
-* <img src="../.gitbook/assets/2048 (15).png" alt="" data-size="line"> <mark style="color:yellow;">**FadeMester\_**</mark>** **<mark style="color:green;">****</mark>** (data de entrada: 31/08/2022)**
 * <img src="../.gitbook/assets/2048 (11).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**ManoBrelson**</mark>** **<mark style="color:blue;">****</mark>** (data de entrada: 26/08/2022)**
 * <img src="../.gitbook/assets/2048 (8).png" alt="" data-size="line"> ** **<mark style="color:yellow;">**RonniXGG**</mark>** (data de entrada: 20/09/2022)**
 * <img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> <mark style="color:green;">****</mark>** **<mark style="color:yellow;">**Arlan\_rabbit**</mark> <mark style="color:green;"></mark> **(data de entrada: 05/12/2022)**
@@ -167,9 +166,10 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 
 * ****<img src="../.gitbook/assets/2048 (5).png" alt="" data-size="line"> <mark style="color:green;">**Gutothefoda**</mark>** (data de entrada: 20/06/2022)**
 * ****<img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> <mark style="color:green;">**cafeS2**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 22/11/2022)**
-* <img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> <mark style="color:green;">**\*Nony01234**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 23/11/2022)**
 * <img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> <mark style="color:green;">**\*mac7926200**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> **(data de entrada: 03/01/2023)**
-* <img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> <mark style="color:green;">**AllanDex**</mark> **(data de entrada: 05/01/2023)**
+* <mark style="color:green;">****</mark><img src="../.gitbook/assets/image (8).png" alt="" data-size="line"> <mark style="color:green;">**AllanDex**</mark> **(data de entrada: 05/01/2023)**
+* <mark style="color:green;">****</mark><img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:green;">**HessLocodMaconha**</mark>** (data de entrada: 13/01/2023)**
+* <img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> <mark style="color:green;">**FilipePseny**</mark>** (data de entrada: 15/01/2023)**
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> <mark style="color:purple;">Designer</mark>
 
@@ -183,4 +183,4 @@ O **Designer** é o responsável pelo desenvolvimento da parte visual do servido
 #### Lista de Designers
 
 * <img src="../.gitbook/assets/2048 (1) (1).png" alt="" data-size="line"> <mark style="color:purple;">**ThojY**</mark>** (data de entrada: 16/03/2022)**
-* <img src="../.gitbook/assets/2048.png" alt="" data-size="line"> <mark style="color:purple;">**giovanna2005lb**</mark>** (data de entrada: 28/11/2022)**
+* <img src="../.gitbook/assets/2048 (2).png" alt="" data-size="line"> <mark style="color:purple;">**giovanna2005lb**</mark>** (data de entrada: 28/11/2022)**
