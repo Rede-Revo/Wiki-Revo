@@ -115,4 +115,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição LXXIII - 30/12/2022 |              `_IRagnar`             |                `ySpxce`               |
 |  Edição LXXIV - 06/01/2023  |             `SynysterBR`            |             `luansinhoxd`             |
 |   Edição LXXV - 13/01/2023  |               `ySpxce`              |                `ySpxce`               |
-|  Edição LXXVI - 20/01/2023  |              `_IRagnar`             |              `Beckhampro`             |
+|  Edição LXXVI - 20/01/2023  |              `_IRagnar`             |                `ySpxce`               |
