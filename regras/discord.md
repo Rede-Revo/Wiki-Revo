@@ -35,5 +35,5 @@ O Discord é nosso principal meio de comunicação e diversas vezes criamos algu
 {% hint style="warning" %}
 Todas as regras do servidor valem também para o discord.
 
-(OBS: Todos os banimentos do discord são permanentes, em caso de prisão a punição aplicada será o banimento.)
+(OBS: Todos os banimentos do discord são permanentes, em caso de prisão, a punição aplicada será o banimento.)
 {% endhint %}
