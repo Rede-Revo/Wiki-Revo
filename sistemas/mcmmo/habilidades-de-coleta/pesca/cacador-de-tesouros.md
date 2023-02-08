@@ -60,7 +60,7 @@ coverY: 0
 | <img src="../../../../.gitbook/assets/image (8) (1) (2).png" alt="" data-size="line"> 64x Frasco de experiência |
 | <img src="../../../../.gitbook/assets/image (49).png" alt="" data-size="line"> 1x Balde com baiacu              |
 |  <img src="../../../../.gitbook/assets/image (50).png" alt="" data-size="line"> 1x Ovo de tartaruga             |
-| <img src="../../../../.gitbook/assets/image (11).png" alt="" data-size="line"> 1x Sino                          |
+| <img src="../../../../.gitbook/assets/image (11) (2).png" alt="" data-size="line"> 1x Sino                      |
 
 ### » Épico «
 

@@ -93,7 +93,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XXIV - 01/10/2022  |        `LauraPrado`        |  `yLuquinhaz`  |
 |   Edição XXV - 08/10/2022   |        `yLuquinhaz`        |   `cryngpeep`  |
 |   Edição XXVI - 15/10/2022  |         `cryngpeep`        |    `iSamBr_`   |
-|  Edição XXVII - 22/10/2022  |        `jesus536be`        |  `yLuquinhaz`  |
+|  Edição XXVII - 22/10/2022  |          `ySxpce`          |  `yLuquinhaz`  |
 |  Edição XXVIII - 29/10/2022 |        `jesus536be`        |  `GansoAssado` |
 |   Edição XXIX - 05/11/2022  |           `_Sp5`           |    `ySpxce`    |
 |   Edição XXX - 12/11/2022   |        `yLuquinhaz`        |  `yLuquinhaz`  |
@@ -106,4 +106,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição XXXVII - 31/12/2022 |          `ySpxce`          |    `ySpxce`    |
 | Edição XXXVIII - 07/01/2023 |          `ySpxce`          |   `_IRagnar`   |
 |  Edição XXXIX - 14/01/2023  |         `_IRagnar`         |   `_IRagnar`   |
-|    Edição XL - 21/01/2023   |         `_IRagnar`         |  `Beckhampro`  |
+|    Edição XL - 21/01/2023   |          `ySpxce`          |  `Beckhampro`  |

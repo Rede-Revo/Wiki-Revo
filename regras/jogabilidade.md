@@ -61,6 +61,30 @@ Em bugs de duplicação a punição aplicada é permanente e o jogador terá a c
 |      1     |   Prisão de 10 dias  |
 |      2     | Banimento permanente |
 
+#### Sistema de Recompensas para Reporte de Erros
+
+_A contagem dos reportes depende de cada erro e da devida gravidade do erro. Os erros devem ser reportados assim que descobertos, usufruir do erro pode ser considerado Abuso de Bug e enquadrado na Regra 9._\
+_Reportar erros que a staff já tenha ciência que existe não serão considerados no sistema de recompensas._\
+__
+
+**Reportador de erros nível 1:**
+
+* Item exclusivo com o nome HEX "\[Bug Hunter]"; Descrição: "Caçador de erros nível 1 da Rede Revo!" e personalização com o nick do dono do item.
+* Item entregue para o primeiro reporte de erro.\
+
+
+**Reportador de erros nível 2:**&#x20;
+
+* Item exclusivo com o nome HEX "\[~~Bug~~ Hunter]"; Descrição: "Caçador de erros nível 2 da Rede Revo!" e personalização com o nick do dono do item.&#x20;
+* Item entregue para o jogador que reportar três erros ou um erro mediano.
+
+**Reportador de erros nível 3:**\
+****
+
+* Item exclusivo com o nome HEX "\[~~**Bug**~~** Hunter**]; Descrição: "Caçador de erros nível 3 da Rede Revo!" e personalização com o nick dono do item.&#x20;
+* Item entregue para o jogador que reportar cinco erros, dois erros medianos ou um erro grave.&#x20;
+* A depender da gravidade do erro grave poderá ser entregue mais recompensas.
+
 ## Regra 10 - Conta falsa <a href="#01" id="01"></a>
 
 Criar uma conta secundária com intuito de cometer qualquer infração, para benefício próprio ou prejuízo a rede. As punições abaixo serão aplicadas à sua conta principal uma vez que a conta fake será permanentemente punida.

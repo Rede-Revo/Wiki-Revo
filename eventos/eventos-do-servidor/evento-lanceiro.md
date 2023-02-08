@@ -9,7 +9,7 @@ description: Todas as informações que você precisa saber sobre o evento seman
 * Usando apenas tridentes, mate o ultimo sobrevivente na arena e torne-se o vencedor ou mate a maior quantidade de inimigos e torne-se o matador;
 * Itens definidos pela equipe; (armadura de ouro, 16 maças dourada, 64 bacalhaus assados e 2 tridentes);
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * As habilidades do mcMMO serão desativadas durante o evento;
 * Borda que reduz no decorrer da batalha;\

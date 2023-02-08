@@ -26,7 +26,7 @@ Exemplo: Minha conta no Java é `thiagogebrim` e minha conta no Bedrock é `thia
 1. Entro no site da GeyserMC: [https://link.geysermc.org/](https://link.geysermc.org/)
 2. Clico em:
 
-![](<../../.gitbook/assets/image (1) (2).png>)
+![](<../../.gitbook/assets/image (1) (2) (1).png>)
 
 3\.  Escolho a opção "Online Linking":
 
