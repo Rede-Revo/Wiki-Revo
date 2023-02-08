@@ -64,6 +64,7 @@ Em bugs de duplicação a punição aplicada é permanente e o jogador terá a c
 #### Sistema de Recompensas para Reporte de Erros
 
 _A contagem dos reportes depende de cada erro e da devida gravidade do erro. Os erros devem ser reportados assim que descobertos, usufruir do erro pode ser considerado Abuso de Bug e enquadrado na Regra 9._\
+_Reportar erros que a staff já tenha ciência que existe não serão considerados no sistema de recompensas._\
 __
 
 **Reportador de erros nível 1:**
