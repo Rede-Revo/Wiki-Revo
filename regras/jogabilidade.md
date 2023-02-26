@@ -130,9 +130,10 @@ Item comercializado ilegalmente é deletado, no caso de comercio ilegal de conta
 Ao ser preso por essa regra, a cada reporte da mesma regra que tenha acontecido  antes do seu caso você perde 12 horas de cadeia.
 {% endhint %}
 
-## Regra 13 - AFK Farm
+## Regra 13 - AFK com ação indevidas
 
-Evoluir seu personagem no servidor de forma automática com recursos internos ou externos, ou seja, qualquer software, hardware, firmware ou modificação no jogo que execute ações de forma automática é proibida no servidor, não inclui autotext.
+Deixar o personagem online sem estar presente (AFK) executando com auxílio de recursos internos e/ou externos (software, hardware, firmware ou modificação no jogo) ações de forma automática é proibida no servidor. \
+Não aplicável para autotext.
 
 {% hint style="warning" %}
 Jogadores(as) com atividade suspeita que não atenderem o chamado no período de 15 segundos serão automaticamente punidos.
