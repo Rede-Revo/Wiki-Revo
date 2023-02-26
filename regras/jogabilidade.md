@@ -130,7 +130,7 @@ Item comercializado ilegalmente é deletado, no caso de comercio ilegal de conta
 Ao ser preso por essa regra, a cada reporte da mesma regra que tenha acontecido  antes do seu caso você perde 12 horas de cadeia.
 {% endhint %}
 
-## Regra 13 - Ação indevida estando AFK
+## Regra 13 - Ação indevida AFK
 
 Deixar o personagem online sem estar presente (AFK) executando com auxílio de recursos internos e/ou externos (software, hardware, firmware ou modificação no jogo) ações de forma automática é proibida no servidor. \
 Não aplicável para autotext.
