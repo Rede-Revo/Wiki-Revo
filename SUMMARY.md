@@ -27,7 +27,7 @@
       * [➕ Bombas Maiores](sistemas/mcmmo/habilidades-de-coleta/mineracao/bombas-maiores.md)
       * [🦿 Experiente em Demolições](sistemas/mcmmo/habilidades-de-coleta/mineracao/experiente-em-demolicoes.md)
     * [🪓 Lenhador](sistemas/mcmmo/habilidades-de-coleta/lenhador/README.md)
-      * [🌴 Derrubador de Árvores](sistemas/mcmmo/habilidades-de-coleta/lenhador/derrubador-de-arvores.md)
+      * [🌴 Super Lenhador](sistemas/mcmmo/habilidades-de-coleta/lenhador/derrubador-de-arvores.md)
       * [🍃 Soprador de Árvores](sistemas/mcmmo/habilidades-de-coleta/lenhador/soprador-de-arvores.md)
       * [🌲 Colheita de Madeira](sistemas/mcmmo/habilidades-de-coleta/lenhador/colheita-de-madeira.md)
     * [🌾 Herbalismo](sistemas/mcmmo/habilidades-de-coleta/herbalismo/README.md)
