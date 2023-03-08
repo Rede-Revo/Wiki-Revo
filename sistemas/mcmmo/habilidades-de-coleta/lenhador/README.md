@@ -17,8 +17,8 @@ coverY: 0
 
 ## » Habilidades
 
-{% content-ref url="derrubador-de-arvores.md" %}
-[derrubador-de-arvores.md](derrubador-de-arvores.md)
+{% content-ref url="super-lenhador.md" %}
+[super-lenhador.md](super-lenhador.md)
 {% endcontent-ref %}
 
 {% content-ref url="soprador-de-arvores.md" %}
