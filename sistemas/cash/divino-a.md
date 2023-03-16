@@ -17,6 +17,7 @@ coverY: 0
 * Não perde a sua cabeça ao morrer no Survival.
 * Acesso ao `/brilhar` e `/colorido` em todos os servidores.
 * Tags Divino e Divina (apenas para o top 1).
+* Receberá um **Chapéu do Revonildo** (abra um ticket e diga em qual servidor deseja receber o item).&#x20;
 
 {% hint style="info" %}
 As vantagens só duram durante o mês em que você foi top doador(a)
