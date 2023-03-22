@@ -18,6 +18,36 @@ As contas são de responsabilidade do jogador. Não aceitamos desculpa de "Meu i
 Prezando pela boa convivência no servidor, caso seja julgado pela equipe jogadores que não contribuem a serviço da comunidade e ou desarmonizam a convivência da mesma, o indivíduo em questão será convidado a se abster de qualquer vínculo com o servidor.
 {% endhint %}
 
+## Tabela - Aplicação das regras
+
+Abaixo a tabela das regras aplicadas nos locais específicos.\
+\* ✅ = Aplicada no local\
+\* ❌ = Não aplicada no local
+
+|                📚 Regra                | 🌳 Survival | 📦 Box PvP | 📱 Discord |
+| :------------------------------------: | :---------: | :--------: | :--------: |
+|            Regra 1 - Ofensa            |      ✅      |      ✅     |      ✅     |
+|         Regra 2 - Discriminação        |      ✅      |      ✅     |      ✅     |
+|      Regra 3 - Divulgação Simples      |      ✅      |      ✅     |      ✅     |
+|       Regra 4 - Divulgação Grave       |      ✅      |      ✅     |      ✅     |
+|       Regra 5 - Desordem no Chat       |      ✅      |      ✅     |      ✅     |
+|       Regra 6 - Anunciar Indevido      |      ✅      |      ❌     |      ❌     |
+|         Regra 7 - Desinformação        |      ✅      |      ✅     |      ✅     |
+|    Regra 8 - Nick ou Skin Inadequada   |      ✅      |      ✅     |      ✅     |
+|         Regra 9 - Abuso de Bug         |      ✅      |      ✅     |      ❌     |
+|         Regra 10 - Conta Falsa         |      ✅      |      ✅     |      ✅     |
+|     Regra 11 - Estorno de Pagamento    |      ✅      |      ✅     |      ❌     |
+|   Regra 12 - Comércio Não Autorizado   |      ✅      |      ✅     |      ❌     |
+|      Regra 13 - Ação Indevida AFK      |      ✅      |      ✅     |      ❌     |
+|    Regra 14 - Falsificação de fatos    |      ✅      |      ✅     |      ✅     |
+|          Regra 15 - Anti-jogo          |      ✅      |      ❌     |      ❌     |
+|           Regra 16 - Griefing          |      ✅      |      ❌     |      ❌     |
+|     Regra 17 - Cúmplice de Infrator    |      ✅      |      ✅     |      ❌     |
+|       Regra 18 - Uso de Trapaças       |      ✅      |      ✅     |      ❌     |
+| Regra 19 - Uso irregular da TAG "Mito" |      ✅      |      ✅     |      ❌     |
+|         Regra 20 - Autopromoção        |      ❌      |      ❌     |      ✅     |
+| Regra 21 - Fugir do Assunto em Tópicos |      ❌      |      ❌     |      ✅     |
+
 ## Como criar uma denúncia?
 
 É importante saber que para a realização de reporte de infratores é necessário possuir provas concretas e com o contexto completo para podermos apurar da melhor forma já que em casos de ofensa o alvo quem deve reportar, em casos de capturas de tela só iremos analisar caso a imagem seja da tela inteira!
@@ -41,4 +71,3 @@ Ao ser punido permanentemente e caso você adquira o 1° desbanimento você fica
 {% hint style="danger" %}
 Jogadores que tentarem burlar alguma punição na sua conta trocando de nick na mojang terão o tempo da punição duplicado.
 {% endhint %}
-
