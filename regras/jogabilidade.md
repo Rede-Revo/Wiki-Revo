@@ -268,7 +268,6 @@ Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-
 | :--------: | :------------------------------------------------------------------------: |
 |      1     |                            Banimento permanente                            |
 |      2     | Banimento permanente + Níveis das Habilidades redefinidos para 50% (mcMMO) |
-|      3     |                               **Black List**                               |
 
 ## Regra 19 -  **Uso irregular da tag "Mito"** <a href="#01" id="01"></a>
 
