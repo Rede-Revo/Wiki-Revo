@@ -102,10 +102,10 @@ Fazer divulgação de outros servidores de Minecraft ou lojas do gênero como fe
 
 ### Lista de Punições <a href="#lista-de-punicoes-3" id="lista-de-punicoes-3"></a>
 
-| Incidência |        Punição       |
-| :--------: | :------------------: |
-|      1     |   Prisão de 10 dias  |
-|      2     | Banimento permanente |
+| Incidência |               Punição               |
+| :--------: | :---------------------------------: |
+|      1     | Silenciamento temporário de 30 dias |
+|      2     |         Banimento permanente        |
 
 ## Regra 05 - **Desordem no Chat** <a href="#02" id="02"></a>
 
@@ -144,9 +144,10 @@ Está regra também inclui anunciar a sua warp em um chat que não seja no `/anu
 
 |  Incidência |                   Punição                  |
 | :---------: | :----------------------------------------: |
-|      1      |    Silenciamento temporário de 12 horas    |
-|      2      |     Silenciamento temporário de 3 dias     |
-| 3 em diante | Aviso + Silenciamento temporário de 7 dias |
+|      1      |                    Aviso                   |
+|      2      |    Silenciamento temporário de 12 horas    |
+|      3      |     Silenciamento temporário de 3 dias     |
+| 4 em diante | Aviso + Silenciamento temporário de 7 dias |
 
 ## Regra 07 - **Desinformação** <a href="#02" id="02"></a>
 
