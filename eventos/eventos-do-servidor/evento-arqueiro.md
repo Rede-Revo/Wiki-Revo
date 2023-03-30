@@ -110,9 +110,20 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição LXVII - 19/11/2022  |  `RyanGamer2004` |         `Vingativa`        |
 |  Edição LXVIII - 26/11/2022 |   `HxqueBjorn_`  |        `HxqueBjorn_`       |
 |   Edição LXIX - 03/12/2022  |   `Beckhampro`   |         `cryngpeep`        |
-|   Evento LXX - 10/12/2022   |   `batatapodi`   |        `batatapodi`        |
-|   Evento LXXI - 17/12/2022  |   `Beckhampro`   |        `Beckhampro`        |
-|  Evento LXXII - 24/12/2022  |   `xXxBL4CKxXx`  |        `xXxBL4CKxXx`       |
-|  Evento LXXIII - 31/12/2022 |   `luansinhoxd`  |      `AndreusRichard`      |
-|  Evento LXXIV - 07/01/2023  |   `Beckhampro`   |        `Beckhampro`        |
+|   Edição LXX - 10/12/2022   |   `batatapodi`   |        `batatapodi`        |
+|   Edição LXXI - 17/12/2022  |   `Beckhampro`   |        `Beckhampro`        |
+|  Edição LXXII - 24/12/2022  |   `xXxBL4CKxXx`  |        `xXxBL4CKxXx`       |
+|  Edição LXXIII - 31/12/2022 |   `luansinhoxd`  |      `AndreusRichard`      |
+|  Edição LXXIV - 07/01/2023  |   `Beckhampro`   |        `Beckhampro`        |
+|   Edição LXXV - 14/01/2023  |   `Beckhampro`   |        `Beckhampro`        |
+|  Edição LXXVI - 21/01/2023  |    `cryngpeep`   |          `wrdone`          |
+|  Edição LXXVII - 28/01/2023 |    `cryngpeep`   |         `cryngpeep`        |
+| Edição LXXVIII - 04/02/2023 |  `RyanGamer2004` |       `RyanGamer2004`      |
+|  Edição LXXIX - 11/02/2023  |  `RyanGamer2004` |       `RyanGamer2004`      |
+|   Edição LXXX - 18/02/2023  |  `RyanGamer2004` |     `nicollyhxhxxPvP_`     |
+|  Edição LXXXI - 25/02/2023  |    `cryngpeep`   |           `ySnox`          |
+|  Edição LXXXII - 04/03/2023 |  `RyanGamer2004` |         `DerJecker`        |
+| Edição LXXXIII - 11/03/2023 |     `RyanRX2`    |          `RyanRX2`         |
+|  Edição LXXXIV - 18/03/2023 |    `Zmasteer_`   |         `Zmasteer_`        |
+|  Edição LXXXV - 25/03/2023  |   `Beckhampro`   |        `Beckhampro`        |
 
