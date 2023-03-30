@@ -9,8 +9,6 @@
 
 ## ━━━━ Sistemas ━━━━
 
-* [🎲 Temporadas](sistemas/temporadas.md)
-* [🎖 Liga de Clãs](sistemas/liga-de-clas.md)
 * [🪙 Cash](sistemas/cash/README.md)
   * [💎 VIPs](sistemas/cash/vips.md)
   * [🗝 Chaves](sistemas/cash/chaves.md)
@@ -18,6 +16,8 @@
   * [🌻 Divindade](sistemas/cash/divino-a.md)
   * [🪅 Super Pinhata](sistemas/cash/super-pinhata.md)
   * [💰 Adquirir Cash](https://rederevo.com/itens)
+* [🎲 Temporadas](sistemas/temporadas.md)
+* [🎖 Liga de Clãs](sistemas/liga-de-clas.md)
 * [🪓 mcMMO](sistemas/mcmmo/README.md)
   * [🌿 Habilidades de Coleta](sistemas/mcmmo/habilidades-de-coleta/README.md)
     * [⛏ Mineração](sistemas/mcmmo/habilidades-de-coleta/mineracao/README.md)
