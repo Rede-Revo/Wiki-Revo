@@ -61,23 +61,34 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## » Histórico do Evento
 
-|         » Edição «        | » Último(a) Sobrevivente « | » Matador(a) « |
-| :-----------------------: | :------------------------: | :------------: |
-|   Edição I - 28/08/2022   |        `jesus536be`        |  `Beckhampro`  |
-|   Edição II - 04/09/2022  |        `Beckhampro`        |  `Beckhampro`  |
-|  Edição III - 11/09/2022  |         `cryngpeep`        |   `cryngpeep`  |
-|   Edição IV - 18/09/2022  |        `Beckhampro`        |  `Beckhampro`  |
-|   Edição V - 25/09/2022   |        `Beckhampro`        |  `Beckhampro`  |
-|   Edição VI - 02/10/2022  |        `Beckhampro`        |  `Beckhampro`  |
-|  Edição VII - 09/10/2022  |        `Beckhampro`        |  `Beckhampro`  |
-|  Edição VIII - 16/10/2022 |          `shyyyy`          |  `Beckhampro`  |
-|   Edição IX - 23/10/2022  |        `Beckhampro`        |  `Beckhampro`  |
-|   Edição X - 30/10/2022   |        `Beckhampro`        |  `Beckhampro`  |
-|   Edição XI - 06/11/2022  |        `Beckhampro`        |  `Beckhampro`  |
-|  Edição XII - 13/11/2022  |         `Hugo1808`         |   `Hugo1808`   |
-|  Edição XIII - 20/11/2022 |         `yHermes_`         |   `Hugo1808`   |
-|  Edição XIV - 27/11/2022  |         `nicogg15`         |    `Roxzin`    |
-|   Edição XV - 04/12/2022  |        `Beckhampro`        |  `Beckhampro`  |
-|  Edição XVI - 11/12/2022  |          `Guga_S2`         |  `Beckhampro`  |
-|  Edição XVII - 01/01/2023 |         `cryngpeep`        |   `cryngpeep`  |
-| Edição XVIII - 08/01/2023 |        `Beckhampro`        |  `Beckhampro`  |
+|         » Edição «         | » Último(a) Sobrevivente « | » Matador(a) « |
+| :------------------------: | :------------------------: | :------------: |
+|    Edição I - 28/08/2022   |        `jesus536be`        |  `Beckhampro`  |
+|   Edição II - 04/09/2022   |        `Beckhampro`        |  `Beckhampro`  |
+|   Edição III - 11/09/2022  |         `cryngpeep`        |   `cryngpeep`  |
+|   Edição IV - 18/09/2022   |        `Beckhampro`        |  `Beckhampro`  |
+|    Edição V - 25/09/2022   |        `Beckhampro`        |  `Beckhampro`  |
+|   Edição VI - 02/10/2022   |        `Beckhampro`        |  `Beckhampro`  |
+|   Edição VII - 09/10/2022  |        `Beckhampro`        |  `Beckhampro`  |
+|  Edição VIII - 16/10/2022  |          `shyyyy`          |  `Beckhampro`  |
+|   Edição IX - 23/10/2022   |        `Beckhampro`        |  `Beckhampro`  |
+|    Edição X - 30/10/2022   |        `Beckhampro`        |  `Beckhampro`  |
+|   Edição XI - 06/11/2022   |        `Beckhampro`        |  `Beckhampro`  |
+|   Edição XII - 13/11/2022  |         `Hugo1808`         |   `Hugo1808`   |
+|  Edição XIII - 20/11/2022  |         `yHermes_`         |   `Hugo1808`   |
+|   Edição XIV - 27/11/2022  |         `nicogg15`         |    `Roxzin`    |
+|   Edição XV - 04/12/2022   |        `Beckhampro`        |  `Beckhampro`  |
+|   Edição XVI - 11/12/2022  |          `Guga_S2`         |  `Beckhampro`  |
+|  Edição XVII - 01/01/2023  |         `cryngpeep`        |   `cryngpeep`  |
+|  Edição XVIII - 08/01/2023 |        `Beckhampro`        |  `Beckhampro`  |
+|   Edição XIX - 15/01/2023  |        `Andre_Moura`       |  `jesus536be`  |
+|   Edição XX - 22/01/2023   |         `cryngpeep`        |   `cryngpeep`  |
+|   Edição XXI - 29/01/2023  |         `cryngpeep`        |   `cryngpeep`  |
+|  Edição XXII - 05/02/2023  |        `Beckhampro`        |  `Beckhampro`  |
+|  Edição XXIII - 12/02/2023 |         `cryngpeep`        |    cryngpeep   |
+|  Edição XXIV - 19/02/2023  |         `cryngpeep`        |   `cryngpeep`  |
+|   Edição XXV - 26/02/2023  |         `cryngpeep`        |   `cryngpeep`  |
+|  Edição XXVI - 05/03/2023  |        `Beckhampro`        |  `Beckhampro`  |
+|  Edição XXVII - 12/03/2023 |        `jesus536be`        |  `jesus536be`  |
+| Edição XXVIII - 19/03/2023 |         `_IRagnar`         |   `_IRagnar`   |
+|  Edição XXIX - 26/03/2023  |        `Beckhampro`        |    `Dropado`   |
