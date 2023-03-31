@@ -64,3 +64,21 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
 * <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG [**\[Mito\]**](../../sistemas/mito.md)****
+
+## » Ranking de Vencedores
+
+| » Colocação « |        » Clã «      | » Número de Vitórias «       |
+| :-----------: | :-----------------: | :--------------------------: |
+|  🥇 1º Lugar  |  \[666] The Ritual  |               3              |
+|  🥈 2º Lugar  |   \[HiT] Hit Kill   |               1              |
+|  🥉 3º Lugar  | \[CTR] Construtores |               1              |
+
+## » Histórico do Evento
+
+|        » Edição «       | » TAG do Clã « | » Nome do Clã « |
+| :---------------------: | :------------: | :-------------: |
+|  Edição I - 27/11/2022  |     \[666]     |    The Ritual   |
+|  Edição II - 25/12/2022 |     \[666]     |    The Ritual   |
+| Edição III - 29/01/2023 |     \[666]     |    The Ritual   |
+|  Edição IV - 26/02/2023 |     \[HiT]     |     Hit Kill    |
+|  Edição V - 26/03/2023  |     \[CTR]     |   Construtores  |
