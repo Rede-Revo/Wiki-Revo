@@ -5,7 +5,7 @@ coverY: 0
 
 # 🪅 Super Pinhata
 
-O evento Super Pinhata é uma celebração especial que acontece quando o servidor atinge a meta mensal de doações. Esse é um momento de festa para os jogadores e para oo servidor, e todos estão convidados a participar e aproveitar as recompensas oferecidas.
+O evento Super Pinhata é uma celebração especial que acontece quando o servidor atinge a meta mensal de doações. Esse é um momento de festa para os jogadores e para o servidor, e todos estão convidados a participar e aproveitar as recompensas oferecidas.
 
 A Super Pinhata é uma grande pinhata que tem 1000 pontos de vida. Para saber como está o andamento da meta, os jogadores podem acessar o site oficial do servidor em [https://rederevo.com](https://rederevo.com/).
 
