@@ -129,6 +129,7 @@
   * [🐲 Evento Caça ao Dragão](eventos/eventos-survival/evento-caca-ao-dragao.md)
   * [🗺 Evento Desbravador](eventos/eventos-survival/evento-desbravador.md)
   * [🏗 Evento de Construção](eventos/eventos-survival/evento-de-construcao.md)
+* [Eventos BoxPvP](eventos/eventos-boxpvp.md)
 * [🏆 Agenda de Eventos](eventos/agenda-de-eventos.md)
 
 ## ━━━━ Ajuda ━━━━
