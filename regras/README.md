@@ -75,7 +75,7 @@ Ao visualizar um jogador possivelmente infringindo uma regra, abra uma denúncia
 ### Provas
 
 * Somente serão aceitas caso sejam capturas da tela toda e com scoreboard ativa.
-* Possuem a validade de **3 dias** (Exceto regras [**12**](jogabilidade.md#01-3) e [**16**](jogabilidade.md#01-3) **** que não expiram).
+* Possuem a validade de **3 dias** (Exceto regras [**12**](jogabilidade.md#01-3) e [**16**](jogabilidade.md#01-3) que não expiram).
 
 ## Punições:
 

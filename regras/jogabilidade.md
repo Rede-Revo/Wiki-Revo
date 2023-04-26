@@ -50,7 +50,7 @@ Em bugs de duplicação a punição aplicada é permanente e o jogador terá a c
 _Reportar erros são uma forma de apoio direto ao servidor, os mesmos devem ser reportados assim que descobertos, usufruir do erro pode ser considerado Abuso de Bug e enquadrado na Regra 9._
 
 * Reportar erros em que a staff já tenha ciência da existência serão reconhecidos porém não serão considerados no sistema de recompensas.\
-  __
+
 
 **Reportador de erros nível 1:**
 
