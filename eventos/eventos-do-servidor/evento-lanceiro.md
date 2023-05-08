@@ -72,3 +72,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição X - 15/03/2023  |      `RyanRX2`     |       `peitista`       |
 |  Edição XI - 22/03/2023  | `pevepassssssssss` |   `pevepassssssssss`   |
 |  Edição XII - 29/03/2023 |   `Atsutherunner`  |        `Geanxf3`       |
+| Edição XIII - 05/04/2023 |      `Geanxf3`     |        `Geanxf3`       |
+|  Edição XIV - 12/04/2023 |      `RyanRX2`     |        `RyanRX2`       |
+|  Edição XV - 19/04/2023  |      `RyanRX2`     |        `RyanRX2`       |
+|  Edição XVI - 28/04/2023 |     `Randoomm`     |      `Mat_redston`     |
+| Edição XVII - 03/05/2023 |     `IronGolem`    |       `Randoomm`       |
+

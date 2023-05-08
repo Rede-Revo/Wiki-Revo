@@ -57,67 +57,71 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## » Histórico do Evento
 
-|          » Edição «         |            » TAG do Clã «           |           » Nome do Clã «           |
-| :-------------------------: | :---------------------------------: | :---------------------------------: |
-|   Edição I - Edição XXIII   | <mark style="color:red;">N/A</mark> | <mark style="color:red;">N/A</mark> |
-|   Edição XXIV - 18/01/2022  |                \[Nbs]               |               Nairebis              |
-|   Edição XXV - 25/01/2022   |                \[sbN]               |               SiberiaN              |
-|   Edição XXVI - 01/02/2022  |                \[PAT]               |     De dia Assada de noite Frita    |
-|  Edição XXVII - 08/02/2022  |                \[ZZZ]               |                Bloods               |
-|  Edição XXVIII - 15/02/2022 |                \[ZZZ]               |                Bloods               |
-|   Edição XXIX - 22/02/2022  |                \[ZZZ]               |                Bloods               |
-|   Edição XXX - 01/03/2022   |                \[ZZZ]               |                Bloods               |
-|   Edição XXXI - 09/03/2022  |                \[VhL]               |               Valhalla              |
-|  Edição XXXII - 16/03/2022  |                \[ZZZ]               |                Bloods               |
-|  Edição XXXIII - 22/03/2022 |                \[666]               |              The Ritual             |
-|  Edição XXXIV - 31/03/2022  |                \[ZZZ]               |                Bloods               |
-|   Edição XXXV - 05/04/2022  |                \[666]               |              The Ritual             |
-|  Edição XXXVI - 12/04/2022  |                \[666]               |              The Ritual             |
-|  Edição XXXVII - 19/04/2022 |                \[uwu]               |              Cerejinhas             |
-| Edição XXXVIII - 26/04/2022 |                \[ODB]               |          Oceano de Baiacus          |
-|  Edição XXXIX - 03/05/2022  |                \[ReV]               |               Revoada               |
-|    Edição XL - 10/05/2022   |                \[SuN]               |               Sunshine              |
-|   Edição XLI - 17/05/2022   |                \[666]               |              The Ritual             |
-|   Edição XLII - 24/05/2022  |                \[suN]               |               Sunshine              |
-|  Edição XLIII - 31/05/2022  |                \[suN]               |               Sunshine              |
-|   Edição XLIV - 07/06/2022  |                \[VhL]               |               Valhalla              |
-|   Edição XLV - 14/06/2022   |                \[VhL]               |               Valhalla              |
-|   Edição XLVI - 21/06/2022  |                \[VhL]               |               Valhalla              |
-|  Edição XLVII - 28/06/2022  |                \[VhL]               |               Valhalla              |
-|  Edição XLVIII - 05/07/2022 |                \[VhL]               |               Valhalla              |
-|   Edição XLIX - 12/07/2022  |                \[VhL]               |               Valhalla              |
-|    Edição L - 19/07/2022    |                \[TkA]               |                 Taka                |
-|    Edição LI - 26/07/2022   |                \[TkA]               |                 Taka                |
-|   Edição LII - 02/08/2022   |                \[TkA]               |                 Taka                |
-|   Edição LIII - 09/08/2022  |                \[TkA]               |                 Taka                |
-|   Edição LIV - 16/08/2022   |                \[TkA]               |                 Taka                |
-|    Edição LV - 23/08/2022   |                \[TkA]               |                 Taka                |
-|   Edição LVI - 30/08/2022   |                \[TkA]               |                 Taka                |
-|   Edição LVII - 06/09/2022  |                \[GoD]               |               Godness               |
-|  Edição LVIII - 13/09/2022  |                \[VhL]               |               Valhalla              |
-|   Edição LIX - 20/09/2022   |                \[VhL]               |               Valhalla              |
-|    Edição LX - 27/09/2022   |                \[666]               |              The Ritual             |
-|   Edição LXI - 04/10/2022   |                \[VhL]               |               Valhalla              |
-|   Edição LXII - 11/10/2022  |                \[VhL]               |               Valhalla              |
-|  Edição LXIII - 18/10/2022  |                \[VhL]               |               Valhalla              |
-|   Edição LXIV - 25/10/2022  |                \[VhL]               |               Valhalla              |
-|   Edição LXV - 01/11/2022   |                \[VhL]               |               Valhalla              |
-|   Edição LXVI - 15/11/2022  |                \[VhL]               |               Valhalla              |
-|  Edição LXVII - 22/11/2022  |                \[VhL]               |               Valhalla              |
-|  Edição LXVIII - 29/11/2022 |                \[666]               |              The Ritual             |
-|   Edição LXIX - 06/12/2022  |                \[ZR5]               |               ZU3IROS               |
-|   Edição LXX - 20/12/2022   |                \[ZR5]               |               ZU3IROS               |
-|   Edição LXXI - 27/12/2022  |                \[abT]               |               AbstracT              |
-|  Edição LXXII - 03/01/2023  |                \[ZR5]               |               ZU3IROS               |
-|  Edição LXXIII - 10/01/2023 |                \[ZR5]               |               ZU3IROS               |
-|  Edição LXXIV - 17/01/2023  |                \[ZR5]               |               ZU3IROS               |
-|   Edição LXXV - 24/01/2023  |                \[ZR5]               |               zueiros               |
-|  Edição LXXVI - 03/02/2023  |                \[HiT]               |               Hit Kill              |
-| Edição LXXVII - 07/02/2023  |                \[666]               |              The Ritual             |
-| Edição LXXVIII - 14/02/2023 |                \[666]               |              The Ritual             |
-|  Edição LXXIX - 21/02/2023  |                \[HiT]               |               Hit Kill              |
-|   Edição LXXX - 28/02/2023  |                \[CoL]               |             Cade o Loló             |
-|  Edição LXXXI - 07/03/2023  |                \[NtP]               |           Ninguém ta Puro           |
-|  Edição LXXXII - 14/03/2023 |                \[NtP]               |           Ninguém ta Puro           |
-| Edição LXXXIII - 21/03/2023 |                \[CTR]               |             Construtores            |
-|  Edição LXXXIV - 28/03/2023 |                \[666]               |              The Ritual             |
+|          » Edição «          |            » TAG do Clã «           |           » Nome do Clã «           |
+| :--------------------------: | :---------------------------------: | :---------------------------------: |
+|    Edição I - Edição XXIII   | <mark style="color:red;">N/A</mark> | <mark style="color:red;">N/A</mark> |
+|   Edição XXIV - 18/01/2022   |                \[Nbs]               |               Nairebis              |
+|    Edição XXV - 25/01/2022   |                \[sbN]               |               SiberiaN              |
+|   Edição XXVI - 01/02/2022   |                \[PAT]               |     De dia Assada de noite Frita    |
+|   Edição XXVII - 08/02/2022  |                \[ZZZ]               |                Bloods               |
+|  Edição XXVIII - 15/02/2022  |                \[ZZZ]               |                Bloods               |
+|   Edição XXIX - 22/02/2022   |                \[ZZZ]               |                Bloods               |
+|    Edição XXX - 01/03/2022   |                \[ZZZ]               |                Bloods               |
+|   Edição XXXI - 09/03/2022   |                \[VhL]               |               Valhalla              |
+|   Edição XXXII - 16/03/2022  |                \[ZZZ]               |                Bloods               |
+|  Edição XXXIII - 22/03/2022  |                \[666]               |              The Ritual             |
+|   Edição XXXIV - 31/03/2022  |                \[ZZZ]               |                Bloods               |
+|   Edição XXXV - 05/04/2022   |                \[666]               |              The Ritual             |
+|   Edição XXXVI - 12/04/2022  |                \[666]               |              The Ritual             |
+|  Edição XXXVII - 19/04/2022  |                \[uwu]               |              Cerejinhas             |
+|  Edição XXXVIII - 26/04/2022 |                \[ODB]               |          Oceano de Baiacus          |
+|   Edição XXXIX - 03/05/2022  |                \[ReV]               |               Revoada               |
+|    Edição XL - 10/05/2022    |                \[SuN]               |               Sunshine              |
+|    Edição XLI - 17/05/2022   |                \[666]               |              The Ritual             |
+|   Edição XLII - 24/05/2022   |                \[suN]               |               Sunshine              |
+|   Edição XLIII - 31/05/2022  |                \[suN]               |               Sunshine              |
+|   Edição XLIV - 07/06/2022   |                \[VhL]               |               Valhalla              |
+|    Edição XLV - 14/06/2022   |                \[VhL]               |               Valhalla              |
+|   Edição XLVI - 21/06/2022   |                \[VhL]               |               Valhalla              |
+|   Edição XLVII - 28/06/2022  |                \[VhL]               |               Valhalla              |
+|  Edição XLVIII - 05/07/2022  |                \[VhL]               |               Valhalla              |
+|   Edição XLIX - 12/07/2022   |                \[VhL]               |               Valhalla              |
+|     Edição L - 19/07/2022    |                \[TkA]               |                 Taka                |
+|    Edição LI - 26/07/2022    |                \[TkA]               |                 Taka                |
+|    Edição LII - 02/08/2022   |                \[TkA]               |                 Taka                |
+|   Edição LIII - 09/08/2022   |                \[TkA]               |                 Taka                |
+|    Edição LIV - 16/08/2022   |                \[TkA]               |                 Taka                |
+|    Edição LV - 23/08/2022    |                \[TkA]               |                 Taka                |
+|    Edição LVI - 30/08/2022   |                \[TkA]               |                 Taka                |
+|   Edição LVII - 06/09/2022   |                \[GoD]               |               Godness               |
+|   Edição LVIII - 13/09/2022  |                \[VhL]               |               Valhalla              |
+|    Edição LIX - 20/09/2022   |                \[VhL]               |               Valhalla              |
+|    Edição LX - 27/09/2022    |                \[666]               |              The Ritual             |
+|    Edição LXI - 04/10/2022   |                \[VhL]               |               Valhalla              |
+|   Edição LXII - 11/10/2022   |                \[VhL]               |               Valhalla              |
+|   Edição LXIII - 18/10/2022  |                \[VhL]               |               Valhalla              |
+|   Edição LXIV - 25/10/2022   |                \[VhL]               |               Valhalla              |
+|    Edição LXV - 01/11/2022   |                \[VhL]               |               Valhalla              |
+|   Edição LXVI - 15/11/2022   |                \[VhL]               |               Valhalla              |
+|   Edição LXVII - 22/11/2022  |                \[VhL]               |               Valhalla              |
+|  Edição LXVIII - 29/11/2022  |                \[666]               |              The Ritual             |
+|   Edição LXIX - 06/12/2022   |                \[ZR5]               |               ZU3IROS               |
+|    Edição LXX - 20/12/2022   |                \[ZR5]               |               ZU3IROS               |
+|   Edição LXXI - 27/12/2022   |                \[abT]               |               AbstracT              |
+|   Edição LXXII - 03/01/2023  |                \[ZR5]               |               ZU3IROS               |
+|  Edição LXXIII - 10/01/2023  |                \[ZR5]               |               ZU3IROS               |
+|   Edição LXXIV - 17/01/2023  |                \[ZR5]               |               ZU3IROS               |
+|   Edição LXXV - 24/01/2023   |                \[ZR5]               |               zueiros               |
+|   Edição LXXVI - 03/02/2023  |                \[HiT]               |               Hit Kill              |
+|  Edição LXXVII - 07/02/2023  |                \[666]               |              The Ritual             |
+|  Edição LXXVIII - 14/02/2023 |                \[666]               |              The Ritual             |
+|   Edição LXXIX - 21/02/2023  |                \[HiT]               |               Hit Kill              |
+|   Edição LXXX - 28/02/2023   |                \[CoL]               |             Cade o Loló             |
+|   Edição LXXXI - 07/03/2023  |                \[NtP]               |           Ninguém ta Puro           |
+|  Edição LXXXII - 14/03/2023  |                \[NtP]               |           Ninguém ta Puro           |
+|  Edição LXXXIII - 21/03/2023 |                \[CTR]               |             Construtores            |
+|  Edição LXXXIV - 28/03/2023  |                \[666]               |              The Ritual             |
+|   Edição LXXXV - 04/04/2023  |                \[666]               |              The Ritual             |
+|  Edição LXXXVI - 15/04/2023  |                \[666]               |              The Ritual             |
+|  Edição LXXXVII - 25/04/2023 |                \[TDU]               |           Terror de Uganda          |
+| Edição LXXXVIII - 02/05/2023 |                \[GTI]               |             Gold Titans             |

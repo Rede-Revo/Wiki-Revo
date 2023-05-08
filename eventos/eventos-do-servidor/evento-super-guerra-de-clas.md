@@ -67,11 +67,12 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 ## » Ranking de Vencedores
 
-| » Colocação « |        » Clã «      | » Número de Vitórias «       |
-| :-----------: | :-----------------: | :--------------------------: |
-|  🥇 1º Lugar  |  \[666] The Ritual  |               3              |
-|  🥈 2º Lugar  |   \[HiT] Hit Kill   |               1              |
-|  🥉 3º Lugar  | \[CTR] Construtores |               1              |
+|  » Colocação «  |        » Clã «      | » Número de Vitórias «       |
+| :-------------: | :-----------------: | :--------------------------: |
+|   🥇 1º Lugar   |  \[666] The Ritual  |               3              |
+|   🥈 2º Lugar   |   \[HiT] Hit Kill   |               1              |
+|   🥉 3º Lugar   | \[CTR] Construtores |               1              |
+| **🎖** 4º Lugar |     \[021] Crime    |               1              |
 
 ## » Histórico do Evento
 
@@ -82,3 +83,4 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 | Edição III - 29/01/2023 |     \[666]     |    The Ritual   |
 |  Edição IV - 26/02/2023 |     \[HiT]     |     Hit Kill    |
 |  Edição V - 26/03/2023  |     \[CTR]     |   Construtores  |
+|  Edição VI - 30/04/2023 |     \[021]     |      Crime      |

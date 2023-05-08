@@ -125,3 +125,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XCIII - 10/03/2023  |              `_IRagnar`             |                `yJaapa`               |
 |   Edição XCIV - 17/03/2023   |              `RyanRX2`              |               `Floppers`              |
 |    Edição XCV - 24/03/2023   |              `_IRagnar`             |              `Beckhampro`             |
+|   Edição XCVI - 31/03/2023   |              `yReverse`             |               `yReverse`              |
+|   Edição XCVII - 07/04/2023  |              `tenero8`              |               Beckhampro              |
+|  Edição XCVIII - 14/04/2023  |              `RyanRX2`              |               `RyanRX2`               |
+|   Edição XCIX - 21/04/2023   |              `_IRagnar`             |                `yJaapa`               |
+|     Edição C - 28/04/2023    |              `Geanxf3`              |             `Mat_redston`             |
+|    Edição CI - 05/05/2023    |              `_IRagnar`             |               `_IRagnar`              |
