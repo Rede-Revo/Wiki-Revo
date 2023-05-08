@@ -58,7 +58,17 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## » Histórico do Evento
 
-|         Edição         | Jogador(a) Matador | Último(a) Sobrevivente |
-| :--------------------: | :----------------: | :--------------------: |
-|  Edição I - 11/01/2023 |      `tenero8`     |        `tenero8`       |
-| Edição II - 18/01/2023 |     `nobru_ff`     |       `nobru_ff`       |
+|          Edição          | Jogador(a) Matador | Último(a) Sobrevivente |
+| :----------------------: | :----------------: | :--------------------: |
+|   Edição I - 11/01/2023  |      `tenero8`     |        `tenero8`       |
+|  Edição II - 18/01/2023  |     `nobru_ff`     |       `nobru_ff`       |
+|  Edição III - 25/01/2023 |    `Beckhampro`    |        `OKOTAW0`       |
+|   Edição IV - 1/02/2023  |     `nobru_ff`     |       `nobru_ff`       |
+|   Edição V - 08/02/2023  |      `yJaapa`      |       `DerJecker`      |
+|  Edição VI - 15/02/2023  |     `cryngpeep`    |        `Geanxf3`       |
+|  Edição VII - 22/02/2023 |     `_IRagnar`     |      `Danger_Damo`     |
+| Edição VIII - 01/03/2023 |    `Mat_redston`   |      Mat\_redston      |
+|  Edição IX - 08/03/2023  |    `Mat_redston`   |      `Mat_redston`     |
+|   Edição X - 15/03/2023  |      `RyanRX2`     |       `peitista`       |
+|  Edição XI - 22/03/2023  | `pevepassssssssss` |   `pevepassssssssss`   |
+|  Edição XII - 29/03/2023 |   `Atsutherunner`  |        `Geanxf3`       |

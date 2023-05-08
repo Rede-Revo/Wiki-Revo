@@ -92,3 +92,9 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição XXVII - 12/03/2023 |        `jesus536be`        |  `jesus536be`  |
 | Edição XXVIII - 19/03/2023 |         `_IRagnar`         |   `_IRagnar`   |
 |  Edição XXIX - 26/03/2023  |        `Beckhampro`        |    `Dropado`   |
+|   Edição XXX - 02/04/2023  |          `Geanxf3`         |  `Beckhampro`  |
+|  Edição XXXI - 09/04/2023  |          `Geanxf3`         |  `Beckhampro`  |
+|  Edição XXXII - 16/04/2023 |        `Beckhampro`        |    `Guga_S2`   |
+| Edição XXXIII - 23/04/2023 |          `Geanxf3`         |    `jggcvrl`   |
+|  Edição XXXIV - 30/04/2023 |          `Geanxf3`         |    `Guga_S2`   |
+|  Edição XXXV - 07/05/2023  |          `bnhgnn`          |   `_IRagnar`   |

@@ -54,7 +54,7 @@ coverY: 0
 | <img src="../../../../.gitbook/assets/image (39).png" alt="" data-size="line"> 1x Botas de ferro                |
 | Ferramentas de ferro                                                                                            |
 | <img src="../../../../.gitbook/assets/image (10) (2).png" alt="" data-size="line"> 1x Arco                      |
-| <img src="../../../../.gitbook/assets/image (13) (2).png" alt="" data-size="line"> 6x Pérola de ender           |
+| <img src="../../../../.gitbook/assets/image (13).png" alt="" data-size="line"> 6x Pérola de ender               |
 | <img src="../../../../.gitbook/assets/image (52).png" alt="" data-size="line"> 3x Vara de blaze                 |
 | <img src="../../../../.gitbook/assets/image (16).png" alt="" data-size="line"> 2x Etiqueta                      |
 | <img src="../../../../.gitbook/assets/image (8) (1) (2).png" alt="" data-size="line"> 64x Frasco de experiência |

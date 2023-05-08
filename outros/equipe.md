@@ -152,8 +152,8 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 * <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:yellow;">**Gutothefoda**</mark>** (data de entrada: 20/06/2022)**
 * <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> <mark style="color:yellow;">**HGDhess**</mark>** (data de entrada: 10/03/2023)**
 * <img src="../.gitbook/assets/2048 (2) (3).png" alt="" data-size="line"> <mark style="color:yellow;">**HyperMikel**</mark>** (data de entrada: 25/04/2023)**
-* <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"> <mark style="color:yellow;">**SACUDOBR**</mark>** (data de entrada: 25/04/2023)**
-* <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> <mark style="color:yellow;">**mateusfernands**</mark>** (data de entrada: 25/04/2023)**
+* <img src="../.gitbook/assets/image (54).png" alt="" data-size="line"> <mark style="color:yellow;">**SACUDOBR**</mark>** (data de entrada: 25/04/2023)**
+* <img src="../.gitbook/assets/image (51).png" alt="" data-size="line"> <mark style="color:yellow;">**mateusfernands**</mark>** (data de entrada: 25/04/2023)**
 
 ## <img src="../.gitbook/assets/image (13) (1) (2).png" alt="" data-size="line"> <mark style="color:green;">Aprendiz</mark>
 
@@ -167,7 +167,7 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 
 #### Lista de Aprendizes
 
-* <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> <mark style="color:green;">**MartimYT**</mark>&#x20;
+* <img src="../.gitbook/assets/image (2) (7).png" alt="" data-size="line"> <mark style="color:green;">**MartimYT**</mark>&#x20;
 * <img src="../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:green;">**Djinnii1**</mark>&#x20;
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> <mark style="color:purple;">Designer</mark>

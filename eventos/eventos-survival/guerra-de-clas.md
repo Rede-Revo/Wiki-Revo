@@ -71,14 +71,14 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 |  » Colocação «  |          » Clã «          | » Número de Vitórias « |
 | :-------------: | :-----------------------: | :--------------------: |
-|   🥇 1º Lugar   |      \[sbN] SiberiaN      |           18           |
-|   🥈 2º Lugar   |     \[666] The Ritual     |           18           |
+|   🥇 1º Lugar   |     \[666] The Ritual     |           20           |
+|   🥈 2º Lugar   |      \[sbN] SiberiaN      |           18           |
 |   🥉 3º Lugar   |       \[ZZZ] Bloods       |           13           |
 | **🎖** 4º Lugar |      \[suN] Sunshine      |            9           |
 | **🎖** 5º Lugar | \[knS] Kawamura no Senshi |            6           |
 | **🎖** 6º Lugar |      \[VhL] Valhalla      |            6           |
-| **🎖** 7º Lugar |        \[TkA] Taka        |            3           |
-| **🎖** 8º Lugar |   \[NtP] Ninguém ta Puro  |            3           |
+| **🎖** 7º Lugar |   \[NtP] Ninguém ta Puro  |            5           |
+| **🎖** 8º Lugar |        \[TkA] Taka        |            3           |
 | **🎖** 8º Lugar |       \[30P] 30Praum      |            1           |
 | **🎖** 8º Lugar |      \[B12] Calcitran     |            1           |
 | **🎖** 9º Lugar |     \[COL] Cade o Loló    |            1           |
@@ -166,3 +166,8 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |  Edição LXXVII - 05/03/2023 |     \[COL]     |     Cade o Loló    |
 | Edição LXXVIII - 12/03/2023 |     \[NtP]     |   Ninguém ta Puro  |
 |  Edição LXXIX - 19/03/2023  |     \[NtP]     |   Ninguém ta Puro  |
+|   Edição LXXX - 02/04/2023  |     \[666]     |      The Ritual    |
+|  Edição LXXXI - 09/04/2023  |     \[666]     |      The Ritual    |
+|  Edição LXXXII - 16/04/2023 |     \[TBF]     |  The Best Farmers  |
+| Edição LXXXIII - 23/04/2023 |     \[NtP]     |   Ninguém ta Puro  |
+|  Edição LXXXIV - 07/05/2023 |     \[NtP]     |   Ninguém ta Puro  |

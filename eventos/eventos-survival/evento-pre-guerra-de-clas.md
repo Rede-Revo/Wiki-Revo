@@ -108,6 +108,16 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição LXIX - 06/12/2022  |                \[ZR5]               |               ZU3IROS               |
 |   Edição LXX - 20/12/2022   |                \[ZR5]               |               ZU3IROS               |
 |   Edição LXXI - 27/12/2022  |                \[abT]               |               AbstracT              |
-|  Edição LXXII - 03/01/2022  |                \[ZR5]               |               ZU3IROS               |
-|  Edição LXXIII - 10/01/2022 |                \[ZR5]               |               ZU3IROS               |
-|  Edição LXXIV - 17/01/2022  |                \[ZR5]               |               ZU3IROS               |
+|  Edição LXXII - 03/01/2023  |                \[ZR5]               |               ZU3IROS               |
+|  Edição LXXIII - 10/01/2023 |                \[ZR5]               |               ZU3IROS               |
+|  Edição LXXIV - 17/01/2023  |                \[ZR5]               |               ZU3IROS               |
+|   Edição LXXV - 24/01/2023  |                \[ZR5]               |               zueiros               |
+|  Edição LXXVI - 03/02/2023  |                \[HiT]               |               Hit Kill              |
+| Edição LXXVII - 07/02/2023  |                \[666]               |              The Ritual             |
+| Edição LXXVIII - 14/02/2023 |                \[666]               |              The Ritual             |
+|  Edição LXXIX - 21/02/2023  |                \[HiT]               |               Hit Kill              |
+|   Edição LXXX - 28/02/2023  |                \[CoL]               |             Cade o Loló             |
+|  Edição LXXXI - 07/03/2023  |                \[NtP]               |           Ninguém ta Puro           |
+|  Edição LXXXII - 14/03/2023 |                \[NtP]               |           Ninguém ta Puro           |
+| Edição LXXXIII - 21/03/2023 |                \[CTR]               |             Construtores            |
+|  Edição LXXXIV - 28/03/2023 |                \[666]               |              The Ritual             |
