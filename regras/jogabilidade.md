@@ -142,7 +142,7 @@ Aumento de Torneios
 
 * 1º - Torneio específico redefinido para 0.
 * 2º - Torneio específico redefinido para 0.
-* 2º - Torneio específico redefinido para 0.
+* 3º - Torneio específico redefinido para 0.
 {% endhint %}
 
 ## Regra 14 - Falsificação de fatos
