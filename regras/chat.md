@@ -47,10 +47,10 @@ A depender da gravidade do ocorrido, tomamos a liberdade de aplicar **Blacklist*
 
 ### Lista de Punições <a href="#lista-de-punicoes-1" id="lista-de-punicoes-1"></a>
 
-| Incidência |      Punição      |
-| :--------: | :---------------: |
-|      1     | Prisão de 10 dias |
-|      2     |   **Blacklist**   |
+| Incidência |               Punição               |
+| :--------: | :---------------------------------: |
+|      1     | Silenciamento temporário de 30 dias |
+|      2     |            **Blacklist**            |
 
 ## Regra 03 - **Divulgação Simples** <a href="#02" id="02"></a>
 
