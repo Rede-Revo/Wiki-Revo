@@ -16,6 +16,8 @@ Use nosso mod de discord rich presence e mostre o seu carinho pela Rede Revo.\
 
 #### Clients Permitidos:
 
+* Minecraft + Fabric
+* Minecraft + Forge\*
 * Lunar Client
 * Feather Launcher\*
 * LabyMod
@@ -23,7 +25,11 @@ Use nosso mod de discord rich presence e mostre o seu carinho pela Rede Revo.\
 * Salwyrr Client
 
 {% hint style="danger" %}
-* \*Utilizar a versão mais recente (1.19.3), sujeito a punição com o uso de mini map em versões inferiores.
+* Feather Launcher\* Utilizar a versão mais recente (1.19.4), sujeito a punição com o uso de mini map em versões inferiores.
+{% endhint %}
+
+{% hint style="danger" %}
+Minecraft + Forge\* Não utilizar a versão mais recente (1.19.4) do jogo, pois contém um erro considerado trapaça. Aqueles que a utilizarem estarão sujeitos a punições aplicadas pelo guardião.
 {% endhint %}
 
 #### Mods Permitidos:
