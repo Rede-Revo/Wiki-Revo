@@ -12,16 +12,16 @@ coverY: 0
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/acrobacias/rolar.md" %}
+[rolar.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/acrobacias/rolar.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/acrobacias/esquivar.md" %}
+[esquivar.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/acrobacias/esquivar.md)
 {% endcontent-ref %}
 
 ## » Técnicas
 
 ## » Tabela de EXP ganho
 
-<table><thead><tr><th>» Ação «</th><th align="center">» EXP «</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/Botas_de_Couro.webp" alt="" data-size="line"> Ao cair</td><td align="center">600</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Botas_de_Diamante.webp" alt="" data-size="line"> Ao <a href="broken-reference">rolar</a></td><td align="center">600</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Netherite_Boots_JE2_BE1.webp" alt="" data-size="line"> Ao <a href="broken-reference">esquivar</a> de um ataque</td><td align="center">800</td><td></td></tr></tbody></table>
+<table><thead><tr><th>» Ação «</th><th align="center">» EXP «</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/Botas_de_Couro.webp" alt="" data-size="line"> Ao cair</td><td align="center">600</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Botas_de_Diamante.webp" alt="" data-size="line"> Ao <a href="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/acrobacias/rolar.md">rolar</a></td><td align="center">600</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Netherite_Boots_JE2_BE1.webp" alt="" data-size="line"> Ao <a href="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/acrobacias/esquivar.md">esquivar</a> de um ataque</td><td align="center">800</td><td></td></tr></tbody></table>

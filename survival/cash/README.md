@@ -47,14 +47,14 @@ Se o prazo de entrega tiver passado, entre em contato conosco através do nosso 
 
 ## Para mais informações selecione uma das seções abaixo:
 
-{% content-ref url="../../global/cash/vips.md" %}
-[vips.md](../../global/cash/vips.md)
+{% content-ref url="../../sistemas/cash/vips.md" %}
+[vips.md](../../sistemas/cash/vips.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../global/cash/chaves.md" %}
-[chaves.md](../../global/cash/chaves.md)
+{% content-ref url="../../sistemas/cash/chaves.md" %}
+[chaves.md](../../sistemas/cash/chaves.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../global/cash/tags.md" %}
-[tags.md](../../global/cash/tags.md)
+{% content-ref url="../../sistemas/cash/tags.md" %}
+[tags.md](../../sistemas/cash/tags.md)
 {% endcontent-ref %}

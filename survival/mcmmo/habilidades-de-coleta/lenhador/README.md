@@ -17,16 +17,16 @@ coverY: 0
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/lenhador/super-lenhador.md" %}
+[super-lenhador.md](../../../../global/mcmmo/habilidades-de-coleta/lenhador/super-lenhador.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/lenhador/soprador-de-arvores.md" %}
+[soprador-de-arvores.md](../../../../global/mcmmo/habilidades-de-coleta/lenhador/soprador-de-arvores.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/lenhador/colheita-de-madeira.md" %}
+[colheita-de-madeira.md](../../../../global/mcmmo/habilidades-de-coleta/lenhador/colheita-de-madeira.md)
 {% endcontent-ref %}
 
 ## » Técnicas

@@ -19,20 +19,20 @@ O dano causado por arco e besta é definido de acordo com a distância com seu i
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/arquearia/atordoar.md" %}
+[atordoar.md](../../../../global/mcmmo/habilidades-de-combate/arquearia/atordoar.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/arquearia/recuperacao-de-flechas.md" %}
+[recuperacao-de-flechas.md](../../../../global/mcmmo/habilidades-de-combate/arquearia/recuperacao-de-flechas.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/arquearia/proficiencia-em-tiros.md" %}
+[proficiencia-em-tiros.md](../../../../global/mcmmo/habilidades-de-combate/arquearia/proficiencia-em-tiros.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/arquearia/quebra-de-limite.md" %}
+[quebra-de-limite.md](../../../../global/mcmmo/habilidades-de-combate/arquearia/quebra-de-limite.md)
 {% endcontent-ref %}
 
 ## » Técnicas

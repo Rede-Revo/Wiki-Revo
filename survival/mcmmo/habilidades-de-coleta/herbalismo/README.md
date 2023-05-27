@@ -10,35 +10,35 @@ coverY: 0
 
 Herbalismo é uma habilidade no McMMO que governa a capacidade de colher plantas e culturas, excluindo árvores e outras ocorrências mais estruturais de plantas. Requer várias ferramentas para fazer o uso completo de suas habilidades.
 
-* [x] Ferramentas usadas: ![](../../../../.gitbook/assets/IronHoe.webp) Enxada (para a habilidade [Terra Verde](broken-reference)), <img src="../../../../.gitbook/assets/3922-wooden-sword.png" alt="" data-size="line"> Espada (para a habilidade [Sorte de Hylian](broken-reference)) e mão.
+* [x] Ferramentas usadas: ![](../../../../.gitbook/assets/IronHoe.webp) Enxada (para a habilidade [Terra Verde](../../../../global/mcmmo/habilidades-de-coleta/herbalismo/terra-verde.md)), <img src="../../../../.gitbook/assets/3922-wooden-sword.png" alt="" data-size="line"> Espada (para a habilidade [Sorte de Hylian](../../../../global/mcmmo/habilidades-de-coleta/herbalismo/sorte-de-hylian.md)) e mão.
 * [x] Habilidades: _Ativas:_ Terra Verde, Polegar Cogumelo; _Passivas:_ Polegar Verde, Dieta de Fazendeiro, Sorte de Hylian, Drops Duplos.
 * [x] Interage com: ![](../../../../.gitbook/assets/Cobblestone.webp) Pedregulho, <img src="../../../../.gitbook/assets/Stone_Bricks_JE3_BE2 (1).webp" alt="" data-size="line"> Tijolos de Pedra, ![](../../../../.gitbook/assets/Dirt.webp) Terra e <img src="../../../../.gitbook/assets/d50ac60f23db47ec44081b33aa566ed7-7 (2).jpg" alt="" data-size="line"> Plantações em um geral.
 * [x] Up ao quebrar plantações com enxada.
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/herbalismo/sorte-de-hylian.md" %}
+[sorte-de-hylian.md](../../../../global/mcmmo/habilidades-de-coleta/herbalismo/sorte-de-hylian.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/herbalismo/polegar-cogumelo.md" %}
+[polegar-cogumelo.md](../../../../global/mcmmo/habilidades-de-coleta/herbalismo/polegar-cogumelo.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/herbalismo/drops-duplos-de-plantacoes.md" %}
+[drops-duplos-de-plantacoes.md](../../../../global/mcmmo/habilidades-de-coleta/herbalismo/drops-duplos-de-plantacoes.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/herbalismo/terra-verde.md" %}
+[terra-verde.md](../../../../global/mcmmo/habilidades-de-coleta/herbalismo/terra-verde.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/herbalismo/dieta-do-fazendeiro.md" %}
+[dieta-do-fazendeiro.md](../../../../global/mcmmo/habilidades-de-coleta/herbalismo/dieta-do-fazendeiro.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/herbalismo/polegar-verde.md" %}
+[polegar-verde.md](../../../../global/mcmmo/habilidades-de-coleta/herbalismo/polegar-verde.md)
 {% endcontent-ref %}
 
 ## » Técnicas

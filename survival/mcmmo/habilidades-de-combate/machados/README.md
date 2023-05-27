@@ -19,28 +19,28 @@ Os machados podem ser muito úteis no PvP, pois podem quebrar armaduras rapidame
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/machados/impacto-em-armaduras.md" %}
+[impacto-em-armaduras.md](../../../../global/mcmmo/habilidades-de-combate/machados/impacto-em-armaduras.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/machados/golpes-criticos.md" %}
+[golpes-criticos.md](../../../../global/mcmmo/habilidades-de-combate/machados/golpes-criticos.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/machados/maestria-com-machados.md" %}
+[maestria-com-machados.md](../../../../global/mcmmo/habilidades-de-combate/machados/maestria-com-machados.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/machados/racha-cranio.md" %}
+[racha-cranio.md](../../../../global/mcmmo/habilidades-de-combate/machados/racha-cranio.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/machados/quebrador-de-limites.md" %}
+[quebrador-de-limites.md](../../../../global/mcmmo/habilidades-de-combate/machados/quebrador-de-limites.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/machados/grande-impacto.md" %}
+[grande-impacto.md](../../../../global/mcmmo/habilidades-de-combate/machados/grande-impacto.md)
 {% endcontent-ref %}
 
 ## » Técnicas

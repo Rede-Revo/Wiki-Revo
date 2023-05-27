@@ -10,20 +10,20 @@ coverY: 0
 
 ## » Habilidades de fabricação e diversas
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/" %}
+[reparacao](../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/alquimia/" %}
+[alquimia](../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/alquimia/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/" %}
+[fundicao](../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/)
 {% endcontent-ref %}
 
 ## » Habilidades diversas
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/acrobacias/" %}
+[acrobacias](../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/acrobacias/)
 {% endcontent-ref %}

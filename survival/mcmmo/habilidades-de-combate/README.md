@@ -10,22 +10,22 @@ coverY: 0
 
 ## » Habilidades de combate
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../global/mcmmo/habilidades-de-combate/desarmado/" %}
+[desarmado](../../../global/mcmmo/habilidades-de-combate/desarmado/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../global/mcmmo/habilidades-de-combate/arquearia/" %}
+[arquearia](../../../global/mcmmo/habilidades-de-combate/arquearia/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../global/mcmmo/habilidades-de-combate/espadas/" %}
+[espadas](../../../global/mcmmo/habilidades-de-combate/espadas/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../global/mcmmo/habilidades-de-combate/machados/" %}
+[machados](../../../global/mcmmo/habilidades-de-combate/machados/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../global/mcmmo/habilidades-de-combate/domesticacao/" %}
+[domesticacao](../../../global/mcmmo/habilidades-de-combate/domesticacao/)
 {% endcontent-ref %}

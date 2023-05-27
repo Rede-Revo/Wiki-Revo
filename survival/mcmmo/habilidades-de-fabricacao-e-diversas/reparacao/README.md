@@ -12,16 +12,16 @@ coverY: 0
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/mestre-reparador.md" %}
+[mestre-reparador.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/mestre-reparador.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/forja-arcana.md" %}
+[forja-arcana.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/forja-arcana.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/super-reparador.md" %}
+[super-reparador.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/super-reparador.md)
 {% endcontent-ref %}
 
 ## » Técnicas

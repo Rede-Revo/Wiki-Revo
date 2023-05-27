@@ -12,12 +12,12 @@ coverY: 0
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/escavacao/arqueologia.md" %}
+[arqueologia.md](../../../../global/mcmmo/habilidades-de-coleta/escavacao/arqueologia.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/escavacao/super-broca.md" %}
+[super-broca.md](../../../../global/mcmmo/habilidades-de-coleta/escavacao/super-broca.md)
 {% endcontent-ref %}
 
 ## » Técnicas

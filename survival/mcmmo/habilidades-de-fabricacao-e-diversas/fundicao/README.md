@@ -12,16 +12,16 @@ coverY: 0
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/segunda-fundicao.md" %}
+[segunda-fundicao.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/segunda-fundicao.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/combustivel-eficiente.md" %}
+[combustivel-eficiente.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/combustivel-eficiente.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/entendendo-a-arte.md" %}
+[entendendo-a-arte.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/entendendo-a-arte.md)
 {% endcontent-ref %}
 
 ## » Técnicas

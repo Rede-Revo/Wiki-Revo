@@ -8,7 +8,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/unknown (6).png>)
 
-A TAG Mito é ganha no evento [Guerra de Clãs](../survival/eventos-do-servidor/semanais/guerra-de-clas.md), caso você seja o jogador matador. A TAG pode ser perdida a partir das seguintes ocasiões:
+A TAG Mito é ganha no evento [Guerra de Clãs](../eventos/eventos-survival/guerra-de-clas.md), caso você seja o jogador matador. A TAG pode ser perdida a partir das seguintes ocasiões:
 
 * Morrer por qualquer motivo;
 * Comercializar a TAG, ou arquivá-la em conta secundária, vide [Regra 19 - Uso Irregular da TAG Mito](../regras/jogabilidade.md#01-8);
@@ -16,5 +16,5 @@ A TAG Mito é ganha no evento [Guerra de Clãs](../survival/eventos-do-servidor/
 
 #### Como ganhar a TAG
 
-* Sendo matador da [Guerra de Clãs](../survival/eventos-do-servidor/semanais/guerra-de-clas.md), assim como dito acima;
+* Sendo matador da [Guerra de Clãs](../eventos/eventos-survival/guerra-de-clas.md), assim como dito acima;
 * Reportar infrator da [Regra 19 - Uso Irregular da TAG Mito](../regras/jogabilidade.md#01-8) e a denúncia ser aceita.

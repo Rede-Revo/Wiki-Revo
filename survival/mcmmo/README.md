@@ -27,20 +27,20 @@ Todas as habilidades evoluem até o nível 1000. Após o nível 1000 elas não g
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../global/mcmmo/habilidades-de-coleta/" %}
+[habilidades-de-coleta](../../global/mcmmo/habilidades-de-coleta/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../global/mcmmo/habilidades-de-combate/" %}
+[habilidades-de-combate](../../global/mcmmo/habilidades-de-combate/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../global/mcmmo/habilidades-de-fabricacao-e-diversas/" %}
+[habilidades-de-fabricacao-e-diversas](../../global/mcmmo/habilidades-de-fabricacao-e-diversas/)
 {% endcontent-ref %}
 
 ## » Diversos
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../global/mcmmo/outros/" %}
+[outros](../../global/mcmmo/outros/)
 {% endcontent-ref %}

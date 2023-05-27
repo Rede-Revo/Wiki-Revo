@@ -10,24 +10,24 @@ coverY: 0
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/espadas/ruptura.md" %}
+[ruptura.md](../../../../global/mcmmo/habilidades-de-combate/espadas/ruptura.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/espadas/ataques-cortantes.md" %}
+[ataques-cortantes.md](../../../../global/mcmmo/habilidades-de-combate/espadas/ataques-cortantes.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/espadas/quebra-de-limites.md" %}
+[quebra-de-limites.md](../../../../global/mcmmo/habilidades-de-combate/espadas/quebra-de-limites.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/espadas/contra-ataque.md" %}
+[contra-ataque.md](../../../../global/mcmmo/habilidades-de-combate/espadas/contra-ataque.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/espadas/facada.md" %}
+[facada.md](../../../../global/mcmmo/habilidades-de-combate/espadas/facada.md)
 {% endcontent-ref %}
 
 ## » Técnicas
