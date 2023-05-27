@@ -19,10 +19,7 @@ Utilizar uma skin sexual ou discriminatória.
 
 ### Lista de Punições <a href="#lista-de-punicoes" id="lista-de-punicoes"></a>
 
-| Incidência |                                     Punição                                     |
-| :--------: | :-----------------------------------------------------------------------------: |
-|      1     | Prisão de 3 dias (em caso de não atender o pedido de alterar a skin inadequada) |
-|      2     |                               Banimento permanente                              |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias (em caso de não atender o pedido de alterar a skin inadequada)</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente</td></tr></tbody></table>
 
 ## Regra 09 - Abuso de Bug
 
@@ -72,10 +69,7 @@ Criar uma conta secundária com intuito de cometer qualquer infração, para ben
 
 ### Lista de Punições <a href="#lista-de-punicoes-2" id="lista-de-punicoes-2"></a>
 
-| Incidência |        Punição       |
-| :--------: | :------------------: |
-|      1     |   Prisão de 3 dias   |
-|      2     | Banimento permanente |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente</td></tr></tbody></table>
 
 ## Regra 11 - Estorno de pagamento <a href="#01" id="01"></a>
 
@@ -83,9 +77,7 @@ Tentar realizar estorno da compra de um produto adquirido em nossa rede através
 
 ### Lista de Punições <a href="#lista-de-punicoes-3" id="lista-de-punicoes-3"></a>
 
-| Incidência |     Punição    |
-| :--------: | :------------: |
-|      1     | **Black List** |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center"><strong>Black List</strong></td></tr></tbody></table>
 
 ## Regra 12 - Comércio não autorizado <a href="#01" id="01"></a>
 
@@ -93,11 +85,7 @@ Consiste na tentativa de negociação e/ou transação de itens ou vantagens no 
 
 ### Lista de Punições <a href="#lista-de-punicoes-4" id="lista-de-punicoes-4"></a>
 
-| Incidência |                           Punição                          |
-| :--------: | :--------------------------------------------------------: |
-|      1     |   Prisão de 5 dias + Confisco do conteúdo comercializado   |
-|      2     |   Prisão de 10 dias + Confisco do conteúdo comercializado  |
-|      3     | Banimento Permanente + Confisco do conteúdo comercializado |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 5 dias + Confisco do conteúdo comercializado</td></tr><tr><td align="center">2</td><td align="center">Prisão de 10 dias + Confisco do conteúdo comercializado</td></tr><tr><td align="center">3</td><td align="center">Banimento Permanente + Confisco do conteúdo comercializado</td></tr></tbody></table>
 
 {% hint style="warning" %}
 Item comercializado ilegalmente será deletado, e em casos de contas, a mesma terá todas suas informações zeradas.
@@ -113,11 +101,7 @@ Jogadores(as) com atividade suspeita que não atenderem o chamado no período de
 
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
-| Incidência |        Punição       |
-| :--------: | :------------------: |
-|      1     |   Prisão de 5 dias   |
-|      2     |   Prisão de 10 dias  |
-|      3     | Banimento permanente |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 5 dias</td></tr><tr><td align="center">2</td><td align="center">Prisão de 10 dias</td></tr><tr><td align="center">3</td><td align="center">Banimento permanente</td></tr></tbody></table>
 
 {% hint style="danger" %}
 Além do banimento, punições extras são aplicadas referentes ação praticada pelo jogador e a incidência:\
@@ -151,9 +135,7 @@ Alterar fatos, tais como provas ou acontecimentos, para benefício próprio ou p
 
 ### Lista de Punições <a href="#lista-de-punicoes-6" id="lista-de-punicoes-6"></a>
 
-| Incidência |        Punição       |
-| :--------: | :------------------: |
-|      1     | Banimento permanente |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento permanente</td></tr></tbody></table>
 
 ## Regra 15 - Anti-jogo <a href="#01" id="01"></a>
 
@@ -166,7 +148,7 @@ Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relac
 * Criar uma proteção a menos de **50 blocos** de outro jogador atrapalhando o mesmo de expandir, além do banimento está sujeito a remoção:
   * A partir de **10 dias** de existência do terreno, o mesmo não poderá ser solicitada a remoção (Exceção para terrenos vazios).
   * Caso seu terreno possua mais de **50.000 blocos**, não poderá solicitar remoções.
-* Criar proteções ao redor de terrenos abandonados que estão próximos a [reivindicação](../sistemas/terrenos/terreno-abandonado.md).
+* Criar proteções ao redor de terrenos abandonados que estão próximos a [reivindicação](broken-reference).
 * Editar itens seja seu nome, lore ou encantamento com intuito de confundir jogadores (Renomear um gancho de armadilha com nome de chave misteriosa por exemplo). Inclui a edição de itens que induza algo mas na verdade não é aquilo, caracterizando um item falso, por exemplo: colocar apenas uma parte da shulker com 64 de um determinado item e o resto colocar apenas um item por slot da capacidade da shulker, enganando o jogador.
 * Mandar TPA para algum jogador com finalidade exclusiva de o prejudicar e se apossar de seus itens;
 * Perseguir jogadores por meio da jogabilidade, com meio exclusivo de o prejudicar (ficar em volta de proteções esperando o jogador sair da mesma com finalidade exclusiva de o perturbar/matar, por exemplo). Casos de perseguição o jogador denunciado será previamente avisado, posteriormente ao aviso, se persistir, será punido.
@@ -177,12 +159,7 @@ O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros
 
 ### Lista de Punições <a href="#lista-de-punicoes-7" id="lista-de-punicoes-7"></a>
 
-| Incidência |            Punição           |
-| :--------: | :--------------------------: |
-|      1     |       Prisão de 3 dias       |
-|      2     |   Aviso + Prisão de 5 dias   |
-|      3     |   Aviso + Prisão de 10 dias  |
-|      4     | Aviso + Banimento Permanente |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Aviso + Prisão de 5 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Prisão de 10 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Banimento Permanente</td></tr></tbody></table>
 
 ## Regra 16 - Griefing <a href="#01" id="01"></a>
 
@@ -202,12 +179,7 @@ Dica: Para evitar problemas futuros, utilize os mundos de recursos, The End ou N
 
 ### Lista de Punições <a href="#lista-de-punicoes-8" id="lista-de-punicoes-8"></a>
 
-| Incidência |            Punição           |
-| :--------: | :--------------------------: |
-|      1     |       Prisão de 3 dias       |
-|      2     |   Aviso + Prisão de 5 dias   |
-|      3     |   Aviso + Prisão de 10 dias  |
-|      4     | Aviso + Banimento Permanente |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Aviso + Prisão de 5 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Prisão de 10 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Banimento Permanente</td></tr></tbody></table>
 
 ## Regra 17 - Cúmplice de Infrator <a href="#01" id="01"></a>
 
@@ -219,12 +191,7 @@ O ato de não reportar trapaceiros explícitos ([Regra 18](jogabilidade.md#01-7)
 
 ### Lista de Punições <a href="#lista-de-punicoes-9" id="lista-de-punicoes-9"></a>
 
-| Incidência |        Punição       |
-| :--------: | :------------------: |
-|      1     |   Prisão de 3 dias   |
-|      2     |   Prisão de 5 dias   |
-|      3     |   Prisão de 10 dias  |
-|      4     | Banimento Permanente |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Prisão de 5 dias</td></tr><tr><td align="center">3</td><td align="center">Prisão de 10 dias</td></tr><tr><td align="center">4</td><td align="center">Banimento Permanente</td></tr></tbody></table>
 
 ## Regra 18 - Uso de Trapaças <a href="#01" id="01"></a>
 
@@ -234,14 +201,11 @@ O uso de clientes, programas, modificações (mods), injeções no client que de
 Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-permitidos.md).
 {% endhint %}
 
-| Incidência |                                   Punição                                  |
-| :--------: | :------------------------------------------------------------------------: |
-|      1     |                            Banimento permanente                            |
-|      2     | Banimento permanente + Níveis das Habilidades redefinidos para 50% (mcMMO) |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento permanente</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente + Níveis das Habilidades redefinidos para 50% (mcMMO)</td></tr></tbody></table>
 
 ## Regra 19 -  **Uso irregular da tag "Mito"** <a href="#01" id="01"></a>
 
-Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só pode ser adquirida apenas em algumas situações. Comercializar ou arquivar em conta secundária esta TAG resultará em punição. Saiba mais sobre a TAG: [Clique aqui!](../sistemas/mito.md)
+Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só pode ser adquirida apenas em algumas situações. Comercializar ou arquivar em conta secundária esta TAG resultará em punição. Saiba mais sobre a TAG: [Clique aqui!](broken-reference)
 
 | Incidência | Vendedor |    Comprador   |
 | :--------: | :------: | :------------: |

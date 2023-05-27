@@ -29,13 +29,7 @@ Ameaças e/ou perseguições a outros jogadores(as) sejam elas com relação à 
 
 
 
-| Incidência |                   Punição                   |
-| :--------: | :-----------------------------------------: |
-|      1     |     Silenciamento temporário de 12 horas    |
-|      2     |      Silenciamento temporário de 3 dias     |
-|      3     |  Aviso + Silenciamento temporário de 7 dias |
-|      4     | Aviso + Silenciamento temporário de 15 dias |
-|      5     |        Aviso + Banimento Permanente.        |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 12 horas</td></tr><tr><td align="center">2</td><td align="center">Silenciamento temporário de 3 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Silenciamento temporário de 7 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Silenciamento temporário de 15 dias</td></tr><tr><td align="center">5</td><td align="center">Aviso + Banimento Permanente.</td></tr></tbody></table>
 
 ## Regra 02 - **Discriminação e/ou atos depreciativos** <a href="#01" id="01"></a>
 
@@ -47,10 +41,7 @@ A depender da gravidade do ocorrido, tomamos a liberdade de aplicar **Blacklist*
 
 ### Lista de Punições <a href="#lista-de-punicoes-1" id="lista-de-punicoes-1"></a>
 
-| Incidência |               Punição               |
-| :--------: | :---------------------------------: |
-|      1     | Silenciamento temporário de 30 dias |
-|      2     |            **Blacklist**            |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 30 dias</td></tr><tr><td align="center">2</td><td align="center"><strong>Blacklist</strong></td></tr></tbody></table>
 
 ## Regra 03 - **Divulgação Simples** <a href="#02" id="02"></a>
 
@@ -58,13 +49,7 @@ Divulgação de coisas sem afins ao servidor tais como: discords paralelos, víd
 
 ### Lista de Punições <a href="#lista-de-punicoes" id="lista-de-punicoes"></a>
 
-| Incidência |                   Punição                   |
-| :--------: | :-----------------------------------------: |
-|      1     |     Silenciamento temporário de 12 horas    |
-|      2     |      Silenciamento temporário de 3 dias     |
-|      3     |  Aviso + Silenciamento temporário de 7 dias |
-|      4     | Aviso + Silenciamento temporário de 15 dias |
-|      5     |         Aviso + Banimento Permanente        |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 12 horas</td></tr><tr><td align="center">2</td><td align="center">Silenciamento temporário de 3 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Silenciamento temporário de 7 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Silenciamento temporário de 15 dias</td></tr><tr><td align="center">5</td><td align="center">Aviso + Banimento Permanente</td></tr></tbody></table>
 
 ## Regra 04 - **Divulgação Grave** <a href="#02" id="02"></a>
 
@@ -72,10 +57,7 @@ Fazer divulgação de outros servidores de Minecraft ou lojas do gênero como fe
 
 ### Lista de Punições <a href="#lista-de-punicoes-3" id="lista-de-punicoes-3"></a>
 
-| Incidência |               Punição               |
-| :--------: | :---------------------------------: |
-|      1     | Silenciamento temporário de 30 dias |
-|      2     |         Banimento permanente        |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 30 dias</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente</td></tr></tbody></table>
 
 ## Regra 05 - **Desordem no Chat** <a href="#02" id="02"></a>
 
@@ -94,13 +76,7 @@ Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um cam
 
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
-| Incidência |                   Punição                   |
-| :--------: | :-----------------------------------------: |
-|      1     |     Silenciamento temporário de 12 horas    |
-|      2     |      Silenciamento temporário de 3 dias     |
-|      3     |  Aviso + Silenciamento temporário de 7 dias |
-|      4     | Aviso + Silenciamento temporário de 15 dias |
-|      5     |         Aviso + Banimento Permanente        |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 12 horas</td></tr><tr><td align="center">2</td><td align="center">Silenciamento temporário de 3 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Silenciamento temporário de 7 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Silenciamento temporário de 15 dias</td></tr><tr><td align="center">5</td><td align="center">Aviso + Banimento Permanente</td></tr></tbody></table>
 
 ## Regra 06 - **Anúncio Indevido** <a href="#02" id="02"></a>
 
@@ -112,12 +88,7 @@ Está regra também inclui anunciar a sua warp em um chat que não seja no `/anu
 
 
 
-|  Incidência |                   Punição                  |
-| :---------: | :----------------------------------------: |
-|      1      |                    Aviso                   |
-|      2      |    Silenciamento temporário de 12 horas    |
-|      3      |     Silenciamento temporário de 3 dias     |
-| 4 em diante | Aviso + Silenciamento temporário de 7 dias |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Aviso</td></tr><tr><td align="center">2</td><td align="center">Silenciamento temporário de 12 horas</td></tr><tr><td align="center">3</td><td align="center">Silenciamento temporário de 3 dias</td></tr><tr><td align="center">4 em diante</td><td align="center">Aviso + Silenciamento temporário de 7 dias</td></tr></tbody></table>
 
 ## Regra 07 - **Desinformação** <a href="#02" id="02"></a>
 
@@ -133,10 +104,4 @@ Caso a desinformação se desdobre em perca de itens (enganar, fake chat) a ocor
 
 ### Lista de Punições <a href="#lista-de-punicoes-6" id="lista-de-punicoes-6"></a>
 
-| Incidência |                   Punição                   |
-| :--------: | :-----------------------------------------: |
-|      1     |     Silenciamento temporário de 12 horas    |
-|      2     |      Silenciamento temporário de 3 dias     |
-|      3     |  Aviso + Silenciamento temporário de 7 dias |
-|      4     | Aviso + Silenciamento temporário de 15 dias |
-|      5     |         Aviso + Banimento Permanente        |
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 12 horas</td></tr><tr><td align="center">2</td><td align="center">Silenciamento temporário de 3 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Silenciamento temporário de 7 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Silenciamento temporário de 15 dias</td></tr><tr><td align="center">5</td><td align="center">Aviso + Banimento Permanente</td></tr></tbody></table>

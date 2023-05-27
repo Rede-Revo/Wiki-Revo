@@ -152,9 +152,9 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 * <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:yellow;">**Gutothefoda**</mark>** (data de entrada: 20/06/2022)**
 * <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> <mark style="color:yellow;">**HGDhess**</mark>** (data de entrada: 10/03/2023)**
 * <img src="../.gitbook/assets/2048 (2) (3).png" alt="" data-size="line"> <mark style="color:yellow;">**HyperMikel**</mark>** (data de entrada: 25/04/2023)**
-* <img src="../.gitbook/assets/image (54) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**SACUDOBR**</mark>** (data de entrada: 25/04/2023)**
-* <img src="../.gitbook/assets/image (51) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**mateusfernands**</mark> (data de entrada: 25/04/2023)
-* <img src="../.gitbook/assets/image (56).png" alt="" data-size="line"> <mark style="color:yellow;">**Djinnii1**</mark> (data de entrada: 10/05/2023)
+* <img src="../.gitbook/assets/image (54) (1) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**SACUDOBR**</mark>** (data de entrada: 25/04/2023)**
+* <img src="../.gitbook/assets/image (51) (1) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**mateusfernands**</mark> (data de entrada: 25/04/2023)
+* <img src="../.gitbook/assets/image (56) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**Djinnii1**</mark> (data de entrada: 10/05/2023)
 
 ## <img src="../.gitbook/assets/image (13) (1) (2).png" alt="" data-size="line"> <mark style="color:green;">Aprendiz</mark>
 
@@ -169,8 +169,8 @@ O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, 
 #### Lista de Aprendizes
 
 * <img src="../.gitbook/assets/image (2) (7).png" alt="" data-size="line"> <mark style="color:green;">**MartimYT**</mark>&#x20;
-* <img src="../.gitbook/assets/image (54).png" alt="" data-size="line"> <mark style="color:green;">**\_Noriaki\_**</mark>
-* <img src="../.gitbook/assets/image (51).png" alt="" data-size="line"> <mark style="color:green;">**GalaxiiaGeek**</mark>
+* <img src="../.gitbook/assets/image (54) (1).png" alt="" data-size="line"> <mark style="color:green;">**\_Noriaki\_**</mark>
+* <img src="../.gitbook/assets/image (51) (1).png" alt="" data-size="line"> <mark style="color:green;">**GalaxiiaGeek**</mark>
 
 ## <img src="../.gitbook/assets/designer.png" alt="" data-size="line"> <mark style="color:purple;">Designer</mark>
 
@@ -183,5 +183,5 @@ O **Designer** é o responsável pelo desenvolvimento da parte visual do servido
 
 #### Lista de Designers
 
-* <img src="../.gitbook/assets/image (57).png" alt="" data-size="line"> <mark style="color:purple;">**Moreiraokk**</mark>** (data de entrada: 16/04/2023)**
+* <img src="../.gitbook/assets/image (57) (1).png" alt="" data-size="line"> <mark style="color:purple;">**Moreiraokk**</mark>** (data de entrada: 16/04/2023)**
 * <img src="../.gitbook/assets/2048 (2).png" alt="" data-size="line"> <mark style="color:purple;">**giovanna2005lb**</mark>** (data de entrada: 28/11/2022)**
