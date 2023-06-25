@@ -108,3 +108,4 @@ coverY: 0
 | <img src="../../../../.gitbook/assets/image (7) (4).png" alt="" data-size="line"> 1x Barra de netherita  |
 | <img src="../../../../.gitbook/assets/image (5) (3).png" alt="" data-size="line"> 1x Balde com axolote   |
 | <img src="../../../../.gitbook/assets/image (1) (4).png" alt="" data-size="line"> 1x Ovo gerador de lula |
+| 1x Ovo de farejador                                                                                      |
