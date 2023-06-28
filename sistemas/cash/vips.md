@@ -38,3 +38,15 @@ Atente-se no momento da ativação, os beneficios de ativação somente se aplic
 
 Verifique as vantagens respectivas para cada servidor: [Survival](../../survival/cash/vips.md) & BoxPvP
 
+## Congelar tempo restante
+
+Oferecemos a opção de pausar o seu tempo VIP quando necessitar se ausentar para cumprir responsabilidades ou eventos importantes, seguem as informações:
+
+* **Como solicitar:** A solicitação para pausar o tempo VIP deve ser feita através do nosso [suporte no Discord](https:discord.gg/rederevo).
+* **Duração:** O tempo VIP só pode ser pausado por no mínimo **7 dias**. Caso retorne antes desse período, o tempo inativo será perdido.
+* **Notificações:** Entrar no servidor durante a pausa, somente mediante autorização de membro da equipe.&#x20;
+
+{% hint style="warning" %}
+Não é possível pausar VIPs que foram transferidos, somente o tempo VIP original pode ser pausado.
+{% endhint %}
+
