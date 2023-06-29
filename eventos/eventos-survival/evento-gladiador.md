@@ -9,10 +9,9 @@ coverY: 0
 ## » Como Funciona
 
 * Mate o mate o ultimo sobrevivente na arena e torne-se o campeão ou mate a maior quantidade de inimigos e torne-se o matador;
-* Itens definidos pela equipe; (3 armaduras de netherite, espada de diamante, machado de diamante, arco, flecha, poções de força e agilidade, 32 cenouras douradas e 32 maçãs encantadas);
+*   Itens definidos pela equipe; (3 armaduras de netherite, espada de diamante, machado de diamante, arco, flecha, poções de força e agilidade, 32 cenouras douradas e 32 maçãs encantadas);
 
-![](<../../.gitbook/assets/image (10) (1) (2).png>)
-
+    <figure><img src="../../.gitbook/assets/glad.png" alt=""><figcaption></figcaption></figure>
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.
 
