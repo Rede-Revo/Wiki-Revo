@@ -37,7 +37,7 @@ Formação de time ou grupos no evento Arqueiro não é permitido. Jogadores que
 
 #### 2. É estritamente proibido participar com mais de uma conta por jogador.
 
-* Em casos de jogadores que entrarem com mais de uma conta serão expulsos do evento e ficarão 7 dias sem poder participar de nenhum outro evento semanal.
+* Em casos de jogadores que entrarem com mais de uma conta serão expulsos do evento e ficarão 7 dias sem poder participar de nenhum outro evento semanal, além de 3 dias de prisão.
 
 #### **3. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
 
