@@ -54,6 +54,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 * 💰 Premiação de **50.000 Coins**
 * <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Lanceiro(a)]** durante 7 dias
+* <img src="../../.gitbook/assets/contador_de_almas_icon.png" alt="" data-size="line"> **Contador de Peixes Pescados**&#x20;
 * 💎 **\[Liga]** 50 Pontos
 
 ## » Histórico do Evento
