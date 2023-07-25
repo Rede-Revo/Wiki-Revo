@@ -5,8 +5,6 @@ coverY: 0
 
 # 🥄 Misturas
 
-## 🥄 Misturas
-
 ### Tomáveis e Arremessáveis
 
 #### Normal

@@ -11,7 +11,7 @@ coverY: 0
 
 Uma vez enviados, os formulários são analisados pela administração e gerência.
 
-Antes de fazer um formulário, tenha em mente que participar de nossa equipe é algo que exige muita maturidade e responsabilidade. Os ajudantes e demais membros da equipe devem ser exemplo para outros jogadores e trabalhar sempre para que o servidor seja cada vez melhor.
+Antes de fazer um formulário, tenha em mente que participar de nossa equipe é algo que exige muita maturidade e responsabilidade. Os aprendizes e demais membros da equipe devem ser exemplo para outros jogadores e trabalhar sempre para que o servidor seja cada vez melhor.
 
 ### Dicas para uma boa aplicação
 
@@ -30,6 +30,8 @@ Nosso principal objetivo é selecionar os jogadores mais bem capacitados e adequ
 ### Onde posso fazer o formulário?
 
 Em nosso [discord](https://discord.com/invite/rederevo) no canal [#📬・central-de-suporte](https://discord.com/channels/793269891557490688/929227946512777216) você seleciona a opção do formulário no qual você tem interesse em participar na nossa equipe.
+
+O prazo mínimo para receber a resposta é de **10 dias**. Certifique-se de que seu chat privado no Discord esteja aberto, pois o bot enviará uma mensagem para agendarmos uma reunião.
 
 {% hint style="danger" %}
 
