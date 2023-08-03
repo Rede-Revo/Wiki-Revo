@@ -131,3 +131,17 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XCIX - 21/04/2023   |              `_IRagnar`             |                `yJaapa`               |
 |     Edição C - 28/04/2023    |              `Geanxf3`              |             `Mat_redston`             |
 |    Edição CI - 05/05/2023    |              `_IRagnar`             |               `_IRagnar`              |
+|    Edição CII - 12/05/2023   |                `gdno`               |           `GabaoRetangular`           |
+|   Edição CIII - 19/05/2023   |              `Randoomm`             |               `Randoomm`              |
+|    Edição CIV - 26/05/2023   |              `Geanxf3`              |              `Beckhampro`             |
+|    Edição CV - 02/06/2023    |               `troule`              |                `troule`               |
+|    Edição CVI - 09/06/2023   |             `zFelpsPvP`             |              `Beckhampro`             |
+|   Edição CVII - 16/06/2023   |               `snxzw`               |              `Beckhampro`             |
+|   Edição CVIII - 23/06/2023  |             `Beckhampro`            |              `Beckhampro`             |
+|    Edição CIX - 30/06/2023   |              `Randoomm`             |               `Randoomm`              |
+|    Edição CX - 07/07/2023    |              `oFelpz07`             |              `Beckhampro`             |
+|    Edição CXI - 14/07/2023   |              `uMasteer`             |              `Beckhampro`             |
+|   Edição CXII - 21/07/2023   |              `oFelpz07`             |              `Beckhampro`             |
+|   Edição CXIII - 28/07/2023  |              `oFelpz07`             |              `Beckhampro`             |
+|   Edição CXIV - 04/08/2023   |                  -                  |                   -                   |
+|    Edição CXV - 11/08/2023   |                  -                  |                   -                   |

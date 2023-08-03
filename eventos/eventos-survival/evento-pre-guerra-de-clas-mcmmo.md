@@ -128,3 +128,17 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 | Edição LXXXVIII - 20/04/2023 |                \[NtP]               |           Ninguém ta Puro           |
 |  Edição LXXXIX - 27/04/2023  |                \[GTI]               |             Gold Titans             |
 |    Edição XC - 04/05/2023    |                \[GTI]               |             Gold Titans             |
+|    Edição XCI - 11/05/2023   |                \[HGD]               |              Highgarden             |
+|   Edição XCII - 18/05/2023   |                \[HGD]               |              Highgarden             |
+|   Edição XCIII - 25/05/2023  |                \[HGD]               |              Highgarden             |
+|   Edição XCIV - 01/06/2023   |                \[HGD]               |              Highgarden             |
+|    Edição XCV - 08/06/2023   |                \[PTR]               |              El Petardo             |
+|   Edição XCVI - 15/06/2023   |                \[HGD]               |              Highgarden             |
+|   Edição XCVII - 22/06/2023  |                \[HGD]               |              Highgarden             |
+|  Edição XCVIII - 29/06/2023  |                \[HGD]               |              Highgarden             |
+|   Edição XCIX - 06/07/2023   |                \[HGD]               |              Highgarden             |
+|     Edição C - 13/07/2023    |                \[HGD]               |              Highgarden             |
+|    Edição CI - 20/07/2023    |                \[HGD]               |              Highgarden             |
+|    Edição CII - 27/07/2023   |                \[PTR]               |              El Petardo             |
+|   Edição CIII - 03/08/2023   |                  -                  |                  -                  |
+|    Edição CIV - 10/08/2023   |                  -                  |                  -                  |

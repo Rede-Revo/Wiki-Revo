@@ -69,18 +69,23 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 |  » Colocação «  |        » Clã «      | » Número de Vitórias «       |
 | :-------------: | :-----------------: | :--------------------------: |
-|   🥇 1º Lugar   |  \[666] The Ritual  |               3              |
-|   🥈 2º Lugar   |   \[HiT] Hit Kill   |               1              |
-|   🥉 3º Lugar   | \[CTR] Construtores |               1              |
-| **🎖** 4º Lugar |     \[021] Crime    |               1              |
+|   🥇 1º Lugar   |  \[666] The Ritual  |               4              |
+|   🥈 2º Lugar   |  \[HGD] Highgarden  |               2              |
+|   🥉 3º Lugar   |   \[HiT] Hit Kill   |               1              |
+| **🎖** 4º Lugar | \[CTR] Construtores |               1              |
+| **🎖** 5º Lugar |     \[021] Crime    |               1              |
 
 ## » Histórico do Evento
 
-|        » Edição «       | » TAG do Clã « | » Nome do Clã « |
-| :---------------------: | :------------: | :-------------: |
-|  Edição I - 27/11/2022  |     \[666]     |    The Ritual   |
-|  Edição II - 25/12/2022 |     \[666]     |    The Ritual   |
-| Edição III - 29/01/2023 |     \[666]     |    The Ritual   |
-|  Edição IV - 26/02/2023 |     \[HiT]     |     Hit Kill    |
-|  Edição V - 26/03/2023  |     \[CTR]     |   Construtores  |
-|  Edição VI - 30/04/2023 |     \[021]     |      Crime      |
+|        » Edição «        | » TAG do Clã « | » Nome do Clã « |
+| :----------------------: | :------------: | :-------------: |
+|   Edição I - 27/11/2022  |     \[666]     |    The Ritual   |
+|  Edição II - 25/12/2022  |     \[666]     |    The Ritual   |
+|  Edição III - 29/01/2023 |     \[666]     |    The Ritual   |
+|  Edição IV - 26/02/2023  |     \[HiT]     |     Hit Kill    |
+|   Edição V - 26/03/2023  |     \[CTR]     |   Construtores  |
+|  Edição VI - 30/04/2023  |     \[021]     |      Crime      |
+|  Edição VII - 28/05/2023 |     \[HGD]     |    Highgarden   |
+| Edição VIII - 25/06/2023 |     \[HGD]     |    Highgarden   |
+|  Edição IX - 01/08/2023  |     \[666]     |    The Ritual   |
+|   Edição X - 27/08/2023  |        -       |        -        |

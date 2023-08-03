@@ -125,3 +125,17 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição LXXXVI - 15/04/2023  |                \[666]               |              The Ritual             |
 |  Edição LXXXVII - 25/04/2023 |                \[TDU]               |           Terror de Uganda          |
 | Edição LXXXVIII - 02/05/2023 |                \[GTI]               |             Gold Titans             |
+|  Edição LXXXIX - 09/05/2023  |                \[TDU]               |           Terror de Uganda          |
+|    Edição XC - 16/05/2023    |                \[HGD]               |              Highgarden             |
+|    Edição XCI - 23/05/2023   |                \[TkZ]               |             TeamKronnikz            |
+|   Edição XCII - 30/05/2023   |                \[212]               |             Two One Two             |
+|   Edição XCIII - 06/06/2023  |                \[HGD]               |              Highgarden             |
+|   Edição XCIV - 13/06/2023   |                \[PT2]               |              El Petardo             |
+|    Edição XCV - 20/06/2023   |                \[HGD]               |              Highgarden             |
+|   Edição XCVI - 27/06/2023   |                \[PT2]               |              El Petardo             |
+|   Edição XCVII - 04/07/2023  |                \[HGD]               |              Highgarden             |
+|  Edição XCVIII - 11/07/2023  |                \[HGD]               |              Highgarden             |
+|   Edição XCIX - 18/07/2023   |                \[HGD]               |              Highgarden             |
+|     Edição C - 25/07/2023    |                \[666]               |              The Ritual             |
+|          Edição CI -         |                  -                  |                  -                  |
+|         Edição CII -         |                  -                  |                  -                  |
