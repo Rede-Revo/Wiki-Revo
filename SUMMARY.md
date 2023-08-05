@@ -217,6 +217,7 @@
     * [🛡 Evento Gladiador](eventos/eventos-survival/evento-gladiador.md)
     * [🎯 Evento Besteiro](eventos/eventos-survival/evento-besteiro.md)
     * [🏆 Evento Guerra de Clãs](eventos/eventos-survival/guerra-de-clas.md)
+    * [Evento Guerra de Clãs com Construção](survival/eventos-do-servidor/semanais/evento-guerra-de-clas-com-construcao.md)
   * [📆 Mensais](survival/eventos-do-servidor/mensais/README.md)
     * [🏵 Evento Super Guerra de Clãs](eventos/eventos-do-servidor/evento-super-guerra-de-clas.md)
     * [🏗 Evento de Construção](eventos/eventos-survival/evento-de-construcao.md)
