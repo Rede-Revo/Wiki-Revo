@@ -14,12 +14,6 @@ Aqui você aprenderá tudo que precisa sobre o vosso servidor, desde os sistemas
 [regras](regras/)
 {% endcontent-ref %}
 
-## <mark style="color:blue;">Conheça os eventos do servidor:</mark>
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ## <mark style="color:blue;">Principais sistemas do servidor:</mark>
 
 {% content-ref url="broken-reference" %}
