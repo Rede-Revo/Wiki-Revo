@@ -72,7 +72,7 @@ Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um cam
 > Usar 15 caracteres repetidos e outros 15 diferentes repetidamente é também uma ação punível;\
 > OBS: Caracteres "k", "g" e "i" possuem um limite maior dos outros: 55.
 
-> **Flood**: Mesma frase repetidamente 3 vezes ou mais.
+> **Flood**: Mesma frase/palavra enviadas repetidamente 3 vezes ou mais.
 
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
