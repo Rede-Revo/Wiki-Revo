@@ -13,10 +13,12 @@ coverY: 0
 * Tenha seu NPC exposto no Lobby.
 * Receba destaque no TAB e Chat.
 * Cargo exclusivo com destaque no discord.
-* Receba duas tags exclusivas **Divino** e **Divina.**
 * Não perde a sua cabeça ao morrer no Survival.
 * Acesso ao `/brilhar` e `/colorido` em todos os servidores.
-* Tags Divino e Divina (apenas para o top 1).
+
+### Recompensas para quem estiver no TOP 1, 2 e 3 ao fechar o mês:
+
+* Receba duas tags exclusivas **Divino** e **Divina.** (com duração de 1 mês e exclusiva para o top 1)
 * Receberá um **Chapéu do Revonildo** (abra um ticket e diga em qual servidor deseja receber o item).&#x20;
 
 {% hint style="info" %}
