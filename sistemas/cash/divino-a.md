@@ -13,7 +13,7 @@ coverY: 0
 * Tenha seu NPC exposto no Lobby.
 * Receba destaque no TAB e Chat.
 * Cargo exclusivo com destaque no discord.
-* Não perde a sua cabeça ao morrer no Survival.
+* Não perde a sua cabeça ao morrer.
 * Acesso ao `/brilhar` e `/colorido` em todos os servidores.
 
 ### Recompensas para quem estiver no TOP 1, 2 e 3 ao fechar o mês:
