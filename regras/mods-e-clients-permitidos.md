@@ -25,11 +25,11 @@ Use nosso mod de discord rich presence e mostre o seu carinho pela Rede Revo.\
 * Salwyrr Client
 
 {% hint style="danger" %}
-* Feather Launcher\* Utilizar a versão mais recente (1.19.4), sujeito a punição com o uso de mini map em versões inferiores.
+* Feather Launcher\*: Utilizar minimap na versão 1.19.4 não é permitod.
 {% endhint %}
 
 {% hint style="danger" %}
-Minecraft + Forge\* Não utilizar a versão mais recente (1.19.4) do jogo, pois contém um erro considerado trapaça. Aqueles que a utilizarem estarão sujeitos a punições aplicadas pelo guardião.
+Minecraft + Forge\*: Utilizar a versão 1.19.4 está sujeito a punições por trapaça devido ao seu erro de distância de ataque.
 {% endhint %}
 
 #### Mods Permitidos:
@@ -43,3 +43,7 @@ Minecraft + Forge\* Não utilizar a versão mais recente (1.19.4) do jogo, pois 
 * Litematica (Printer não é permitido)
 * MaLiLib
 * Mod Menu
+
+{% hint style="info" %}
+Otimizadores de Crystal: Não é permitido nenhuma versão ou variação relacionada a **walsky**.
+{% endhint %}
