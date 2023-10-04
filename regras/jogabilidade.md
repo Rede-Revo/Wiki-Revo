@@ -51,21 +51,28 @@ _Reportar erros são uma forma de apoio direto ao servidor, os mesmos devem ser 
 
 **Reportador de erros nível 1:**
 
-* Item exclusivo com o nome HEX "\[Bug Hunter]"; Descrição: "Caçador de erros nível 1 da Rede Revo!" e personalização com o nick do dono do item.\
+* Item exclusivo com o nome HEX "\[Bug Hunter]"; Descrição: "Caçador de erros nível 1 da Rede Revo!" e personalização com o nick do dono do item.
+* Nível de erro: Afeta jogabilidade pessoal.\
 
 
 **Reportador de erros nível 2:**&#x20;
 
 * Item exclusivo com o nome HEX "\[~~Bug~~ Hunter]"; Descrição: "Caçador de erros nível 2 da Rede Revo!" e personalização com o nick do dono do item.&#x20;
+* Nível de erro: Afeta jogabilidade global.
 
 **Reportador de erros nível 3:**
 
 * Item exclusivo com o nome HEX "\[~~**Bug**~~** Hunter**]; Descrição: "Caçador de erros nível 3 da Rede Revo!" e personalização com o nick dono do item.&#x20;
 * A depender da gravidade do erro grave poderá ser entregue mais recompensas.
+* Nível de erro: Fonte de recurso infinita.
 
 ## Regra 10 - Conta falsa <a href="#01" id="01"></a>
 
 Criar uma conta secundária com intuito de cometer qualquer infração, para benefício próprio ou prejuízo a rede. As punições abaixo serão aplicadas à sua conta principal uma vez que a conta falsa será **permanentemente** punida.
+
+{% hint style="info" %}
+Será definida como conta principal a conta do IP com o registro mais antigo.
+{% endhint %}
 
 ### Lista de Punições <a href="#lista-de-punicoes-2" id="lista-de-punicoes-2"></a>
 

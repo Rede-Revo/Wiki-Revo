@@ -53,7 +53,7 @@ Ao visualizar um jogador possivelmente infringindo uma regra, abra uma denúncia
 ### Provas
 
 * Somente serão aceitas caso sejam capturas da tela toda e com scoreboard ativa.
-* Possuem a validade de **3 dias** (Exceto regras [**12**](jogabilidade.md#01-3) e [**16**](jogabilidade.md#01-3) que não expiram).
+* Possuem a validade de **3 dias** (Exceto regras [**12**](jogabilidade.md#01-3), [**16**](jogabilidade.md#01-3) e [**18**](jogabilidade.md#01-7) que não expiram).
 
 ## Punições:
 
@@ -67,9 +67,9 @@ Ao visualizar um jogador possivelmente infringindo uma regra, abra uma denúncia
   * Afeta todos servidores: ✔️
 * **Banimento:** Conta fica com acesso bloqueado de todos servidores.&#x20;
   * Guardião aplica punições automáticas desta categoria por **7 dias.**
-  * Ao ser punido **permanentemente** você será automaticamente preso por **15 dias.**
+  * Ao ser punido **permanentemente** você será automaticamente preso por **10 dias.**
   * Limite de **2** banimentos permanentes por conta.
-  * Afeta todos servidores: ✔️
+  * Afeta todos servidores: [❌](https://emojiterra.com/pt/x-vermelho/)
 * **Blacklist:** Bloqueio permanente do servidor, impossibilitada a criação de novas contas.
   * Ao atingir o marco de **3** banimentos permanentes a conta automaticamente entra nesta categoria.
   * Afeta todos servidores: ✔️

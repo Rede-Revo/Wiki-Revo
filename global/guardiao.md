@@ -22,8 +22,25 @@ O Guardião está sempre trabalhando silenciosamente em segundo plano, analisand
 
 Durante a jogabilidade devido sua alta confiabilidade, punições podem ser aplicadas caso confirmado uma detectação:
 
-* Em eventos: Caso jogador cometa **5 infrações** em uma única infração (Picos de cliques impossíveis por exemplo) o mesmo será punido, ou em uma somatoria de **10 infrações** totais para infrações de combate**.**
+* Em eventos: Caso jogador cometa 25 i**nfrações** em uma única infração (Picos de cliques impossíveis por exemplo) o mesmo será punido, ou em uma somatoria de **25 infrações** totais para infrações de combate**.**
   * Jogador que atingir o limite de infrações será automaticamente punido por **7 dias**.
-  * Está punição não possui apelação, portanto preste bem atenção em suas ações.
-  * Todas punições são acompanhadas das informações de desempenho do jogador/servidor no momento para que não haja falsos positivos.
+  * Todas punições são acompanhadas das informações de desempenho do jogador/servidor no momento para minimização de falsos positivos.
 
+## Apelação
+
+Casos em que jogador acredite que tenha sido falsamente punido, o mesmo poderá solicitar revisão, a staff fará reanalise de todos dados enviados pelo sistema, caso a staff entre em contato com solicitação de telagem o jogador precisará:
+
+* Não ter realizado modificado **nenhum** arquivo, caso tenha feito, sua punição será alterada para permanente.
+* Estar com o jogo aberto na mesma sessão que incidiu na punição.
+
+{% hint style="danger" %}
+Punição das categorias de **AutoClick** não possuem o direito a apelação.
+{% endhint %}
+
+## Avisos
+
+Ações que podem gerar punições automaticas do sistema, utilize por conta em risco:
+
+* Alterações de debounce time.
+* Programas que alterem a funcionalidade de clicks do mouse. (Scroll click, programas de alteração de delay de click etc.)
+* Modificar botões de click para teclas de atalho no minecraft em ambientes de combate.

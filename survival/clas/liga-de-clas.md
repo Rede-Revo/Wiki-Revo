@@ -3,7 +3,7 @@ description: >-
   Reúna membros, crie seu império e destaquem-se no servidor, ações realizadas
   pelos membros dos clã geram pontos de liga, os melhores clãs são
   recompensados!
-cover: ../.gitbook/assets/Inserir_um_titulo_3.png
+cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
@@ -22,28 +22,36 @@ Visualize todas informações com o comando `/liga` e visualize o desempenho de 
 
 Pontos que podem ser obtidos a qualquer momento:
 
-|                Ação               | Pontos |
-| :-------------------------------: | :----: |
-|       Abater o Dragão do Fim      |    1   |
-|        Vencer Evento (Chat)       |    5   |
-| Vencer Evento (Presencial - Time) |    5   |
-|     Vencer Evento (Presencial)    |   10   |
+|            Ação            | Pontos |
+| :------------------------: | :----: |
+|   Abater o Dragão do Fim   |    1   |
+|    Vencer Evento (Chat)    |    2   |
+|    Vencer Evento (Ação)    |    3   |
+| Vencer Evento (Presencial) |    5   |
+|   Vencer evento Dominador  |   25   |
 
 ### Eventos Agendados
 
 Consulte os horários dos eventos clicando[ aqui](https://wiki.rederevo.com/eventos/agenda-de-eventos).
 
-|   Evento Agendado   |              Pontos              |
-| :-----------------: | :------------------------------: |
-|      Guerreiro      |                50                |
-|       Arqueiro      |  Matador: 50 \| Sobrevivente: 25 |
-|        Killer       |  Matador: 50 \| Sobrevivente: 25 |
-| Pré Guerra (MC OFF) |                100               |
-|  Pré Guerra (MC ON) |                150               |
-|        Guerra       |                250               |
-|       Torneio       |    1º: 75 \| 2º: 50 \| 3º: 25    |
-|  Construção do Mês  |  1º: 500 \| 2º: 250 \| 3º: 100   |
-|      Dominador      |             Arena: 25            |
+|       Evento Agendado      |              Pontos             |
+| :------------------------: | :-----------------------------: |
+|          Lanceiro          | Matador: 50 \| Sobrevivente: 25 |
+|          Arqueiro          | Matador: 50 \| Sobrevivente: 25 |
+|          Besteiro          | Matador: 25 \| Sobrevivente: 50 |
+|           Killer           | Matador: 50 \| Sobrevivente: 25 |
+|          Gladiador         | Matador: 25 \| Sobrevivente: 50 |
+|          Guerreiro         |    1º: 75 \| 2º: 50 \| 3º: 25   |
+|     Pré-Guerra (mc OFF)    |               100               |
+|     Pré-Guerra (mc ON)     |               150               |
+| Pré-Guerra com Construção  |               150               |
+|   Pré-Clã x Clã (mc OFF)   |   1º: 150 \| 2º: 100 \| 3º: 75  |
+|      Clã x Clã (mc ON)     |   1º: 100 \| 2º: 75 \| 3º: 50   |
+|           Guerra           |               250               |
+|    Guerra com Construção   |               250               |
+|        Super Guerra        |               500               |
+|           Torneio          |    1º: 75 \| 2º: 50 \| 3º: 25   |
+|      Construção do Mês     | 1º: 1000 \| 2º: 500 \| 3º: 250  |
 
 ## Pontuação Positiva (Inicio de Temporada)
 
@@ -71,24 +79,14 @@ No momento de finalização de pontuação para decidir quais clãs serão defin
 
 Assim como boas ações geram pontos, más ações removem pontos, portanto sejam seletivos no recrutamento de membros, a ação de um jogador pode impactar diretamente no desempenho de todo o clã!
 
-{% hint style="danger" %}
-Jogadores que tentarem burlar a punição ao clã saindo ou debandando o mesmo, implicarão em 2x no valor da penalidade no seu respectivo clã.
-{% endhint %}
-
 |         Ação         | Pontos |
 | :------------------: | :----: |
 |       Guardião       |  -100  |
 | Banimento permanente |  -250  |
 
-{% hint style="warning" %}
-Líderes de clã ao tomar qualquer punição perderão a quantia multiplicada por 2.
-{% endhint %}
 
-## Pontuação Negativa (Regra 18)
 
-Esta seção se aplica exclusivamente a **regra 18**, jogadores punidos pela mesma terão acréscimos na perca de pontos, consulte a regra clicando [aqui](https://wiki.rederevo.com/regras/jogabilidade#01-7).&#x20;
-
-<table><thead><tr><th width="214.12972630246333" align="center">Incidência</th><th align="center">Pontos</th></tr></thead><tbody><tr><td align="center">1º</td><td align="center">-250</td></tr><tr><td align="center">2º</td><td align="center">-350</td></tr><tr><td align="center">3º</td><td align="center">-500</td></tr><tr><td align="center">4º+</td><td align="center">-1000</td></tr><tr><td align="center">Líder</td><td align="center">-1000</td></tr></tbody></table>
+<table><thead><tr><th width="214.12972630246333" align="center">Incidência</th><th align="center">Pontos</th></tr></thead><tbody><tr><td align="center">1º</td><td align="center">-</td></tr></tbody></table>
 
 {% hint style="warning" %}
 Reincidências remetem a punições aplicadas ao clã e não reincidências ao mesmo jogador.
@@ -117,4 +115,8 @@ Sempre ao fim de um ciclo de liga, as recompensas deverão ser reivindicadas por
 
 ¹ Ao clã vencedor da liga mensal será necessário o envio da lista de 10 nicks de membros do clã para a entrega da tag.\
 ² A premiação respeitará ordem de prioridade e será entregue ao primeiro líder que abrir a solicitação através de ticket.
+{% endhint %}
+
+{% hint style="danger" %}
+Caso haja tentativas de contornar punições através da saída ou remoção de membros do clã durante um período de punição, a penalidade será dobrada.
 {% endhint %}
