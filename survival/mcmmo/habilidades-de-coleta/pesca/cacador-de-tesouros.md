@@ -25,7 +25,7 @@ coverY: 0
 | <img src="../../../../.gitbook/assets/image (9) (1) (3).png" alt="" data-size="line"> 1x Balde com bacalhau                   |
 | <img src="../../../../.gitbook/assets/image (1) (1) (3).png" alt="" data-size="line"> 1x Tijolos de pedra musgosos infestados |
 | <img src="../../../../.gitbook/assets/image (7) (3).png" alt="" data-size="line"> 2x Raízes de mangue                         |
-| <img src="../../../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> 3x Propágulo de mangue                      |
+| <img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> 3x Propágulo de mangue                  |
 
 ### » Incomum «
 
@@ -82,7 +82,7 @@ coverY: 0
 
 | » Item Pescado «                                                                                             |
 | ------------------------------------------------------------------------------------------------------------ |
-| <img src="../../../../.gitbook/assets/image (2) (3).png" alt="" data-size="line"> Capacete de diamante       |
+| <img src="../../../../.gitbook/assets/image (2) (3) (2).png" alt="" data-size="line"> Capacete de diamante   |
 | <img src="../../../../.gitbook/assets/image (26) (1).png" alt="" data-size="line"> Peitoral de diamante      |
 | <img src="../../../../.gitbook/assets/image (27) (1).png" alt="" data-size="line"> Calças de diamante        |
 | <img src="../../../../.gitbook/assets/image (30) (1).png" alt="" data-size="line"> Botas de diamante         |

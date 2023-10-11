@@ -82,7 +82,6 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 #### Lista de Administradores
 
 * #### <img src="../.gitbook/assets/image (18) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">**Beazika**</mark> (data de entrada: 29/05/2021)
-* <img src="../.gitbook/assets/2048 (2).png" alt="" data-size="line"> <mark style="color:red;">**yasta**</mark>** (data de entrada: 24/06/2022)**
 
 ## <img src="../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador</mark>
 
@@ -97,7 +96,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
-* N/A
+* <img src="../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:green;">**ManoBrelson**</mark>** (data de entrada: 26/08/2022)**
 
 ## <img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
@@ -115,7 +114,7 @@ O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que co
 
 #### Lista de Coordenadores de Equipe
 
-* #### <img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> <mark style="color:orange;">**IsaacChan**</mark> (data de entrada: 10/01/2022)
+* #### <mark style="color:orange;">N/A</mark>
 
 ## <img src="../.gitbook/assets/image (21) (1).png" alt="" data-size="line"> <mark style="color:orange;">Construtor</mark>
 
@@ -130,7 +129,7 @@ O **construtor** será responsável pelo desenvolvimento de toda construção re
 #### Lista de Construtores
 
 * <img src="../.gitbook/assets/2048 (17).png" alt="" data-size="line"> <mark style="color:orange;">**KnoowzY**</mark>** (data de entrada: 15/09/2022)**
-* <img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> <mark style="color:orange;">**oPitter\_**</mark>** (data de entrada: 10/11/2022)**
+* #### <img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="line"> <mark style="color:orange;">**IsaacChan**</mark> (data de entrada: 10/01/2022)
 
 ## <img src="../.gitbook/assets/image (17) (2).png" alt="" data-size="line"> <mark style="color:yellow;">Ajudante</mark>
 
@@ -145,16 +144,14 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 
 #### Lista de Ajudantes
 
-* <img src="../.gitbook/assets/image (11) (1) (2).png" alt="" data-size="line"> <mark style="color:yellow;">**\*mac7926200**</mark>** (data de entrada: 10/03/2023)**
-* <img src="../.gitbook/assets/2048 (11).png" alt="" data-size="line"> <mark style="color:yellow;">**ManoBrelson**</mark> **(data de entrada: 26/08/2022)**
-* <img src="../.gitbook/assets/image (4) (5).png" alt="" data-size="line"> <mark style="color:yellow;">**AllanDex**</mark>** (data de entrada: 05/01/2022)**
+* <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> <mark style="color:yellow;">**mac79262**</mark>** (data de entrada: 10/03/2023)**
 * <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> <mark style="color:yellow;">**FilipePseny**</mark>** (data de entrada: 15/01/2023)**
 * <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:yellow;">**Gutothefoda**</mark>** (data de entrada: 20/06/2022)**
-* <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> <mark style="color:yellow;">**HGDhess**</mark>** (data de entrada: 10/03/2023)**
+* <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> <mark style="color:yellow;">**Djinnii1**</mark> **(data de entrada: 10/05/2023)**
 * <img src="../.gitbook/assets/2048 (2) (3).png" alt="" data-size="line"> <mark style="color:yellow;">**HyperMikel**</mark>** (data de entrada: 25/04/2023)**
-* <img src="../.gitbook/assets/image (54) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**SACUDOBR**</mark>** (data de entrada: 25/04/2023)**
+* <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"> <mark style="color:yellow;">**Vanesz**</mark>** (data de entrada: 05/08/2023)**
+* <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> <mark style="color:yellow;">**Minozzo**</mark> **(data de entrada: 05/08/2023)**
 * <img src="../.gitbook/assets/image (51) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**mateusfernands**</mark> (data de entrada: 25/04/2023)
-* <img src="../.gitbook/assets/image (56).png" alt="" data-size="line"> <mark style="color:yellow;">**Djinnii1**</mark> (data de entrada: 10/05/2023)
 
 ## <img src="../.gitbook/assets/image (13) (1) (2).png" alt="" data-size="line"> <mark style="color:green;">Aprendiz</mark>
 
