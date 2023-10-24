@@ -17,32 +17,33 @@ Use nosso mod de discord rich presence e mostre o seu carinho pela Rede Revo.\
 #### Clients Permitidos:
 
 * Minecraft + Fabric
-* Minecraft + Forge\*
+* Minecraft + Forge
 * Lunar Client
-* Feather Launcher\*
+* Feather Launcher
 * LabyMod
 * Badlion Client
 * Salwyrr Client
-
-{% hint style="danger" %}
-* Feather Launcher\*: Utilizar minimap na versão 1.19.4 não é permitod.
-{% endhint %}
-
-{% hint style="danger" %}
-Minecraft + Forge\*: Utilizar a versão 1.19.4 está sujeito a punições por trapaça devido ao seu erro de distância de ataque.
-{% endhint %}
 
 #### Mods Permitidos:
 
 * Optifine
 * OptiFabric
+* Sodium
+* Lithium
+* CIT Resewn
+* Entity Texture Features
+* Entity Model Features
 * Fabric API
 * BetterPvP
+* BetterF3
+* Better Ping Display
 * KronHUD
+* DarkKore
 * Voxelmap
 * Litematica (Printer não é permitido)
 * MaLiLib
 * Mod Menu
+* Bobby
 
 {% hint style="info" %}
 Otimizadores de Crystal: Não é permitido nenhuma versão ou variação relacionada a **walsky**.
