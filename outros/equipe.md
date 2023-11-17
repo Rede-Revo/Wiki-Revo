@@ -96,7 +96,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
-* <img src="../.gitbook/assets/image.png" alt="" data-size="line"> <mark style="color:green;">**ManoBrelson**</mark>** (data de entrada: 26/08/2022)**
+* <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"> <mark style="color:green;">**ManoBrelson**</mark>** (data de entrada: 26/08/2022)**
 
 ## <img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
@@ -147,9 +147,9 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 * <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> <mark style="color:yellow;">**mac79262**</mark>** (data de entrada: 10/03/2023)**
 * <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> <mark style="color:yellow;">**FilipePseny**</mark>** (data de entrada: 15/01/2023)**
 * <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:yellow;">**Gutothefoda**</mark>** (data de entrada: 20/06/2022)**
-* <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> <mark style="color:yellow;">**Djinnii1**</mark> **(data de entrada: 10/05/2023)**
+* <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**Djinnii1**</mark> **(data de entrada: 10/05/2023)**
 * <img src="../.gitbook/assets/2048 (2) (3).png" alt="" data-size="line"> <mark style="color:yellow;">**HyperMikel**</mark>** (data de entrada: 25/04/2023)**
-* <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"> <mark style="color:yellow;">**Vanesz**</mark>** (data de entrada: 05/08/2023)**
+* <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**Vanesz**</mark>** (data de entrada: 05/08/2023)**
 * <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> <mark style="color:yellow;">**Minozzo**</mark> **(data de entrada: 05/08/2023)**
 * <img src="../.gitbook/assets/image (51) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**mateusfernands**</mark> (data de entrada: 25/04/2023)
 
