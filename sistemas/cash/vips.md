@@ -11,7 +11,11 @@ Todos os VIPs possuem duração de 30 dias.
 {% endhint %}
 
 {% hint style="success" %}
-Todos os VIPs possuem acesso ao **`/fly`** no **Lobby**!
+Todos os VIPs possuem acesso ao **`/fly`** no **Lobby**
+{% endhint %}
+
+{% hint style="danger" %}
+Caso você ative múltiplos tipos de VIPs, cada um deles continuará a contar o tempo de forma independente.
 {% endhint %}
 
 ## O que são VIPs?

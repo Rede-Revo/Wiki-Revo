@@ -228,6 +228,8 @@
     * [🗺 Evento Desbravador](eventos/eventos-survival/evento-desbravador.md)
   * [🎲 Aleatórios](survival/eventos-do-servidor/aleatorios/README.md)
     * [🌪 Evento Dominador](eventos/eventos-survival/evento-dominador-arena.md)
+* [Melhorias](survival/melhorias/README.md)
+  * [Funil Inteligente](survival/melhorias/funil-inteligente.md)
 
 ## ━━━━ BOXPVP  ━━━━
 
