@@ -110,4 +110,24 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLV - 16/07/2023   |         `Ghidorah`         |   `IronGolem`  |
 |   Edição XLVI - 23/07/2023  |         `Mephisto`         |  `Beckhampro`  |
 |  Edição XLVII - 31/07/2023  |         `IronGolem`        |  `Beckhampro`  |
-|  Edição XLVIII - 06/08/2023 |              -             |        -       |
+|  Edição XLVIII - 06/08/2023 |        `kelton1223`        |   `IronGolem`  |
+|   Edição XLIX - 13/08/2023  |         `IronGolem`        |    `RyanRX2`   |
+|    Edição L - 20/08/2023    |         `Mephisto`         |   `Mephisto`   |
+|    Edição LI - 25/08/2023   |           `Hess`           |  `Beckhampro`  |
+|   Edição LII - 31/08/2023   |        `Beckhampro`        |  `Beckhampro`  |
+|   Edição LIII - 07/09/2023  |         `Mephisto`         |  `Beckhampro`  |
+|   Edição LIV - 14/09/2023   |        `Beckhampro`        |  `Beckhampro`  |
+|    Edição LV - 21/09/2023   |         `Mephisto`         |   `Mephisto`   |
+|   Edição LVI - 28/09/2023   |         `Pequenna`         |  `Beckhampro`  |
+|   Edição LVII - 05/10/2023  |         `Mephisto`         |  `Beckhampro`  |
+|  Edição LVIII - 12/10/2023  |         `_IRagnar`         |   `_IRagnar`   |
+|   Edição LIX - 19/10/2023   |         `Mephisto`         |      `PSD`     |
+|    Edição LX - 26/10/2023   |          `jggcvrl`         |  `Beckhampro`  |
+|   Edição LXI - 02/11/2023   |        `joaorodini`        |  `joaorodini`  |
+|   Edição LXII - 09/11/2023  |         `Mephisto`         |   `Mephisto`   |
+|  Edição LXIII - 16/11/2023  |          `yRodini`         |   `Mephisto`   |
+|   Edição LXIV - 23/11/2023  |         `Mephisto`         |   `Mephisto`   |
+|   Edição LXV - 30/11/2023   |      `BaelorTargaryen`     |   `Cryngpeep`  |
+|         Edição LXVI         |              -             |        -       |
+|         Edição LXVII        |              -             |        -       |
+|        Edição LXVIII        |              -             |        -       |

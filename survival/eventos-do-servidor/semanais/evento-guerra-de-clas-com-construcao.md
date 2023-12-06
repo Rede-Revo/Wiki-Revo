@@ -4,7 +4,7 @@ description: >-
   Clãs com Construção.
 ---
 
-# Evento Guerra de Clãs com Construção
+# 🚧 Evento Guerra de Clãs com Construção
 
 ## » Como Funciona
 
@@ -65,6 +65,30 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 * X
 
-## » Ranking de Vencedores
-
 ## » Histórico do Evento
+
+
+
+|         » Edição «        | » TAG do Clã « |  » Nome do Clã « |
+| :-----------------------: | :------------: | :--------------: |
+|   Edição I - 29/07/2023   |     \[TDU]     | Terror da Uganda |
+|   Edição II - 05/08/2023  |     \[PSD]     |     Paysandu     |
+|  Edição III - 12/08/2023  |     \[PSD]     |     Paysandu     |
+|   Edição IV - 19/08/2023  |     \[PSD]     |     Paysandu     |
+|   Edição V - 26/08/2023   |     \[PSD]     |     Paysandu     |
+|   Edição VI - 02/09/2023  |     \[PSD]     |     Paysandu     |
+|  Edição VII - 09/09/2023  |     \[PSD]     |     Paysandu     |
+|  Edição VIII - 16/09/2023 |     \[PSD]     |     Paysandu     |
+|   Edição IX - 23/09/2023  |     \[PSD]     |     Paysandu     |
+|   Edição X - 30/09/2023   |     \[PSD]     |     Paysandu     |
+|   Edição XI - 07/10/2023  |     \[jgg]     |      jggcvrl     |
+|  Edição XII - 14/10/2023  |     \[TDU]     | Terror da Uganda |
+|  Edição XIII - 21/10/2023 |     \[PTR]     |      Petardo     |
+|  Edição XIV - 28/10/2023  |     \[PTR]     |      Petardo     |
+|   Edição XV - 04/11/2023  |     \[PSD]     |     Paysandu     |
+|  Edição XVI - 11/11/2023  |     \[PSD]     |     Paysandu     |
+|  Edição XVII - 18/11/2023 |     \[PSD]     |     Paysandu     |
+| Edição XVIII - 25/11/2023 |     \[HGD]     |    Highgarden    |
+|  Edição XIX - 02/12/2023  |     \[HGD]     |    Highgarden    |
+|        Edição XX -        |        -       |         -        |
+|        Edição XXI -       |        -       |         -        |

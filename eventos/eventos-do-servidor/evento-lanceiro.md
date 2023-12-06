@@ -59,37 +59,57 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## » Histórico do Evento
 
-|           Edição           | Jogador(a) Matador | Último(a) Sobrevivente |
-| :------------------------: | :----------------: | :--------------------: |
-|    Edição I - 11/01/2023   |      `tenero8`     |        `tenero8`       |
-|   Edição II - 18/01/2023   |     `nobru_ff`     |       `nobru_ff`       |
-|   Edição III - 25/01/2023  |    `Beckhampro`    |        `OKOTAW0`       |
-|    Edição IV - 1/02/2023   |     `nobru_ff`     |       `nobru_ff`       |
-|    Edição V - 08/02/2023   |      `yJaapa`      |       `DerJecker`      |
-|   Edição VI - 15/02/2023   |     `cryngpeep`    |        `Geanxf3`       |
-|   Edição VII - 22/02/2023  |     `_IRagnar`     |      `Danger_Damo`     |
-|  Edição VIII - 01/03/2023  |    `Mat_redston`   |      Mat\_redston      |
-|   Edição IX - 08/03/2023   |    `Mat_redston`   |      `Mat_redston`     |
-|    Edição X - 15/03/2023   |      `RyanRX2`     |       `peitista`       |
-|   Edição XI - 22/03/2023   | `pevepassssssssss` |   `pevepassssssssss`   |
-|   Edição XII - 29/03/2023  |   `Atsutherunner`  |        `Geanxf3`       |
-|  Edição XIII - 05/04/2023  |      `Geanxf3`     |        `Geanxf3`       |
-|   Edição XIV - 12/04/2023  |      `RyanRX2`     |        `RyanRX2`       |
-|   Edição XV - 19/04/2023   |      `RyanRX2`     |        `RyanRX2`       |
-|   Edição XVI - 28/04/2023  |     `Randoomm`     |      `Mat_redston`     |
-|  Edição XVII - 03/05/2023  |     `IronGolem`    |       `Randoomm`       |
-|  Edição XVIII - 10/05/2023 |     `IronGolem`    |       `IronGolem`      |
-|   Edição XIX - 17/05/2023  |    `Beckhampro`    |      `Beckhampro`      |
-|   Edição XX - 24/05/2023   |      `Geanxf3`     |        `Geanxf3`       |
-|   Edição XXI - 31/05/2023  |      `Roxzin`      |        `Roxzin`        |
-|  Edição XXII - 07/06/2023  |    `Beckhampro`    |      `Beckhampro`      |
-|  Edição XXIII - 14/06/2023 |     `IronGolem`    |       `IronGolem`      |
-|  Edição XXIV - 21/06/2023  |     `IronGolem`    |       `IronGolem`      |
-|   Edição XXV - 28/06/2023  |     `IronGolem`    |       `IronGolem`      |
-|  Edição XXVI - 05/07/2023  |      `Roxzin`      |        `KKlauz`        |
-|  Edição XXVII - 12/07/2023 |    `Beckhampro`    |        `NEFISKE`       |
-| Edição XXVIII - 19/07/2023 |     `IronGolem`    |       `IronGolem`      |
-|  Edição XXIX - 26/07/2023  | `pevepassssssssss` |   `pevepassssssssss`   |
-|  Edição XXX -  02/08/2023  |    `Mat_redston`   |      `Mat_redston`     |
-|  Edição XXXI - 09/08/2023  |          -         |            -           |
+|            Edição           | Jogador(a) Matador | Último(a) Sobrevivente |
+| :-------------------------: | :----------------: | :--------------------: |
+|    Edição I - 11/01/2023    |      `tenero8`     |        `tenero8`       |
+|    Edição II - 18/01/2023   |     `nobru_ff`     |       `nobru_ff`       |
+|   Edição III - 25/01/2023   |    `Beckhampro`    |        `OKOTAW0`       |
+|    Edição IV - 1/02/2023    |     `nobru_ff`     |       `nobru_ff`       |
+|    Edição V - 08/02/2023    |      `yJaapa`      |       `DerJecker`      |
+|    Edição VI - 15/02/2023   |     `cryngpeep`    |        `Geanxf3`       |
+|   Edição VII - 22/02/2023   |     `_IRagnar`     |      `Danger_Damo`     |
+|   Edição VIII - 01/03/2023  |    `Mat_redston`   |      Mat\_redston      |
+|    Edição IX - 08/03/2023   |    `Mat_redston`   |      `Mat_redston`     |
+|    Edição X - 15/03/2023    |      `RyanRX2`     |       `peitista`       |
+|    Edição XI - 22/03/2023   | `pevepassssssssss` |   `pevepassssssssss`   |
+|   Edição XII - 29/03/2023   |   `Atsutherunner`  |        `Geanxf3`       |
+|   Edição XIII - 05/04/2023  |      `Geanxf3`     |        `Geanxf3`       |
+|   Edição XIV - 12/04/2023   |      `RyanRX2`     |        `RyanRX2`       |
+|    Edição XV - 19/04/2023   |      `RyanRX2`     |        `RyanRX2`       |
+|   Edição XVI - 28/04/2023   |     `Randoomm`     |      `Mat_redston`     |
+|   Edição XVII - 03/05/2023  |     `IronGolem`    |       `Randoomm`       |
+|  Edição XVIII - 10/05/2023  |     `IronGolem`    |       `IronGolem`      |
+|   Edição XIX - 17/05/2023   |    `Beckhampro`    |      `Beckhampro`      |
+|    Edição XX - 24/05/2023   |      `Geanxf3`     |        `Geanxf3`       |
+|   Edição XXI - 31/05/2023   |      `Roxzin`      |        `Roxzin`        |
+|   Edição XXII - 07/06/2023  |    `Beckhampro`    |      `Beckhampro`      |
+|  Edição XXIII - 14/06/2023  |     `IronGolem`    |       `IronGolem`      |
+|   Edição XXIV - 21/06/2023  |     `IronGolem`    |       `IronGolem`      |
+|   Edição XXV - 28/06/2023   |     `IronGolem`    |       `IronGolem`      |
+|   Edição XXVI - 05/07/2023  |      `Roxzin`      |        `KKlauz`        |
+|  Edição XXVII - 12/07/2023  |    `Beckhampro`    |        `NEFISKE`       |
+|  Edição XXVIII - 19/07/2023 |     `IronGolem`    |       `IronGolem`      |
+|   Edição XXIX - 26/07/2023  | `pevepassssssssss` |   `pevepassssssssss`   |
+|   Edição XXX -  02/08/2023  |    `Mat_redston`   |      `Mat_redston`     |
+|   Edição XXXI - 09/08/2023  |      `yJaapa`      |        `yJaapa`        |
+|  Edição XXXII - 18/08/2023  |     `Randoomm`     |       `cryngpeep`      |
+|  Edição XXXIII - 23/08/2023 |     `Hercules`     |       `Randoomm`       |
+|  Edição XXXIV - 28/08/2023  |     `YangLean`     |       `YangLean`       |
+|  Edição XXXV - 04/09/2023   |    `Fluminense`    |      `Fluminense`      |
+|  Edição XXXVI - 11/09/2023  |     `Randoomm`     |       `Randoomm`       |
+|  Edição XXXVII - 18/09/2023 |     `Rxndoomm`     |       `Rxndoomm`       |
+| Edição XXXVIII - 25/09/2023 |        `Rad`       |      `Beckhampro`      |
+|  Edição XXXIX - 02/10/2023  |     `Cryngpeep`    |    `tanjir0BedWars`    |
+|    Edição XL - 09/10/2023   |        `1hz`       |     `Forsakenn_xx`     |
+|   Edição XLI - 16/10/2023   |     `Freeeza9x`    |       `Freeeza9x`      |
+|   Edição XLII - 23/10/2023  |   `duasdamatina`   |     `duasdamatina`     |
+|  Edição XLIII - 30/10/2023  |     `Mephisto`     |       `Mephisto`       |
+|   Edição XLIV - 06/11/2023  |     `Mephisto`     |        `Flexzi`        |
+|   Edição XLV - 13/11/2023   |     `Mephisto`     |       `LKryan007`      |
+|   Edição XLVI - 20/11/2023  |   `GolemDeFerro`   |     `GolemDeFerro`     |
+|  Edição XLVII - 27/11/2023  |   `GolemDeFerro`   |       `Cryngpeep`      |
+|  Edição XLVIII - 04/12/2023 |       `dzx7z`      |       `nicogg15`       |
+|        Edição XLIX -        |          -         |            -           |
+|          Edição L -         |          -         |            -           |
+|         Edição LI -         |          -         |            -           |
 

@@ -71,18 +71,21 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 |   » Colocação «  |          » Clã «          | » Número de Vitórias « |
 | :--------------: | :-----------------------: | :--------------------: |
-|    🥇 1º Lugar   |     \[666] The Ritual     |           21           |
+|    🥇 1º Lugar   |     \[666] The Ritual     |           22           |
 |    🥈 2º Lugar   |      \[sbN] SiberiaN      |           18           |
 |    🥉 3º Lugar   |       \[ZZZ] Bloods       |           13           |
-|  **🎖** 4º Lugar |      \[suN] Sunshine      |            9           |
-|  **🎖** 5º Lugar |     \[HGD] Highgarden     |            8           |
-|  **🎖 6**º Lugar | \[knS] Kawamura no Senshi |            6           |
-|  **🎖** 7º Lugar |      \[VhL] Valhalla      |            6           |
-|  **🎖** 8º Lugar |   \[NtP] Ninguém ta Puro  |            5           |
-|  **🎖** 9º Lugar |        \[TkA] Taka        |            3           |
-| **🎖** 10º Lugar |      \[B12] Calcitran     |            1           |
-| **🎖** 11º Lugar |     \[COL] Cade o Loló    |            1           |
+|  **🎖** 4º Lugar |      \[PSD] Paysandu      |           10           |
+|  **🎖** 5º Lugar |      \[suN] Sunshine      |            9           |
+|  **🎖** 6º Lugar |     \[HGD] Highgarden     |            8           |
+|  **🎖 7**º Lugar | \[knS] Kawamura no Senshi |            6           |
+|  **🎖** 8º Lugar |      \[VhL] Valhalla      |            6           |
+|  **🎖** 9º Lugar |   \[NtP] Ninguém ta Puro  |            5           |
+| **🎖** 10º Lugar |        \[TkA] Taka        |            3           |
+| **🎖** 11º Lugar |       \[PTR] Petardo      |            2           |
 | **🎖** 12º Lugar |       \[30P] 30Praum      |            1           |
+| **🎖** 13º Lugar |      \[B12] Calcitran     |            1           |
+| **🎖** 14º Lugar |     \[PTR] El Petardo     |            1           |
+| **🎖** 14º Lugar |     \[COL] Cade o Loló    |            1           |
 
 ## » Histórico do Evento
 
@@ -181,5 +184,20 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |    Edição XCI - 09/07/2023   |     \[HGD]     |     Highgarden     |
 |   Edição XCII - 16/07/2023   |     \[HGD]     |     Highgarden     |
 |   Edição XCIII - 23/07/2023  |     \[666]     |     The Ritual     |
-|    Edição XCIV -06/08/2023   |        -       |          -         |
-|    Edição XCV - 13/08/2023   |        -       |          -         |
+|   Edição XCIV - 06/08/2023   |     \[PSD]     |      Paysandu      |
+|    Edição XCV - 13/08/2023   |     \[666]     |     The Ritual     |
+|   Edição XCVI - 20/08/2023   |     \[PSD]     |      Paysandu      |
+|   Edição XCVII - 03/09/2023  |     \[PSD]     |      Paysandu      |
+|  Edição XCVIII - 10/09/2023  |     \[PSD]     |      Paysandu      |
+|   Edição XCIX - 17/09/2023   |     \[PSD]     |      Paysandu      |
+|     Edição C - 01/10/2023    |     \[PSD]     |      Paysandu      |
+|    Edição CI - 08/10/2023    |     \[PTR]     |     El Petardo     |
+|    Edição CII - 15/10/2023   |     \[PTR]     |       Petardo      |
+|   Edição CIII - 22/10/2023   |     \[PTR]     |       Petardo      |
+|    Edição CIV - 05/11/2023   |     \[PSD]     |      Paysandu      |
+|    Edição CV - 12/11/2023    |     \[PSD]     |      Paysandu      |
+|    Edição CVI - 19/11/2023   |     \[PSD]     |      Paysandu      |
+|   Edição CVII - 03/12/2023   |     \[PSD]     |      Paysandu      |
+|        Edição CVIII -        |        -       |          -         |
+|         Edição CIX -         |        -       |          -         |
+|          Edição CX -         |        -       |          -         |

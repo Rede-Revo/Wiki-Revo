@@ -67,13 +67,15 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 ## » Ranking de Vencedores
 
-|  » Colocação «  |        » Clã «      | » Número de Vitórias «       |
-| :-------------: | :-----------------: | :--------------------------: |
-|   🥇 1º Lugar   |  \[666] The Ritual  |               4              |
-|   🥈 2º Lugar   |  \[HGD] Highgarden  |               2              |
-|   🥉 3º Lugar   |   \[HiT] Hit Kill   |               1              |
-| **🎖** 4º Lugar | \[CTR] Construtores |               1              |
-| **🎖** 5º Lugar |     \[021] Crime    |               1              |
+|    » Colocação «    |        » Clã «      | » Número de Vitórias «       |
+| :-----------------: | :-----------------: | :--------------------------: |
+|     🥇 1º Lugar     |  \[666] The Ritual  |               4              |
+|     🥈 2º Lugar     |   \[PSD] Paysandu   |               3              |
+|     🥉 3º Lugar     |  \[HGD] Highgarden  |               2              |
+|   **🎖** 4º Lugar   |   \[HiT] Hit Kill   |               1              |
+|   **🎖** 5º Lugar   | \[CTR] Construtores |               1              |
+|   **🎖** 6º Lugar   |     \[021] Crime    |               1              |
+| **🎖** 7**º** Lugar |    \[PTR] Petardo   |               1              |
 
 ## » Histórico do Evento
 
@@ -88,4 +90,8 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |  Edição VII - 28/05/2023 |     \[HGD]     |    Highgarden   |
 | Edição VIII - 25/06/2023 |     \[HGD]     |    Highgarden   |
 |  Edição IX - 01/08/2023  |     \[666]     |    The Ritual   |
-|   Edição X - 27/08/2023  |        -       |        -        |
+|   Edição X - 27/08/2023  |     \[PSD]     |     Paysandu    |
+|  Edição XI - 24/09/2023  |     \[PSD]     |     Paysandu    |
+|  Edição XII - 29/10/2023 |     \[PTR]     |     Petardo     |
+| Edição XIII - 26/11/2023 |     \[PSD]     |     Paysandu    |
+|  Edição XIV - 31/11/2023 |        -       |        -        |

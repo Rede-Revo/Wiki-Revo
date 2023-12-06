@@ -143,5 +143,22 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |    Edição CXI - 14/07/2023   |              `uMasteer`             |              `Beckhampro`             |
 |   Edição CXII - 21/07/2023   |              `oFelpz07`             |              `Beckhampro`             |
 |   Edição CXIII - 28/07/2023  |              `oFelpz07`             |              `Beckhampro`             |
-|   Edição CXIV - 04/08/2023   |                  -                  |                   -                   |
-|    Edição CXV - 11/08/2023   |                  -                  |                   -                   |
+|   Edição CXIV - 04/08/2023   |              `Mephisto`             |              `Beckhampro`             |
+|    Edição CXV - 11/08/2023   |             `IronGolem`             |              `IronGolem`              |
+|   Edição CXVI - 18/08/2023   |               `uSnox`               |              `Beckhampro`             |
+|   Edição CXVII - 24/08/2023  |              `Randoomm`             |               `Randoomm`              |
+|  Edição CXVIII - 01/09/2023  |             `Fluminense`            |              `Fluminense`             |
+|   Edição CXIX - 08/09/2023   |             `Cryngpeep`             |              `Cryngpeep`              |
+|    Edição CXX - 15/09/2023   |        `--------------------`       |              `Beckhampro`             |
+|   Edição CXXI - 22/09/2023   |              `Petardo`              |             `MacroDaRazer`            |
+|   Edição CXXII - 07/10/2023  |          `RandoommWITHDNS`          |              `Beckhampro`             |
+|  Edição CXXIII - 13/10/2023  |           `Mephistopheles`          |                `mamaco`               |
+|   Edição CXXIV - 20/10/2023  |              `jggcvrl`              |               `jggcvrl`               |
+|   Edição CXXV - 27/10/2023   |              `zTeteus_`             |               `zTeteus_`              |
+|   Edição CXXVI - 03/11/2023  |             `Freeeza9x`             |              `joaorodini`             |
+|  Edição CXXVII - 10/11/2023  |               `uSnox`               |              `yFreestyle`             |
+|  Edição CXXVIII - 17/11/2023 |               `Flexzi`              |              `Cryngpeep`              |
+|   Edição CXIX - 24/11/2023   |              `Mephisto`             |               `Mephisto`              |
+|   Edição CXXX - 01/12/2023   |           `gabyzinhaaasx`           |               `njrnthz`               |
+|        Edição CXXXI -        |                  -                  |                   -                   |
+|        Edição CXXXII -       |                  -                  |                   -                   |

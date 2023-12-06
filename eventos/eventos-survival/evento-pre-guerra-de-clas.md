@@ -137,5 +137,23 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição XCVIII - 11/07/2023  |                \[HGD]               |              Highgarden             |
 |   Edição XCIX - 18/07/2023   |                \[HGD]               |              Highgarden             |
 |     Edição C - 25/07/2023    |                \[666]               |              The Ritual             |
-|          Edição CI -         |                  -                  |                  -                  |
-|         Edição CII -         |                  -                  |                  -                  |
+|    Edição CI - 04/08/2023    |                \[PSD]               |               Paysandu              |
+|    Edição CII - 08/08/2023   |                \[666]               |              The Ritual             |
+|   Edição CIII - 18/08/2023   |                \[PSD]               |               Paysandu              |
+|    Edição CIV - 22/08/2023   |                \[PSD]               |               Paysandu              |
+|    Edição CV - 29/08/2023    |                \[PSD]               |               Paysandu              |
+|    Edição CVI - 05/09/2023   |                \[PSD]               |               Paysandu              |
+|   Edição CVII - 12/09/2023   |                \[PSD]               |               Paysandu              |
+|   Edição CVIII - 19/09/2023  |                \[PSD]               |               Paysandu              |
+|    Edição CIX - 26/09/2023   |                \[TBF]               |           The Best Farmers          |
+|    Edição CX - 03/10/2023    |                \[PSD]               |               Paysandu              |
+|    Edição CXI - 10/10/2023   |                \[PTR]               |              El Petardo             |
+|   Edição CXII - 17/10/2023   |                \[PTR]               |               Petardo               |
+|   Edição CXIII - 24/10/2023  |                \[PTR]               |               Petardo               |
+|   Edição CXIV - 31/10/2023   |                \[PTR]               |               Petardo               |
+|    Edição CXV - 07/11/2023   |                \[PSD]               |               Paysandu              |
+|   Edição CXVI - 14/11/2023   |                \[PSD]               |               Paysandu              |
+|   Edição CXVII - 21/11/2023  |                \[PSD]               |               Paysandu              |
+|  Edição CXVIII - 28/11/2023  |                \[HGD]               |              Highgarden             |
+|         Edição CXIX -        |                  -                  |                  -                  |
+|         Edição CXX -         |                  -                  |                  -                  |
