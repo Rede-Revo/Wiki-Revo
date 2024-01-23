@@ -6,6 +6,10 @@
   * [🎮 Jogabilidade](regras/jogabilidade.md)
   * [📱 Discord](regras/discord.md)
   * [🚧 MODs e Clients permitidos](regras/mods-e-clients-permitidos.md)
+* [🧑💼 Contas](contas/README.md)
+  * [🔒 Proteção](contas/protecao.md)
+  * [🔐 Recuperação](contas/recuperacao.md)
+  * [🆔 Troca de Nick](contas/troca-de-nick.md)
 
 ## 🌎 GLOBAL
 
