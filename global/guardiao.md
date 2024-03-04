@@ -2,7 +2,7 @@
 description: Promovendo Justiça e Equidade no Nosso Servidor.
 ---
 
-# 🛡 Guardião
+# 🛡️ Guardião
 
 ## Introdução
 
@@ -34,7 +34,7 @@ Casos em que jogador acredite que tenha sido falsamente punido, o mesmo poderá 
 * Estar com o jogo aberto na mesma sessão que incidiu na punição.
 
 {% hint style="danger" %}
-Punição das categorias de **AutoClick** não possuem o direito a apelação.
+Punição das categorias de **AutoClick** e **Reach** não possuem o direito a apelação.
 {% endhint %}
 
 ## Avisos
