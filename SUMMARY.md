@@ -109,6 +109,8 @@
 ## 🌳 SURVIVAL
 
 * [🤖 Comandos](survival/comandos.md)
+* [Coins](survival/coins/README.md)
+  * [Política de Inatividade](survival/coins/politica-de-inatividade.md)
 * [🪙 Cash](survival/cash/README.md)
   * [💎 VIPs](survival/cash/vips.md)
   * [🏷️ TAGs](survival/cash/tags.md)
