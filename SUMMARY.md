@@ -19,6 +19,7 @@
   * [🏷️ TAGs](sistemas/cash/tags.md)
   * [🌻 Divindade](sistemas/cash/divino-a.md)
   * [💰 Adquirir Cash](https://rederevo.com/itens)
+  * [🎂 Desconto de Aniversario](global/cash/desconto-de-aniversario.md)
 * [🎲 Temporadas](sistemas/temporadas.md)
 * [🪓 mcMMO](global/mcmmo/README.md)
   * [🌿 Habilidades de Coleta](global/mcmmo/habilidades-de-coleta/README.md)
