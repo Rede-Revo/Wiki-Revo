@@ -11,7 +11,7 @@ coverY: 0
 
 
 
-## Regra 08 - Nick ou Skin Inadequada <a href="#01" id="01"></a>
+## Regra 08 - Nick ou Skin Inadequada <a href="#id-01" id="id-01"></a>
 
 Criar uma conta com nickname com mensagem sexual, discriminatória, ofensiva aos jogadores ou ao servidor ou com ataques à pessoas ou grupos.
 
@@ -66,7 +66,7 @@ _Reportar erros são uma forma de apoio direto ao servidor, os mesmos devem ser 
 * A depender da gravidade do erro grave poderá ser entregue mais recompensas.
 * Nível de erro: Fonte de recurso infinita.
 
-## Regra 10 - Conta falsa <a href="#01" id="01"></a>
+## Regra 10 - Conta falsa <a href="#id-01" id="id-01"></a>
 
 Criar uma conta secundária com intuito de cometer qualquer infração, para benefício próprio ou prejuízo a rede. As punições abaixo serão aplicadas à sua conta principal uma vez que a conta falsa será **permanentemente** punida.
 
@@ -78,7 +78,7 @@ Será definida como conta principal a conta do IP com o registro mais antigo.
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente</td></tr></tbody></table>
 
-## Regra 11 - Estorno de pagamento <a href="#01" id="01"></a>
+## Regra 11 - Estorno de pagamento <a href="#id-01" id="id-01"></a>
 
 Tentar realizar estorno da compra de um produto adquirido em nossa rede através das plataformas de pagamento ou operadora de cartão de crédito. A tentativa já é suficiente para punição, sendo irrelevante se o estorno foi de fato consolidado. Todos produtos em nossa loja virtual possuem termos, se atente a eles!
 
@@ -86,7 +86,7 @@ Tentar realizar estorno da compra de um produto adquirido em nossa rede através
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center"><strong>Black List</strong></td></tr></tbody></table>
 
-## Regra 12 - Comércio não autorizado <a href="#01" id="01"></a>
+## Regra 12 - Comércio não autorizado <a href="#id-01" id="id-01"></a>
 
 Consiste na tentativa de negociação e/ou transação de itens ou vantagens no servidor em troca de produtos externos (sem relação com o servidor).
 
@@ -144,7 +144,7 @@ Alterar fatos, tais como provas ou acontecimentos, para benefício próprio ou p
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento permanente</td></tr></tbody></table>
 
-## Regra 15 - Anti-jogo <a href="#01" id="01"></a>
+## Regra 15 - Anti-jogo <a href="#id-01" id="id-01"></a>
 
 
 
@@ -159,6 +159,7 @@ Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relac
 * Editar itens seja seu nome, lore ou encantamento com intuito de confundir jogadores (Renomear um gancho de armadilha com nome de chave misteriosa por exemplo). Inclui a edição de itens que induza algo mas na verdade não é aquilo, caracterizando um item falso, por exemplo: colocar apenas uma parte da shulker com 64 de um determinado item e o resto colocar apenas um item por slot da capacidade da shulker, enganando o jogador.
 * Mandar TPA para algum jogador com finalidade exclusiva de o prejudicar e se apossar de seus itens;
 * Perseguir jogadores por meio da jogabilidade, com meio exclusivo de o prejudicar (ficar em volta de proteções esperando o jogador sair da mesma com finalidade exclusiva de o perturbar/matar, por exemplo). Casos de perseguição o jogador denunciado será previamente avisado, posteriormente ao aviso, se persistir, será punido.
+* [Roubos que decorreram de acordos, como compra, venda ou trocas de itens ou terrenos, ou a prestação de serviços, como arar terrenos, onde há evidências claras do acordo e de sua violação.](#user-content-fn-1)[^1]
 
 {% hint style="danger" %}
 O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros jogadores, roubos **não** são incluídos em nenhum tópico.
@@ -168,7 +169,7 @@ O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Aviso + Prisão de 5 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Prisão de 10 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Banimento Permanente</td></tr></tbody></table>
 
-## Regra 16 - Griefing <a href="#01" id="01"></a>
+## Regra 16 - Griefing <a href="#id-01" id="id-01"></a>
 
 Construir ou destruir de forma aleatória pelo mapa colocando lava, água, etc. Este tópico também se aplica para construções obscenas, ou qualquer construção que infrinja quaisquer outras regras, inclui o fato de ser fora de um terreno ou dentro de um terreno que você tenha permissão.
 
@@ -188,7 +189,7 @@ Dica: Para evitar problemas futuros, utilize os mundos de recursos, The End ou N
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Aviso + Prisão de 5 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Prisão de 10 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Banimento Permanente</td></tr></tbody></table>
 
-## Regra 17 - Cúmplice de Infrator <a href="#01" id="01"></a>
+## Regra 17 - Cúmplice de Infrator <a href="#id-01" id="id-01"></a>
 
 Bancar ou se aliar a jogadores praticando infrações referentes a jogabilidade.
 
@@ -200,7 +201,7 @@ O ato de não reportar trapaceiros explícitos ([Regra 18](jogabilidade.md#01-7)
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Prisão de 5 dias</td></tr><tr><td align="center">3</td><td align="center">Prisão de 10 dias</td></tr><tr><td align="center">4</td><td align="center">Banimento Permanente</td></tr></tbody></table>
 
-## Regra 18 - Uso de Trapaças <a href="#01" id="01"></a>
+## Regra 18 - Uso de Trapaças <a href="#id-01" id="id-01"></a>
 
 O uso de clientes, programas, modificações (mods), injeções no client que de vantagens extras como por exemplo: encontrar minérios e outros blocos, bater mais rápido, bater mais longe, correr mais rápido, inclui o uso de de qualquer hardware, software ou firmware que reproduza clicks de forma automática, sejam macros, mouses ou aplicações.
 
@@ -210,7 +211,7 @@ Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento permanente</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente + Níveis das Habilidades redefinidos para 50% (mcMMO)</td></tr></tbody></table>
 
-## Regra 19 -  **Uso irregular da tag "Mito"** <a href="#01" id="01"></a>
+## Regra 19 -  **Uso irregular da tag "Mito"** <a href="#id-01" id="id-01"></a>
 
 Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só pode ser adquirida apenas em algumas situações. Comercializar ou arquivar em conta secundária esta TAG resultará em punição. Saiba mais sobre a TAG: [Clique aqui!](broken-reference)
 
@@ -221,3 +222,5 @@ Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só 
 {% hint style="danger" %}
 As regras podem sofrer alterações sem avisos prévios, portanto fique atento!
 {% endhint %}
+
+[^1]: Jogadores flagrados em atos ilícitos serão prontamente notificados pela equipe e entrarão em um período de quarentena, aguardando a resolução do caso.
