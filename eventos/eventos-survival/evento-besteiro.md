@@ -128,6 +128,26 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição LXIII - 16/11/2023  |          `yRodini`         |   `Mephisto`   |
 |   Edição LXIV - 23/11/2023  |         `Mephisto`         |   `Mephisto`   |
 |   Edição LXV - 30/11/2023   |      `BaelorTargaryen`     |   `Cryngpeep`  |
-|         Edição LXVI         |              -             |        -       |
-|         Edição LXVII        |              -             |        -       |
-|        Edição LXVIII        |              -             |        -       |
+|   Edição LXVI - 09/12/2023  |         `Mephisto`         |    `Mephisto`  |
+|  Edição LXVII - 14/12/2023  |       `GolemDeFerro`       |   `Mephisto`   |
+|  Edição LXVIII - 21/12/2023 |         `shyyyyBoo`        |   `Mephisto`   |
+|   Edição LXIX - 28/12/2023  |           `yHess`          |  `kelton1223`  |
+|   Edição LXX - 04/01/2024   |       _`FiddleAFox`_       |   `Cryngpeep`  |
+|   Edição LXXI - 11/01/2024  |         `Mephisto`         |   `Mephisto`   |
+|  Edição LXXII - 18/01/2024  |         `Mephisto`         |   `Mephisto`   |
+|  Edição LXXIII - 25/01/2024 |          `KKlauz`          |   `Mephisto`   |
+|  Edição LXXIV - 01/02/2024  |         `Mephisto`         |   `Mephisto`   |
+|   Edição LXXV - 08/02/2024  |        `kelton1223`        |   `Mephisto`   |
+|  Edição LXXVI - 15/02/2024  |         `Mephisto`         |   `Mephisto`   |
+|  Edição LXXVII - 22/02/2024 |         `Mephisto`         |   `Mephisto`   |
+| Edição LXXVIII - 29/02/2024 |         `Mephisto`         |   `Mephisto`   |
+|  Edição LXXIX - 07/03/2024  |          `KKlauz`          |   `Mephisto`   |
+|   Edição LXXX - 14/03/2024  |        `kelton1223`        |   `Mephisto`   |
+|  Edição LXXXI - 21/03/2024  |         `Mephisto`         |   `Mephisto`   |
+|  Edição LXXXII - 28/03/2024 |        `kelton1223`        |  `kelton1223`  |
+| Edição LXXXIII - 04/04/2024 |        `kelton1223`        |   `Cryngpeep`  |
+|       Edição LXXXIV -       |                            |                |
+|        Edição LXXXV -       |                            |                |
+|       Edição LXXXVI -       |                            |                |
+|       Edição LXXXVII -      |                            |                |
+|      Edição LXXXVIII -      |                            |                |

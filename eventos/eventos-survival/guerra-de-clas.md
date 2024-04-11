@@ -77,127 +77,140 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |  **🎖** 4º Lugar |      \[PSD] Paysandu      |           10           |
 |  **🎖** 5º Lugar |      \[suN] Sunshine      |            9           |
 |  **🎖** 6º Lugar |     \[HGD] Highgarden     |            8           |
-|  **🎖 7**º Lugar | \[knS] Kawamura no Senshi |            6           |
-|  **🎖** 8º Lugar |      \[VhL] Valhalla      |            6           |
-|  **🎖** 9º Lugar |   \[NtP] Ninguém ta Puro  |            5           |
-| **🎖** 10º Lugar |        \[TkA] Taka        |            3           |
-| **🎖** 11º Lugar |       \[PTR] Petardo      |            2           |
-| **🎖** 12º Lugar |       \[30P] 30Praum      |            1           |
-| **🎖** 13º Lugar |      \[B12] Calcitran     |            1           |
-| **🎖** 14º Lugar |     \[PTR] El Petardo     |            1           |
-| **🎖** 14º Lugar |     \[COL] Cade o Loló    |            1           |
+|  **🎖** 7º Lugar |        \[Btz] Blitz       |            8           |
+|  **🎖 8**º Lugar | \[knS] Kawamura no Senshi |            6           |
+|  **🎖** 9º Lugar |      \[VhL] Valhalla      |            6           |
+| **🎖** 10º Lugar |   \[NtP] Ninguém ta Puro  |            5           |
+| **🎖** 11º Lugar |        \[TkA] Taka        |            3           |
+| **🎖** 12º Lugar |  \[TBF] The Best Farmers  |            3           |
+| **🎖** 13º Lugar |       \[PTR] Petardo      |            2           |
 
 ## » Histórico do Evento
 
-|          » Edição «          | » TAG do Clã « |   » Nome do Clã «  |
-| :--------------------------: | :------------: | :----------------: |
-|     Edição I - 07/08/2021    |     \[ZZZ]     |       Bloods       |
-|    Edição II - 14/08/2021    |     \[ZZZ]     |       Bloods       |
-|    Edição III - 21/08/2021   |     \[ZZZ]     |       Bloods       |
-|    Edição IV - 28/08/2021    |     \[30P]     |       30Praum      |
-|     Edição V - 04/09/2021    |     \[B12]     |      Calcitran     |
-|    Edição VI - 11/09/2021    |     \[ZZZ]     |       Bloods       |
-|    Edição VII - 18/09/2021   |     \[ZZZ]     |       Bloods       |
-|   Edição VIII - 25/09/2021   |     \[ZZZ]     |       Bloods       |
-|    Edição IX - 02/10/2021    |     \[sbN]     |      SiberiaN      |
-|     Edição X - 09/10/2021    |     \[sbN]     |      SiberiaN      |
-|    Edição XI - 16/10/2021    |     \[sbN]     |      SiberiaN      |
-|    Edição XII - 23/10/2021   |     \[sbN]     |      SiberiaN      |
-|   Edição XIII - 30/10/2021   |     \[sbN]     |      SiberiaN      |
-|    Edição XIV - 06/11/2021   |     \[sbN]     |      SiberiaN      |
-|    Edição XV - 13/11/2021    |     \[sbN]     |      SiberiaN      |
-|    Edição XVI - 20/11/2021   |     \[sbN]     |      SiberiaN      |
-|   Edição XVII - 27/11/2021   |     \[sbN]     |      SiberiaN      |
-|   Edição XVIII - 04/12/2021  |     \[sbN]     |      SiberiaN      |
-|    Edição XIX - 11/12/2021   |     \[sbN]     |      SiberiaN      |
-|    Edição XX - 18/12/2021    |     \[knS]     | Kawamura no Senshi |
-|    Edição XXI - 26/12/2021   |     \[sbN]     |      SiberiaN      |
-|   Edição XXII - 02/01/2022   |     \[sbN]     |      SiberiaN      |
-|   Edição XXIII - 08/01/2022  |     \[sbN]     |      SiberiaN      |
-|   Edição XXIV - 15/01/2022   |     \[sbN]     |      SiberiaN      |
-|    Edição XXV - 22/01/2022   |     \[sbN]     |      SiberiaN      |
-|   Edição XXVI - 29/01/2022   |     \[sbN]     |      SiberiaN      |
-|   Edição XXVII - 05/02/2022  |     \[sbN]     |      SiberiaN      |
-|  Edição XXVIII - 13/02/2022  |     \[ZZZ]     |       Bloods       |
-|   Edição XXIX - 20/02/2022   |     \[ZZZ]     |       Bloods       |
-|    Edição XXX - 27/02/2022   |     \[ZZZ]     |       Bloods       |
-|   Edição XXXI - 06/03/2022   |     \[ZZZ]     |       Bloods       |
-|   Edição XXXII - 13/03/2022  |     \[ZZZ]     |       Bloods       |
-|  Edição XXXIII - 20/03/2022  |     \[ZZZ]     |       Bloods       |
-|   Edição XXXIV - 27/03/2022  |     \[ZZZ]     |       Bloods       |
-|   Edição XXXV - 03/04/2022   |     \[knS]     | Kawamura no Senshi |
-|   Edição XXXVI - 10/04/2022  |     \[knS]     | Kawamura no Senshi |
-|  Edição XXXVII - 17/04/2022  |     \[knS]     | Kawamura no Senshi |
-|  Edição XXXVIII - 24/04/2022 |     \[knS]     | Kawamura no Senshi |
-|   Edição XXXIX - 01/05/2022  |     \[knS]     | Kawamura no Senshi |
-|    Edição XL - 08/05/2022    |     \[suN]     |      Sunshine      |
-|    Edição XLI - 15/05/2022   |     \[suN]     |      Sunshine      |
-|   Edição XLII - 22/05/2022   |     \[suN]     |      Sunshine      |
-|   Edição XLIII - 29/05/2022  |     \[suN]     |      Sunshine      |
-|   Edição XLIV - 05/06/2022   |     \[suN]     |      Sunshine      |
-|    Edição XLV - 12/06/2022   |     \[suN]     |      Sunshine      |
-|   Edição XLVI - 19/06/2022   |     \[VhL]     |      Valhalla      |
-|   Edição XLVII - 26/06/2022  |     \[suN]     |      Sunshine      |
-|  Edição XLVIII - 03/07/2022  |     \[VhL]     |      Valhalla      |
-|   Edição XLIX - 10/07/2022   |     \[VhL]     |      Valhalla      |
-|     Edição L - 17/07/2022    |     \[666]     |     The Ritual     |
-|    Edição LI - 24/07/2022    |     \[666]     |     The Ritual     |
-|    Edição LII - 31/07/2022   |     \[TkA]     |        Taka        |
-|   Edição LIII - 07/08/2022   |     \[TkA]     |        Taka        |
-|    Edição LIV - 14/08/2022   |     \[666]     |     The Ritual     |
-|    Edição LV - 21/08/2022    |     \[TkA]     |        Taka        |
-|    Edição LVI - 28/08/2022   |     \[666]     |     The Ritual     |
-|   Edição LVII - 04/09/2022   |     \[SuN]     |      Sunshine      |
-|   Edição LVIII - 11/09/2022  |     \[666]     |     The Ritual     |
-|    Edição LIX - 18/09/2022   |     \[666]     |     The Ritual     |
-|    Edição LX - 25/09/2022    |     \[666]     |     The Ritual     |
-|    Edição LXI - 02/10/2022   |     \[VhL]     |      Valhalla      |
-|   Edição LXII - 09/10/2022   |     \[666]     |     The Ritual     |
-|   Edição LXIII - 16/10/2022  |     \[666]     |     The Ritual     |
-|   Edição LXIV - 23/10/2022   |     \[VhL]     |      Valhalla      |
-|    Edição LXV - 30/10/2022   |     \[suN]     |      Sunshine      |
-|  Edição LXVI - 06/11/2022--  |     \[VhL]     |      Valhalla      |
-|   Edição LXVII - 13/11/2022  |     \[666]     |     The Ritual     |
-|  Edição LXVIII - 20/11/2022  |     \[666]     |     The Ritual     |
-|   Edição LXIX - 04/12/2022   |     \[666]     |     The Ritual     |
-|    Edição LXX - 11/12/2022   |     \[NtP]     |   Ninguém ta Puro  |
-|   Edição LXXI - 18/12/2022   |     \[666]     |     The Ritual     |
-|   Edição LXXII - 08/01/2023  |     \[666]     |     The Ritual     |
-|  Edição LXXIII - 22/01/2023  |     \[666]     |     The Ritual     |
-|   Edição LXXIV - 05/02/2023  |     \[666]     |     The Ritual     |
-|   Edição LXXV - 12/02/2023   |     \[666]     |     The Ritual     |
-|   Edição LXXVI - 19/02/2023  |     \[666]     |     The Ritual     |
-|  Edição LXXVII - 05/03/2023  |     \[COL]     |     Cade o Loló    |
-|  Edição LXXVIII - 12/03/2023 |     \[NtP]     |   Ninguém ta Puro  |
-|   Edição LXXIX - 19/03/2023  |     \[NtP]     |   Ninguém ta Puro  |
-|   Edição LXXX - 02/04/2023   |     \[666]     |      The Ritual    |
-|   Edição LXXXI - 09/04/2023  |     \[666]     |      The Ritual    |
-|  Edição LXXXII - 16/04/2023  |     \[TBF]     |  The Best Farmers  |
-|  Edição LXXXIII - 23/04/2023 |     \[NtP]     |   Ninguém ta Puro  |
-|  Edição LXXXIV - 07/05/2023  |     \[NtP]     |   Ninguém ta Puro  |
-|   Edição LXXXV - 14/05/2023  |     \[HGD]     |     Highgarden     |
-|  Edição LXXXVI - 21/05/2023  |     \[HGD]     |     Highgarden     |
-|  Edição LXXXVII - 04/06/2023 |     \[HGD]     |     Highgarden     |
-| Edição LXXXVIII - 11/06/2023 |     \[HGD]     |     Highgarden     |
-|  Edição LXXXIX - 18/06/2023  |     \[HGD]     |     Highgarden     |
-|    Edição XC - 02/07/2023    |     \[HGD]     |     Highgarden     |
-|    Edição XCI - 09/07/2023   |     \[HGD]     |     Highgarden     |
-|   Edição XCII - 16/07/2023   |     \[HGD]     |     Highgarden     |
-|   Edição XCIII - 23/07/2023  |     \[666]     |     The Ritual     |
-|   Edição XCIV - 06/08/2023   |     \[PSD]     |      Paysandu      |
-|    Edição XCV - 13/08/2023   |     \[666]     |     The Ritual     |
-|   Edição XCVI - 20/08/2023   |     \[PSD]     |      Paysandu      |
-|   Edição XCVII - 03/09/2023  |     \[PSD]     |      Paysandu      |
-|  Edição XCVIII - 10/09/2023  |     \[PSD]     |      Paysandu      |
-|   Edição XCIX - 17/09/2023   |     \[PSD]     |      Paysandu      |
-|     Edição C - 01/10/2023    |     \[PSD]     |      Paysandu      |
-|    Edição CI - 08/10/2023    |     \[PTR]     |     El Petardo     |
-|    Edição CII - 15/10/2023   |     \[PTR]     |       Petardo      |
-|   Edição CIII - 22/10/2023   |     \[PTR]     |       Petardo      |
-|    Edição CIV - 05/11/2023   |     \[PSD]     |      Paysandu      |
-|    Edição CV - 12/11/2023    |     \[PSD]     |      Paysandu      |
-|    Edição CVI - 19/11/2023   |     \[PSD]     |      Paysandu      |
-|   Edição CVII - 03/12/2023   |     \[PSD]     |      Paysandu      |
-|        Edição CVIII -        |        -       |          -         |
-|         Edição CIX -         |        -       |          -         |
-|          Edição CX -         |        -       |          -         |
+|          » Edição «          | » TAG do Clã « |    » Nome do Clã «   |
+| :--------------------------: | :------------: | :------------------: |
+|     Edição I - 07/08/2021    |     \[ZZZ]     |        Bloods        |
+|    Edição II - 14/08/2021    |     \[ZZZ]     |        Bloods        |
+|    Edição III - 21/08/2021   |     \[ZZZ]     |        Bloods        |
+|    Edição IV - 28/08/2021    |     \[30P]     |        30Praum       |
+|     Edição V - 04/09/2021    |     \[B12]     |       Calcitran      |
+|    Edição VI - 11/09/2021    |     \[ZZZ]     |        Bloods        |
+|    Edição VII - 18/09/2021   |     \[ZZZ]     |        Bloods        |
+|   Edição VIII - 25/09/2021   |     \[ZZZ]     |        Bloods        |
+|    Edição IX - 02/10/2021    |     \[sbN]     |       SiberiaN       |
+|     Edição X - 09/10/2021    |     \[sbN]     |       SiberiaN       |
+|    Edição XI - 16/10/2021    |     \[sbN]     |       SiberiaN       |
+|    Edição XII - 23/10/2021   |     \[sbN]     |       SiberiaN       |
+|   Edição XIII - 30/10/2021   |     \[sbN]     |       SiberiaN       |
+|    Edição XIV - 06/11/2021   |     \[sbN]     |       SiberiaN       |
+|    Edição XV - 13/11/2021    |     \[sbN]     |       SiberiaN       |
+|    Edição XVI - 20/11/2021   |     \[sbN]     |       SiberiaN       |
+|   Edição XVII - 27/11/2021   |     \[sbN]     |       SiberiaN       |
+|   Edição XVIII - 04/12/2021  |     \[sbN]     |       SiberiaN       |
+|    Edição XIX - 11/12/2021   |     \[sbN]     |       SiberiaN       |
+|    Edição XX - 18/12/2021    |     \[knS]     |  Kawamura no Senshi  |
+|    Edição XXI - 26/12/2021   |     \[sbN]     |       SiberiaN       |
+|   Edição XXII - 02/01/2022   |     \[sbN]     |       SiberiaN       |
+|   Edição XXIII - 08/01/2022  |     \[sbN]     |       SiberiaN       |
+|   Edição XXIV - 15/01/2022   |     \[sbN]     |       SiberiaN       |
+|    Edição XXV - 22/01/2022   |     \[sbN]     |       SiberiaN       |
+|   Edição XXVI - 29/01/2022   |     \[sbN]     |       SiberiaN       |
+|   Edição XXVII - 05/02/2022  |     \[sbN]     |       SiberiaN       |
+|  Edição XXVIII - 13/02/2022  |     \[ZZZ]     |        Bloods        |
+|   Edição XXIX - 20/02/2022   |     \[ZZZ]     |        Bloods        |
+|    Edição XXX - 27/02/2022   |     \[ZZZ]     |        Bloods        |
+|   Edição XXXI - 06/03/2022   |     \[ZZZ]     |        Bloods        |
+|   Edição XXXII - 13/03/2022  |     \[ZZZ]     |        Bloods        |
+|  Edição XXXIII - 20/03/2022  |     \[ZZZ]     |        Bloods        |
+|   Edição XXXIV - 27/03/2022  |     \[ZZZ]     |        Bloods        |
+|   Edição XXXV - 03/04/2022   |     \[knS]     |  Kawamura no Senshi  |
+|   Edição XXXVI - 10/04/2022  |     \[knS]     |  Kawamura no Senshi  |
+|  Edição XXXVII - 17/04/2022  |     \[knS]     |  Kawamura no Senshi  |
+|  Edição XXXVIII - 24/04/2022 |     \[knS]     |  Kawamura no Senshi  |
+|   Edição XXXIX - 01/05/2022  |     \[knS]     |  Kawamura no Senshi  |
+|    Edição XL - 08/05/2022    |     \[suN]     |       Sunshine       |
+|    Edição XLI - 15/05/2022   |     \[suN]     |       Sunshine       |
+|   Edição XLII - 22/05/2022   |     \[suN]     |       Sunshine       |
+|   Edição XLIII - 29/05/2022  |     \[suN]     |       Sunshine       |
+|   Edição XLIV - 05/06/2022   |     \[suN]     |       Sunshine       |
+|    Edição XLV - 12/06/2022   |     \[suN]     |       Sunshine       |
+|   Edição XLVI - 19/06/2022   |     \[VhL]     |       Valhalla       |
+|   Edição XLVII - 26/06/2022  |     \[suN]     |       Sunshine       |
+|  Edição XLVIII - 03/07/2022  |     \[VhL]     |       Valhalla       |
+|   Edição XLIX - 10/07/2022   |     \[VhL]     |       Valhalla       |
+|     Edição L - 17/07/2022    |     \[666]     |      The Ritual      |
+|    Edição LI - 24/07/2022    |     \[666]     |      The Ritual      |
+|    Edição LII - 31/07/2022   |     \[TkA]     |         Taka         |
+|   Edição LIII - 07/08/2022   |     \[TkA]     |         Taka         |
+|    Edição LIV - 14/08/2022   |     \[666]     |      The Ritual      |
+|    Edição LV - 21/08/2022    |     \[TkA]     |         Taka         |
+|    Edição LVI - 28/08/2022   |     \[666]     |      The Ritual      |
+|   Edição LVII - 04/09/2022   |     \[SuN]     |       Sunshine       |
+|   Edição LVIII - 11/09/2022  |     \[666]     |      The Ritual      |
+|    Edição LIX - 18/09/2022   |     \[666]     |      The Ritual      |
+|    Edição LX - 25/09/2022    |     \[666]     |      The Ritual      |
+|    Edição LXI - 02/10/2022   |     \[VhL]     |       Valhalla       |
+|   Edição LXII - 09/10/2022   |     \[666]     |      The Ritual      |
+|   Edição LXIII - 16/10/2022  |     \[666]     |      The Ritual      |
+|   Edição LXIV - 23/10/2022   |     \[VhL]     |       Valhalla       |
+|    Edição LXV - 30/10/2022   |     \[suN]     |       Sunshine       |
+|  Edição LXVI - 06/11/2022--  |     \[VhL]     |       Valhalla       |
+|   Edição LXVII - 13/11/2022  |     \[666]     |      The Ritual      |
+|  Edição LXVIII - 20/11/2022  |     \[666]     |      The Ritual      |
+|   Edição LXIX - 04/12/2022   |     \[666]     |      The Ritual      |
+|    Edição LXX - 11/12/2022   |     \[NtP]     |    Ninguém ta Puro   |
+|   Edição LXXI - 18/12/2022   |     \[666]     |      The Ritual      |
+|   Edição LXXII - 08/01/2023  |     \[666]     |      The Ritual      |
+|  Edição LXXIII - 22/01/2023  |     \[666]     |      The Ritual      |
+|   Edição LXXIV - 05/02/2023  |     \[666]     |      The Ritual      |
+|   Edição LXXV - 12/02/2023   |     \[666]     |      The Ritual      |
+|   Edição LXXVI - 19/02/2023  |     \[666]     |      The Ritual      |
+|  Edição LXXVII - 05/03/2023  |     \[COL]     |      Cade o Loló     |
+|  Edição LXXVIII - 12/03/2023 |     \[NtP]     |    Ninguém ta Puro   |
+|   Edição LXXIX - 19/03/2023  |     \[NtP]     |    Ninguém ta Puro   |
+|   Edição LXXX - 02/04/2023   |     \[666]     |       The Ritual     |
+|   Edição LXXXI - 09/04/2023  |     \[666]     |       The Ritual     |
+|  Edição LXXXII - 16/04/2023  |     \[TBF]     |   The Best Farmers   |
+|  Edição LXXXIII - 23/04/2023 |     \[NtP]     |    Ninguém ta Puro   |
+|  Edição LXXXIV - 07/05/2023  |     \[NtP]     |    Ninguém ta Puro   |
+|   Edição LXXXV - 14/05/2023  |     \[HGD]     |      Highgarden      |
+|  Edição LXXXVI - 21/05/2023  |     \[HGD]     |      Highgarden      |
+|  Edição LXXXVII - 04/06/2023 |     \[HGD]     |      Highgarden      |
+| Edição LXXXVIII - 11/06/2023 |     \[HGD]     |      Highgarden      |
+|  Edição LXXXIX - 18/06/2023  |     \[HGD]     |      Highgarden      |
+|    Edição XC - 02/07/2023    |     \[HGD]     |      Highgarden      |
+|    Edição XCI - 09/07/2023   |     \[HGD]     |      Highgarden      |
+|   Edição XCII - 16/07/2023   |     \[HGD]     |      Highgarden      |
+|   Edição XCIII - 23/07/2023  |     \[666]     |      The Ritual      |
+|   Edição XCIV - 06/08/2023   |     \[PSD]     |       Paysandu       |
+|    Edição XCV - 13/08/2023   |     \[666]     |      The Ritual      |
+|   Edição XCVI - 20/08/2023   |     \[PSD]     |       Paysandu       |
+|   Edição XCVII - 03/09/2023  |     \[PSD]     |       Paysandu       |
+|  Edição XCVIII - 10/09/2023  |     \[PSD]     |       Paysandu       |
+|   Edição XCIX - 17/09/2023   |     \[PSD]     |       Paysandu       |
+|     Edição C - 01/10/2023    |     \[PSD]     |       Paysandu       |
+|    Edição CI - 08/10/2023    |     \[PTR]     |      El Petardo      |
+|    Edição CII - 15/10/2023   |     \[PTR]     |        Petardo       |
+|   Edição CIII - 22/10/2023   |     \[PTR]     |        Petardo       |
+|    Edição CIV - 05/11/2023   |     \[PSD]     |       Paysandu       |
+|    Edição CV - 12/11/2023    |     \[PSD]     |       Paysandu       |
+|    Edição CVI - 19/11/2023   |     \[PSD]     |       Paysandu       |
+|   Edição CVII - 03/12/2023   |     \[PSD]     |       Paysandu       |
+|   Edição CVIII - 10/12/2023  |     \[TBF]     |   The Best Farmers   |
+|    Edição CIX - 17/12/2023   |     \[Abt]     |       AbstracT       |
+|    Edição CX - 28/12/2023    |     \[gym]     |      Aesthetics      |
+|    Edição CXI - 07/01/2024   |     \[Btz]     |         Blitz        |
+|   Edição CXII - 14/01/2024   |     \[TBF]     |   The Best Farmers   |
+|   Edição CXIII - 21/01/2024  |     \[Btz]     |         Blitz        |
+|   Edição CXIV - 28/01/2024   |     \[Btz]     |         Blitz        |
+|    Edição CXV - 04/02/2024   |     \[PSD]     |       Paysandu       |
+|   Edição CXVI - 11/02/2024   |     \[Btz]     |         Blitz        |
+|   Edição CXVII - 18/02/2024  |     \[Btz]     |         Blitz        |
+|  Edição CXVIII - 25/02/2024  |     \[Btz]     |         Blitz        |
+|   Edição CXIX - 03/03/2024   |     \[Btz]     |         Blitz        |
+|    Edição CXX - 10/03/2024   |     \[Btz]     |         Blitz        |
+|   Edição CXXI - 17/03/2024   |     \[VSC]     |     Vasco Da Gama    |
+|   Edição CXXII - 24/03/2024  |     \[TFG]     | Tao Forjando a Gente |
+|  Edição CXXIII - 07/04/2024  |     \[VNM]     |      Vem na Mão      |
+|        Edição CXXIV -        |                |                      |
+|         Edição CXXV -        |                |                      |

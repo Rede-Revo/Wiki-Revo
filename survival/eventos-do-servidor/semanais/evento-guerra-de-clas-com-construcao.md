@@ -69,26 +69,44 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 
 
-|         » Edição «        | » TAG do Clã « |  » Nome do Clã « |
-| :-----------------------: | :------------: | :--------------: |
-|   Edição I - 29/07/2023   |     \[TDU]     | Terror da Uganda |
-|   Edição II - 05/08/2023  |     \[PSD]     |     Paysandu     |
-|  Edição III - 12/08/2023  |     \[PSD]     |     Paysandu     |
-|   Edição IV - 19/08/2023  |     \[PSD]     |     Paysandu     |
-|   Edição V - 26/08/2023   |     \[PSD]     |     Paysandu     |
-|   Edição VI - 02/09/2023  |     \[PSD]     |     Paysandu     |
-|  Edição VII - 09/09/2023  |     \[PSD]     |     Paysandu     |
-|  Edição VIII - 16/09/2023 |     \[PSD]     |     Paysandu     |
-|   Edição IX - 23/09/2023  |     \[PSD]     |     Paysandu     |
-|   Edição X - 30/09/2023   |     \[PSD]     |     Paysandu     |
-|   Edição XI - 07/10/2023  |     \[jgg]     |      jggcvrl     |
-|  Edição XII - 14/10/2023  |     \[TDU]     | Terror da Uganda |
-|  Edição XIII - 21/10/2023 |     \[PTR]     |      Petardo     |
-|  Edição XIV - 28/10/2023  |     \[PTR]     |      Petardo     |
-|   Edição XV - 04/11/2023  |     \[PSD]     |     Paysandu     |
-|  Edição XVI - 11/11/2023  |     \[PSD]     |     Paysandu     |
-|  Edição XVII - 18/11/2023 |     \[PSD]     |     Paysandu     |
-| Edição XVIII - 25/11/2023 |     \[HGD]     |    Highgarden    |
-|  Edição XIX - 02/12/2023  |     \[HGD]     |    Highgarden    |
-|        Edição XX -        |        -       |         -        |
-|        Edição XXI -       |        -       |         -        |
+|         » Edição «         | » TAG do Clã « |   » Nome do Clã «   |
+| :------------------------: | :------------: | :-----------------: |
+|    Edição I - 29/07/2023   |     \[TDU]     |   Terror da Uganda  |
+|   Edição II - 05/08/2023   |     \[PSD]     |       Paysandu      |
+|   Edição III - 12/08/2023  |     \[PSD]     |       Paysandu      |
+|   Edição IV - 19/08/2023   |     \[PSD]     |       Paysandu      |
+|    Edição V - 26/08/2023   |     \[PSD]     |       Paysandu      |
+|   Edição VI - 02/09/2023   |     \[PSD]     |       Paysandu      |
+|   Edição VII - 09/09/2023  |     \[PSD]     |       Paysandu      |
+|  Edição VIII - 16/09/2023  |     \[PSD]     |       Paysandu      |
+|   Edição IX - 23/09/2023   |     \[PSD]     |       Paysandu      |
+|    Edição X - 30/09/2023   |     \[PSD]     |       Paysandu      |
+|   Edição XI - 07/10/2023   |     \[jgg]     |       jggcvrl       |
+|   Edição XII - 14/10/2023  |     \[TDU]     |   Terror da Uganda  |
+|  Edição XIII - 21/10/2023  |     \[PTR]     |       Petardo       |
+|   Edição XIV - 28/10/2023  |     \[PTR]     |       Petardo       |
+|   Edição XV - 04/11/2023   |     \[PSD]     |       Paysandu      |
+|   Edição XVI - 11/11/2023  |     \[PSD]     |       Paysandu      |
+|  Edição XVII - 18/11/2023  |     \[PSD]     |       Paysandu      |
+|  Edição XVIII - 25/11/2023 |     \[HGD]     |      Highgarden     |
+|   Edição XIX - 02/12/2023  |     \[HGD]     |      Highgarden     |
+|   Edição XX - 09/12/2023   |     \[REV]     |      Rede Revo      |
+|   Edição XXI - 16/12/2023  |     \[xyz]     |        Error        |
+|  Edição XXII - 23/12/2023  |     \[Abt]     |       AbstracT      |
+|  Edição XXIII - 30/12/2023 |     \[gti]     |     Gold Titans     |
+|  Edição XXIV - 06/01/2024  |     \[PTR]     |       Petardo       |
+|   Edição XXV - 13/01/2024  |     \[Btz]     |        Blitz        |
+|  Edição XXVI - 20/01/2024  |     \[Btz]     |        Blitz        |
+|  Edição XXVII - 27/01/2024 |     \[PTR]     |       Petardo       |
+| Edição XXVIII - 03/02/2024 |     \[TBF]     |   The Best Farmers  |
+|  Edição XXIX - 10/02/2024  |     \[Btz]     |        Blitz        |
+|   Edição XXX - 17/02/2024  |     \[Btz]     |        Blitz        |
+|  Edição XXXI - 24/02/2024  |     \[Btz]     |        Blitz        |
+|  Edição XXXII - 02/03/2024 |     \[Btz]     |        Blitz        |
+| Edição XXXIII - 09/03/2024 |     \[VSC]     | Vasco da Gama **✠** |
+|  Edição XXXIV - 16/03/2024 |     \[STE]     |       ShowTime      |
+|  Edição XXXV - 23/03/2024  |     \[CAV]     |       Cavalos       |
+|  Edição XXXVI - 30/03/2024 |     \[STE]     |       ShowTime      |
+| Edição XXXVII - 06/04/2024 |     \[CAV]     |       Cavalos       |
+|      Edição XXXVIII -      |                |                     |
+|       Edição XXXIX -       |                |                     |

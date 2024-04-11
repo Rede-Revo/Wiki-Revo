@@ -109,7 +109,30 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição XLVI - 20/11/2023  |   `GolemDeFerro`   |     `GolemDeFerro`     |
 |  Edição XLVII - 27/11/2023  |   `GolemDeFerro`   |       `Cryngpeep`      |
 |  Edição XLVIII - 04/12/2023 |       `dzx7z`      |       `nicogg15`       |
-|        Edição XLIX -        |          -         |            -           |
-|          Edição L -         |          -         |            -           |
-|         Edição LI -         |          -         |            -           |
+|  Edição XLIX -  11/12/2023  |   `GolemDeFerro`   |     `GolemDeFerro`     |
+|    Edição L - 18/12/2023    |     `Mephisto`     |       `Mephisto`       |
+|    Edição LI - 25/12/2023   |       `dzx7z`      |       `LKryan007`      |
+|   Edição LII - 01/01/2024   |      `njrnthz`     |        `njrnthz`       |
+|   Edição LIII - 08/01/2024  |     `nicogg15`     |       `nicogg15`       |
+|   Edição LIV - 15/01/2024   |     `Hercules`     |       `Hercules`       |
+|    Edição LV - 22/01/2024   |       `Mx7_`       |       `ReneBebo`       |
+|   Edição LVI - 29/01/2024   |     `Mephisto`     |       `Mephisto`       |
+|   Edição LVII - 05/02/2024  |     `Mephisto`     |      `SpringTrap`      |
+|  Edição LVIII - 12/02/2024  |     `Mephisto`     |      `LuckySemag`      |
+|   Edição LIX - 19/02/2024   |    `SpringTrap`    |      `SpringTrap`      |
+|    Edição LX - 26/02/2024   |    `nicodogg15`    |      `nicodogg15`      |
+|   Edição LXI - 04/03/2024   |    `nicodogg15`    |      `nicodogg15`      |
+|   Edição LXII - 11/03/2024  |     `heavenx7`     |       `heavenx7`       |
+|  Edição LXIII - 18/03/2024  |      `yAlice`      |        `yAlice`        |
+|   Edição LXIV - 25/03/2024  |     `heavenx7`     |       `heavenx7`       |
+|   Edição LXV - 01/04/2024   |     `spartaxd_`    |       `spartaxd_`      |
+|   Edição LXVI - 08/04/2024  |     `spartaxd_`    |     `ItzRealBro__`     |
+|        Edição LXVII -       |                    |                        |
+|       Edição LXVIII -       |                    |                        |
+|        Edição LXIX -        |                    |                        |
+|         Edição LXX -        |                    |                        |
+|        Edição LXXI -        |                    |                        |
+|        Edição LXXII -       |                    |                        |
+|       Edição LXXIII -       |                    |                        |
+|        Edição LXXIV -       |                    |                        |
 

@@ -160,5 +160,31 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição CXXVIII - 17/11/2023 |               `Flexzi`              |              `Cryngpeep`              |
 |   Edição CXIX - 24/11/2023   |              `Mephisto`             |               `Mephisto`              |
 |   Edição CXXX - 01/12/2023   |           `gabyzinhaaasx`           |               `njrnthz`               |
-|        Edição CXXXI -        |                  -                  |                   -                   |
-|        Edição CXXXII -       |                  -                  |                   -                   |
+|   Edição CXXXI - 08/12/2023  |              `zTeteus_`             |              `NoiteFria`              |
+|  Edição CXXXII - 15/12/2023  |               `fsxyzw`              |              `NoiteFria`              |
+|  Edição CXXXIII - 22/12/2023 |             `Carlitos_`             |               `Hercules`              |
+|  Edição CXXXIV - 29/12/2023  |             `armadilha_`            |              `armadilha_`             |
+|   Edição CXXXV - 05/01/2024  |               `uSnox`               |                `uSnox`                |
+|  Edição CXXXVI - 12/01/2024  |             `yPelizari`             |                `ySpxce`               |
+|  Edição CXXXVII - 19/01/2024 |             `yPelizari`             |              `yPelizari`              |
+| Edição CXXXVIII - 26/01/2024 |               `uSnox`               |             `eversonzoio`             |
+|  Edição CXXXIX - 02/02/2024  |              `samizim`              |                `KKlauz`               |
+|    Edição CXL - 09/02/2024   |             `Carlitos_`             |              `Carlitos_`              |
+|   Edição CXLI - 16/02/2024   |                `PSD`                |                 `PSD`                 |
+|   Edição CXLII - 23/02/2024  |            `Meliodas7xit`           |             `Meliodas7xit`            |
+|  Edição CXLIII - 01/03/2024  |             `nicodogg15`            |               `deadmau5`              |
+|   Edição CXLIV - 08/03/2024  |             `nicodogg15`            |              `nicodogg15`             |
+|   Edição CXLV - 15/03/2024   |             `1Silvaazx`             |                `yAlice`               |
+|   Edição CXLVI - 22/03/2024  |              `zTeteus_`             |               `zTeteus_`              |
+|  Edição CXLVII - 29/03/2024  |            `ItzRealBro__`           |             `ItzRealBro__`            |
+|  Edição CXLVIII - 05/04/2024 |            `ArcccMENGAO`            |                 `cwg`                 |
+|        Edição CXLIX -        |                                     |                                       |
+|          Edição CL -         |                                     |                                       |
+|         Edição CLI -         |                                     |                                       |
+|         Edição CLII -        |                                     |                                       |
+|        Edição CLIII -        |                                     |                                       |
+|         Edição CLIV -        |                                     |                                       |
+|         Edição CLV -         |                                     |                                       |
+|         Edição CLVI -        |                                     |                                       |
+|        Edição CLVII -        |                                     |                                       |
+|        Edição CLVIII -       |                                     |                                       |

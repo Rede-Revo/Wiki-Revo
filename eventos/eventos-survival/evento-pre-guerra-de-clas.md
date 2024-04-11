@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# 🗡 Evento Pré-Guerra de Clãs
+# 🗡️ Evento Pré-Guerra de Clãs
 
 ## » Como Funciona
 
@@ -155,5 +155,26 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição CXVI - 14/11/2023   |                \[PSD]               |               Paysandu              |
 |   Edição CXVII - 21/11/2023  |                \[PSD]               |               Paysandu              |
 |  Edição CXVIII - 28/11/2023  |                \[HGD]               |              Highgarden             |
-|         Edição CXIX -        |                  -                  |                  -                  |
-|         Edição CXX -         |                  -                  |                  -                  |
+|   Edição CXIX - 09/12/2023   |                \[REV]               |              Rede Revo              |
+|    Edição CXX - 12/12/2023   |                \[xyz]               |                Error                |
+|   Edição CXXI - 19/12/2023   |                \[abt]               |               AbstracT              |
+|   Edição CXXII - 26/12/2023  |                \[mex]               |              \[meXico]              |
+|  Edição CXXIII - 02/01/2024  |                \[gti]               |             Gold Titans             |
+|   Edição CXXIV - 09/01/2024  |                \[abt]               |               AbstracT              |
+|   Edição CXXV - 16/01/2024   |                \[alb]               |            Albion Online            |
+|   Edição CXXVI - 23/01/2024  |                \[ptr]               |               Petardo               |
+|  Edição CXXVII - 30/01/2024  |                \[btz]               |                Blitz                |
+|  Edição CXXVIII - 06/02/2024 |                \[not]               |               NoTalent              |
+|   Edição CXXIX - 13/02/2024  |                \[not]               |               NoTalent              |
+|   Edição CXXX - 20/02/2024   |                \[btz]               |                Blitz                |
+|   Edição CXXXI - 27/02/2024  |                \[btz]               |                Blitz                |
+|  Edição CXXXII - 05/03/2024  |                \[btz]               |                Blitz                |
+|  Edição CXXXIII - 12/03/2024 |                \[not]               |               NoTalent              |
+|  Edição CXXXIV - 19/03/2024  |                \[not]               |               NoTalent              |
+|   Edição CXXXV - 26/03/2024  |                \[tfg]               |         Tao Forjando A Gente        |
+|  Edição CXXXVI - 02/04/2024  |                \[not]               |               NoTalent              |
+|  Edição CXXXVII - 09/04/2024 |                \[cnt]               |             Cai na Tela             |
+|       Edição CXXXVIII -      |                                     |                                     |
+|        Edição CXXXIX -       |                                     |                                     |
+|         Edição CXL -         |                                     |                                     |
+|         Edição CXLI -        |                                     |                                     |
