@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
-# ✏ Termos
+# ✏️ Termos
 
 {% hint style="warning" %}
 Ao adquirir qualquer serviço prestado por nós, deverá concordar com os nossos Termos de Uso e a nossa Política de Privacidade.
@@ -45,6 +45,8 @@ Fica reservado o nosso direito de alterar os Termos de Uso para assegurar a noss
 \- Reorganizar as finanças ora destinadas a partes essenciais para o desenvolvimento, crescimento e melhorias na jogabilidade do servidor para outros players
 
 **3.6.** Nós não temos nenhuma ligação com a **Mojang**.
+
+**3.7.** Prazo estimado padrão de entrega de até **10 minutos**.
 
 ### **4. PRIVILÉGIOS E** UTILIZAÇÃO DOS ITENS ADQUIRIDOS
 
