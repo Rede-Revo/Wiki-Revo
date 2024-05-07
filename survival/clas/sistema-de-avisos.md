@@ -4,7 +4,7 @@ description: >-
   sistema pune todo o clã por membros trapaceiros.
 ---
 
-# ⚠ Sistema de Avisos
+# ⚠️ Sistema de Avisos
 
 ## Introdução
 
@@ -14,11 +14,12 @@ e do cargo do jogador influencia diretamente no nível de punição.&#x20;
 
 ## Avisos
 
-|          Ação         | Avisos |
-| :-------------------: | :----: |
-| Punição pelo Guardião |    1   |
-|     Membro punido     |    2   |
-|      Líder punido     |    5   |
+|       Ação       | Avisos |
+| :--------------: | :----: |
+|     Guardião     |    1   |
+|   Membro punido  |    2   |
+| Guardião (Líder) |    3   |
+|   Líder punido   |    5   |
 
 ## Consequência dos Avisos
 
@@ -29,7 +30,7 @@ O acumulo de avisos acarreta em punições ao clã.
 |    I    |    3   | -1000 pontos de liga |
 |    II   |    5   | -2500 pontos de liga |
 |   III   |    7   | -5000 pontos de liga |
-|    IV   |   10   |     Clã excluído.    |
+|    IV   |   10   |    Clã bloqueado.    |
 
 ## Observações
 
