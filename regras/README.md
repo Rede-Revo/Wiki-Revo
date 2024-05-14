@@ -35,7 +35,7 @@ Conforme o avanço na mesma infração a punição da mesma aumenta, em determin
 A **STAFF** (Moderador ou Superior) a qualquer momento pode solicitar o compartilhamento de tela através do aplicativo [AnyDesk](https://anydesk.com/pt), a recusa será interpretada como atividade suspeita e o(a) jogador(a) será punido(a):
 
 * Inspeção de arquivos é totalmente focada em arquivos relacionado ao game, nenhuma informação pessoal será visualizada ou solicitada seguindo e respeitando totalmente a [LGPD](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd).
-* Jogador(a) que se descontar durante o processo de solicitação de um staff (estando congelado) também será interpretado como recusa.
+* Jogador(a) que se desconectar durante o processo de solicitação de um staff (estando congelado) também será interpretado como recusa.
 * Jogador(a) possui o total direito da recusa da solicitação, porém será punido conforme a regra que incidiu na solicitação do compartilhamento (Inclui a recusa de execução de ferramentas auxiliares).
 
 ## Como criar uma denúncia?

@@ -7,7 +7,7 @@ cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# 🎖 Liga de Clãs
+# 🎖️ Liga de Clãs
 
 Liga consiste em pontos gerados por ações dos jogadores tanto positivas quanto negativas ranqueando-os respectivamente pela quantidade de pontos, que se divide em 2 fases:
 
@@ -34,24 +34,22 @@ Pontos que podem ser obtidos a qualquer momento:
 
 Consulte os horários dos eventos clicando[ aqui](https://wiki.rederevo.com/eventos/agenda-de-eventos).
 
-|       Evento Agendado      |              Pontos             |
-| :------------------------: | :-----------------------------: |
-|          Lanceiro          | Matador: 50 \| Sobrevivente: 25 |
-|          Arqueiro          | Matador: 50 \| Sobrevivente: 25 |
-|          Besteiro          | Matador: 25 \| Sobrevivente: 50 |
-|           Killer           | Matador: 50 \| Sobrevivente: 25 |
-|          Gladiador         | Matador: 25 \| Sobrevivente: 50 |
-|          Guerreiro         |    1º: 75 \| 2º: 50 \| 3º: 25   |
-|     Pré-Guerra (mc OFF)    |               100               |
-|     Pré-Guerra (mc ON)     |               150               |
-| Pré-Guerra com Construção  |               150               |
-|   Pré-Clã x Clã (mc OFF)   |   1º: 150 \| 2º: 100 \| 3º: 75  |
-|      Clã x Clã (mc ON)     |   1º: 100 \| 2º: 75 \| 3º: 50   |
-|           Guerra           |               250               |
-|    Guerra com Construção   |               250               |
-|        Super Guerra        |               500               |
-|           Torneio          |    1º: 75 \| 2º: 50 \| 3º: 25   |
-|      Construção do Mês     | 1º: 1000 \| 2º: 500 \| 3º: 250  |
+|     Evento Agendado    |              Pontos             |
+| :--------------------: | :-----------------------------: |
+|        Lanceiro        | Matador: 75 \| Sobrevivente: 50 |
+|        Arqueiro        | Matador: 75 \| Sobrevivente: 50 |
+|        Besteiro        | Matador: 75 \| Sobrevivente: 50 |
+|         Killer         | Matador: 75 \| Sobrevivente: 50 |
+|        Gladiador       | Matador: 75 \| Sobrevivente: 50 |
+|        Guerreiro       |   1º: 100 \| 2º: 75 \| 3º: 50   |
+|   Pré-Guerra (mc OFF)  |               150               |
+|   Pré-Guerra (mc ON)   |               250               |
+| Pré-Clã x Clã (mc OFF) |   1º: 125 \| 2º: 100 \| 3º: 75  |
+|    Clã x Clã (mc ON)   |  1º: 250 \| 2º: 200 \| 3º: 150  |
+|         Guerra         |               500               |
+|      Super Guerra      |               1000              |
+|         Torneio        |    1º: 75 \| 2º: 50 \| 3º: 25   |
+|    Construção do Mês   | 1º: 1000 \| 2º: 500 \| 3º: 250  |
 
 ## Pontuação Positiva (Inicio de Temporada)
 
@@ -73,6 +71,7 @@ No momento de finalização de pontuação para decidir quais clãs serão defin
 **Exemplo:** Jogador(a) finalizou em **segundo lugar** no ranking do **eventos top**, no fim da temporada _(momento de decidir o clã vencedor da liga de temporada)_ será adicionado **+200 pontos** ao seu respectivo clã.
 
 * Não se aplica a liga mensal.
+* [❌](https://emojipedia.org/pt/xis)O seguintes rankings não contabilizam: Cash, Coins e mcMMO.
 {% endhint %}
 
 ## Pontuação Negativa
@@ -81,16 +80,7 @@ Assim como boas ações geram pontos, más ações removem pontos, portanto seja
 
 |         Ação         | Pontos |
 | :------------------: | :----: |
-|       Guardião       |  -100  |
 | Banimento permanente |  -250  |
-
-
-
-<table><thead><tr><th width="214.12972630246333" align="center">Incidência</th><th align="center">Pontos</th></tr></thead><tbody><tr><td align="center">1º</td><td align="center">-</td></tr></tbody></table>
-
-{% hint style="warning" %}
-Reincidências remetem a punições aplicadas ao clã e não reincidências ao mesmo jogador.
-{% endhint %}
 
 ## Recompensas
 
@@ -118,5 +108,5 @@ Sempre ao fim de um ciclo de liga, as recompensas deverão ser reivindicadas por
 {% endhint %}
 
 {% hint style="danger" %}
-Caso haja tentativas de contornar punições através da saída ou remoção de membros do clã durante um período de punição, a penalidade será dobrada.
+Caso haja tentativas de contornar punições através da saída ou remoção de membros do clã durante um período de punição, a penalidade será dobrada
 {% endhint %}
