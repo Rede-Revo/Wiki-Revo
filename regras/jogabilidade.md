@@ -25,22 +25,30 @@ Utilizar uma skin sexual ou discriminatória.
 
 Aproveitar-se de qualquer maneira de um erro em nossos sistemas para benefício próprio ou ter conhecimento de um erro e não reportá-lo.
 
-**Exemplo:** Se aproveitar de um bug de duplicação de itens.
-
 {% hint style="info" %}
 Jogadores(as) que reportarem quaisquer bug que afetem a jogabilidade do servidor serão diretamente recompensados(as).
 {% endhint %}
-
-{% hint style="danger" %}
-Em bugs de duplicação a punição aplicada é permanente e o jogador terá a conta resetada.
-{% endhint %}
-
-### Lista de Punições <a href="#lista-de-punicoes-1" id="lista-de-punicoes-1"></a>
 
 | Incidência |        Punição       |
 | :--------: | :------------------: |
 |      1     |   Prisão de 10 dias  |
 |      2     | Banimento permanente |
+
+### Regra 09.1 - Abuso de Bug
+
+Aplicável em casos de abusos de erros graves.
+
+{% hint style="danger" %}
+Em bugs de duplicação a punição aplicada é permanente e o jogador terá a conta resetada.
+{% endhint %}
+
+
+
+| Incidência |        Punição       |
+| :--------: | :------------------: |
+|      1     | Banimento permanente |
+
+### Lista de Punições <a href="#lista-de-punicoes-1" id="lista-de-punicoes-1"></a>
 
 #### Sistema de Recompensas para Reporte de Erros
 
@@ -68,7 +76,7 @@ _Reportar erros são uma forma de apoio direto ao servidor, os mesmos devem ser 
 
 ## Regra 10 - Conta falsa <a href="#id-01" id="id-01"></a>
 
-Criar uma conta secundária com intuito de cometer qualquer infração, para benefício próprio ou prejuízo a rede. As punições abaixo serão aplicadas à sua conta principal uma vez que a conta falsa será **permanentemente** punida.
+Criar uma conta secundária com intuito de cometer qualquer infração, para benefício próprio ou prejuízo a rede. As punições abaixo serão aplicadas à sua conta principal:
 
 {% hint style="info" %}
 Será definida como conta principal a conta do IP com o registro mais antigo.
@@ -77,6 +85,16 @@ Será definida como conta principal a conta do IP com o registro mais antigo.
 ### Lista de Punições <a href="#lista-de-punicoes-2" id="lista-de-punicoes-2"></a>
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente</td></tr></tbody></table>
+
+### Regra 10.1 - Conta falsa <a href="#id-01" id="id-01"></a>
+
+Punição aplicada a conta alternativa que gerou a infração:
+
+| Incidência |        Punição       |
+| :--------: | :------------------: |
+|      1     | Banimento permanente |
+
+
 
 ## Regra 11 - Estorno de pagamento <a href="#id-01" id="id-01"></a>
 

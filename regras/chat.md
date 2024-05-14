@@ -10,10 +10,10 @@ coverY: 0
 # 📖 Chat
 
 {% hint style="danger" %}
-Todas as punições de chat no Lobby são permanentes.
+E
 {% endhint %}
 
-## Regra 01 - Ofensa <a href="#01" id="01"></a>
+## Regra 01 - Ofensa <a href="#id-01" id="id-01"></a>
 
 Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores, será punido por ofensa todo jogador que agredir o outro ou o servidor verbalmente por meio de xingamentos e até mesmo com abreviações ou em outros idiomas, além disso, evite brincadeiras de mal gosto com outros jogadores (a staff não levará em conta se as palavras proferidas são para um amigo ou se tratam de meme), em casos de perseguição será enquadrado como _cyberbullying\*_.
 
@@ -31,19 +31,27 @@ Ameaças e/ou perseguições a outros jogadores(as) sejam elas com relação à 
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 12 horas</td></tr><tr><td align="center">2</td><td align="center">Silenciamento temporário de 3 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Silenciamento temporário de 7 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Silenciamento temporário de 15 dias</td></tr><tr><td align="center">5</td><td align="center">Aviso + Banimento Permanente.</td></tr></tbody></table>
 
-## Regra 02 - **Discriminação e/ou atos depreciativos** <a href="#01" id="01"></a>
+## Regra 02 - **Discriminação e/ou atos depreciativos** <a href="#id-01" id="id-01"></a>
 
 A Rede de Servidores Revo repudia e não tolera qualquer tipo de preconceito racial, social, homofóbico, capacitismo, discurso de ódio e/ou atos depreciativos como encorajamento a automutilação, atentados contra a vida, entre outros.
+
+### Lista de Punições <a href="#lista-de-punicoes-1" id="lista-de-punicoes-1"></a>
+
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 30 dias</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente</td></tr></tbody></table>
+
+## Regra 02.1 - **Discriminação e/ou atos depreciativos** <a href="#id-01" id="id-01"></a>
+
+Será aplicado este grau de punição caso ocorra ataques ou insultos diretos diante as situações citadas no tópico matriz.
+
+| Incidência |        Punição       |
+| :--------: | :------------------: |
+|      1     | Banimento permanente |
 
 {% hint style="danger" %}
 A depender da gravidade do ocorrido, tomamos a liberdade de aplicar **Blacklist** na primeira incidência.
 {% endhint %}
 
-### Lista de Punições <a href="#lista-de-punicoes-1" id="lista-de-punicoes-1"></a>
-
-<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 30 dias</td></tr><tr><td align="center">2</td><td align="center"><strong>Blacklist</strong></td></tr></tbody></table>
-
-## Regra 03 - **Divulgação Simples** <a href="#02" id="02"></a>
+## Regra 03 - **Divulgação Simples** <a href="#id-02" id="id-02"></a>
 
 Divulgação de coisas sem afins ao servidor tais como: discords paralelos, vídeos não relacionados ao servidor, fóruns e etc são proibidos. Outro caso que também se aplica é a divulgação indireta ao mencionar outro servidor: "vamos no servidor x duelar 1v1"
 
@@ -51,7 +59,7 @@ Divulgação de coisas sem afins ao servidor tais como: discords paralelos, víd
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 12 horas</td></tr><tr><td align="center">2</td><td align="center">Silenciamento temporário de 3 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Silenciamento temporário de 7 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Silenciamento temporário de 15 dias</td></tr><tr><td align="center">5</td><td align="center">Aviso + Banimento Permanente</td></tr></tbody></table>
 
-## Regra 04 - **Divulgação Grave** <a href="#02" id="02"></a>
+## Regra 04 - **Divulgação Grave** <a href="#id-02" id="id-02"></a>
 
 Fazer divulgação de outros servidores de Minecraft ou lojas do gênero como ferramenta de marketing e de captação de jogadores através do envio de endereços IP e/ou links.
 
@@ -59,7 +67,7 @@ Fazer divulgação de outros servidores de Minecraft ou lojas do gênero como fe
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 30 dias</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente</td></tr></tbody></table>
 
-## Regra 05 - **Desordem no Chat** <a href="#02" id="02"></a>
+## Regra 05 - **Desordem no Chat** <a href="#id-02" id="id-02"></a>
 
 Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um campo de aplicação amplo, como **Spam**, **Flood** e **Palavras de baixo calão**, além disso, tentativas de burlar a punição alterando a frase mas com o mesmo sentido também gera punição.
 
@@ -78,7 +86,7 @@ Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um cam
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 12 horas</td></tr><tr><td align="center">2</td><td align="center">Silenciamento temporário de 3 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Silenciamento temporário de 7 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Silenciamento temporário de 15 dias</td></tr><tr><td align="center">5</td><td align="center">Aviso + Banimento Permanente</td></tr></tbody></table>
 
-## Regra 06 - **Anúncio Indevido** <a href="#02" id="02"></a>
+## Regra 06 - **Anúncio Indevido** <a href="#id-02" id="id-02"></a>
 
 Para que se tenha um chat mais limpo foi implementado um canal separado para envio de anúncios (/anunciar), sendo este chat exclusivo para o envio dos mesmos, portanto qualquer mensagem enviada neste canal sem pretexto de anunciar algo não será permitida.
 
@@ -90,7 +98,7 @@ Está regra também inclui anunciar a sua warp em um chat que não seja no `/anu
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Aviso</td></tr><tr><td align="center">2</td><td align="center">Silenciamento temporário de 12 horas</td></tr><tr><td align="center">3</td><td align="center">Silenciamento temporário de 3 dias</td></tr><tr><td align="center">4 em diante</td><td align="center">Aviso + Silenciamento temporário de 7 dias</td></tr></tbody></table>
 
-## Regra 07 - **Desinformação** <a href="#02" id="02"></a>
+## Regra 07 - **Desinformação** <a href="#id-02" id="id-02"></a>
 
 
 

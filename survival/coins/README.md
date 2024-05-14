@@ -1,2 +1,2 @@
-# Coins
+# 💰 Coins
 
