@@ -4,11 +4,11 @@ cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# 🕸 Terreno Abandonado
+# 🕸️ Terreno Abandonado
 
 Terrenos são consideradas abandonadas de acordo com o tempo que o dono dele fica sem acessar o servidor (offline). Quanto maior a proteção, mais tempo leva para o terreno ser considerado abandonado.\
 \
-Caso encontre um terreno abandonado utilize o comando `/terrenoreivindicar` para reivindicar a propriedade ao custo de `250 coins` por bloco, segue a tabela de tempo necessário para que um terreno seja considerado abandonado:
+Caso encontre um terreno abandonado utilize o comando `/terreno reivindicar` para reivindicar a propriedade ao custo de `250 coins` por bloco, segue a tabela de tempo necessário para que um terreno seja considerado abandonado:
 
 ## Tempo necessário
 
@@ -52,7 +52,7 @@ Proteções são consideradas abandonadas de acordo com o tempo que o dono da pr
 
 * Verifique a quantidade de blocos de proteção da proteção com o graveto.
 * Verificar o tempo offline do jogador dono da proteção através do graveto ou utilizando `/seen <nick>`.
-* Utilize o comando `/terrenoreivindicar` verifique o valor necessário para reivindicação e confirme digitando `confirmar` no chat.
+* Utilize o comando `/terreno reivindicar` verifique o valor necessário para reivindicação e confirme digitando `confirmar` no chat.
 
 {% hint style="warning" %}
 Sistema válido para todos os jogadores, inclusive jogadores banidos.
