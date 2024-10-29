@@ -176,10 +176,35 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |  Edição CXXXVI - 21/03/2024  |                \[tdg]               |            Terror Dos GC            |
 |  Edição CXXXVII - 28/03/2024 |                \[tfg]               |         Tao Forjando a Gente        |
 | Edição CXXXVIII - 04/04/2024 |               \[not]                |               NoTalent              |
-|        Edição CXXXIX -       |                                     |                                     |
-|         Edição CXL -         |                                     |                                     |
-|         Edição CXLI -        |                                     |                                     |
-|        Edição CXLII -        |                                     |                                     |
-|        Edição CXLIII -       |                                     |                                     |
-|        Edição CXLIV -        |                                     |                                     |
-|         Edição CXLV -        |                                     |                                     |
+|  Edição CXXXIX - 11/04/2024  |               \[cnt]                |             Cai na Tela             |
+|    Edição CXL - 18/04/2024   |                \[per]               |               Peruanos              |
+|   Edição CXLI - 25/04/2024   |                \[per]               |               Peruanos              |
+|   Edição CXLII - 02/05/2024  |               \[not]                |               NoTalent              |
+|  Edição CXLIII - 09/05/2024  |                \[tdg]               |            Terror Dos GC            |
+|   Edição CXLIV - 16/05/2024  |               \[not]                |               NoTalent              |
+|   Edição CXLV - 23/05/2024   |               \[not]                |               NoTalent              |
+|   Edição CXLVI - 30/05/2024  |                \[tdg]               |            Terror Dos GC            |
+|  Edição CXLVII - 06/06/2024  |                \[tdg]               |            Terror Dos GC            |
+|  Edição CXLVIII - 13/06/2024 |                \[tdg]               |            Terror Dos GC            |
+|   Edição CXLIX - 20/06/2024  |                \[tdg]               |            Terror Dos GC            |
+|    Edição CL - 27/06/2024    |                \[tdg]               |            Terror Dos GC            |
+|    Edição CLI - 04/07/2024   |                \[sus]               |          Seu último Suspiro         |
+|   Edição CLII - 11/07/2024   |                \[cry]               |          Cryngpeep e amigos         |
+|   Edição CLIII - 18/07/2024  |                \[cry]               |          Cryngpeep e amigos         |
+|   Edição CLIV - 25/07/2024   |                \[cav]               |               Cavalos               |
+|    Edição CLV - 01/08/2024   |                \[laz]               |            Lazaro Barbosa           |
+|   Edição CLVI - 08/08/2024   |                \[tde]               |            Tropa de Elite           |
+|   Edição CLVII - 15/08/2024  |                \[tde]               |            Tropa de Elite           |
+|  Edição CLVIII - 22/08/2024  |                \[tde]               |            Tropa de Elite           |
+|   Edição CLIX - 29/08/2024   |                \[tde]               |            Tropa de Elite           |
+|    Edição CLX - 05/09/2024   |                \[tde]               |            Tropa de Elite           |
+|   Edição CLXI - 12/09/2024   |                \[tde]               |            Tropa de Elite           |
+|   Edição CLXII - 19/09/2024  |                \[znn]               |              Zona Leste             |
+|  Edição CLXIII - 26/09/2024  |                \[prd]               |             Purificados             |
+|   Edição CLXIV - 10/10/2024  |                \[kgm]               |               Kingdom               |
+|   Edição CLXV - 17/10/2024   |                \[kgm]               |               Kingdom               |
+|   Edição CLXVI - 24/10/2024  |                \[tdg]               |            Terror Dos GC            |
+|        Edição CLXVII -       |                                     |                                     |
+|       Edição CLXVIII -       |                                     |                                     |
+|        Edição CLXIX -        |                                     |                                     |
+|         Edição CLXX -        |                                     |                                     |

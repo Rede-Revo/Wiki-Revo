@@ -69,21 +69,19 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 ## » Ranking de Vencedores
 
-|   » Colocação «  |          » Clã «          | » Número de Vitórias « |
-| :--------------: | :-----------------------: | :--------------------: |
-|    🥇 1º Lugar   |     \[666] The Ritual     |           22           |
-|    🥈 2º Lugar   |      \[sbN] SiberiaN      |           18           |
-|    🥉 3º Lugar   |       \[ZZZ] Bloods       |           13           |
-|  **🎖** 4º Lugar |      \[PSD] Paysandu      |           10           |
-|  **🎖** 5º Lugar |      \[suN] Sunshine      |            9           |
-|  **🎖** 6º Lugar |     \[HGD] Highgarden     |            8           |
-|  **🎖** 7º Lugar |        \[Btz] Blitz       |            8           |
-|  **🎖 8**º Lugar | \[knS] Kawamura no Senshi |            6           |
-|  **🎖** 9º Lugar |      \[VhL] Valhalla      |            6           |
-| **🎖** 10º Lugar |   \[NtP] Ninguém ta Puro  |            5           |
-| **🎖** 11º Lugar |        \[TkA] Taka        |            3           |
-| **🎖** 12º Lugar |  \[TBF] The Best Farmers  |            3           |
-| **🎖** 13º Lugar |       \[PTR] Petardo      |            2           |
+|   » Colocação «  |          » Clã «          | » Número de Vitórias (min. 5) « |
+| :--------------: | :-----------------------: | :-----------------------------: |
+|    🥇 1º Lugar   |     \[666] The Ritual     |                22               |
+|    🥈 2º Lugar   |      \[sbN] SiberiaN      |                18               |
+|    🥉 3º Lugar   |       \[ZZZ] Bloods       |                13               |
+|  **🎖** 4º Lugar |      \[PSD] Paysandu      |                10               |
+|  **🎖** 5º Lugar |      \[suN] Sunshine      |                9                |
+|  **🎖** 6º Lugar |   \[TDE] Tropa de Elite   |                9                |
+|  **🎖** 7º Lugar |     \[HGD] Highgarden     |                8                |
+|  **🎖** 8º Lugar |        \[Btz] Blitz       |                8                |
+|  **🎖 9**º Lugar | \[knS] Kawamura no Senshi |                6                |
+| **🎖** 10º Lugar |      \[VhL] Valhalla      |                6                |
+| **🎖** 11º Lugar |   \[NtP] Ninguém ta Puro  |                5                |
 
 ## » Histórico do Evento
 
@@ -212,5 +210,40 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |   Edição CXXI - 17/03/2024   |     \[VSC]     |     Vasco Da Gama    |
 |   Edição CXXII - 24/03/2024  |     \[TFG]     | Tao Forjando a Gente |
 |  Edição CXXIII - 07/04/2024  |     \[VNM]     |      Vem na Mão      |
-|        Edição CXXIV -        |                |                      |
-|         Edição CXXV -        |                |                      |
+|   Edição CXXIV - 14/04/2024  |     \[HIT]     |       Hit Kill       |
+|   Edição CXXV - 21/04/2024   |     \[STE]     |       ShowTime       |
+|   Edição CXXVI - 05/05/2024  |     \[NOT]     |       NoTalent       |
+|  Edição CXXVII - 12/05/2024  |     \[TDE]     |    Tropa de Elite    |
+|  Edição CXXVIII - 19/05/2024 |     \[TDG]     |     Terror dos GC    |
+|   Edição CXXIX - 02/06/2024  |     \[TDE]     |    Tropa de Elite    |
+|   Edição CXXX - 09/06/2024   |     \[TDE]     |    Tropa de Elite    |
+|   Edição CXXXI - 16/06/2024  |     \[TDE]     |    Tropa de Elite    |
+|  Edição CXXXII - 23/06/2024  |     \[TDE]     |    Tropa de Elite    |
+|  Edição CXXXIII - 07/07/2024 |     \[Cry]     |  Cryngpeep e amigos  |
+|  Edição CXXXIV - 14/07/2024  |     \[Cry]     |  Cryngpeep e amigos  |
+|   Edição CXXXV - 21/07/2024  |     \[Cry]     |  Cryngpeep e amigos  |
+|  Edição CXXXVI - 04/08/2024  |     \[TDE]     |    Tropa de Elite    |
+|  Edição CXXXVII - 11/08/2024 |     \[TDE]     |    Tropa de Elite    |
+| Edição CXXXVIII - 18/08/2024 |     \[TDE]     |    Tropa de Elite    |
+|  Edição CXXXIX - 01/09/2024  |     \[NPU]     |  Nova Pátrida Unida  |
+|    Edição CXL - 08/09/2024   |     \[PRD]     |      Purificados     |
+|   Edição CXLI - 15/09/2024   |     \[TDE]     |    Tropa de Elite    |
+|   Edição CXLII - 22/09/2024  |     \[PRD]     |      Purificados     |
+|  Edição CXLIII - 06/10/2024  |     \[KGM]     |        Kingdom       |
+|   Edição CXLIV - 13/10/2024  |     \[KGM]     |        Kingdom       |
+|   Edição CXLV - 20/10/2024   |     \[TDG]     |     Terror dos GC    |
+|        Edição CXLVI -        |                |                      |
+|        Edição CXLVII -       |                |                      |
+|       Edição CXLVIII -       |                |                      |
+|        Edição CXLIX -        |                |                      |
+|          Edição CL -         |                |                      |
+|         Edição CLI -         |                |                      |
+|         Edição CLII -        |                |                      |
+|        Edição CLIII -        |                |                      |
+|         Edição CLIV -        |                |                      |
+|         Edição CLV -         |                |                      |
+|         Edição CLVI -        |                |                      |
+|        Edição CLVII -        |                |                      |
+|        Edição CLVIII -       |                |                      |
+|         Edição CLIX -        |                |                      |
+|         Edição CLX -         |                |                      |

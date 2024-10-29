@@ -178,13 +178,45 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição CXLVI - 22/03/2024  |              `zTeteus_`             |               `zTeteus_`              |
 |  Edição CXLVII - 29/03/2024  |            `ItzRealBro__`           |             `ItzRealBro__`            |
 |  Edição CXLVIII - 05/04/2024 |            `ArcccMENGAO`            |                 `cwg`                 |
-|        Edição CXLIX -        |                                     |                                       |
-|          Edição CL -         |                                     |                                       |
-|         Edição CLI -         |                                     |                                       |
-|         Edição CLII -        |                                     |                                       |
-|        Edição CLIII -        |                                     |                                       |
-|         Edição CLIV -        |                                     |                                       |
-|         Edição CLV -         |                                     |                                       |
-|         Edição CLVI -        |                                     |                                       |
-|        Edição CLVII -        |                                     |                                       |
-|        Edição CLVIII -       |                                     |                                       |
+|   Edição CXLIX - 12/04/2024  |             `batatapodi`            |              `EzzMENGAO`              |
+|    Edição CL - 19/04/2024    |              `ReneBebo`             |               `Shr_TiTo`              |
+|    Edição CLI - 26/04/2024   |               `Arcccw`              |               `Decaptou`              |
+|   Edição CLII - 03/05/2024   |               `Arcccw`              |            `EzzLoveLoiras`            |
+|   Edição CLIII - 10/05/2024  |                `000`                |               `ReneBebo`              |
+|   Edição CLIV - 17/05/2024   |          `RandoommWITHDNS`          |              `Gabrielfzl`             |
+|    Edição CLV - 24/05/2024   |             `baiacu_21`             |               `njrnthz`               |
+|   Edição CLVI - 31/05/2024   |          `RandoommWITHDNS`          |              `kelton1223`             |
+|   Edição CLVII - 07/06/2024  |          `RandoommWITHDNS`          |           `RandoommWITHDNS`           |
+|  Edição CLVIII - 14/06/2024  |             `Cryngpeep`             |               `SozyBoo`               |
+|   Edição CLIX - 21/06/2024   |             `Cryngpeep`             |              `Cryngpeep`              |
+|    Edição CLX - 28/06/2024   |             `kelton1223`            |              `kelton1223`             |
+|   Edição CLXI - 05/07/2024   |          `RandoommWITHDNS`          |           `RandoommWITHDNS`           |
+|   Edição CLXII - 12/07/2024  |              `Decaptou`             |            `ARandomShatter`           |
+|  Edição CLXIII - 19/07/2024  |             `Madararkia`            |              `Madararkia`             |
+|   Edição CLXIV - 26/07/2024  |               `uSnox`               |             `Mat_redston`             |
+|   Edição CLXV - 02/08/2024   |               `uSnox`               |              `Cryngpeep`              |
+|   Edição CLXVI - 09/08/2024  |             `Cryngpeep`             |              `Cryngpeep`              |
+|  Edição CLXVII - 16/08/2024  |             `Cryngpeep`             |              `Cryngpeep`              |
+|  Edição CLXVIII - 23/08/2024 |               `uSnox`               |               `Kenshin`               |
+|   Edição CLXIX - 30/08/2024  |              `vivamais`             |             `_FiddleAFox_`            |
+|   Edição CLXX - 06/09/2024   |            `_FiddleAFox_`           |               `vivamais`              |
+|   Edição CLXXI - 13/09/2024  |              `Kenshin`              |           `euamoathaiscarla`          |
+|  Edição CLXXII - 20/09/2024  |               `Mxgazw`              |                `Mxgazw`               |
+|  Edição CLXXIII - 27/09/2024 |               `uSnox`               |             `H4ppyExceeD`             |
+|  Edição CLXXIV - 04/10/2024  |            `ItzJustJxta`            |             `ItzJustJxta`             |
+|   Edição CLXXV - 11/10/2024  |               `uSnox`               |             `_FiddleAFox_`            |
+|  Edição CLXXVI - 18/10/2024  |               `uSnox`               |              `Cryngpeep`              |
+|  Edição CLXXVII - 25/10/2024 |             `Cryngpeep`             |             `ItzJustJxta`             |
+|       Edição CLXXVIII -      |                                     |                                       |
+|        Edição CLXXIX -       |                                     |                                       |
+|        Edição CLXXX -        |                                     |                                       |
+|        Edição CLXXXI -       |                                     |                                       |
+|       Edição CLXXXII -       |                                     |                                       |
+|       Edição CLXXXIII -      |                                     |                                       |
+|       Edição CLXXXIV -       |                                     |                                       |
+|        Edição CLXXXV -       |                                     |                                       |
+|       Edição CLXXXVI -       |                                     |                                       |
+|       Edição CLXXXVII -      |                                     |                                       |
+|      Edição CLXXXVIII -      |                                     |                                       |
+|       Edição CLXXXIX -       |                                     |                                       |
+|         Edição CXC -         |                                     |                                       |

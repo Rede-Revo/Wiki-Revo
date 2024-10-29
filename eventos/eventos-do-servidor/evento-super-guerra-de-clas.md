@@ -67,40 +67,40 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 ## » Ranking de Vencedores
 
-|     » Colocação «    |            » Clã «          | » Número de Vitórias «       |
-| :------------------: | :-------------------------: | :--------------------------: |
-|      🥇 1º Lugar     |      \[666] The Ritual      |               4              |
-|      🥈 2º Lugar     |       \[PSD] Paysandu       |               3              |
-|      🥉 3º Lugar     |      \[HGD] Highgarden      |               2              |
-|    **🎖** 4º Lugar   |         \[Btz] Blitz        |               2              |
-|    **🎖** 5º Lugar   |     \[CTR] Construtores     |               1              |
-|    **🎖** 6º Lugar   |         \[021] Crime        |               1              |
-|  **🎖** 7**º** Lugar |        \[PTR] Petardo       |               1              |
-|  **🎖** 8**º** Lugar |       \[HiT] Hit Kill       |               1              |
-|  **🎖** 9**º** Lugar | \[GAG] Gabao Redondo Reborn |               1              |
-| **🎖** 10**º** Lugar |       \[NoT] NoTalent       |               1              |
+|  » Colocação «  |        » Clã «       | » Número de Vitórias (min. 2) «       |
+| :-------------: | :------------------: | :-----------------------------------: |
+|   🥇 1º Lugar   |   \[666] The Ritual  |                   4                   |
+|   🥈 2º Lugar   |    \[PSD] Paysandu   |                   3                   |
+|   🥉 3º Lugar   |   \[HGD] Highgarden  |                   2                   |
+| **🎖** 4º Lugar |     \[Btz] Blitz     |                   2                   |
+| **🎖** 5º Lugar | \[TDG] Terror dos GC |                   2                   |
 
 ## » Histórico do Evento
 
-|        » Edição «        | » TAG do Clã « |    » Nome do Clã «   |
-| :----------------------: | :------------: | :------------------: |
-|   Edição I - 27/11/2022  |     \[666]     |      The Ritual      |
-|  Edição II - 25/12/2022  |     \[666]     |      The Ritual      |
-|  Edição III - 29/01/2023 |     \[666]     |      The Ritual      |
-|  Edição IV - 26/02/2023  |     \[HiT]     |       Hit Kill       |
-|   Edição V - 26/03/2023  |     \[CTR]     |     Construtores     |
-|  Edição VI - 30/04/2023  |     \[021]     |         Crime        |
-|  Edição VII - 28/05/2023 |     \[HGD]     |      Highgarden      |
-| Edição VIII - 25/06/2023 |     \[HGD]     |      Highgarden      |
-|  Edição IX - 01/08/2023  |     \[666]     |      The Ritual      |
-|   Edição X - 27/08/2023  |     \[PSD]     |       Paysandu       |
-|  Edição XI - 24/09/2023  |     \[PSD]     |       Paysandu       |
-|  Edição XII - 29/10/2023 |     \[PTR]     |        Petardo       |
-| Edição XIII - 26/11/2023 |     \[PSD]     |       Paysandu       |
-|  Edição XIV - 31/12/2023 |     \[GAG]     | Gabao Redondo Reborn |
-|  Edição XV - 28/01/2024  |     \[Btz]     |         Blitz        |
-|  Edição XVI - 25/02/2024 |     \[Btz]     |         Blitz        |
-| Edição XVII - 31/03/2024 |     \[NoT]     |       NoTalent       |
-|      Edição XVIII -      |                |                      |
-|       Edição XIX -       |                |                      |
-|        Edição XX -       |                |                      |
+|         » Edição «        | » TAG do Clã « |    » Nome do Clã «   |
+| :-----------------------: | :------------: | :------------------: |
+|   Edição I - 27/11/2022   |     \[666]     |      The Ritual      |
+|   Edição II - 25/12/2022  |     \[666]     |      The Ritual      |
+|  Edição III - 29/01/2023  |     \[666]     |      The Ritual      |
+|   Edição IV - 26/02/2023  |     \[HiT]     |       Hit Kill       |
+|   Edição V - 26/03/2023   |     \[CTR]     |     Construtores     |
+|   Edição VI - 30/04/2023  |     \[021]     |         Crime        |
+|  Edição VII - 28/05/2023  |     \[HGD]     |      Highgarden      |
+|  Edição VIII - 25/06/2023 |     \[HGD]     |      Highgarden      |
+|   Edição IX - 01/08/2023  |     \[666]     |      The Ritual      |
+|   Edição X - 27/08/2023   |     \[PSD]     |       Paysandu       |
+|   Edição XI - 24/09/2023  |     \[PSD]     |       Paysandu       |
+|  Edição XII - 29/10/2023  |     \[PTR]     |        Petardo       |
+|  Edição XIII - 26/11/2023 |     \[PSD]     |       Paysandu       |
+|  Edição XIV - 31/12/2023  |     \[GAG]     | Gabao Redondo Reborn |
+|   Edição XV - 28/01/2024  |     \[Btz]     |         Blitz        |
+|  Edição XVI - 25/02/2024  |     \[Btz]     |         Blitz        |
+|  Edição XVII - 31/03/2024 |     \[NoT]     |       NoTalent       |
+| Edição XVIII - 28/04/2024 |     \[TIO]     |  Amigos Do Tio Paulo |
+|  Edição XIX - 26/05/2024  |     \[TDG]     |     Terror dos GC    |
+|   Edição XX - 30/06/2024  |     \[TDG]     |     Terror dos GC    |
+|  Edição XXI - 28/07/2024  |     \[Cry]     |  Cryngpeep e amigos  |
+|  Edição XXII - 25/08/2024 |     \[TDE]     |    Tropa de Elite    |
+| Edição XXIII - 29/09/2024 |     \[PRD]     |      Purificados     |
+|       Edição XXIV -       |                |                      |
+|        Edição XXV -       |                |                      |

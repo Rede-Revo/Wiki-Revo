@@ -174,7 +174,34 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição CXXXV - 26/03/2024  |                \[tfg]               |         Tao Forjando A Gente        |
 |  Edição CXXXVI - 02/04/2024  |                \[not]               |               NoTalent              |
 |  Edição CXXXVII - 09/04/2024 |                \[cnt]               |             Cai na Tela             |
-|       Edição CXXXVIII -      |                                     |                                     |
-|        Edição CXXXIX -       |                                     |                                     |
-|         Edição CXL -         |                                     |                                     |
-|         Edição CXLI -        |                                     |                                     |
+| Edição CXXXVIII - 16/04/2024 |                \[per]               |               Peruanos              |
+|  Edição CXXXIX - 23/04/2024  |                \[cnt]               |             Cai na Tela             |
+|    Edição CXL - 30/04/2024   |                \[per]               |               Peruanos              |
+|   Edição CXLI - 07/05/2024   |                \[not]               |               NoTalent              |
+|   Edição CXLII - 14/05/2024  |                \[not]               |               NoTalent              |
+|  Edição CXLIII - 28/05/2024  |                \[tdg]               |            Terror dos GC            |
+|   Edição CXLIV - 04/06/2024  |                \[tdg]               |            Terror dos GC            |
+|   Edição CXLV - 11/06/2024   |                \[tdg]               |            Terror dos GC            |
+|   Edição CXLVI - 18/06/2024  |                \[tdg]               |            Terror dos GC            |
+|  Edição CXLVII - 25/06/2024  |                \[tdg]               |            Terror dos GC            |
+|  Edição CXLVIII - 02/07/2024 |                \[sus]               |          Seu último Suspiro         |
+|   Edição CXLIX - 09/07/2024  |                \[tdg]               |            Terror dos GC            |
+|    Edição CL - 16/07/2024    |                \[cry]               |          Cryngpeep e amigos         |
+|    Edição CLI - 23/07/2024   |                \[tdg]               |            Terror dos GC            |
+|   Edição CLII - 30/07/2024   |                \[not]               |               NoTalent              |
+|   Edição CLIII - 06/08/2024  |                \[npu]               |          Nova Pátria Unida          |
+|   Edição CLIV - 13/08/2024   |                \[tde]               |            Tropa de Elite           |
+|    Edição CLV - 20/08/2024   |                \[tde]               |            Tropa de Elite           |
+|   Edição CLVI - 27/08/2024   |                \[tde]               |            Tropa de Elite           |
+|   Edição CLVII - 03/09/2024  |                \[tde]               |            Tropa de Elite           |
+|  Edição CLVIII - 10/09/2024  |                \[prd]               |             Purificados             |
+|   Edição CLIX - 17/09/2024   |                \[prd]               |             Purificados             |
+|    Edição CLX - 24/09/2024   |                \[tdc]               |             TDG CLICKER             |
+|   Edição CLXI - 01/10/2024   |                \[prd]               |             Purificados             |
+|   Edição CLXII - 08/10/2024  |                \[tdc]               |             TDG CLICKER             |
+|  Edição CLXIII - 15/10/2024  |                \[kgm]               |               Kingdom               |
+|   Edição CLXIV - 22/10/2024  |                \[tdg]               |            Terror dos GC            |
+|         Edição CLXV -        |                                     |                                     |
+|        Edição CLXVI -        |                                     |                                     |
+|        Edição CLXVII -       |                                     |                                     |
+|       Edição CLXVIII -       |                                     |                                     |
