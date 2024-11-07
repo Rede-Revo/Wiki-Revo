@@ -36,18 +36,20 @@ Consulte os horários dos eventos clicando[ aqui](https://wiki.rederevo.com/even
 
 |     Evento Agendado    |              Pontos             |
 | :--------------------: | :-----------------------------: |
-|        Lanceiro        | Matador: 75 \| Sobrevivente: 50 |
-|        Arqueiro        | Matador: 75 \| Sobrevivente: 50 |
-|        Besteiro        | Matador: 75 \| Sobrevivente: 50 |
-|         Killer         | Matador: 75 \| Sobrevivente: 50 |
-|        Gladiador       | Matador: 75 \| Sobrevivente: 50 |
-|        Guerreiro       |   1º: 100 \| 2º: 75 \| 3º: 50   |
-|   Pré-Guerra (mc OFF)  |               150               |
-|   Pré-Guerra (mc ON)   |               250               |
-| Pré-Clã x Clã (mc OFF) |   1º: 125 \| 2º: 100 \| 3º: 75  |
-|    Clã x Clã (mc ON)   |  1º: 250 \| 2º: 200 \| 3º: 150  |
-|         Guerra         |               500               |
-|      Super Guerra      |               1000              |
+|        Lanceiro        | Matador: 50 \| Sobrevivente: 25 |
+|        Arqueiro        | Matador: 50 \| Sobrevivente: 25 |
+|        Besteiro        | Matador: 50 \| Sobrevivente: 25 |
+|         Killer         | Matador: 50 \| Sobrevivente: 25 |
+|        Gladiador       | Matador: 50 \| Sobrevivente: 25 |
+|        Guerreiro       |   1º: 50 \| 2º: 25  \| 3º: 10   |
+|          Duos          |    2º: 75 \| 2º: 50 \| 3º: 25   |
+|          Trios         |   1º:  100 \| 2º: 75 \| 3º: 50  |
+|   Pré-Guerra (mc OFF)  |               125               |
+|   Pré-Guerra (mc ON)   |               150               |
+| Pré-Clã x Clã (mc OFF) |  1º: 125 \| 2º:  100 \| 3º: 75  |
+|    Clã x Clã (mc ON)   |  1º: 200 \| 2º: 150 \| 3º: 100  |
+|         Guerra         |               250               |
+|      Super Guerra      |               500               |
 |         Torneio        |    1º: 75 \| 2º: 50 \| 3º: 25   |
 |    Construção do Mês   | 1º: 1000 \| 2º: 500 \| 3º: 250  |
 
