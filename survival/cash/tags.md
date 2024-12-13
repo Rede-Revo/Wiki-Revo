@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# 🏷 TAGs
+# 🏷️ TAGs
 
 ## Significado de TAG
 
@@ -23,11 +23,16 @@ TAGs dos eventos e torneios semanais são temporárias e duram 7 dias.\
 TAGs dos eventos mensais são temporárias e duram 30 dias.
 {% endhint %}
 
-| Evento Semanal    | TAG                         |
-| ----------------- | --------------------------- |
-| Evento Arqueiro   | \[Sniper]                   |
-| Evento Guerreiro  | \[Guerreiro] e \[Guerreira] |
-| Evento Killer     | \[Killer]                   |
+| **Evento Semanal** | **TAG**                      |
+| ------------------ | ---------------------------- |
+| Evento Arqueiro    | \[Sniper]                    |
+| Evento Besteiro    | \[Besteiro] e \[Besteira]    |
+| Evento Clã x Clã   | \[Campeão] e \[Campeã]       |
+| Evento Gladiador   | \[Gladiador] e \[Gladiadora] |
+| Evento Guerreiro   | \[Guerreiro] e \[Guerreira]  |
+| Evento Killer      | \[Killer]                    |
+| Evento Lanceiro    | \[Lanceiro] e \[Lanceira]    |
+| Evento Mix         |                              |
 
 | Evento Mensal     | TAG                         |
 | ----------------- | --------------------------- |
@@ -37,36 +42,39 @@ TAGs dos eventos mensais são temporárias e duram 30 dias.
 | -------------------- | -------------------------------- |
 | Evento Desbravador   | \[Desbravador] e \[Desbravadora] |
 
-| Torneio Semanal     | TAG                              |
+| **Torneio Semanal** | **TAG**                          |
 | ------------------- | -------------------------------- |
 | Torneio Aniquilador | \[Aniquilador] e \[Aniquiladora] |
 | Torneio Assassino   | \[Assassino] e \[Assassina]      |
 | Torneio Caçador     | \[Caçador] e \[Caçadora]         |
 | Torneio Conectado   | \[Conectado] e \[Conectada]      |
 | Torneio Desmatador  | \[Desmatador] e \[Desmatadora]   |
-| Torneio Destruidor  | \[Destruidor] e \[Destruidora]   |
 | Torneio Escavador   | \[Topeira]                       |
 | Torneio Farmador    | \[Farmador] e \[Farmadora]       |
+| Torneio Frenético   | \[Frenético] e \[Frenética]      |
 | Torneio Minerador   | \[Mineiro] e \[Mineira]          |
 | Torneio Peixeiro    | \[Peixeiro] e \[Peixeira]        |
 | Torneio Pedreiro    | \[Pedreiro] e \[Pedreira]        |
 | Torneio Super Fã    | \[Super Fã]                      |
 
-| Top mcMMO    | TAG                           |
-| ------------ | ----------------------------- |
-| Acrobacia    | \[Acrobata]                   |
-| Adestramento | \[Domador] e \[Domadora]      |
-| Alquimia     | \[Alquimista]                 |
-| Arquearia    | \[Arqueiro] e \[Arqueira]     |
-| Desarmado    | \[Boxeador] e \[Boxeadora]    |
-| Escavação    | \[Escavador] e \[Escavadora]  |
-| Espadas      | \[Espadachim]                 |
-| Herbalismo   | \[Fazendeiro] e \[Fazendeira] |
-| Lenhador     | \[Lenhador] e \[Lenhadora]    |
-| Machados     | \[Viking]                     |
-| Mineração    | \[Minerador] e \[Mineradora]  |
-| Pesca        | \[Pescador] e \[Pescadora]    |
-| Reparação    | \[Reparador] e \[Reparadora]  |
+| **Top mcMMO** | **TAG**                         |
+| ------------- | ------------------------------- |
+| Acrobacia     | \[Acrobata]                     |
+| Adestramento  | \[Domador] e \[Domadora]        |
+| Alquimia      | \[Alquimista]                   |
+| Arqueiria     | \[Arqueiro] e \[Arqueira]       |
+| Bestas        | \[Caçador] e \[Caçadora]        |
+| Clava         |                                 |
+| Desarmado     | \[Boxeador] e \[Boxeadora]      |
+| Escavação     | \[Escavador] e \[Escavadora]    |
+| Espadas       | \[Espadachim]                   |
+| Herbalismo    | \[Fazendeiro] e \[Fazendeira]   |
+| Lenhador      | \[Lenhador] e \[Lenhadora]      |
+| Machados      | \[Viking]                       |
+| Mineração     | \[Minerador] e \[Mineradora]    |
+| Pesca         | \[Pescador] e \[Pescadora]      |
+| Reparação     | \[Reparador] e \[Reparadora]    |
+| Tridentes     | \[Tridenteiro] e \[Tridenteira] |
 
 | Tops da Temporada | TAG                           |
 | ----------------- | ----------------------------- |

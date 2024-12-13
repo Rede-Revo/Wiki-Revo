@@ -7,11 +7,8 @@ description: >-
 
 # 🔐 Recuperação
 
-
-
 ## Vinculadas
 
-* Email: Utilize o comando **/email recover**, um email será enviado com sua nova senha.
 * Discord: Acesse o canal de [#tickets](https://discord.com/channels/793269891557490688/929227946512777216) e vá na categoria **"Esqueci minha senha**" clique em **"Recuperar senha"** uma mensagem com uma nova senha gerada automaticamente será enviada.
 
 ## Não vinculadas

@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# 🌪 Evento Dominador
+# 🌪️ Evento Dominador
 
 ## Como Funciona
 
@@ -19,7 +19,7 @@ coverY: 0
 ## Como Participar
 
 1. Entrada para o evento:
-   * O evento é aberto para entrada em quanto ele durar**;**
+   * O evento é aberto para entrada em quanto ele dura&#x72;**;**
    * Enquanto o evento estiver aberto use o comando `/arena`;
    * Saia do evento a qualquer momento com `/spawn`.
 2. Inicio da batalha:

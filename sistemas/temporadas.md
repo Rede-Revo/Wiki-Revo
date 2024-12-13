@@ -44,7 +44,7 @@ _"O servidor reseta?"_ Não! Nenhum progresso será perdido, apenas serão inclu
 
 ![](<../.gitbook/assets/unknown (2).png>)
 
-
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 
 

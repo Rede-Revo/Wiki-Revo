@@ -39,7 +39,7 @@ Jogadores(as) que reportarem quaisquer bug que afetem a jogabilidade do servidor
 Aplicável em casos de abusos de erros graves.
 
 {% hint style="danger" %}
-Em bugs de duplicação a punição aplicada é permanente e o jogador terá a conta resetada.
+Em bugs de duplicação a punição aplicada é permanente e o jogador terá a conta confiscada pela Staff.
 {% endhint %}
 
 
@@ -70,7 +70,7 @@ _Reportar erros são uma forma de apoio direto ao servidor, os mesmos devem ser 
 
 **Reportador de erros nível 3:**
 
-* Item exclusivo com o nome HEX "\[~~**Bug**~~** Hunter**]; Descrição: "Caçador de erros nível 3 da Rede Revo!" e personalização com o nick dono do item.&#x20;
+* Item exclusivo com o nome HEX "\[~~**Bug**~~**&#x20;Hunter**]; Descrição: "Caçador de erros nível 3 da Rede Revo!" e personalização com o nick dono do item.&#x20;
 * A depender da gravidade do erro grave poderá ser entregue mais recompensas.
 * Nível de erro: Fonte de recurso infinita.
 
@@ -113,7 +113,7 @@ Consiste na tentativa de negociação e/ou transação de itens ou vantagens no 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 5 dias + Confisco do conteúdo comercializado</td></tr><tr><td align="center">2</td><td align="center">Prisão de 10 dias + Confisco do conteúdo comercializado</td></tr><tr><td align="center">3</td><td align="center">Banimento Permanente + Confisco do conteúdo comercializado</td></tr></tbody></table>
 
 {% hint style="warning" %}
-Item comercializado ilegalmente será deletado, e em casos de contas, a mesma terá todas suas informações zeradas.
+Contas e itens comercializados ilegalmente serão recolhidos pela equipe e, posteriormente, leiloados.
 {% endhint %}
 
 ## Regra 13 - Ação indevida AFK
@@ -179,9 +179,7 @@ Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relac
 * Perseguir jogadores por meio da jogabilidade, com meio exclusivo de o prejudicar (ficar em volta de proteções esperando o jogador sair da mesma com finalidade exclusiva de o perturbar/matar, por exemplo). Casos de perseguição o jogador denunciado será previamente avisado, posteriormente ao aviso, se persistir, será punido.
 * [Roubos que decorreram de acordos, como compra, venda ou trocas de itens ou terrenos, ou a prestação de serviços, como arar terrenos, onde há evidências claras do acordo e de sua violação.](#user-content-fn-1)[^1]
 
-{% hint style="danger" %}
-O servidor tem sua modalidade sobrevivência e nisso inclui sobreviver de outros jogadores, roubos **não** são incluídos em nenhum tópico.
-{% endhint %}
+
 
 ### Lista de Punições <a href="#lista-de-punicoes-7" id="lista-de-punicoes-7"></a>
 
@@ -229,7 +227,16 @@ Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-
 
 <table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento permanente</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente + Níveis das Habilidades redefinidos para 50% (mcMMO)</td></tr></tbody></table>
 
-## Regra 19 -  **Uso irregular da tag "Mito"** <a href="#id-01" id="id-01"></a>
+
+
+{% hint style="danger" %}
+Em caso de banimento pela Regra 18 durante algum evento, todos membros do clan que teve o jogador punido serão removidos do evento.
+
+* Eventos Clã x Clã: 1 Banimento por Regra 18, todo clan é removido do evento.
+* Eventos Guerra (Pré e Guerra): 2 Banimentos do clan por Regra 18, todo clan é removido do evento.
+{% endhint %}
+
+Regra 19 -  **Uso irregular da tag "Mito"**
 
 Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só pode ser adquirida apenas em algumas situações. Comercializar ou arquivar em conta secundária esta TAG resultará em punição. Saiba mais sobre a TAG: [Clique aqui!](broken-reference)
 

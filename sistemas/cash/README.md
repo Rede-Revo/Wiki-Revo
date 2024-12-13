@@ -16,7 +16,7 @@ Cash é uma recompensa que você recebe em troca de apoiar o nosso servidor com 
 
 Manter um servidor de minecraft online não é barato. Existe vários custos mensais envolvidos, hospedagem, compra de plugins e pagamento de serviços. Para hospedar nosso servidor, possuímos duas máquinas **dedicadas e hospedada em São Paulo,** uma possui com um processador Ryzen 9 7950x com 128GB de memória RAM e disco de armazenamento de 1TB NVME e a outra Ryzen 9 7950x com 64GB de memória RAM e disco de armazenamento de 1TB NVME.
 
-Ambas as maquinas são hospedadas pela empresa [EnxadaHost](https://enxadahost.com/members/aff.php?aff=361), caso possua interesse em conhecer o serviço podem acesser [aqui](https://enxadahost.com/members/aff.php?aff=361).
+Ambas as maquinas são hospedadas pela empresa [EnxadaHost](https://enxadahost.com/members/aff.php?aff=361), caso possua interesse em conhecer o serviço, podem acessar [aqui](https://enxadahost.com/members/aff.php?aff=361).
 
 ### **O que eu posso fazer para apoiar o servidor?**
 

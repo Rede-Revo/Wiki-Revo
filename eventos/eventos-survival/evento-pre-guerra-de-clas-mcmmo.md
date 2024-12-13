@@ -55,7 +55,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### 🥇 **Clã Vencedor**
 
 * :moneybag: Premiação de **250.000 Coins** depositados no banco do clã.
-* 💎**\[Liga]** 150 Pontos
+* �&#xDC8E;**\[Liga]** 150 Pontos
 
 ## » Histórico do Evento
 

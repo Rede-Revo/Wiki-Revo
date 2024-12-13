@@ -1,16 +1,11 @@
 ---
 description: >-
-  Existem 2 formas que você pode proteger a garantir uma maior segurança em sua
-  conta:
+  Atualmente, adotamos como método de proteção para sua conta a vinculação com
+  sua conta do jogo. Após vincular sua conta do Minecraft ao Discord, ela estará
+  devidamente protegida.
 ---
 
 # 🔒 Proteção
-
-## Email
-
-Vincule um email, utilize **/email add (email)** para adicionar um email em sua conta.
-
-* Utilize /email 2fa para adicionar ainda mais segurança, uma nova verificação por email será efetuada sempre que seu IP mudar.
 
 ## Discord
 

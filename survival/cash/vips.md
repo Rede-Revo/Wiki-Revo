@@ -8,37 +8,39 @@ coverY: 0
 
 ## Benefícios no Survival
 
-|             **Benefício**             | **Legend** | **Ultra** | **Super** |
-| :-----------------------------------: | :--------: | :-------: | :-------: |
-|                 Coins                 |   150.000  |  100.000  |   50.000  |
-|           Blocos de Proteção          |   15.000   |   10.000  |   5.000   |
-|           Limite de Terrenos          |     50     |     40    |     30    |
-|     Bônus na loja (compra e venda)    |     10%    |    7.5%   |     5%    |
-|         Sem delay de teleporte        |     SIM    |    SIM    |    SIM    |
-|     Remover spawner (Toque Suave)     |     50%    |    40%    |    30%    |
-|         Cores no Chat e Placas        |     SIM    |    SIM    |    SIM    |
-|     Conectar com o servidor lotado    |     SIM    |    SIM    |    SIM    |
-| Tempo AFK até ser movido para o spawn |   6 horas  |  4 horas  |  2 horas  |
-|         Não perde XP ao morrer        |     SIM    |    SIM    |    SIM    |
-|         Acesso a Loja Virtual         |   15 dias  |   7 dias  |   3 dias  |
+| **Benefício**                             | **Especial** | **Legend** | **Ultra** | **Super** |
+| ----------------------------------------- | ------------ | ---------- | --------- | --------- |
+| **Coins**                                 | 250.000      | 150.000    | 100.000   | 50.000    |
+| **Blocos de Proteção**                    | 25.000       | 15.000     | 10.000    | 5.000     |
+| **Limite de Terrenos**                    | 30           | 25         | 20        | 15        |
+| **Bônus na loja (compra e venda)**        | 12,5%        | 10%        | 7,5%      | 5%        |
+| **Sem delay de teleporte**                | ✅            | ✅          | ✅         | ✅         |
+| **Remover spawner (Toque Suave)**         | 75%          | 50%        | 40%       | 30%       |
+| **Cores no Chat e Placas**                | ✅            | ✅          | ✅         | ✅         |
+| **Conectar com o servidor lotado**        | ✅            | ✅          | ✅         | ✅         |
+| **Tempo AFK até ser movido para o spawn** | Não é movido | 12 horas   | 10 horas  | 8 horas   |
+| **Não perde XP ao morrer**                | ✅            | ✅          | ✅         | ✅         |
+| **Acesso à Loja Virtual**                 | 30 dias      | 15 dias    | 7 dias    | 3 dias    |
+| **Isenção da taxa do mercado**            | ✅            | ❌          | ❌         | ❌         |
+| **Plushie Aleatório ao ativar o VIP**     | ✅            | ❌          | ❌         | ❌         |
 
 ### Comandos <a href="#comandos" id="comandos"></a>
 
-|                                     **Comando**                                     |             **Legend**             |         **Ultra**         | **Super** |
-| :---------------------------------------------------------------------------------: | :--------------------------------: | :-----------------------: | :-------: |
-|                     <p>/ec</p><p>Abrir o baú do fim virtual</p>                     |                 SIM                |            SIM            |    SIM    |
-|               <p>/craft</p><p>Abrir a bancada de trabalho virtual</p>               |                 SIM                |            SIM            |    SIM    |
-|                <p>/hat</p><p>Adicionar o item na mão como chapéu</p>                |                 SIM                |            SIM            |    SIM    |
-|                       <p>/nick</p><p>Alterar a cor do nick</p>                      |      SIM (pode alterar o nick)     | SIM (pode alterar o nick) |    SIM    |
-|                 <p>/compactar</p><p>Transformar itens em blocos</p>                 |                 SIM                |            SIM            |    SIM    |
-|                          /bigorna Acessa a bigorna virtual                          |                 SIM                |            SIM            |    SIM    |
-|                             /tear Acessa o tear virtual                             |                 SIM                |            SIM            |    SIM    |
-|                         /cortador Acessa o cortador virtual                         |                 SIM                |            SIM            |    SIM    |
-|                    /ferraria Acessa a bancada de ferraria virtual                   |                 SIM                |            SIM            |    SIM    |
-|                 /cartografia Acessa a bancada de cartografia virtual                |                 SIM                |            SIM            |    SIM    |
-|                           /rebolo Acessa o rebolo virtual                           |                 SIM                |            SIM            |    SIM    |
-|                    /organizar Acessa o organizados de containers                    | SIM (com todas as funcionalidades) |            SIM            |    SIM    |
-| /back Volta ao ultimo lugar que esteve (delay de 5 minutos para utilizar novamente) |                 SIM                |            SIM            |    SIM    |
+| **Comandos**                                                                            | **Especial** | **Legend** | **Ultra** | **Super** |
+| --------------------------------------------------------------------------------------- | ------------ | ---------- | --------- | --------- |
+| **/ec** Abrir o baú do fim virtual                                                      | ✅            | ✅          | ✅         | ✅         |
+| **/craft** Abrir a bancada de trabalho virtual                                          | ✅            | ✅          | ✅         | ✅         |
+| **/hat** Adicionar o item na mão como chapéu                                            | ✅            | ✅          | ✅         | ✅         |
+| **/nick** Alterar a cor do nick                                                         | ✅            | ✅          | ✅         | ✅         |
+| **/compactar** Transformar itens em blocos                                              | ✅            | ✅          | ✅         | ✅         |
+| **/bigorna** Acessa a bigorna virtual                                                   | ✅            | ✅          | ✅         | ✅         |
+| **/tear** Acessa o tear virtual                                                         | ✅            | ✅          | ✅         | ✅         |
+| **/cortador** Acessa o cortador virtual                                                 | ✅            | ✅          | ✅         | ✅         |
+| **/ferraria** Acessa a bancada de ferraria virtual                                      | ✅            | ✅          | ✅         | ✅         |
+| **/cartografia** Acessa a bancada de cartografia virtual                                | ✅            | ✅          | ✅         | ✅         |
+| **/rebelo** Acessa o rebelo virtual                                                     | ✅            | ✅          | ✅         | ✅         |
+| **/organizar** Acessa o organizador de containers                                       | ✅            | ✅          | ✅         | ✅         |
+| **/back** Volta ao último lugar que esteve (delay de 5 minutos para utilizar novamente) | ✅            | ✅          | ✅         | ✅         |
 
 ### Limites
 
@@ -101,3 +103,4 @@ coverY: 0
 | 3 Maças douradas encantadas | 2 Maças douradas encantadas | 1 Maça dourada encantada |
 |       16 Maças douradas     |       8 Maças douradas      |     4 Maças douradas     |
 |  16 Frascos de experiência  |   8 Frascos de experiência  | 4 Frascos de experiência |
+

@@ -10,6 +10,4 @@ coverY: 0
 
 ## Tempo offline necessário para perda da proteção.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>

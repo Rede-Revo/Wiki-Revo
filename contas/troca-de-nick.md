@@ -28,9 +28,9 @@ Verifique abaixo, qual caso se enquadra na sua modificação atual e saiba como 
 
 ## \*Java (Original -> Original)
 
-Possui uma conta original para original e pretende alterar seu nick no minecraft.net, todos dados são transferidos **automaticamente** desde que cumpram os seguintes requisitos:
+Possui uma conta original para original e pretende alterar seu nick no minecraft.net? Todos dados são transferidos **automaticamente** desde que cumpram os seguintes requisitos:
 
-1. Tenha **certeza** que sua conta está com **/original** ativo, em caso de dúvida utilize o comando em detaque para validação.
+1. Tenha **certeza** que sua conta está com **/original** ativo, em caso de dúvida utilize o comando em destaque para validação.
 2. Certifique que o nick a ser inserido, não foi registrado por **nenhum** jogador no servidor, do contrário ao alterar seus dados não serão transferidos (Sistema de proteção contra roubo de contas).
 
 ## ❌ Não ocorre automaticamente&#x20;
