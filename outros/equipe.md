@@ -148,7 +148,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 * <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> <mark style="color:yellow;">**mac79262**</mark>**&#x20;(data de entrada: 10/03/2023)**
 * <img src="../.gitbook/assets/image (60).png" alt="" data-size="line"> <mark style="color:yellow;">**\_RezentXz**</mark>**&#x20;(data de entrada: 24/02/2024)**
 * <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:yellow;">**Gutothefoda**</mark>**&#x20;(data de entrada: 20/06/2022)**
-* <img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**Djinnii1**</mark>**&#x20;(data de entrada: 10/05/2023)**
+* <img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**Djinnii1**</mark>**&#x20;(data de entrada: 10/05/2023)**
 * <img src="../.gitbook/assets/2048 (2) (3).png" alt="" data-size="line"> <mark style="color:yellow;">**HyperMikel**</mark>**&#x20;(data de entrada: 25/04/2023)**
 * <img src="../.gitbook/assets/image (61).png" alt="" data-size="line"> <mark style="color:yellow;">**Pichalgamer**</mark>**&#x20;(data de entrada: 20/03/2024)**
 * <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> <mark style="color:yellow;">**Minozzo**</mark>**&#x20;(data de entrada: 05/08/2023)**

@@ -76,15 +76,16 @@ TAGs dos eventos mensais são temporárias e duram 30 dias.
 | Reparação     | \[Reparador] e \[Reparadora]    |
 | Tridentes     | \[Tridenteiro] e \[Tridenteira] |
 
-| Tops da Temporada | TAG                           |
-| ----------------- | ----------------------------- |
-| Cash              | \[Doador] e \[Doadora]        |
-| Coins             | \[Milionário] e \[Milionária] |
-| Destemido         | \[Destemido] e \[Destemida]   |
-| Eventos           | \[Habilidoso] e \[Habilidosa] |
-| mcMMO             | \[Poderoso] e \[Poderosa]     |
-| Online            | \[Viciado] e \[Viciada]       |
-| Votos             | \[Apoiador] e \[Apoiadora]    |
+| **Tops da Temporada** | **TAG**                        |
+| --------------------- | ------------------------------ |
+| Cash                  | \[Doador] e \[Doadora]         |
+| Coins                 | \[Milionário] e \[Milionária]  |
+| Destemido             | \[Destemido] e \[Destemida]    |
+| Eventos               | \[Habilidoso] e \[Habilidosa]  |
+| mcMMO                 | \[Poderoso] e \[Poderosa]      |
+| Online                | \[Viciado] e \[Viciada]        |
+| Torneios              | \[Competidor] e \[Competidora] |
+| Votos                 | \[Apoiador] e \[Apoiadora]     |
 
 ## TAG's Permanentes <a href="#perma" id="perma"></a>
 

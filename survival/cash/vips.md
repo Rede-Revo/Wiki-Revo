@@ -8,21 +8,23 @@ coverY: 0
 
 ## Benefícios no Survival
 
-| **Benefício**                             | **Especial** | **Legend** | **Ultra** | **Super** |
-| ----------------------------------------- | ------------ | ---------- | --------- | --------- |
-| **Coins**                                 | 250.000      | 150.000    | 100.000   | 50.000    |
-| **Blocos de Proteção**                    | 25.000       | 15.000     | 10.000    | 5.000     |
-| **Limite de Terrenos**                    | 30           | 25         | 20        | 15        |
-| **Bônus na loja (compra e venda)**        | 12,5%        | 10%        | 7,5%      | 5%        |
-| **Sem delay de teleporte**                | ✅            | ✅          | ✅         | ✅         |
-| **Remover spawner (Toque Suave)**         | 75%          | 50%        | 40%       | 30%       |
-| **Cores no Chat e Placas**                | ✅            | ✅          | ✅         | ✅         |
-| **Conectar com o servidor lotado**        | ✅            | ✅          | ✅         | ✅         |
-| **Tempo AFK até ser movido para o spawn** | Não é movido | 12 horas   | 10 horas  | 8 horas   |
-| **Não perde XP ao morrer**                | ✅            | ✅          | ✅         | ✅         |
-| **Acesso à Loja Virtual**                 | 30 dias      | 15 dias    | 7 dias    | 3 dias    |
-| **Isenção da taxa do mercado**            | ✅            | ❌          | ❌         | ❌         |
-| **Plushie Aleatório ao ativar o VIP**     | ✅            | ❌          | ❌         | ❌         |
+## Benefícios de Pacotes VIP
+
+| **Benefício**                             | **Super** | **Ultra** | **Legend** | **Especial** |
+| ----------------------------------------- | --------- | --------- | ---------- | ------------ |
+| **Coins**                                 | 50.000    | 100.000   | 150.000    | 250.000      |
+| **Blocos de Proteção**                    | 5.000     | 10.000    | 15.000     | 25.000       |
+| **Limite de Terrenos**                    | 15        | 20        | 25         | 30           |
+| **Bônus na loja (compra e venda)**        | 5%        | 7,5%      | 10%        | 12,5%        |
+| **Sem delay de teleporte**                | ✅         | ✅         | ✅          | ✅            |
+| **Remover spawner (Toque Suave)**         | 30%       | 40%       | 50%        | 75%          |
+| **Cores no Chat e Placas**                | ✅         | ✅         | ✅          | ✅            |
+| **Conectar com o servidor lotado**        |           | ✅         | ✅          | ✅            |
+| **Tempo AFK até ser movido para o spawn** | 8 horas   | 10 horas  | 12 horas   | Não é movido |
+| **Não perde XP ao morrer**                |           | ✅         | ✅          | ✅            |
+| **Acesso à Loja Virtual**                 | 3 dias    | 7 dias    | 15 dias    | 30 dias      |
+| **Isenção da taxa do mercado**            | ❌         | ❌         | ❌          | ✅            |
+| **Plushie Aleatório ao ativar o VIP**     | ❌         | ❌         | ❌          | ✅            |
 
 ### Comandos <a href="#comandos" id="comandos"></a>
 

@@ -26,12 +26,12 @@ VIPs são cargos que você pode adquirir através do Cash em nossos servidores e
 
 Quando maior for o VIP mais cash ele vai custar, os valores são:
 
-|   Cargo  | Preço |
-| :------: | :---: |
-|   Super  |  1500 |
-|   Ultra  |  3000 |
-|  Legend  |  4500 |
-| Especial |  6000 |
+|   Cargo   | Preço |
+| :-------: | :---: |
+| Especial  |  6000 |
+|   Legend  |  4500 |
+|   Ultra   |  3000 |
+|   Super   |  1500 |
 
 {% hint style="info" %}
 **VIP Especial**\
@@ -40,9 +40,9 @@ O VIP Especial é um VIP exclusivo que aparece em momentos específicos no Revo.
 
 ## Vantagens VIPS
 
+## Benefícios de Pacotes VIP
 
-
-<table data-full-width="true"><thead><tr><th align="center">Benefício</th><th width="131" align="center">Especial</th><th width="147" align="center">Legend</th><th width="105">Ultra</th><th>Super</th></tr></thead><tbody><tr><td align="center"><strong>Coins</strong></td><td align="center">250.000</td><td align="center">150.000</td><td>100.000</td><td>50.000</td></tr><tr><td align="center"><strong>Blocos de Proteção</strong></td><td align="center">25.000</td><td align="center">15.000</td><td>10.000</td><td>5.000</td></tr><tr><td align="center"><strong>Limite de Terrenos</strong></td><td align="center">30</td><td align="center">25</td><td>20</td><td>15</td></tr><tr><td align="center"><strong>Bônus na loja (compra e venda)</strong></td><td align="center">12,5%</td><td align="center">10%</td><td>7.5%</td><td>5%</td></tr><tr><td align="center"><strong>Sem delay de teleporte</strong></td><td align="center">✔️</td><td align="center">✔️</td><td>✔️</td><td>✔️</td></tr><tr><td align="center"><strong>Remover spawner (Toque Suave)</strong></td><td align="center">75%</td><td align="center">50%</td><td>40%</td><td>30%</td></tr><tr><td align="center"><strong>Cores no Chat e Placas</strong></td><td align="center">✔️</td><td align="center">✔️</td><td>✔️</td><td>✔️</td></tr><tr><td align="center"><strong>Conectar com o servidor lotado</strong></td><td align="center">✔️</td><td align="center">✔️</td><td>✔️</td><td>✔️</td></tr><tr><td align="center"><strong>Tempo AFK até ser movido para o spawn</strong></td><td align="center">Não é movido.</td><td align="center">12 horas</td><td>10 horas</td><td>8 horas</td></tr><tr><td align="center"><strong>Não perde XP ao morrer</strong></td><td align="center">✔️</td><td align="center">✔️</td><td>✔️</td><td>✔️</td></tr><tr><td align="center"><strong>Acesso a Loja Virtual</strong></td><td align="center">30 dias</td><td align="center">15 dias</td><td>7 dias</td><td>3 dias</td></tr><tr><td align="center">Isenção da taxa do mercado </td><td align="center">✔️</td><td align="center">❌</td><td>❌</td><td>❌</td></tr><tr><td align="center">Plushie Aleatório ao ativar o VIP</td><td align="center">✔️</td><td align="center">❌</td><td>❌</td><td>❌</td></tr></tbody></table>
+<table data-header-hidden data-full-width="true"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Benefício</strong></td><td><strong>Super</strong></td><td><strong>Ultra</strong></td><td><strong>Legend</strong></td><td><strong>Especial</strong></td></tr><tr><td><strong>Coins</strong></td><td>50.000</td><td>100.000</td><td>150.000</td><td>250.000</td></tr><tr><td><strong>Blocos de Proteção</strong></td><td>5.000</td><td>10.000</td><td>15.000</td><td>25.000</td></tr><tr><td><strong>Limite de Terrenos</strong></td><td>15</td><td>20</td><td>25</td><td>30</td></tr><tr><td><strong>Bônus na loja (compra e venda)</strong></td><td>5%</td><td>7,5%</td><td>10%</td><td>12,5%</td></tr><tr><td><strong>Sem delay de teleporte</strong></td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>Remover spawner (Toque Suave)</strong></td><td>30%</td><td>40%</td><td>50%</td><td>75%</td></tr><tr><td><strong>Cores no Chat e Placas</strong></td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>Conectar com o servidor lotado</strong></td><td></td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>Tempo AFK até ser movido para o spawn</strong></td><td>8 horas</td><td>10 horas</td><td>12 horas</td><td>Não é movido</td></tr><tr><td><strong>Não perde XP ao morrer</strong></td><td></td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>Acesso à Loja Virtual</strong></td><td>3 dias</td><td>7 dias</td><td>15 dias</td><td>30 dias</td></tr><tr><td><strong>Isenção da taxa do mercado</strong></td><td>❌</td><td>❌</td><td>❌</td><td>✅</td></tr><tr><td><strong>Plushie Aleatório ao ativar o VIP</strong></td><td>❌</td><td>❌</td><td>❌</td><td>✅</td></tr></tbody></table>
 
 
 
