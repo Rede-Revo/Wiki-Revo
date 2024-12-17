@@ -39,7 +39,7 @@ Jogadores(as) que reportarem quaisquer bug que afetem a jogabilidade do servidor
 Aplicável em casos de abusos de erros graves.
 
 {% hint style="danger" %}
-Em bugs de duplicação a punição aplicada é permanente e o jogador terá a conta confiscada pela Staff.
+Em bugs de duplicação a punição aplicada é permanentemente e o jogador terá a conta confiscada pela Staff.
 {% endhint %}
 
 
@@ -114,6 +114,10 @@ Consiste na tentativa de negociação e/ou transação de itens ou vantagens no 
 
 {% hint style="warning" %}
 Contas e itens comercializados ilegalmente serão recolhidos pela equipe e, posteriormente, leiloados.
+{% endhint %}
+
+{% hint style="danger" %}
+Brincadeiras relacionadas à Regra 12 não serão toleradas em nenhuma circunstância, seja dentro do jogo ou fora dele (Discord). Os jogadores que desrespeitarem essa diretriz estarão sujeitos às penalidades previamente estabelecidas.
 {% endhint %}
 
 ## Regra 13 - Ação indevida AFK
