@@ -116,10 +116,6 @@ Consiste na tentativa de negociação e/ou transação de itens ou vantagens no 
 Contas e itens comercializados ilegalmente serão recolhidos pela equipe e, posteriormente, leiloados.
 {% endhint %}
 
-{% hint style="danger" %}
-Brincadeiras relacionadas à Regra 12 não serão toleradas em nenhuma circunstância, seja dentro do jogo ou fora dele (Discord). Os jogadores que desrespeitarem essa diretriz estarão sujeitos às penalidades previamente estabelecidas.
-{% endhint %}
-
 ## Regra 13 - Ação indevida AFK
 
 Deixar o personagem online sem estar presente (AFK) executando com auxílio de recursos internos e/ou externos (software, hardware, firmware ou modificação no jogo) ações de forma automática é proibida no servidor.&#x20;

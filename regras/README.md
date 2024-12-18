@@ -76,6 +76,11 @@ Ao visualizar um jogador possivelmente infringindo uma regra, abra uma denúncia
 * **Discord:** Mesma linha de punições do servidor, porém dentro da comunidade do discord.
   * Afeta todos servidores: [❌](https://emojiterra.com/pt/x-vermelho/)
 
+{% hint style="danger" %}
+Evite brincadeiras de mau gosto, pois a staff não irá fazer distinção entre elas. Dado que não temos como avaliar todas as circunstâncias, não conseguimos determinar com certeza se uma afirmação é verdadeira ou não.\
+
+{% endhint %}
+
 ## Como revisar uma punição?
 
 Caso jogador(a) acredite que a punição tenha sido aplicado incorretamente, o mesmo tem o direito de solicitar revisão sobre a punição com os seguintes passos:
