@@ -34,7 +34,7 @@ coverY: 0
 * Após seguir todos esses passos, você estará pronto para jogar em nosso servidor!&#x20;
 
 {% hint style="info" %}
-Pacotes de recursos são recomendados deixar a opção ''Sim'' para uma experiência melhor de jogo!&#x20;
+''Pacotes de recursos'' é recomendado deixar a opção ''Sim'' para uma experiência melhor de jogo!&#x20;
 {% endhint %}
 
 
