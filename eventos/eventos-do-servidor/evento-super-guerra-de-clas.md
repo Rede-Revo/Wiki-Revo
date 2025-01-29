@@ -67,13 +67,13 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 ## » Ranking de Vencedores
 
-|  » Colocação «  |        » Clã «       | » Número de Vitórias (min. 2) «       |
-| :-------------: | :------------------: | :-----------------------------------: |
-|   🥇 1º Lugar   |   \[666] The Ritual  |                   4                   |
-|   🥈 2º Lugar   |    \[PSD] Paysandu   |                   3                   |
-|   🥉 3º Lugar   |   \[HGD] Highgarden  |                   2                   |
-| **🎖** 4º Lugar |     \[Btz] Blitz     |                   2                   |
-| **🎖** 5º Lugar | \[TDG] Terror dos GC |                   2                   |
+|  » Colocação «  |       » Clã «     | » Número de Vitórias (min. 2) «       |
+| :-------------: | :---------------: | :-----------------------------------: |
+|   🥇 1º Lugar   | \[666] The Ritual |                   4                   |
+|   🥈 2º Lugar   |  \[PSD] Paysandu  |                   3                   |
+|   🥉 3º Lugar   |  \[NoT] NoTalent  |                   3                   |
+| **🎖** 4º Lugar | \[HGD] Highgarden |                   2                   |
+| **🎖** 5º Lugar |    \[Btz] Blitz   |                   2                   |
 
 ## » Histórico do Evento
 
@@ -102,5 +102,6 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 |  Edição XXI - 28/07/2024  |     \[Cry]     |  Cryngpeep e amigos  |
 |  Edição XXII - 25/08/2024 |     \[TDE]     |    Tropa de Elite    |
 | Edição XXIII - 29/09/2024 |     \[PRD]     |      Purificados     |
-|       Edição XXIV -       |                |                      |
-|        Edição XXV -       |                |                      |
+|  Edição XXIV - 24/11/2024 |     \[NoT]     |       NoTalent       |
+|  Edição XXV - 29/12/2024  |     \[NoT]     |       NoTalent       |
+|        Edição XXVI        |     \[Cav]     |        Cavalos       |
