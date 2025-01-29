@@ -201,7 +201,14 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 |   Edição CLXII - 08/10/2024  |                \[tdc]               |             TDG CLICKER             |
 |  Edição CLXIII - 15/10/2024  |                \[kgm]               |               Kingdom               |
 |   Edição CLXIV - 22/10/2024  |                \[tdg]               |            Terror dos GC            |
-|         Edição CLXV -        |                                     |                                     |
-|        Edição CLXVI -        |                                     |                                     |
-|        Edição CLXVII -       |                                     |                                     |
-|       Edição CLXVIII -       |                                     |                                     |
+|   Edição CLXV - 29/10/2024   |                \[hit]               |               Hit Kill              |
+|   Edição CLXVI - 05/11/2024  |                \[tde]               |            Tropa de Elite           |
+|  Edição CLXVII - 19/11/2024  |                \[sus]               |          Seu último Suspiro         |
+|  Edição CLXVIII - 26/11/2024 |                \[sus]               |          Seu último Suspiro         |
+|   Edição CLXIX - 3/12/2024   |                \[not]               |               NoTalent              |
+|   Edição CLXX - 10/12/2024   |                \[not]               |               NoTalent              |
+|   Edição CLXXI - 24/12/2024  |                \[not]               |               NoTalent              |
+|   Edição CLXXII - 7/01/2024  |                \[not]               |               NoTalent              |
+|  Edição CLXXIII- 14/01/2024  |                \[not]               |               NoTalent              |
+|  Edição CLXXIV - 21/01/2024  |                \[cav]               |               Cavalos               |
+|   Edição CLXXV - 28/01/2024  |                \[sus]               |          Seu último Suspiro         |
