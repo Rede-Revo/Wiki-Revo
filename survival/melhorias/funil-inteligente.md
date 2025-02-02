@@ -4,7 +4,7 @@ description: >-
   itens específicos.
 ---
 
-# Funil Inteligente
+# 💡 Funil Inteligente
 
 ## **Funcionamento**
 

@@ -1,5 +1,6 @@
 ---
 description: Guia com todas as informações necessárias sobre os eventos do Survival.
+hidden: true
 cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
