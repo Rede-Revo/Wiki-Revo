@@ -4,7 +4,7 @@ description: >-
   quantidade de itens.
 ---
 
-# Loja Física dos Jogadores
+# 🪧 Loja Física dos Jogadores
 
 ## Criar uma Loja <a href="#criar-uma-loja" id="criar-uma-loja"></a>
 

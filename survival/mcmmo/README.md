@@ -2,6 +2,7 @@
 description: >-
   Sistema de up de habilidades, habilidades especiais, loots raros e mecânicas
   únicas como um todo.
+hidden: true
 cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
@@ -27,20 +28,20 @@ Todas as habilidades evoluem até o nível 1000. Após o nível 1000 elas não g
 
 ## » Habilidades
 
-{% content-ref url="../../global/mcmmo/habilidades-de-coleta/" %}
-[habilidades-de-coleta](../../global/mcmmo/habilidades-de-coleta/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../global/mcmmo/habilidades-de-combate/" %}
-[habilidades-de-combate](../../global/mcmmo/habilidades-de-combate/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../global/mcmmo/habilidades-de-fabricacao-e-diversas/" %}
-[habilidades-de-fabricacao-e-diversas](../../global/mcmmo/habilidades-de-fabricacao-e-diversas/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## » Diversos
 
-{% content-ref url="../../global/mcmmo/outros/" %}
-[outros](../../global/mcmmo/outros/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

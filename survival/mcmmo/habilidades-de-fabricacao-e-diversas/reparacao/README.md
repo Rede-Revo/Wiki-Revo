@@ -6,22 +6,22 @@ cover: ../../../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# 🕸 Reparação
+# 🕸️ Reparação
 
 ![](../../../../.gitbook/assets/RepairSkill.webp)
 
 ## » Habilidades
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/mestre-reparador.md" %}
-[mestre-reparador.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/mestre-reparador.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/forja-arcana.md" %}
-[forja-arcana.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/forja-arcana.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/super-reparador.md" %}
-[super-reparador.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/reparacao/super-reparador.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## » Técnicas

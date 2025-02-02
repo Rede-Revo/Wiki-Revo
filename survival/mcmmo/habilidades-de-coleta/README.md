@@ -11,22 +11,22 @@ coverY: 0
 
 ## » Habilidades de coleta
 
-{% content-ref url="../../../global/mcmmo/habilidades-de-coleta/mineracao/" %}
-[mineracao](../../../global/mcmmo/habilidades-de-coleta/mineracao/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../global/mcmmo/habilidades-de-coleta/lenhador/" %}
-[lenhador](../../../global/mcmmo/habilidades-de-coleta/lenhador/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../global/mcmmo/habilidades-de-coleta/herbalismo/" %}
-[herbalismo](../../../global/mcmmo/habilidades-de-coleta/herbalismo/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../global/mcmmo/habilidades-de-coleta/escavacao/" %}
-[escavacao](../../../global/mcmmo/habilidades-de-coleta/escavacao/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../global/mcmmo/habilidades-de-coleta/pesca/" %}
-[pesca](../../../global/mcmmo/habilidades-de-coleta/pesca/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

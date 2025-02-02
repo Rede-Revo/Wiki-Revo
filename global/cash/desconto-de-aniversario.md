@@ -10,6 +10,8 @@ No dia do seu aniversário, presenteamos você com um cupom exclusivo de **30% d
 2. **Comprove seu Aniversário**: Para validar sua solicitação, é necessário enviar uma imagem de um documento de identificação oficial (com foto) que esteja validado no sistema do governo. Certifique-se de que o documento esteja legível e que a data de nascimento esteja clara.
 3. **Informações de Pagamento**: O meio de pagamento utilizado para a compra deve estar registrado no mesmo CPF/NIF constante no documento de identificação enviado.
 
-Lembramos que o cupom de aniversário é de uso único e exclusivo para o titular do aniversário. Aproveite essa oportunidade para celebrar seu dia com ainda mais alegria!
+Lembramos que o cupom de aniversário é de uso único e exclusivo para o titular do aniversário.&#x20;
+
+Aproveite essa oportunidade para celebrar seu dia com ainda mais alegria!
 
 Caso tenha dúvidas ou precise de assistência, nossa equipe está à disposição para ajudá-lo.

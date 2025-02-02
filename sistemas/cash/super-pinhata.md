@@ -36,7 +36,7 @@ Ao atacar a Super Pinhata, os jogadores podem ganhar um dos três níveis VIP (S
 
 ## Benefícios adicionais
 
-Quando a Super Pinhata é destruída, um efeito de aumento de **2x mcMMO** é ativado em todos os mundos do servidor por uma hora. Assim, os jogadores têm a oportunidade de desenvolver suas habilidades mcMMO duas vezes mais rápido.
+Quando destruída será ativo um efeito de **bônus mcMMO 3x** durante **1 hora** em todos mundos!
 
 ## Como participar
 

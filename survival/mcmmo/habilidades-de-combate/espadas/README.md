@@ -4,30 +4,30 @@ cover: ../../../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# 🗡 Espadas
+# 🗡️ Espadas
 
 ![](../../../../.gitbook/assets/SwordsSkill.webp)
 
 ## » Habilidades
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/espadas/ruptura.md" %}
-[ruptura.md](../../../../global/mcmmo/habilidades-de-combate/espadas/ruptura.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/espadas/ataques-cortantes.md" %}
-[ataques-cortantes.md](../../../../global/mcmmo/habilidades-de-combate/espadas/ataques-cortantes.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/espadas/quebra-de-limites.md" %}
-[quebra-de-limites.md](../../../../global/mcmmo/habilidades-de-combate/espadas/quebra-de-limites.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/espadas/contra-ataque.md" %}
-[contra-ataque.md](../../../../global/mcmmo/habilidades-de-combate/espadas/contra-ataque.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/espadas/facada.md" %}
-[facada.md](../../../../global/mcmmo/habilidades-de-combate/espadas/facada.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## » Técnicas

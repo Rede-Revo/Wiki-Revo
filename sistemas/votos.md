@@ -11,4 +11,4 @@ coverY: 0
 
 ## Recompensas
 
-Como forma de agradecimento pela contribuição com o servidor, para cada voto você recebe uma **Chave Misteriosa \[Comum]** que pode ser utilizado para abrir uma caixa misteriosa.
+Como forma de agradecimento pela contribuição com o servidor, para cada voto você recebe uma **Chave Misteriosa \[Comum]** que pode ser utilizado para abrir uma caixa misteriosa em nossos modos de jogo.

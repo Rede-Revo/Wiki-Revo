@@ -6,7 +6,7 @@ cover: ../../../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# ⛏ Mineração
+# ⛏️ Mineração
 
 ![](../../../../.gitbook/assets/MiningSkill.webp)
 
@@ -19,24 +19,24 @@ coverY: 0
 
 ## » Habilidades
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/mineracao/drops-duplos-de-minerios.md" %}
-[drops-duplos-de-minerios.md](../../../../global/mcmmo/habilidades-de-coleta/mineracao/drops-duplos-de-minerios.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/mineracao/super-quebrador.md" %}
-[super-quebrador.md](../../../../global/mcmmo/habilidades-de-coleta/mineracao/super-quebrador.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/mineracao/mineracao-explosiva.md" %}
-[mineracao-explosiva.md](../../../../global/mcmmo/habilidades-de-coleta/mineracao/mineracao-explosiva.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/mineracao/bombas-maiores.md" %}
-[bombas-maiores.md](../../../../global/mcmmo/habilidades-de-coleta/mineracao/bombas-maiores.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/mineracao/experiente-em-demolicoes.md" %}
-[experiente-em-demolicoes.md](../../../../global/mcmmo/habilidades-de-coleta/mineracao/experiente-em-demolicoes.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## » Técnicas

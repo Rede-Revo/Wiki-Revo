@@ -10,24 +10,24 @@ coverY: 0
 
 ## » Habilidades
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/desarmado/quebra-blocos.md" %}
-[quebra-blocos.md](../../../../global/mcmmo/habilidades-de-combate/desarmado/quebra-blocos.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/desarmado/braco-de-aco.md" %}
-[braco-de-aco.md](../../../../global/mcmmo/habilidades-de-combate/desarmado/braco-de-aco.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/desarmado/furia.md" %}
-[furia.md](../../../../global/mcmmo/habilidades-de-combate/desarmado/furia.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/desarmado/quebra-de-limite.md" %}
-[quebra-de-limite.md](../../../../global/mcmmo/habilidades-de-combate/desarmado/quebra-de-limite.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-combate/desarmado/desviar-flechas.md" %}
-[desviar-flechas.md](../../../../global/mcmmo/habilidades-de-combate/desarmado/desviar-flechas.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## » Técnicas

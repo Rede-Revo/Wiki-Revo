@@ -51,10 +51,10 @@ Se o prazo de entrega tiver passado, entre em contato conosco através do nosso 
 [vips.md](../../sistemas/cash/vips.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../sistemas/cash/chaves.md" %}
-[chaves.md](../../sistemas/cash/chaves.md)
+{% content-ref url="chaves.md" %}
+[chaves.md](chaves.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../sistemas/cash/tags.md" %}
-[tags.md](../../sistemas/cash/tags.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

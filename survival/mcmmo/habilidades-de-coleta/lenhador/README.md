@@ -11,22 +11,22 @@ coverY: 0
 **Lenhador** é uma habilidade que se baseia em derrubar árvores com um machado. Aumentar a habilidade aumenta as chances de queda de madeira extra das árvores, bem como a duração extra da habilidade de derrubador de árvores.
 
 * [x] Ferramenta usada: <img src="../../../../.gitbook/assets/Stoneaxe.webp" alt="" data-size="line">Machado de qualquer material.
-* [x] Interage com: <img src="../../../../.gitbook/assets/Wood.webp" alt="" data-size="line"> Madeira, ![](../../../../.gitbook/assets/Leaves.webp) Folha e ![](../../../../.gitbook/assets/Rsz\_32px-redmushroomcap.webp) Blocos de Cogumelo.
+* [x] Interage com: <img src="../../../../.gitbook/assets/Wood.webp" alt="" data-size="line"> Madeira, ![](../../../../.gitbook/assets/Leaves.webp) Folha e ![](../../../../.gitbook/assets/Rsz_32px-redmushroomcap.webp) Blocos de Cogumelo.
 * [x] Habilidades: _Ativas:_ Derrubador de Árvores (desativada); _Passivas:_ Drops Duplos, Soprador de Árvores.
 * [x] Up ao quebrar árvores com machado.
 
 ## » Habilidades
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/lenhador/super-lenhador.md" %}
-[super-lenhador.md](../../../../global/mcmmo/habilidades-de-coleta/lenhador/super-lenhador.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/lenhador/soprador-de-arvores.md" %}
-[soprador-de-arvores.md](../../../../global/mcmmo/habilidades-de-coleta/lenhador/soprador-de-arvores.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-coleta/lenhador/colheita-de-madeira.md" %}
-[colheita-de-madeira.md](../../../../global/mcmmo/habilidades-de-coleta/lenhador/colheita-de-madeira.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## » Técnicas

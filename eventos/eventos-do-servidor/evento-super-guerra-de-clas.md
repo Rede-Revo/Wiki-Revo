@@ -59,23 +59,15 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 * :moneybag: Premiação de **5.000.000 Coins** depositados no banco do clã
 * <img src="../../.gitbook/assets/trofeurevo (2).png" alt="" data-size="line">**Troféu personalizado** para recordação adicionado no inventario do líder do clã
 * :flag\_black: Será listado como clã campeão no [Histórico do Evento](evento-super-guerra-de-clas.md#historico-do-evento) e no [Ranking de Vencedores](evento-super-guerra-de-clas.md#undefined)
-* �&#xDC8E;**\[Liga]** 1000 Pontos
+* �&#xDC8E;**\[Liga]** 500 Pontos
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
 * <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG [**\[Mito\]**](broken-reference)
 
-## » Ranking de Vencedores
 
-|  » Colocação «  |       » Clã «     | » Número de Vitórias (min. 2) «       |
-| :-------------: | :---------------: | :-----------------------------------: |
-|   🥇 1º Lugar   | \[666] The Ritual |                   4                   |
-|   🥈 2º Lugar   |  \[PSD] Paysandu  |                   3                   |
-|   🥉 3º Lugar   |  \[NoT] NoTalent  |                   3                   |
-| **🎖** 4º Lugar | \[HGD] Highgarden |                   2                   |
-| **🎖** 5º Lugar |    \[Btz] Blitz   |                   2                   |
 
-## » Histórico do Evento
+## Histórico do Evento
 
 |         » Edição «        | » TAG do Clã « |    » Nome do Clã «   |
 | :-----------------------: | :------------: | :------------------: |

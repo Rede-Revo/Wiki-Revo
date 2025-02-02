@@ -1,5 +1,6 @@
 ---
 description: Saiba como vincular sua conta Java com a Bedrock Edition!
+hidden: true
 cover: ../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---

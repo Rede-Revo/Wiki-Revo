@@ -22,13 +22,16 @@ Visualize todas informações com o comando `/liga` e visualize o desempenho de 
 
 Pontos que podem ser obtidos a qualquer momento:
 
-|            Ação            | Pontos |
-| :------------------------: | :----: |
-|   Abater o Dragão do Fim   |    1   |
-|    Vencer Evento (Chat)    |    2   |
-|    Vencer Evento (Ação)    |    3   |
-| Vencer Evento (Presencial) |    5   |
-|   Vencer evento Dominador  |   25   |
+|                Ação               | Pontos |
+| :-------------------------------: | :----: |
+|       Abater o Dragão do Fim      |    1   |
+|        Vencer Evento (Chat)       |    2   |
+|        Vencer Evento (Ação)       |    3   |
+|     Vencer Evento (Presencial)    |    5   |
+|  Vencer evento Dominador (Arena)  |   25   |
+| Vencer evento Dominador (The End) |   50   |
+|            Desbravador            |   250  |
+|               Slayer              |   250  |
 
 ### Eventos Agendados
 
@@ -53,11 +56,7 @@ Consulte os horários dos eventos clicando[ aqui](https://wiki.rederevo.com/even
 |         Torneio        |    1º: 75 \| 2º: 50 \| 3º: 25   |
 |    Construção do Mês   | 1º: 1000 \| 2º: 500 \| 3º: 250  |
 
-## Pontuação Positiva (Inicio de Temporada)
 
-Inicie a temporada com seu clã com pé direito, eventos de temporada somam **MUITOS** pontos ao seu respectivo clã.
-
-<table><thead><tr><th width="297" align="center">Evento</th><th align="center">Pontos</th></tr></thead><tbody><tr><td align="center">Desbravador</td><td align="center">250</td></tr><tr><td align="center">Slayer</td><td align="center">250</td></tr></tbody></table>
 
 ## Pontuação Positiva (Fim de Temporada)
 
@@ -73,7 +72,7 @@ No momento de finalização de pontuação para decidir quais clãs serão defin
 **Exemplo:** Jogador(a) finalizou em **segundo lugar** no ranking do **eventos top**, no fim da temporada _(momento de decidir o clã vencedor da liga de temporada)_ será adicionado **+200 pontos** ao seu respectivo clã.
 
 * Não se aplica a liga mensal.
-* [❌](https://emojipedia.org/pt/xis)O seguintes rankings não contabilizam: Cash, Coins e mcMMO.
+* O seguintes rankings **não** contabilizam: Cash, Coins e mcMMO.
 {% endhint %}
 
 ## Pontuação Negativa
@@ -88,19 +87,19 @@ Assim como boas ações geram pontos, más ações removem pontos, portanto seja
 
 ### Recompensa liga (Mensal)
 
-|     Posição    |                                         Recompensa                                         |
-| :------------: | :----------------------------------------------------------------------------------------: |
-| Primeiro Lugar | 5M Coins + Tag Especial (30d) \[10 Membros] + 4500 Cash + 15% da taxa de venda do /mercado |
-|  Segundo Lugar |                  2.5M Coins + 3000 Cash + 10% da taxa de venda do /mercado                 |
-| Terceiro Lugar |                   1M Coins + 1500 Cash + 5% da taxa de venda do /mercado                   |
+|     Posição    |                                                                     Recompensa                                                                     |
+| :------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Primeiro Lugar | <ul><li>5M Coins </li><li>Tag Especial (30d) [10 Membros] </li><li>4500 Cash </li><li>15% da taxa de venda do <strong>/mercado</strong>.</li></ul> |
+|  Segundo Lugar |                      <ul><li>2.5M Coins</li><li>3000 Cash</li><li>10% da taxa de venda do <strong>/mercado</strong>.</li></ul>                     |
+| Terceiro Lugar |                      <ul><li>1M Coins </li><li>1500 Cash </li><li>5% da taxa de venda do <strong>/mercado</strong>.</li></ul>                      |
 
 ### Recompensa liga (Temporada)
 
-|     Posição    |                                 Recompensa                                |
-| :------------: | :-----------------------------------------------------------------------: |
-| Primeiro Lugar | <p>Troféu (Banner editado de clã) + 50k Cash ou </p><p>Troféu + 300R$</p> |
-|  Segundo Lugar |                             25k Cash ou 150R$                             |
-| Terceiro Lugar |                              10k Cash ou 50R$                             |
+|     Posição    |                                                                    Recompensa                                                                    |
+| :------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
+| Primeiro Lugar | <ul><li>50k Cash ou 300R$</li><li>Troféu (Item exclusivo)</li><li>Banner destaque enviado pelo clã exposto no <strong>/spawn</strong>.</li></ul> |
+|  Segundo Lugar |                                                                 25k Cash ou 150R$                                                                |
+| Terceiro Lugar |                                                                 10k Cash ou 50R$                                                                 |
 
 {% hint style="info" %}
 Sempre ao fim de um ciclo de liga, as recompensas deverão ser reivindicadas por um **Líder** do clã através de **Ticket** no discord do servidor.&#x20;

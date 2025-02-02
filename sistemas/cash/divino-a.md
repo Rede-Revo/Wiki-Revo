@@ -10,7 +10,7 @@ coverY: 0
 
 ### E quais são as vantagens de ter esse cargo?
 
-* Tenha seu NPC exposto no Lobby.
+* Tenha uma estátua sua exposta no Lobby.
 * Receba destaque no TAB e Chat.
 * Cargo exclusivo com destaque no discord.
 * Não perde a sua cabeça ao morrer.
@@ -19,8 +19,5 @@ coverY: 0
 ### Recompensas para quem estiver no TOP 1, 2 e 3 ao fechar o mês:
 
 * Receba duas tags exclusivas **Divino** e **Divina.** (com duração de 1 mês e exclusiva para o top 1)
-* Receberá um **Chapéu do Revonildo** (abra um ticket e diga em qual servidor deseja receber o item).&#x20;
+* Receberá um **Chapéu do Revonildo** (Item exclusivo e colecionável em todos modos de Jogo).&#x20;
 
-{% hint style="info" %}
-As vantagens só duram durante o mês em que você foi top doador(a)
-{% endhint %}

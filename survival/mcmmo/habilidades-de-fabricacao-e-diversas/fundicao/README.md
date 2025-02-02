@@ -6,22 +6,22 @@ cover: ../../../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# ⛓ Fundição
+# ⛓️ Fundição
 
 ![](../../../../.gitbook/assets/SmeltingSkill.webp)
 
 ## » Habilidades
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/segunda-fundicao.md" %}
-[segunda-fundicao.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/segunda-fundicao.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/combustivel-eficiente.md" %}
-[combustivel-eficiente.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/combustivel-eficiente.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/entendendo-a-arte.md" %}
-[entendendo-a-arte.md](../../../../global/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/entendendo-a-arte.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## » Técnicas

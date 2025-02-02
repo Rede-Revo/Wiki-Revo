@@ -8,8 +8,10 @@ coverY: 0
 
 ## Como baixar o Minecraft?
 
-* Baixe o Minecraft na sua loja de aplicativo (Play Store, App Store, Microsoft Store)&#x20;
-* Utilizando o TLauncher. ([https://tlauncher.org/en/](https://tlauncher.org/en/))
+* **Computador:**&#x20;
+  * Utilizando launcher original: [https://www.minecraft.net/pt-br/download](https://www.minecraft.net/pt-br/download)
+  * Utilizando o TLauncher (Pirata): [https://tlauncher.org/en/](https://tlauncher.org/en/)
+* **Celular, tablets e Consoles:** Baixe o Minecraft na sua loja de aplicativo (Play Store, App Store, Microsoft Store)&#x20;
 
 <figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption><p>Download do Minecraft na Play Store.</p></figcaption></figure>
 

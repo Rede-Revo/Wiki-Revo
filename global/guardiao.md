@@ -20,7 +20,7 @@ O Guardião está sempre trabalhando silenciosamente em segundo plano, analisand
 
 Durante a jogabilidade devido sua alta confiabilidade, punições podem ser aplicadas caso confirmado uma detectação:
 
-* Em eventos: Caso jogador cometa **5** i**nfrações** em uma única infração (Picos de cliques impossíveis por exemplo) o mesmo será punido, ou em uma somatoria de **12 infrações** totais para infrações de combat&#x65;**.**
+* Em eventos: Caso jogador cometa **8** i**nfrações** em uma única infração (Picos de cliques impossíveis por exemplo) o mesmo será punido, ou em uma somatoria de **12 infrações** totais para infrações de combat&#x65;**.**
   * Todas punições são acompanhadas das informações de desempenho do jogador/servidor no momento para evitar falsos positivos.
 
 ### Restrição
