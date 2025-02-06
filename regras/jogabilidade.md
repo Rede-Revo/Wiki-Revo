@@ -234,6 +234,8 @@ Em caso de banimento pela Regra 18 durante algum evento, todos membros do clan q
 
 * Eventos Clã x Clã: 1 Banimento por Regra 18, todo clan é removido do evento.
 * Eventos Guerra (Pré e Guerra): 2 Banimentos do clan por Regra 18, todo clan é removido do evento.
+* Casos de reinserção por trapaça só serão validados caso tenham reportado o infrator punido.\
+
 {% endhint %}
 
 Regra 19 -  **Uso irregular da tag "Mito"**
