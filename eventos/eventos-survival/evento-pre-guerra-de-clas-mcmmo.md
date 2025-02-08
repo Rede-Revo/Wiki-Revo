@@ -13,9 +13,9 @@ coverY: 0
 *   Batalha entre vários clãs na mesma arena;
 
     Com fogo amigo entre os membros do clã desativado, os clãs lutarão entre si.
-* Itens definidos pela equipe; (2 armaduras de diamante,  2 armaduras de netherita espada, machado, arco, flecha, totem da imortalidade, poções de força, agilidade e invisibilidade, 32 cenouras douradas, 64 maças encantadas e kit de preparo para poções);
+* Itens definidos pela equipe; (3 armaduras de netherite,  1 bota e um capacete extra, espada, machado, arco, flecha, totem da imortalidade, poções de força, agilidade e invisibilidade,64 cenouras douradas, 64 bifes e kit de preparo para poções);
 
-![](<../../.gitbook/assets/image (15) (1).png>)
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.
@@ -54,8 +54,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### 🥇 **Clã Vencedor**
 
-* :moneybag: Premiação de **250.000 Coins** depositados no banco do clã.
-* �&#xDC8E;**\[Liga]** 150 Pontos
+* :moneybag: Premiação de 30.000 Coins para cada sobrevivente.
+* �&#xDC8E;**\[Liga]** 10 Pontos para cada sobrevivente.
 
 ## » Histórico do Evento
 

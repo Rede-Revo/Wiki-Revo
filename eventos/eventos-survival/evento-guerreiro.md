@@ -9,11 +9,9 @@ coverY: 0
 ## » Como Funciona
 
 * Batalha 1v1 entre vários jogadores, o jogador que derrotar todos seus oponentes vence;
-* Itens definidos pela equipe; (armadura de diamante, espada, machado, poções de força e agilidade e 32 maças encantadas)
+* Itens definidos pela equipe; (armadura de netherite, espada, machado, poções de força e agilidade e 64 maças encantadas)
 
-![](<../../.gitbook/assets/image (15) (1) (1) (1) (1).png>)
-
-* Habilidades do mcMMO serão desativadas durante o evento.
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 ## » Como Participar
 
@@ -33,11 +31,7 @@ coverY: 0
 
 Infelizmente vários jogadores ao perder em combate ficam frustrados e começam a xingar ou acusar outros jogadores e/ou a equipe. Essa atitude não será tolerada porque viola a [Regra 01](https://wiki.rederevo.com/regras/chat#01) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
-#### 2. É estritamente proibido participar com mais de uma conta por jogador.
-
-* Em casos de jogadores que entrarem com mais de uma conta serão expulsos do evento e ficarão 7 dias sem poder participar de nenhum outro evento semanal.
-
-#### **3. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
+#### **2. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
 
 Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
@@ -45,18 +39,20 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### 🥇 **1° Lugar**
 
-* 💰 Premiação de **150.000 Coins**
+* 💰 Premiação de **100.000 Coins**
 * <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Guerreiro(a)]** durante 7 dias
 * �&#xDC8E;**\[Liga]** 50 Pontos
 * ⚔️ **Espada do(a) Guerreiro(a)**
 
 #### [🥈](https://emojipedia.org/2nd-place-medal/) **2° Lugar**
 
-* 💰 Premiação de **100.000 Coins**
+* 💰 Premiação de **50.000 Coins**
+* �&#xDC8E;**\[Liga] 25** Pontos
 
 #### [🥉](https://emojipedia.org/3rd-place-medal/) **3° Lugar**
 
-* 💰 Premiação de **50.000 Coins**
+* 💰 Premiação de **25.000 Coins**
+* �&#xDC8E;**\[Liga] 10** Pontos
 
 ## » Histórico do Evento
 

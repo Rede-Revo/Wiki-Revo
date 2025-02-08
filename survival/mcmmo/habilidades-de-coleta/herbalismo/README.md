@@ -17,29 +17,31 @@ Herbalismo é uma habilidade no McMMO que governa a capacidade de colher plantas
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="terra-verde.md" %}
+[terra-verde.md](terra-verde.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="polegar-verde.md" %}
+[polegar-verde.md](polegar-verde.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="polegar-cogumelo.md" %}
+[polegar-cogumelo.md](polegar-cogumelo.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="dieta-do-fazendeiro.md" %}
+[dieta-do-fazendeiro.md](dieta-do-fazendeiro.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="sorte-de-hylian.md" %}
+[sorte-de-hylian.md](sorte-de-hylian.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="drops-duplos-de-plantacoes.md" %}
+[drops-duplos-de-plantacoes.md](drops-duplos-de-plantacoes.md)
 {% endcontent-ref %}
+
+
 
 ## » Técnicas
 
@@ -73,8 +75,103 @@ Herbalismo é uma habilidade no McMMO que governa a capacidade de colher plantas
 
 ## » Tabela de EXP ganho
 
+| Bloco                                  | Valor |
+| -------------------------------------- | ----- |
+| Planta de Coro                         | 1     |
+| Bloco de Verruga do Nether             | 3     |
+| Bloco de fungo destorcido              | 3     |
+| Vinhas da Caverna                      | 5     |
+| Planta de Vinhas da Caverna            | 5     |
+| Alga                                   | 5     |
+| Planta de Alga                         | 5     |
+| Líquen Luminoso                        | 5     |
+| Raízes Carmesim                        | 6     |
+| Raízes Distorcidas                     | 6     |
+| Brotos do Nether                       | 10    |
+| Pétalas Cor-de-rosa                    | 10    |
+| Erva Marinha                           | 10    |
+| Erva Marinha Alta                      | 10    |
+| Samambaia                              | 10    |
+| Grama                                  | 10    |
+| Grama Baixa                            | 10    |
+| Bambu                                  | 10    |
+| Bloco de Musgo Pálido                  | 10    |
+| Carpete de Musgo Pálido                | 10    |
+| Coral Tubo Morto                       | 10    |
+| Coral Cérebro Morto                    | 10    |
+| Coral Bolha Morto                      | 10    |
+| Coral Fogo Morto                       | 10    |
+| Coral Chifre Morto                     | 10    |
+| Leque de Coral Tubo Morto              | 10    |
+| Leque de Coral Cérebro Morto           | 10    |
+| Leque de Coral Bolha Morto             | 10    |
+| Leque de Coral Fogo Morto              | 10    |
+| Leque de Coral Chifre Morto            | 10    |
+| Leque de Coral Tubo Morto na Parede    | 10    |
+| Leque de Coral Cérebro Morto na Parede | 10    |
+| Leque de Coral Bolha Morto na Parede   | 10    |
+| Leque de Coral Fogo Morto na Parede    | 10    |
+| Leque de Coral Chifre Morto na Parede  | 10    |
+| Cogumelo Marrom                        | 15    |
+| Cogumelo Vermelho                      | 15    |
+| Melancia                               | 20    |
+| Abóbora                                | 20    |
+| Flor de Coro                           | 25    |
+| Cacto                                  | 30    |
+| Cana-de-Açúcar                         | 30    |
+| Cacau                                  | 30    |
+| Arbusto Seco                           | 30    |
+| Cenouras                               | 50    |
+| Batatas                                | 50    |
+| Trigo                                  | 50    |
+| Beterrabas                             | 50    |
+| Fungo do nether                        | 50    |
+| Fungo Carmesim                         | 50    |
+| Fungo Distorcido                       | 50    |
+| Arbusto de Bagas Doces                 | 50    |
+| Lilás                                  | 50    |
+| Roseira                                | 50    |
+| Girassol                               | 50    |
+| Grama Alta                             | 50    |
+| Samambaia Grande                       | 50    |
+| Olhorquídea (Flor dos Olhos)           | 66    |
+| Coral Bolha                            | 75    |
+| Leque de Coral Bolha                   | 75    |
+| Leque de Coral Bolha na Parede         | 75    |
+| Coral Tubo                             | 80    |
+| Leque de Coral Tubo                    | 80    |
+| Leque de Coral Tubo na Parede          | 80    |
+| Coral Cérebro                          | 90    |
+| Leque de Coral Cérebro                 | 90    |
+| Leque de Coral Cérebro na Parede       | 90    |
+| Plantocha (Flor da Tocha)              | 90    |
+| Vitória-régia                          | 100   |
+| Peônia                                 | 100   |
+| Papoula                                | 100   |
+| Dente-de-leão                          | 100   |
+| Pequena Goteira                        | 140   |
+| Grande Goteira                         | 140   |
+| Coral Fogo                             | 120   |
+| Leque de Coral Fogo                    | 120   |
+| Leque de Coral Fogo na Parede          | 120   |
+| Tulipa Branca                          | 150   |
+| Botão Azul                             | 150   |
+| Orquídea Azul                          | 150   |
+| Tulipa Laranja                         | 150   |
+| Margarida                              | 150   |
+| Tulipa Rosa                            | 150   |
+| Tulipa Vermelha                        | 150   |
+| Centáurea Azul                         | 150   |
+| Lírio-do-vale                          | 150   |
+| Bloco de Musgo                         | 150   |
+| Coral Chifre                           | 175   |
+| Leque de Coral Chifre                  | 175   |
+| Leque de Coral Chifre na Parede        | 175   |
+| Planta Jarro                           | 160   |
+| Ninho de Abelha                        | 200   |
+| Cogubrilho                             | 250   |
+| Rosa do Wither                         | 500   |
+
 {% hint style="info" %}
 EXP ganho apenas em blocos (plantações) no estágio máximo (se tiver) e se for bloco (plantação) não colocada por um jogador (quando a plantação muda de estágio de crescimento, muda essa estatística).
 {% endhint %}
-
-<table><thead><tr><th>» Blocos «</th><th align="center">» EXP «</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/d50ac60f23db47ec44081b33aa566ed7-7.jpg" alt="" data-size="line"> Trigo</td><td align="center">65</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Beetroots_Age_3_JE1_BE1.webp" alt="" data-size="line"> Beterraba</td><td align="center">70</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/ff0456550bc49b0d362089ddabc86bbd-2.jpg" alt="" data-size="line"> Batata</td><td align="center">55</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Carrots_Age_7_BE.webp" alt="" data-size="line"> Cenoura</td><td align="center">65</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Pumpkin_JE2_BE2.webp" alt="" data-size="line"> Abóbora</td><td align="center">20</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Melon_JE1_BE1.webp" alt="" data-size="line"> Melancia</td><td align="center">20</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Sugar_Cane_JE2_BE2.webp" alt="" data-size="line"> Cana-de-Açúcar</td><td align="center">35</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Cactus_JE1.webp" alt="" data-size="line"> Cacto</td><td align="center">50</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Cocoa_Age_2_%28S%29_JE5.webp" alt="" data-size="line"> Cacau</td><td align="center">30</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Sweet_Berry_Bush_Age_3_JE1_BE1.webp" alt="" data-size="line"> Bagas Doces</td><td align="center">50</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Glow_Lichen_%28S%29_JE1.webp" alt="" data-size="line"> Líquen Brilhante</td><td align="center">75</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Big_Dripleaf_JE2_BE1.webp" alt="" data-size="line"> Plantaforma Grande</td><td align="center">75</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Cave_Vines_Plant_JE1_BE1.webp" alt="" data-size="line"> Vinhas das cavernas</td><td align="center">80</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Moss_Block_JE1_BE1.webp" alt="" data-size="line"> Bloco de Musgo</td><td align="center">25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Small_Dripleaf_JE2.webp" alt="" data-size="line"> Plantaforma Pequena</td><td align="center">80</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Small_Leaves_Bamboo_JE1_BE2.webp" alt="" data-size="line"> Bambu</td><td align="center">15</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Vines_JE2_BE2.webp" alt="" data-size="line"> Vinhas</td><td align="center">20</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Jungle_Large_Fern.webp" alt="" data-size="line"> Samambaia Alta</td><td align="center">50</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Tall_Grass_JE4.webp" alt="" data-size="line"> Grama Alta</td><td align="center">50</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Swamp_Grass.webp" alt="" data-size="line"> Grama</td><td align="center">10</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Plains_Fern.webp" alt="" data-size="line">Samambaia</td><td align="center">10</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/9bdc399ea1d0901dd87924fcf9a704a8-0.jpg" alt="" data-size="line"> Cogumelo Vermelho</td><td align="center">15</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/BrownMushroom.webp" alt="" data-size="line"> Cogumelo Marrom</td><td align="center">15</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Arbusto_seco.webp" alt="" data-size="line"> Arbusto Seco</td><td align="center">30</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Bee_Nest_%28E%29_BE1.webp" alt="" data-size="line"> Colmeia</td><td align="center">500</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/unnamed (1).png" alt="" data-size="line"> Allium</td><td align="center">30</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Jasmim.webp" alt="" data-size="line"> Jasmim</td><td align="center">15</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Orqu%3Fdea_Azul.webp" alt="" data-size="line"> Orquídea Azul</td><td align="center">15</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Lilac.webp" alt="" data-size="line"> Flores de 2 de Altura (Lilás, Roseira, Peônia e Girassol)</td><td align="center">50</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Wither_Rose_JE1_BE1.webp" alt="" data-size="line"> Rosa do Wither</td><td align="center">200</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Lily_of_the_Valley_JE1_BE1.webp" alt="" data-size="line"> Lírio do Vale</td><td align="center">15</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Cornflower_JE1_BE1.webp" alt="" data-size="line"> Centáurea</td><td align="center">15</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Dente-de-Le%3Fo.webp" alt="" data-size="line"> Dente de Leão</td><td align="center">10</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Poppy_JE8_BE2.webp" alt="" data-size="line"> Papoula</td><td align="center">10</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Tulipa_Rosa.webp" alt="" data-size="line"> Tulipa (Todas Cores)</td><td align="center">15</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Margarida.webp" alt="" data-size="line"> Margarida</td><td align="center">15</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Crimson_Roots_JE1_BE1.webp" alt="" data-size="line"> Raízes Carmesim</td><td align="center">60</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Warped_Roots_JE1_BE1.webp" alt="" data-size="line"> Raízes Distorcidas</td><td align="center">60</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Nether_Wart_Block_JE1_BE1.webp" alt="" data-size="line"> Bloco de Fungos do Nether</td><td align="center">60</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Warped_Wart_Block_JE1_BE1.webp" alt="" data-size="line"> Bloco de Fungos Distorcidos</td><td align="center">60</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Nether_Sprouts_JE2_BE2.webp" alt="" data-size="line"> Brotos do Nether</td><td align="center">15</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Crimson_Fungus_JE1_BE1.webp" alt="" data-size="line"> Fungo Carmesim</td><td align="center">75</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Warped_Fungus_JE1_BE1.webp" alt="" data-size="line"> Fungo Distorcido</td><td align="center">75</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Weeping_Vines_Plant_JE1.webp" alt="" data-size="line"> Trepadeiras Carmesim</td><td align="center">10</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Twisting_Vines_Age_0_JE1_BE1.webp" alt="" data-size="line"> Trepadeiras Retorcidas</td><td align="center">10</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Shroomlight_JE1_BE1.webp" alt="" data-size="line"> Cogubrilho</td><td align="center">300</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Nether_Wart_Age_0_BE1.webp" alt="" data-size="line"> Fungo do Nether</td><td align="center">85</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Chorus_Plant_JE2_BE2.webp" alt="" data-size="line"> Planta do Coro</td><td align="center">1</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Chorus_Flower_JE1_BE1.webp" alt="" data-size="line"> Flor do Coro</td><td align="center">25</td><td></td></tr></tbody></table>

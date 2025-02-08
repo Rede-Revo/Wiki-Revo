@@ -8,7 +8,7 @@ coverY: 0
 
 ## » Como Funciona
 
-* Batalha ClãvClã entre vários Clãs, o Clã que derrotar todos seus oponentes vence;
+* Batalha Clã x Clã entre vários Clãs, o Clã que derrotar todos seus oponentes vence;
 *   Itens definidos pela equipe; (3 armaduras de netherite, espada de diamante, machado de diamante, poções de força e agilidade e 64 maças encantadas)
 
     <figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
@@ -45,25 +45,22 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### 🥇 **1° Lugar**
 
-* 💰 Premiação de **250.000 Coins**
+* 💰 Premiação de **500.000 Coins**
 * <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Campeã(o)]** durante 7 dias
-* 💎 **\[Liga]** 100 Pontos
+* 💎 **\[Liga] 250** Pontos
 * <img src="../../.gitbook/assets/trofeurevo (2).png" alt="" data-size="line"> **Troféu personalizado** para recordação adicionado no inventario do líder do clã
 
 #### [🥈](https://emojipedia.org/2nd-place-medal/) **2° Lugar**
 
-* 💰 Premiação de **150.000 Coins**
-* 💎 **\[Liga]** 50 Pontos
+* 💰 Premiação de 40**0.000 Coins**
+* 💎 **\[Liga] 200** Pontos
 
 #### [🥉](https://emojipedia.org/3rd-place-medal/) **3° Lugar**
 
-* 💰 Premiação de **50.000 Coins**
-* 💎 **\[Liga]** 25 Pontos
+* 💰 Premiação de 3**00.000 Coins**
+* 💎 **\[Liga] 150** Pontos
 
-#### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
-* 💰 Premiação de **50.000 Coins**
-* 💎 **\[Liga]** 25 Pontos
 
 ## » Histórico do Evento
 

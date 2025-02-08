@@ -9,9 +9,10 @@ coverY: 0
 ## » Como Funciona
 
 * Mate o mate o ultimo sobrevivente na arena e torne-se o campeão ou mate a maior quantidade de inimigos e torne-se o matador;
-*   Itens definidos pela equipe; (3 armaduras de netherite, espada de diamante, machado de diamante, arco, flecha, poções de força e agilidade, 32 cenouras douradas e 32 maçãs encantadas);
+* Itens definidos pela equipe; (3 armaduras de netherite, machado de netherite, poções de força e agilidade, 64 maçãs douradas.);
 
-    <figure><img src="../../.gitbook/assets/glad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.
 
@@ -52,15 +53,16 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### 🥇 **Ultimo Sobrevivente**
 
-* 💰 Premiação de **150.000 Coins**
-* �&#xDC8E;**\[Liga]** 50 Pontos
-* <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line">TAG **\[Gladiador(a)]** durante 7 dias
-* 🪓 **Machado do(a) Gladiador(a)**
+* 💰 Premiação de **50.000 Coins**
+* �&#xDC8E;**\[Liga] 25** Pontos
+* Contador de Dano.
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
 * 💰 Premiação de **100.000 Coins**
-* �&#xDC8E;**\[Liga]** 25 Pontos
+* 💎 **\[Liga] 50** Pontos
+* <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Gladiador(a)]** durante 7 dias
+* 🪓 **Machado do(a) Gladiador(a)**
 
 ## » Histórico do Evento
 

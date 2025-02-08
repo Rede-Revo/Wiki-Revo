@@ -9,9 +9,10 @@ coverY: 0
 ## » Como Funciona
 
 * Mate o mate o ultimo sobrevivente na arena e torne-se o vencedor ou mate a maior quantidade de inimigos e torne-se o matador;
-*   Itens definidos pela equipe; (3 armaduras de diamante, 1 capacete extra, 1 bota extra, espada, machado, arco, flecha, poções de força e agilidade, 32 cenouras douradas e 32 maças encantadas);
+* Itens definidos pela equipe; (2 armaduras de netherite, espada, machado, arco, flecha, poções de força e agilidade, 65 maçãs encantadas);
 
-    <figure><img src="../../.gitbook/assets/killer.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+
 * As habilidades do mcMMO serão desativadas durante o evento
 * Borda que reduz no decorrer da batalha;\
   Com o decorrer do tempo a borda do mapa vai reduzindo para que não seja um evento cansativo em que jogadores ficam correndo pelo mapa.
@@ -48,12 +49,12 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### 🥇 **Ultimo Sobrevivente**
 
-* 💰 Premiação de **100.000 Coins**
+* 💰 Premiação de 50.000 **Coins**
 * �&#xDC8E;**\[Liga]** 25 Pontos
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
-* 💰 Premiação de **150.000 Coins**
+* 💰 Premiação de **100.000 Coins**
 * <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Killer]** durante 7 dias
 * <img src="../../.gitbook/assets/contador_de_almas_icon.png" alt="" data-size="line"> **Contador de Almas**&#x20;
 * �&#xDC8E;**\[Liga]** 50 Pontos

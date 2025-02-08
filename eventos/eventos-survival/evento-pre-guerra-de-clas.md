@@ -13,9 +13,9 @@ coverY: 0
 *   Batalha entre vários clãs na mesma arena;
 
     Com fogo amigo entre os membros do clã desativado, os clãs lutarão entre si.
-* Itens definidos pela equipe; (4 armaduras de diamante (um capacete e uma bota extra), espada, machado, arco, flecha, poções de força, agilidade e invisibilidade, 32 cenouras douradas, 64 maças encantadas e kit de preparo para poções);
+* Itens definidos pela equipe; (3 armaduras de diamante (um capacete e uma bota extra), espada, machado, arco, flecha, poções de força, agilidade e invisibilidade, 64 bifes e 64 maças encantadas.
 
-![](<../../.gitbook/assets/image (9) (1) (2) (1).png>)
+<figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 * As habilidades do mcMMO serão desativadas durante o evento;
 * Borda que reduz no decorrer da batalha;\
@@ -52,8 +52,8 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 #### 🥇 **Clã Vencedor**
 
-* :moneybag: Premiação de **250.000 Coins** depositados no banco do clã.
-* �&#xDC8E;**\[Liga]** 100 Pontos
+* :moneybag: Premiação de **20.00 Coins para cada sobrevivente.**
+* �&#xDC8E;**\[Liga] 7 Pontos para cada sobrevivente.**
 
 ## » Histórico do Evento
 
