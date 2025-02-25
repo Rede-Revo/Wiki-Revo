@@ -47,6 +47,8 @@ Consulte os horários dos eventos clicando[ aqui](https://wiki.rederevo.com/even
 |        Guerreiro       |   1º: 50 \| 2º: 25  \| 3º: 10   |
 |          Duos          |    2º: 75 \| 2º: 50 \| 3º: 25   |
 |          Trios         |   1º:  100 \| 2º: 75 \| 3º: 50  |
+|      Rush (mc OFF)     |               125               |
+|      Rush (mc ON)      |               150               |
 |   Pré-Guerra (mc OFF)  |               125               |
 |   Pré-Guerra (mc ON)   |               150               |
 | Pré-Clã x Clã (mc OFF) |  1º: 125 \| 2º:  100 \| 3º: 75  |
