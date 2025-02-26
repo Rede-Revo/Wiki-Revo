@@ -188,3 +188,7 @@
 * [👑 Equipe](outros/equipe.md)
 * [🎓 Faça Parte da Equipe](outros/faca-parte-da-equipe.md)
 * [✏️ Termos](outros/termos.md)
+
+***
+
+* [Torneios](torneios.md)
