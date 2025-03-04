@@ -6,6 +6,7 @@
   * [🎮 Jogabilidade](regras/jogabilidade.md)
   * [📱 Discord](regras/discord.md)
   * [🚧 MODs e Clients permitidos](regras/mods-e-clients-permitidos.md)
+  * [💻 Screenshare](regras/mods-e-clients-permitidos-1.md)
 * [🧑‍💼 Contas](contas/README.md)
   * [🔒 Proteção](contas/protecao.md)
   * [🔐 Recuperação](contas/recuperacao.md)
