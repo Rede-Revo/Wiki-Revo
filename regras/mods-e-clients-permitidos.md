@@ -39,6 +39,11 @@ coverY: 0
 * MaLiLib
 * Mod Menu
 * Bobby
+* HitDelayFix
+
+## AutoClick
+
+Limitado a **15 clicks por segundo**.
 
 ## Otimizadores Proibidos
 
