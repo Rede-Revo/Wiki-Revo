@@ -233,8 +233,7 @@ Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-
 Em caso de banimento pela Regra 18 durante algum evento, todos membros do clan que teve o jogador punido serão removidos do evento.
 
 * Eventos Clã x Clã: 1 Banimento por Regra 18, todo clan é removido do evento.
-* Eventos Guerra (Pré e Guerra): 2 Banimentos do clan por Regra 18, todo clan é removido do evento.
-* Casos de reinserção por trapaça só serão validados caso tenham reportado o infrator punido.\
+* Eventos Guerra (Pré e Guerra): 2 Banimentos do clan por Regra 18, todo clan é removido do evento.\
 
 {% endhint %}
 
