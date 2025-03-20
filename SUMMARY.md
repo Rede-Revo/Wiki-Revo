@@ -38,10 +38,12 @@
   * [⚠️ Sistema de Avisos](survival/clas/sistema-de-avisos.md)
 * [🪅 Super Pinhata](sistemas/cash/super-pinhata.md)
 * [🎲 Temporadas](survival/temporadas-1.md)
+* [Torneios](survival/torneios.md)
 * [🪓 mcMMO](survival/mcmmo/README.md)
   * [🌿 Habilidades de Coleta](survival/mcmmo/habilidades-de-coleta/README.md)
     * [⛏️ Mineração](survival/mcmmo/habilidades-de-coleta/mineracao/README.md)
       * [🪶 Drops Duplos de Minérios](survival/mcmmo/habilidades-de-coleta/mineracao/drops-duplos-de-minerios.md)
+      * [🪶 Drops Triplos de Minérios](survival/mcmmo/habilidades-de-coleta/mineracao/drops-duplos-de-minerios-1.md)
       * [⚒️ Super Quebrador](survival/mcmmo/habilidades-de-coleta/mineracao/super-quebrador.md)
       * [💣 Mineração Explosiva](survival/mcmmo/habilidades-de-coleta/mineracao/mineracao-explosiva.md)
       * [➕ Bombas Maiores](survival/mcmmo/habilidades-de-coleta/mineracao/bombas-maiores.md)
@@ -63,7 +65,6 @@
     * [🎣 Pesca](survival/mcmmo/habilidades-de-coleta/pesca/README.md)
       * [🗝️ Caçador de Tesouros](survival/mcmmo/habilidades-de-coleta/pesca/cacador-de-tesouros.md)
       * [🧊 Pesca no Gelo](survival/mcmmo/habilidades-de-coleta/pesca/pesca-no-gelo.md)
-      * [💦 Sacudir](survival/mcmmo/habilidades-de-coleta/pesca/sacudir.md)
       * [🐠 Dieta do Pescador](survival/mcmmo/habilidades-de-coleta/pesca/dieta-do-pescador.md)
       * [🪄 Caçador Mágico](survival/mcmmo/habilidades-de-coleta/pesca/cacador-magico.md)
       * [🦈 Pescador Mestre](survival/mcmmo/habilidades-de-coleta/pesca/pescador-mestre.md)
@@ -119,7 +120,6 @@
       * [🛢️ Combustível Eficiente](survival/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/combustivel-eficiente.md)
       * [🖌️ Entendendo a Arte](survival/mcmmo/habilidades-de-fabricacao-e-diversas/fundicao/entendendo-a-arte.md)
   * [🍃 Outros](survival/mcmmo/outros/README.md)
-    * [💪 Habilidades](survival/mcmmo/outros/habilidades.md)
     * [🤸 Party](survival/mcmmo/outros/party.md)
 * [🔑 VoteShop](survival/votos.md)
 * [⛏️ Passe de Batalha](survival/passe-de-batalha.md)
@@ -189,7 +189,3 @@
 * [👑 Equipe](outros/equipe.md)
 * [🎓 Faça Parte da Equipe](outros/faca-parte-da-equipe.md)
 * [✏️ Termos](outros/termos.md)
-
-***
-
-* [Torneios](torneios.md)

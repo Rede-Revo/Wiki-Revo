@@ -3,7 +3,6 @@ description: >-
   Torneios são eventos competitivos semanais que acontecem em nosso servidor,
   onde os jogadores disputam para provar suas habilidades, estratégias e
   talentos. A cada semana, uma nova disputa inicia.
-hidden: true
 icon: trophy
 ---
 
@@ -11,7 +10,7 @@ icon: trophy
 
 ## Como funcionam os torneios no nosso servidor?
 
-Torneios são eventos competitivos que ocorrem durante a semana dentro do servidor, onde os participantes disputam entre si para provar suas habilidades, estratégias e talentos. Eles variam em formato e premiações, mas o objetivo principal é sempre o mesmo: vencer e se destacar na[ Liga de Clãs](survival/clas/liga-de-clas.md) durante toda a temporada!&#x20;
+Torneios são eventos competitivos que ocorrem durante a semana dentro do servidor, onde os participantes disputam entre si para provar suas habilidades, estratégias e talentos. Eles variam em formato e premiações, mas o objetivo principal é sempre o mesmo: vencer e se destacar na[ Liga de Clãs](clas/liga-de-clas.md) durante toda a temporada!&#x20;
 
 {% hint style="info" %}
 Assim que o relógio marcar **00:00 na segunda-feira** e as recompensas da semana anterior forem entregues, é recomendado que todos os jogadores saiam e reentrem no servidor. Esse procedimento garante que o progresso na nova semana de torneios seja registrado corretamente.
