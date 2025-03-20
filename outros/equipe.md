@@ -108,7 +108,7 @@ O **Ajudante** é o responsável pelo auxílio imediato em diversas funções e 
 * [x] Moderar o chat dos servidores e discord;
 * [x] Trabalho de prevenção junto aos jogadores, conscientizando-os sobre os riscos que correm ao desrespeitar as [regras](../regras/).
 
-## <img src="../.gitbook/assets/image (13) (1) (2).png" alt="" data-size="line"> <mark style="color:green;">Aprendiz</mark>
+## <img src="../.gitbook/assets/image (13) (1) (2) (1).png" alt="" data-size="line"> <mark style="color:green;">Aprendiz</mark>
 
 O **Aprendiz** é um cargo em treinamento para ingressar na equipe do servidor, além de garantir o suporte necessário esclarecendo todas as dúvidas dos jogadores.
 

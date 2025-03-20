@@ -10,22 +10,42 @@ coverY: 0
 
 **Escavação** é uma habilidade baseada na quebra de blocos escaváveis.&#x20;
 
-## » Habilidades
+## Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="arqueologia.md" %}
+[arqueologia.md](arqueologia.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="super-broca.md" %}
+[super-broca.md](super-broca.md)
 {% endcontent-ref %}
 
-## » Técnicas
+## Técnicas
 
-## » Tabela de EXP ganho
+**Para ganhar XP nesta habilidade**, é necessário cavar com uma pá na mão. Apenas alguns materiais podem ser escavados para obter tesouros e XP.
+
+**Materiais compatíveis logo abaixo junto da tabela de XP de cada bloco.**
+
+## &#x20;Tabela de EXP ganho
+
+| Item                                                                                                      | Quantidade |
+| --------------------------------------------------------------------------------------------------------- | ---------- |
+| <img src="../../../../.gitbook/assets/image (4).png" alt="" data-size="line"> Neve                        | 20         |
+| <img src="../../../../.gitbook/assets/image (5).png" alt="" data-size="line">Argila                       | 40         |
+| <img src="../../../../.gitbook/assets/image (7).png" alt="" data-size="line">Terra                        | 40         |
+| <img src="../../../../.gitbook/assets/image (8).png" alt="" data-size="line">Terra enraizada              | 40         |
+| <img src="../../../../.gitbook/assets/image (10).png" alt="" data-size="line">Podzol                      | 40         |
+| <img src="../../../../.gitbook/assets/image (11).png" alt="" data-size="line"> Bloco de terra             | 40         |
+| <img src="../../../../.gitbook/assets/image (12).png" alt="" data-size="line"> Cascalho                   | 40         |
+| <img src="../../../../.gitbook/assets/image (13).png" alt="" data-size="line"> Micélio                    | 40         |
+| <img src="../../../../.gitbook/assets/image (3).png" alt="" data-size="line"> Areia                       | 40         |
+| <img src="../../../../.gitbook/assets/image (2).png" alt="" data-size="line">Areia Vermelha               | 40         |
+| <img src="../../../../.gitbook/assets/image (1).png" alt="" data-size="line"> Bloco de Neve               | 40         |
+| <img src="../../../../.gitbook/assets/image (16).png" alt="" data-size="line">Areia das Almas             | 40         |
+| <img src="../../../../.gitbook/assets/image (15).png" alt="" data-size="line"> Solo das Almas             | 40         |
+| <img src="../../../../.gitbook/assets/image (17).png" alt="" data-size="line"> Barro                      | 80         |
+| <img src="../../../../.gitbook/assets/image (18).png" alt="" data-size="line"> Raízes barrentas de mangue | 90         |
 
 {% hint style="info" %}
 EXP ganho apenas em blocos gerados naturalmente.
 {% endhint %}
-
-<table><thead><tr><th>» Blocos «</th><th align="center">» EXP «</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/Dirt_JE1_BE1.webp" alt="" data-size="line"> Terra</td><td align="center">40</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Grass_Block_BE1.webp" alt="" data-size="line"> Bloco de Grama</td><td align="center">40</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Coarse_Dirt.webp" alt="" data-size="line"> Terra Grossa</td><td align="center">40</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Podzol_JE2_BE2.webp" alt="" data-size="line"> Podzol</td><td align="center">40</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Mycelium_JE1_BE1.webp" alt="" data-size="line"> Micélio</td><td align="center">40</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Rooted_Dirt_JE1_BE1.webp" alt="" data-size="line"> Terra Enraizada</td><td align="center">60</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Soul_Soil.webp" alt="" data-size="line"> Terra das Almas</td><td align="center">70</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Soul_Sand_JE2_BE2.webp" alt="" data-size="line"> Areia das Almas</td><td align="center">70</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Sand_JE5_BE3.webp" alt="" data-size="line"> Areia</td><td align="center">40</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Red_Sand_JE3_BE2.webp" alt="" data-size="line"> Areia Vermelha</td><td align="center">40</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Snow_%28layers_7%29_JE2_BE1.webp" alt="" data-size="line"> Bloco de Neve</td><td align="center">40</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/SnowNew.webp" alt="" data-size="line"> Neve</td><td align="center">20</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Gravel.webp" alt="" data-size="line"> Cascalho</td><td align="center">40</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Clay_JE2_BE2.webp" alt="" data-size="line"> Argila</td><td align="center">40</td><td></td></tr></tbody></table>

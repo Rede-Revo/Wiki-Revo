@@ -15,21 +15,23 @@ coverY: 0
 * [x] Habilidades: _Ativas:_ Derrubador de Árvores (desativada); _Passivas:_ Drops Duplos, Soprador de Árvores.
 * [x] Up ao quebrar árvores com machado.
 
-## » Habilidades
+## Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="super-lenhador.md" %}
+[super-lenhador.md](super-lenhador.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="soprador-de-arvores.md" %}
+[soprador-de-arvores.md](soprador-de-arvores.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="colheita-de-madeira.md" %}
+[colheita-de-madeira.md](colheita-de-madeira.md)
 {% endcontent-ref %}
 
-## » Técnicas
+
+
+## &#x20;Técnicas
 
 ### Uso:
 
@@ -41,10 +43,10 @@ Para evoluir a habilidade é necessário quebrar madeiras ou blocos de cogumelo,
 * Crie uma árvore de cogumelo usando farinha de osso em cogumelos plantados em terra, terra grossa, blocos de grama, terra enraizada, blocos de musgo, micélio ou podzol. Cogumelos podem ser plantados em micélio ou podzol em qualquer nível de luz. Essa é uma das melhores técnicas de up.
 * Poções Haste II podem ser fabricadas a partir da habilidade Alquimia após o nível 125 de Alquimia. Eles permitirão que você corte árvores mais rapidamente. Para agilizar ainda mais, você pode cortar as árvores com um Machado Supremo de Eficiência VI, adquirido através da Caixa Épica.
 
-## » Tabela de EXP ganho
+## &#x20;Tabela de EXP ganho
 
 {% hint style="info" %}
 EXP ganho apenas por quebra de blocos gerados naturalmente ou por farinha de osso!
 {% endhint %}
 
-<table><thead><tr><th width="413">» Bloco «</th><th align="center">» EXP «</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/Red_Mushroom_Block_%28EU%29_JE2_BE2.webp" alt="" data-size="line"> Bloco de Cogumelo Vermelho</td><td align="center">7.5</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/150px-Brown_Mushroom_Block_%28E%29.webp" alt="" data-size="line"> Bloco de Cogumelo Marrom</td><td align="center">7.5</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/150px-Mushroom_Stem.webp" alt="" data-size="line"> Caule de Cogumelo</td><td align="center">10</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Crimson_Stem_%28UD%29_BE1.webp" alt="" data-size="line"> Tronco Carmesim (Todas Variações)</td><td align="center">13.75</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Warped_Stem_%28UD%29_BE1.webp" alt="" data-size="line"> Tronco Distorcido (Todas Variações)</td><td align="center">13.75</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Oak_Log_%28UD%29_JE5_BE3.webp" alt="" data-size="line"> Tronco de Carvalho (Todas Variações)</td><td align="center">8.75</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Spruce_Log_%28UD%29_JE3.webp" alt="" data-size="line"> Tronco de Pinheiro (Todas Variações)</td><td align="center">10</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Dark_Oak_Log_%28UD%29_JE2_BE1.webp" alt="" data-size="line"> Tronco de Carvalho Escudo (Todas Variações)</td><td align="center">11.25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Birch_Log.webp" alt="" data-size="line"> Tronco de Bétula (Todas Variações)</td><td align="center">11.25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Acacia_Log_%28UD%29_JE1.webp" alt="" data-size="line"> Tronco da Selva (Todas Variações)</td><td align="center">11.25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Acacia_Log.webp" alt="" data-size="line"> Tronco de Acácia (Todas Variações)</td><td align="center">11.25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Nether_Wart_Block_JE1_BE1 (1).webp" alt="" data-size="line"> Bloco de Fungos do Nether</td><td align="center">0.25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Warped_Wart_Block_JE1_BE1 (1).webp" alt="" data-size="line"> Bloco de Fungos Distorcidos do Nether</td><td align="center">0.25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Shroomlight_JE1_BE1 (1).webp" alt="" data-size="line"> Cogubrilho</td><td align="center">22.5</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="413">»Bloco </th><th align="center"> EXP </th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/Red_Mushroom_Block_%28EU%29_JE2_BE2.webp" alt="" data-size="line"> Bloco de Cogumelo Vermelho</td><td align="center">7.5</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/150px-Brown_Mushroom_Block_%28E%29.webp" alt="" data-size="line"> Bloco de Cogumelo Marrom</td><td align="center">7.5</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/150px-Mushroom_Stem.webp" alt="" data-size="line"> Caule de Cogumelo</td><td align="center">10</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Crimson_Stem_%28UD%29_BE1.webp" alt="" data-size="line"> Tronco Carmesim (Todas Variações)</td><td align="center">13.75</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Warped_Stem_%28UD%29_BE1.webp" alt="" data-size="line"> Tronco Distorcido (Todas Variações)</td><td align="center">13.75</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Oak_Log_%28UD%29_JE5_BE3.webp" alt="" data-size="line"> Tronco de Carvalho (Todas Variações)</td><td align="center">8.75</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Spruce_Log_%28UD%29_JE3.webp" alt="" data-size="line"> Tronco de Pinheiro (Todas Variações)</td><td align="center">10</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Dark_Oak_Log_%28UD%29_JE2_BE1.webp" alt="" data-size="line"> Tronco de Carvalho Escudo (Todas Variações)</td><td align="center">11.25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Birch_Log.webp" alt="" data-size="line"> Tronco de Bétula (Todas Variações)</td><td align="center">11.25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Acacia_Log_%28UD%29_JE1.webp" alt="" data-size="line"> Tronco da Selva (Todas Variações)</td><td align="center">11.25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Acacia_Log.webp" alt="" data-size="line"> Tronco de Acácia (Todas Variações)</td><td align="center">11.25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Nether_Wart_Block_JE1_BE1 (1).webp" alt="" data-size="line"> Bloco de Fungos do Nether</td><td align="center">0.25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Warped_Wart_Block_JE1_BE1 (1).webp" alt="" data-size="line"> Bloco de Fungos Distorcidos do Nether</td><td align="center">0.25</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Shroomlight_JE1_BE1 (1).webp" alt="" data-size="line"> Cogubrilho</td><td align="center">22.5</td><td></td></tr></tbody></table>

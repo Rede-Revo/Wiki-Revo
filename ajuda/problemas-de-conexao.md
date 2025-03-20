@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# ⚙ Problemas de Conexão
+# ⚙️ Problemas de Conexão
 
 ### Se você acha que seu problema de conexão é culpa do servidor, tente um dos 2 ips diferentes:
 
@@ -25,7 +25,7 @@ Aprenda a limpar o cache DNS:
 2. Digite **ipconfig/flushdns** no prompt de comando e aperte enter. Esse comando vai limpar os arquivos de cache DNS do seu computador e redefinir o cache de resolução DNS.
 3. Se o processo foi bem-sucedido, você deverá ver a seguinte mensagem de confirmação:
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>)
 
 #### Linux <a href="#h-linux" id="h-linux"></a>
 
