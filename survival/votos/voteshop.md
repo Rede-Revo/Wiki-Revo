@@ -1,10 +1,8 @@
 ---
 description: Vote e acumule pontos.
-cover: ../.gitbook/assets/Inserir_um_titulo_3.png
-coverY: 0
 ---
 
-# 🔑 VoteShop
+# 🛒 VoteShop
 
 Cada voto no servidor te adiciona **1 VotePoint** que te disponibiliza fazer compras no **/voteshop**.
 
