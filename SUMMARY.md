@@ -124,7 +124,7 @@
   * [🍃 Outros](survival/mcmmo/outros/README.md)
     * [💪 Habilidades](survival/mcmmo/outros/habilidades.md)
     * [🤸 Party](survival/mcmmo/outros/party.md)
-* [🔑 Votos](survival/votos/README.md)
+* [🔑 Votos](survival/votos.md)
   * [🛒 VoteShop](survival/votos/voteshop.md)
 * [⛏️ Passe de Batalha](survival/passe-de-batalha.md)
 * [🪵 Terrenos](survival/terrenos/README.md)
