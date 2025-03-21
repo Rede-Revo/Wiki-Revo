@@ -229,17 +229,8 @@ O uso de clientes, programas, modificações (mods), injeções no client que de
 Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-permitidos.md).
 {% endhint %}
 
-<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento permanente</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente + Níveis das Habilidades redefinidos para 50% (mcMMO)</td></tr></tbody></table>
+\
 
-
-
-{% hint style="danger" %}
-Em caso de banimento pela Regra 18 durante algum evento, todos membros do clan que teve o jogador punido serão removidos do evento.
-
-* Eventos Clã x Clã: 1 Banimento por Regra 18, todo clan é removido do evento.
-* Eventos Guerra (Pré e Guerra): 2 Banimentos do clan por Regra 18, todo clan é removido do evento.\
-
-{% endhint %}
 
 Regra 19 -  **Uso irregular da tag "Mito"**
 
