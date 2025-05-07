@@ -19,8 +19,8 @@ coverY: 0
 
 ## Habilidades
 
-{% content-ref url="drops-duplos-de-minerios.md" %}
-[drops-duplos-de-minerios.md](drops-duplos-de-minerios.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="super-quebrador.md" %}
