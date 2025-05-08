@@ -1,11 +1,13 @@
 ---
+description: >-
+  Permite encontrar tesouros únicos durante a pesca. É combinada com a
+  habilidade Caçador mágico para também conceder itens encantados. É necessário
+  ter nível 8 em Pesca.
 cover: ../../../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
 # 🗝️ Caçador de Tesouros
-
-## &#x20;
 
 ## » Tabela de Tesouros
 

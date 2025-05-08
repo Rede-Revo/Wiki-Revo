@@ -41,7 +41,9 @@ Herbalismo é uma habilidade no McMMO que governa a capacidade de colher plantas
 [drops-duplos-de-plantacoes.md](drops-duplos-de-plantacoes.md)
 {% endcontent-ref %}
 
-{% embed url="https://app.gitbook.com/o/7g4oT1KTW0a2ARwdVtIt/s/vDOKGccGYHA70l7WF72d/~/changes/530/survival/mcmmo/habilidades-de-coleta/herbalismo/drops-triplos-de-plantacoes" %}
+{% content-ref url="drops-triplos-de-plantacoes.md" %}
+[drops-triplos-de-plantacoes.md](drops-triplos-de-plantacoes.md)
+{% endcontent-ref %}
 
 ## » Técnicas
 

@@ -10,22 +10,23 @@ coverY: 0
 
 ## » Habilidades de combate
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="desarmado/" %}
+[desarmado](desarmado/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="arquearia/" %}
+[arquearia](arquearia/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="espadas/" %}
+[espadas](espadas/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="machados/" %}
+[machados](machados/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="domesticacao/" %}
+[domesticacao](domesticacao/)
 {% endcontent-ref %}
+

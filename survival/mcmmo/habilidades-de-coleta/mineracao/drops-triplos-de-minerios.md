@@ -20,7 +20,7 @@ layout:
 
 # 🪶 Drops Triplos de Minérios
 
-Drops duplos é uma habilidade passiva que permite ao jogador ganhar dois itens em vez do usual ao minerar qualquer bloco gerado naturalmente encontrado na tabela de experiência que lista os blocos que a Mineração faz efeito, em » [Mineração](./) «. As chances de isso acontecer aumentam em 0,1% por nível para um máximo de 50%, podendo chegar até 66,25% com o bônus de sorte no nível 10000. Ele não se acumula com o encantamento Fortuna, mas funciona com o Toque Suave.
+Drops triplos é uma habilidade passiva que permite ao jogador ganhar dois itens em vez do usual ao minerar qualquer bloco gerado naturalmente encontrado na tabela de experiência que lista os blocos que a Mineração faz efeito, em » [Mineração](./) «. As chances de isso acontecer aumentam em 0,1% por nível para um máximo de 50%, podendo chegar até 66,25% com o bônus de sorte no nível 10000. Ele não se acumula com o encantamento Fortuna, mas funciona com o Toque Suave.
 
 * [x] Requer nível 1;
 * [x] Aplicável com toque suave;

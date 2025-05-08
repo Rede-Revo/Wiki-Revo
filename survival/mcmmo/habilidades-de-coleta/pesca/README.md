@@ -10,32 +10,30 @@ coverY: 0
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="pescador-mestre.md" %}
+[pescador-mestre.md](pescador-mestre.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="cacador-de-tesouros.md" %}
+[cacador-de-tesouros.md](cacador-de-tesouros.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="pesca-no-gelo.md" %}
+[pesca-no-gelo.md](pesca-no-gelo.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="dieta-do-pescador.md" %}
+[dieta-do-pescador.md](dieta-do-pescador.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="cacador-magico.md" %}
+[cacador-magico.md](cacador-magico.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+
 
 ## » Técnicas
 
 ## » Tabela de EXP ganho
 
-<table><thead><tr><th>» Peixe Pescado «</th><th align="center">» EXP «</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/Cod.webp" alt="" data-size="line"> Bacalhau</td><td align="center">100</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Salmon.webp" alt="" data-size="line"> Salmão</td><td align="center">600</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Pufferfish_large.webp" alt="" data-size="line"> Baiacu</td><td align="center">2400</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/20190130_213406.webp" alt="" data-size="line"> Peixe Tropical</td><td align="center">10.000</td><td></td></tr><tr><td>🗝️ <a href="broken-reference">Tesouros</a></td><td align="center">200</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Olho_de_Aranha.webp" alt="" data-size="line"> Habilidade <a href="broken-reference">Sacudir</a> utilizada em Mob</td><td align="center">50</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Rotten_Flesh_JE3_BE2.webp" alt="" data-size="line"> Qualquer item restante que não seja peixe</td><td align="center">50</td><td></td></tr></tbody></table>
+<table><thead><tr><th>» Peixe Pescado «</th><th align="center">» EXP «</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../../../../.gitbook/assets/Rotten_Flesh_JE3_BE2.webp" alt="" data-size="line"> Qualquer item restante que não seja peixe</td><td align="center">50</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Olho_de_Aranha.webp" alt="" data-size="line"> Habilidade <a href="sacudir.md">Sacudir</a> utilizada em Mob</td><td align="center">50</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Cod.webp" alt="" data-size="line"> Bacalhau</td><td align="center">100</td><td></td></tr><tr><td>🗝️ <a href="cacador-de-tesouros.md">Tesouros</a></td><td align="center">200</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Salmon.webp" alt="" data-size="line"> Salmão</td><td align="center">600</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/Pufferfish_large.webp" alt="" data-size="line"> Baiacu</td><td align="center">2400</td><td></td></tr><tr><td><img src="../../../../.gitbook/assets/20190130_213406.webp" alt="" data-size="line"> Peixe Tropical</td><td align="center">10.000</td><td></td></tr></tbody></table>
