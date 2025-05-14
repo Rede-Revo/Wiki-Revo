@@ -202,3 +202,7 @@
 * [👑 Equipe](outros/equipe.md)
 * [🎓 Faça Parte da Equipe](outros/faca-parte-da-equipe.md)
 * [✏️ Termos](outros/termos.md)
+
+## Guia Moderador
+
+* [Como usar o CoreProtect](guia-moderador/como-usar-o-coreprotect.md)
