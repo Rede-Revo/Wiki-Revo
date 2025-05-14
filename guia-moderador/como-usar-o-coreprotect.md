@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Como usar o CoreProtect
 
 ## 0 - Sumário
