@@ -10,27 +10,29 @@ coverY: 0
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="quebra-blocos.md" %}
+[quebra-blocos.md](quebra-blocos.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="braco-de-aco.md" %}
+[braco-de-aco.md](braco-de-aco.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="furia.md" %}
+[furia.md](furia.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="quebra-de-limite.md" %}
+[quebra-de-limite.md](quebra-de-limite.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="desviar-flechas.md" %}
+[desviar-flechas.md](desviar-flechas.md)
 {% endcontent-ref %}
 
-## » Técnicas
+{% hint style="info" %}
+Todos dados informados nas habilidades são levados em consideração no nível 1000.
+{% endhint %}
 
 ## » Tabela de EXP ganho
 

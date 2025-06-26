@@ -14,13 +14,17 @@ coverY: 0
 
 * [x] Ferramenta usada: ![](../../../../.gitbook/assets/Pickaxe.webp) Picareta de qualquer material, <img src="../../../../.gitbook/assets/Flint_and_Steel_JE4_BE2.webp" alt="" data-size="line">Pederneira e <img src="../../../../.gitbook/assets/Dinamite.webp" alt="" data-size="line"> TNT.
 * [x] Interage com: blocos mineráveis (minérios, pedra, granito, etc.).
-* [x] Habilidades: _Ativas:_ Super Quebrador, Mineração Explosiva; _Passivas:_ Drops Duplos, Bombas Maiores, Experiente em Demolições.
+* [x] Habilidades: _Ativas:_ Super Quebrador, Mineração Explosiva; _Passivas:_ Drops Duplos, Drops triplos, Bombas Maiores, Experiente em Demolições.
 * [x] Up ao quebrar minérios, pedras ou minerais.
 
 ## Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="drops-duplos-de-minerios.md" %}
+[drops-duplos-de-minerios.md](drops-duplos-de-minerios.md)
+{% endcontent-ref %}
+
+{% content-ref url="drops-triplos-de-minerios.md" %}
+[drops-triplos-de-minerios.md](drops-triplos-de-minerios.md)
 {% endcontent-ref %}
 
 {% content-ref url="super-quebrador.md" %}
