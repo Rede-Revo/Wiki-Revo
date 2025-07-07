@@ -71,7 +71,7 @@ Quanto maior o dano da ferramenta for, mais XP você receberá.
 | Zumbi Pigman          | 3.0  |
 | Esqueleto             | 3.0  |
 | Ghast                 | 3.0  |
-| Husk                  | 3.0  |
+| Zumbi-Múmia           | 3.0  |
 | Evocador              | 3.0  |
 | Zumbi Pigman          | 3.0  |
 | Ilusionista           | 3.0  |

@@ -5,3 +5,6 @@ coverY: 0
 
 # 🐠 Dieta do Pescador
 
+## Como a dieta do pescador funciona?
+
+Esta é uma habilidade passiva que aumenta a quantidade de fome restaurada comendo peixe.
