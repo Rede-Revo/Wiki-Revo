@@ -19,28 +19,24 @@ Os machados podem ser muito úteis no PvP, pois podem quebrar armaduras rapidame
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="impacto-em-armaduras.md" %}
+[impacto-em-armaduras.md](impacto-em-armaduras.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="golpes-criticos.md" %}
+[golpes-criticos.md](golpes-criticos.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="maestria-com-machados.md" %}
+[maestria-com-machados.md](maestria-com-machados.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="racha-cranio.md" %}
+[racha-cranio.md](racha-cranio.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="grande-impacto.md" %}
+[grande-impacto.md](grande-impacto.md)
 {% endcontent-ref %}
 
 ## » Técnicas

@@ -43,7 +43,7 @@ coverY: 0
 [experiente-em-demolicoes.md](experiente-em-demolicoes.md)
 {% endcontent-ref %}
 
-
+#### » Tabela de EXP ganho - Mineração
 
 ## Técnicas
 
@@ -59,93 +59,109 @@ coverY: 0
 
 ## &#x20;Tabela de EXP ganho
 
-| Bloco                                                                                         | Quantidade |
-| --------------------------------------------------------------------------------------------- | ---------- |
-| <img src="../../../../.gitbook/assets/image.png" alt="" data-size="line"> Veias de Sculk      | 3          |
-| ![](<../../../../.gitbook/assets/image (1).png>) Sculk                                        | 4          |
-| ![](<../../../../.gitbook/assets/image (3).png>)Nicélio Distorcido                            | 5          |
-| ![](<../../../../.gitbook/assets/image (2).png>)Nicélio Carmesim                              | 5          |
-| ![](<../../../../.gitbook/assets/image (4).png>)  Sensor de Sculk                             | 6          |
-| ![](<../../../../.gitbook/assets/image (5).png>)Catalisador de Sculk                          | 10         |
-| ![](<../../../../.gitbook/assets/image (7).png>)Cristal Pequeno de Ametista                   | 10         |
-| ![](<../../../../.gitbook/assets/image (8).png>)Tufo                                          | 10         |
-| ![](<../../../../.gitbook/assets/image (9).png>) Emissor de Sculk                             | 12         |
-| ![](<../../../../.gitbook/assets/image (10).png>)  Pedra do End                               | 15         |
-| ![](<../../../../.gitbook/assets/image (11).png>)Pedra Luminosa                               | 15         |
-| ![](<../../../../.gitbook/assets/image (12).png>)Pedregulho Musgoso                           | 15         |
-| ![](<../../../../.gitbook/assets/image (13).png>)Netherrack                                   | 15         |
-| ![](<../../../../.gitbook/assets/image (14).png>)Gelo Compactado                              | 15         |
-| ![](<../../../../.gitbook/assets/image (15).png>)Gelo Azul                                    | 15         |
-| ![](<../../../../.gitbook/assets/image (16).png>)Pedregulho                                   | 15         |
-| ![](<../../../../.gitbook/assets/image (17).png>) Granito                                     | 15         |
-| ![](<../../../../.gitbook/assets/image (18).png>)Andesito                                     | 15         |
-| ![](<../../../../.gitbook/assets/image (20).png>) Diorito                                     | 15         |
-| ![](<../../../../.gitbook/assets/image (21).png>)Pedregulho de Ardósia                        | 15         |
-| ![](<../../../../.gitbook/assets/image (22).png>)Cristal Médio de Ametista                    | 20         |
-| ![](<../../../../.gitbook/assets/image (24).png>)Ardósia                                      | 30         |
-| ![](<../../../../.gitbook/assets/image (26).png>)Bloco de Magma                               | 30         |
-| ![](<../../../../.gitbook/assets/image (27).png>)Terracota                                    | 30         |
-| ![](<../../../../.gitbook/assets/image (28).png>)Arenito                                      | 30         |
-| <img src="../../../../.gitbook/assets/image (29).png" alt="" data-size="original"> Barro Seco | 30         |
-| ![](<../../../../.gitbook/assets/image (23).png>)Cristal Grande de Ametista                   | 30         |
-| ![](<../../../../.gitbook/assets/image (30).png>)Bloco de Espeleotema                         | 35         |
-| ![](<../../../../.gitbook/assets/image (32).png>) Basalto                                     | 40         |
-| ![](<../../../../.gitbook/assets/image (33).png>) Tijolos de Barro                            | 40         |
-| ![](<../../../../.gitbook/assets/image (34).png>) Pedra-Negra                                 | 55         |
-| ![](<../../../../.gitbook/assets/image (37).png>) Tijolos de Pedra                            | 50         |
-| ![](<../../../../.gitbook/assets/image (38).png>) Tijolos de Pedra Rachados                   | 50         |
-| ![](<../../../../.gitbook/assets/image (40).png>) Tijolos de Pedra Musgosos                   | 50         |
-| ![](<../../../../.gitbook/assets/image (41).png>) Tijolos de Pedra Talhados                   | 50         |
-| ![](<../../../../.gitbook/assets/image (42).png>) Tijolos do End                              | 50         |
-| ![](<../../../../.gitbook/assets/image (43).png>) Tijolos do Nether                           | 50         |
-| ![](<../../../../.gitbook/assets/image (44).png>) Tijolos do Nether Rachados                  | 50         |
-| ![](<../../../../.gitbook/assets/image (45).png>) Tijolos do Nether Talhados                  | 50         |
-| ![](<../../../../.gitbook/assets/image (46).png>) Tijolos do Nether Vermelhos                 | 50         |
-| ![](<../../../../.gitbook/assets/image (48).png>) Terracota Preta                             | 50         |
-| ![](<../../../../.gitbook/assets/image (49).png>)Terracota Azul (Todas variações de cores)    | 50         |
-| ![](<../../../../.gitbook/assets/image (50).png>) Aglomerado de Ametista                      | 60         |
-| ![](<../../../../.gitbook/assets/image (51).png>) Bloco de Coral-de-Bolha                     | 70         |
-|  Prismarinho                                                                                  | 70         |
-| Tijolos de Prismarinho                                                                        | 70         |
-| Prismarinho Escuro                                                                            | 70         |
-| Lanterna do Mar                                                                               | 70         |
-| ![](<../../../../.gitbook/assets/image (52).png>) Bloco de Coral de Tubo                      | 75         |
-| ![](<../../../../.gitbook/assets/image (53).png>) Bloco de Coral Cérebro                      | 80         |
-| ![](<../../../../.gitbook/assets/image (55).png>) Bloco de Coral Fogo                         | 90         |
-| ![](<../../../../.gitbook/assets/image (56).png>) Arenito Vermelho                            | 100        |
-| Agregado de Ametista                                                                          | 125        |
-| Bloco de Coral Chifre                                                                         | 125        |
-| Bloco de Ametista                                                                             | 150        |
-| Laje de Purpura                                                                               | 150        |
-| Obsidiana                                                                                     | 150        |
-| Bloco de Purpura                                                                              | 200        |
-| Pedra-Negra Dourado                                                                           | 200        |
-| Pilar de Purpura                                                                              | 250        |
-| Escadas de Purpura                                                                            | 250        |
-| Basalto Polido                                                                                | 300        |
-| Minério de Quartzo do Nether                                                                  | 300        |
-| Calcita                                                                                       | 400        |
-| Minério de Carvão                                                                             | 400        |
-| Bloco de Osso                                                                                 | 500        |
-| Ardósia Reforçada                                                                             | 500        |
-| Minério de Carvão da Ardósia                                                                  | 700        |
-| Minério de Redstone                                                                           | 600        |
-| Minério de Lápis Lazúli                                                                       | 800        |
-| Minério de Redstone da Ardósia                                                                | 900        |
-| Minério de Ferro                                                                              | 900        |
-| Minério de Esmeralda                                                                          | 1000       |
-| Minério de Ouro                                                                               | 1300       |
-| Minério de Ouro do Nether                                                                     | 1300       |
-| Minério de Ferro da Ardósia                                                                   | 1300       |
-| Minério de Cobre                                                                              | 1400       |
-| Minério de Lápis Lazúli da Ardósia                                                            | 1400       |
-| Minério de Esmeralda da Ardósia                                                               | 1700       |
-| Minério de Cobre da Ardósia                                                                   | 1900       |
-| Minério de Ouro da Ardósia                                                                    | 1900       |
-| Minério de Diamante                                                                           | 2400       |
-| Obsidiana Chorosa                                                                             | 3000       |
-| Minério de Diamante da Ardósia                                                                | 3600       |
-| Detritos Antigos                                                                              | 7777       |
+| Bloco                           | Valor |
+| ------------------------------- | ----- |
+| Veia de Sculk                   | 0.3   |
+| Sculk                           | 0.4   |
+| Nicélio Deformado               | 0.5   |
+| Nicélio Carmesim                | 0.5   |
+| Sensor de Sculk                 | 0.6   |
+| Catalisador de Sculk            | 1.0   |
+| Tufo                            | 1.0   |
+| Pequeno Cristal de Ametista     | 1.0   |
+| Gritador de Sculk               | 1.2   |
+| Pedregulho de Ardósia           | 1.5   |
+| Pedra do Fim                    | 1.5   |
+| Pedra Luminosa                  | 1.5   |
+| Netherrack                      | 1.5   |
+| Gelo Compactado                 | 1.5   |
+| Gelo Azul                       | 1.5   |
+| Pedra                           | 1.5   |
+| Granito                         | 1.5   |
+| Andesito                        | 1.5   |
+| Diorito                         | 1.5   |
+| Médio Cristal de Ametista       | 2.0   |
+| Ardósia                         | 3.0   |
+| Grande Cristal de Ametista      | 3.0   |
+| Bloco de Magma                  | 3.0   |
+| Terracota                       | 3.0   |
+| Pedregulho Musgoso              | 3.0   |
+| Arenito                         | 3.0   |
+| Lama Compactada                 | 3.0   |
+| Bloco de Espeleotema            | 3.5   |
+| Basalto                         | 4.0   |
+| Tijolos de Lama                 | 4.0   |
+| Tijolos do Fim                  | 5.0   |
+| Tijolos do Nether Ciselados     | 5.0   |
+| Tijolos do Nether Rachados      | 5.0   |
+| Tijolos do Nether               | 5.0   |
+| Tijolos do Nether Vermelhos     | 5.0   |
+| Terracota Preta                 | 5.0   |
+| Terracota Azul                  | 5.0   |
+| Terracota Marrom                | 5.0   |
+| Terracota Ciano                 | 5.0   |
+| Terracota Cinza                 | 5.0   |
+| Terracota Verde                 | 5.0   |
+| Terracota Azul Clara            | 5.0   |
+| Terracota Cinza Clara           | 5.0   |
+| Terracota Verde Limão           | 5.0   |
+| Terracota Magenta               | 5.0   |
+| Terracota Laranja               | 5.0   |
+| Terracota Rosa                  | 5.0   |
+| Terracota Roxa                  | 5.0   |
+| Terracota Vermelha              | 5.0   |
+| Terracota Branca                | 5.0   |
+| Terracota Amarela               | 5.0   |
+| Tijolos de Pedra                | 5.0   |
+| Tijolos de Pedra Rachados       | 5.0   |
+| Tijolos de Pedra Musgosos       | 5.0   |
+| Tijolos de Pedra Talhados       | 5.0   |
+| Pedra Negra                     | 5.5   |
+| Agregado de Ametista            | 6.0   |
+| Bloco de Coral Bolha            | 7.0   |
+| Prismarinho                     | 7.0   |
+| Tijolos de Prismarinho          | 7.0   |
+| Prismarinho Escuro              | 7.0   |
+| Lanterna do Mar                 | 7.0   |
+| Bloco de Coral Tubo             | 7.5   |
+| Bloco de Coral Cérebro          | 8.0   |
+| Bloco de Coral Fogo             | 9.0   |
+| Corrente                        | 10.0  |
+| Arenito Vermelho                | 10.0  |
+| Ametista Brotando               | 12.5  |
+| Bloco de Coral Chifre           | 12.5  |
+| Bloco de Ametista               | 15.0  |
+| Obsidiana                       | 15.0  |
+| Laje de Púrpura                 | 15.0  |
+| Pedra Negra Dourada             | 20.0  |
+| Bloco de Púrpura                | 20.0  |
+| Pilar de Púrpura                | 25.0  |
+| Escadas de Púrpura              | 25.0  |
+| Basalto Liso                    | 30.0  |
+| Minério de Quartzo do Nether    | 30.0  |
+| Calcita                         | 40.0  |
+| Minério de Carvão               | 40.0  |
+| Ardósia Reforçada               | 50.0  |
+| Bloco de Ossos                  | 50.0  |
+| Minério de Redstone             | 60.0  |
+| Minério de Carvão de Ardósia    | 70.0  |
+| Minério de Lápis                | 80.0  |
+| Minério de Lápis Lazúli         | 80.0  |
+| Minério de Ferro                | 90.0  |
+| Minério de Redstone de Ardósia  | 90.0  |
+| Minério de Esmeralda            | 100.0 |
+| Minério de Ouro                 | 130.0 |
+| Minério de Ouro do Nether       | 130.0 |
+| Minério de Ferro de Ardósia     | 130.0 |
+| Minério de Cobre                | 140.0 |
+| Minério de Lápis de Ardósia     | 140.0 |
+| Minério de Esmeralda de Ardósia | 170.0 |
+| Minério de Cobre de Ardósia     | 190.0 |
+| Minério de Ouro de Ardósia      | 190.0 |
+| Minério de Diamante             | 240.0 |
+| Obsidiana Chorona               | 300.0 |
+| Minério de Diamante de Ardósia  | 360.0 |
+| Detritos Antigos                | 777.7 |
 
 {% hint style="info" %}
 EXP ganho apenas por quebra de blocos gerados naturalmente!

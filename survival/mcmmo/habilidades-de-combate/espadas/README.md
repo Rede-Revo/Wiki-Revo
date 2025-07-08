@@ -10,24 +10,16 @@ coverY: 0
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="ruptura.md" %}
+[ruptura.md](ruptura.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="contra-ataque.md" %}
+[contra-ataque.md](contra-ataque.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="ataques-cortantes.md" %}
+[ataques-cortantes.md](ataques-cortantes.md)
 {% endcontent-ref %}
 
 ## » Técnicas

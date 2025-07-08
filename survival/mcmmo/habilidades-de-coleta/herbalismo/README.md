@@ -61,7 +61,112 @@ Herbalismo é uma habilidade no McMMO que governa a capacidade de colher plantas
 * Prós: A taxa de crescimento mais rápida entre todas as culturas sem água ou luz.
 * Contras: Para plantar é necessário Areia das Almas para plantar. A velocidade de caminhada lenta na Areia das Almas também pode impedir a colheita e o replantio, a menos que você tenha o encantamento Soul Speed.
 
+#### » Tabela de EXP ganho - Herbalismo
 
+| Bloco                               | Valor |
+| ----------------------------------- | ----- |
+| Planta de Trepadeiras Choronas      | 0.0   |
+| Planta de Trepadeiras Retorcidas    | 0.0   |
+| Musgo Pendurado Pálido              | 0.0   |
+| Planta de Chorus                    | 0.1   |
+| Bloco de Fungo do Nether            | 0.3   |
+| Bloco de Fungo Deformado            | 0.3   |
+| Vinhas da Caverna                   | 0.5   |
+| Planta de Vinhas da Caverna         | 0.5   |
+| Líquen Brilhante                    | 0.5   |
+| Alga                                | 0.5   |
+| Planta de Alga                      | 0.5   |
+| Raízes Carmesins                    | 0.6   |
+| Raízes Deformadas                   | 0.6   |
+| Pétalas Rosa                        | 1.0   |
+| Brotos do Nether                    | 1.0   |
+| Algas Marinhas                      | 1.0   |
+| Algas Marinhas Altas                | 1.0   |
+| Coral Tubo Morto                    | 1.0   |
+| Coral Cérebro Morto                 | 1.0   |
+| Coral Bolha Morta                   | 1.0   |
+| Coral Fogo Morto                    | 1.0   |
+| Coral Chifre Morto                  | 1.0   |
+| Gorgônia de Tubo Morta              | 1.0   |
+| Gorgônia de Cérebro Morta           | 1.0   |
+| Gorgônia de Bolha Morta             | 1.0   |
+| Gorgônia de Fogo Morta              | 1.0   |
+| Gorgônia de Chifre Morta            | 1.0   |
+| Gorgônia de Tubo de Parede Morta    | 1.0   |
+| Gorgônia de Cérebro de Parede Morta | 1.0   |
+| Gorgônia de Bolha de Parede Morta   | 1.0   |
+| Gorgônia de Fogo de Parede Morta    | 1.0   |
+| Gorgônia de Chifre de Parede Morta  | 1.0   |
+| Samambaia                           | 1.0   |
+| Grama                               | 1.0   |
+| Grama Baixa                         | 1.0   |
+| Cipó                                | 1.0   |
+| Bambu                               | 1.0   |
+| Bloco de Musgo Pálido               | 1.0   |
+| Tapete de Musgo Pálido              | 1.0   |
+| Cogumelo Marrom                     | 1.5   |
+| Cogumelo Vermelho                   | 1.5   |
+| Melancia                            | 2.0   |
+| Abóbora                             | 2.0   |
+| Flor de Chorus                      | 2.5   |
+| Cacto                               | 3.0   |
+| Cacau                               | 3.0   |
+| Arbusto Seco                        | 3.0   |
+| Cana de Açúcar                      | 3.0   |
+| Fungo Carmesim                      | 5.0   |
+| Fungo Deformado                     | 5.0   |
+| Arbusto de Bagas Doces              | 5.0   |
+| Cenouras                            | 5.0   |
+| Batatas                             | 5.0   |
+| Trigo                               | 5.0   |
+| Beterrabas                          | 5.0   |
+| Fungo do Nether                     | 5.0   |
+| Lilás                               | 5.0   |
+| Roseira                             | 5.0   |
+| Girassol                            | 5.0   |
+| Grama Alta                          | 5.0   |
+| Samambaia Grande                    | 5.0   |
+| Beterraba                           | 5.0   |
+| Olhoquídea                          | 6.6   |
+| Olhoquídea Aberta                   | 6.6   |
+| Olhoquídea Fechada                  | 6.6   |
+| Coral Bolha                         | 7.5   |
+| Gorgônia de Bolha                   | 7.5   |
+| Gorgônia de Bolha de Parede         | 7.5   |
+| Coral Tubo                          | 8.0   |
+| Gorgônia de Tubo                    | 8.0   |
+| Gorgônia de Tubo de Parede          | 8.0   |
+| Coral Cérebro                       | 9.0   |
+| Gorgônia de Cérebro                 | 9.0   |
+| Gorgônia de Cérebro de Parede       | 9.0   |
+| Plantocha                           | 9.0   |
+| Peônia                              | 10.0  |
+| Papoula                             | 10.0  |
+| Vitória-régia                       | 10.0  |
+| Dente de Leão                       | 10.0  |
+| Coral Fogo                          | 12.0  |
+| Gorgônia de Fogo                    | 12.0  |
+| Gorgônia de Fogo de Parede          | 12.0  |
+| Pequena Gotejante                   | 14.0  |
+| Grande Gotejante                    | 14.0  |
+| Bloco de Musgo                      | 15.0  |
+| Azul do Campo                       | 15.0  |
+| Orquídea Azul                       | 15.0  |
+| Tulipa Laranja                      | 15.0  |
+| Margarida-olho-de-boi               | 15.0  |
+| Tulipa Rosa                         | 15.0  |
+| Tulipa Vermelha                     | 15.0  |
+| Tulipa Branca                       | 15.0  |
+| Centáurea                           | 15.0  |
+| Lírio do Vale                       | 15.0  |
+| Planta Ancestral                    | 16.0  |
+| Coral-de-Chifre                     | 17.5  |
+| Gorgônia de Chifre                  | 17.5  |
+| Gorgônia de Chifre de Parede        | 17.5  |
+| Ninho de Abelhas                    | 20.0  |
+| Cogubrilho                          | 25.0  |
+| Alho-silvestre                      | 30.0  |
+| Rosa do Wither                      | 50.0  |
 
 **Trigo/Cenoura/Batata/Beterraba**:
 
@@ -76,103 +181,6 @@ Herbalismo é uma habilidade no McMMO que governa a capacidade de colher plantas
 * Contras: O espaço usado para a plantação é maior do que uma de trigo ou cenoura, mas, a não necessariedade de replantio compensa isto.
 
 ## » Tabela de EXP ganho
-
-| Bloco                                  | Valor |
-| -------------------------------------- | ----- |
-| Planta de Coro                         | 1     |
-| Bloco de Verruga do Nether             | 3     |
-| Bloco de fungo destorcido              | 3     |
-| Vinhas da Caverna                      | 5     |
-| Planta de Vinhas da Caverna            | 5     |
-| Alga                                   | 5     |
-| Planta de Alga                         | 5     |
-| Líquen Luminoso                        | 5     |
-| Raízes Carmesim                        | 6     |
-| Raízes Distorcidas                     | 6     |
-| Brotos do Nether                       | 10    |
-| Pétalas Cor-de-rosa                    | 10    |
-| Erva Marinha                           | 10    |
-| Erva Marinha Alta                      | 10    |
-| Samambaia                              | 10    |
-| Grama                                  | 10    |
-| Grama Baixa                            | 10    |
-| Bambu                                  | 10    |
-| Bloco de Musgo Pálido                  | 10    |
-| Carpete de Musgo Pálido                | 10    |
-| Coral Tubo Morto                       | 10    |
-| Coral Cérebro Morto                    | 10    |
-| Coral Bolha Morto                      | 10    |
-| Coral Fogo Morto                       | 10    |
-| Coral Chifre Morto                     | 10    |
-| Leque de Coral Tubo Morto              | 10    |
-| Leque de Coral Cérebro Morto           | 10    |
-| Leque de Coral Bolha Morto             | 10    |
-| Leque de Coral Fogo Morto              | 10    |
-| Leque de Coral Chifre Morto            | 10    |
-| Leque de Coral Tubo Morto na Parede    | 10    |
-| Leque de Coral Cérebro Morto na Parede | 10    |
-| Leque de Coral Bolha Morto na Parede   | 10    |
-| Leque de Coral Fogo Morto na Parede    | 10    |
-| Leque de Coral Chifre Morto na Parede  | 10    |
-| Cogumelo Marrom                        | 15    |
-| Cogumelo Vermelho                      | 15    |
-| Melancia                               | 20    |
-| Abóbora                                | 20    |
-| Flor de Coro                           | 25    |
-| Cacto                                  | 30    |
-| Cana-de-Açúcar                         | 30    |
-| Cacau                                  | 30    |
-| Arbusto Seco                           | 30    |
-| Cenouras                               | 50    |
-| Batatas                                | 50    |
-| Trigo                                  | 50    |
-| Beterrabas                             | 50    |
-| Fungo do nether                        | 50    |
-| Fungo Carmesim                         | 50    |
-| Fungo Distorcido                       | 50    |
-| Arbusto de Bagas Doces                 | 50    |
-| Lilás                                  | 50    |
-| Roseira                                | 50    |
-| Girassol                               | 50    |
-| Grama Alta                             | 50    |
-| Samambaia Grande                       | 50    |
-| Olhorquídea (Flor dos Olhos)           | 66    |
-| Coral Bolha                            | 75    |
-| Leque de Coral Bolha                   | 75    |
-| Leque de Coral Bolha na Parede         | 75    |
-| Coral Tubo                             | 80    |
-| Leque de Coral Tubo                    | 80    |
-| Leque de Coral Tubo na Parede          | 80    |
-| Coral Cérebro                          | 90    |
-| Leque de Coral Cérebro                 | 90    |
-| Leque de Coral Cérebro na Parede       | 90    |
-| Plantocha (Flor da Tocha)              | 90    |
-| Vitória-régia                          | 100   |
-| Peônia                                 | 100   |
-| Papoula                                | 100   |
-| Dente-de-leão                          | 100   |
-| Pequena Goteira                        | 140   |
-| Grande Goteira                         | 140   |
-| Coral Fogo                             | 120   |
-| Leque de Coral Fogo                    | 120   |
-| Leque de Coral Fogo na Parede          | 120   |
-| Tulipa Branca                          | 150   |
-| Botão Azul                             | 150   |
-| Orquídea Azul                          | 150   |
-| Tulipa Laranja                         | 150   |
-| Margarida                              | 150   |
-| Tulipa Rosa                            | 150   |
-| Tulipa Vermelha                        | 150   |
-| Centáurea Azul                         | 150   |
-| Lírio-do-vale                          | 150   |
-| Bloco de Musgo                         | 150   |
-| Coral Chifre                           | 175   |
-| Leque de Coral Chifre                  | 175   |
-| Leque de Coral Chifre na Parede        | 175   |
-| Planta Jarro                           | 160   |
-| Ninho de Abelha                        | 200   |
-| Cogubrilho                             | 250   |
-| Rosa do Wither                         | 500   |
 
 {% hint style="info" %}
 EXP ganho apenas em blocos (plantações) no estágio máximo (se tiver) e se for bloco (plantação) não colocada por um jogador (quando a plantação muda de estágio de crescimento, muda essa estatística).

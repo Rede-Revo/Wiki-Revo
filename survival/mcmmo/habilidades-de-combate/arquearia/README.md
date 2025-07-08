@@ -19,21 +19,19 @@ O dano causado por arco e besta é definido de acordo com a distância com seu i
 
 ## » Habilidades
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="atordoar.md" %}
+[atordoar.md](atordoar.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="recuperacao-de-flechas.md" %}
+[recuperacao-de-flechas.md](recuperacao-de-flechas.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="proficiencia-em-tiros.md" %}
+[proficiencia-em-tiros.md](proficiencia-em-tiros.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+
 
 ## » Técnicas
 
