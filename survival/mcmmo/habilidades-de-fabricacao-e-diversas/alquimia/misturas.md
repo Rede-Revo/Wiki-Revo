@@ -5,6 +5,10 @@ coverY: 0
 
 # 🥄 Misturas
 
+## Como funciona a habilidade Misturas?
+
+As misturas permitem a preparação de mais poções com ingredientes personalizados. Quais ingredientes especiais são desbloqueados é determinado pelo seu Rank. Existem 8 ranks para se desbloquear.
+
 ### Tomáveis e Arremessáveis
 
 #### Normal

@@ -21,7 +21,7 @@ coverY: 0
 
 #### Lista de Diretores
 
-* [<img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) <mark style="color:yellow;">**Nevisk**</mark>**&#x20; (data de entrada: 21/05/2021)**
+* [<img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png) <mark style="color:yellow;">**Nevisk**</mark>**&#x20; (data de entrada: 21/05/2021)**
 * <img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt="" data-size="line"> <mark style="color:yellow;">**thiagogebrim**</mark>**&#x20; (data de entrada: 21/05/2021)**
 
 ## <img src="../.gitbook/assets/image (11) (1) (2) (1).png" alt="" data-size="line"> <mark style="color:blue;">Gerente</mark>
@@ -66,7 +66,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 * [x] Ficar atento nos cargos inferiores, repassando aos superiores o desempenho da equipe;
 * [x] Trabalho de prevenção junto aos jogadores, conscientizando-os sobre os riscos que correm ao desrespeitar as [regras](../regras/).
 
-## <img src="../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador</mark>
+## <img src="../.gitbook/assets/image (5) (1) (1) (2).png" alt="" data-size="line"> <mark style="color:green;">Moderador</mark>
 
 A equipe de moderação está encarregada de conservar um ambiente amigável. Os moderadores são jogadores voluntários a quem concedemos confiança, além de ferramentas para que possam manter a jogatina o mais agradável possível.
 
@@ -77,7 +77,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 * [x] Moderar o chat dos servidores e discord;
 * [x] Trabalho de prevenção junto aos jogadores, conscientizando-os sobre os riscos que correm ao desrespeitar as [regras](../regras/).
 
-## <img src="../.gitbook/assets/image (9) (1) (2).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
+## <img src="../.gitbook/assets/image (9) (1) (2) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
 O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que consiste em uma pessoa que dentro de um "universo" de Minecraft/Servidores tenha um conhecimento avançado em detecção de trapaças "incomuns", sendo elas: "JavaEdit, Injection Client, Ghost Client" entre outras trapaças.
 

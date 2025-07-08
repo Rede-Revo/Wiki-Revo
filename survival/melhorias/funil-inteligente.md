@@ -21,6 +21,6 @@ Este funil possui a capacidade única de transferir exclusivamente o item que es
 
 #### **Exemplo de como criar um funil inteligente:**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Essa configuração garante que apenas o item exibido na moldura seja transferido pelo funil, proporcionando um método eficiente e organizado de filtragem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Essa configuração garante que apenas o item exibido na moldura seja transferido pelo funil, proporcionando um método eficiente e organizado de filtragem.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Com essa configuração, o funil inteligente irá automaticamente rejeitar o item exibido na moldura, assegurando que todos os outros itens sejam transferidos sem interrupções.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Com essa configuração, o funil inteligente irá automaticamente rejeitar o item exibido na moldura, assegurando que todos os outros itens sejam transferidos sem interrupções.</p></figcaption></figure>

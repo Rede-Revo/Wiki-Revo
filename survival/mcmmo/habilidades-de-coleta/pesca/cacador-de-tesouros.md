@@ -20,7 +20,7 @@ coverY: 0
 | <img src="../../../../.gitbook/assets/image (29) (1).png" alt="" data-size="line"> 1x Calças de couro                         |
 | <img src="../../../../.gitbook/assets/image (43) (1).png" alt="" data-size="line"> 1x Botas de couro                          |
 | Ferramentas de pedra                                                                                                          |
-| <img src="../../../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> 32x Carvão                                  |
+| <img src="../../../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> 32x Carvão                              |
 | <img src="../../../../.gitbook/assets/image (8) (1) (2).png" alt="" data-size="line"> 16x Frasco de experiência               |
 | <img src="../../../../.gitbook/assets/image (4) (3).png" alt="" data-size="line"> 16x Cobre bruto                             |
 | <img src="../../../../.gitbook/assets/image (10) (1) (4).png" alt="" data-size="line"> 16x Lápis-lazúli                       |
@@ -35,7 +35,7 @@ coverY: 0
 | --------------------------------------------------------------------------------------------------------------- |
 | <img src="../../../../.gitbook/assets/image (41) (1).png" alt="" data-size="line"> 1x Capacete de ouro          |
 | <img src="../../../../.gitbook/assets/image (34) (1) (1).png" alt="" data-size="line"> 1x Peitoral de ouro      |
-| <img src="../../../../.gitbook/assets/image (6) (1).png" alt="" data-size="line"> 1x Calças de ouro             |
+| <img src="../../../../.gitbook/assets/image (6) (1) (1).png" alt="" data-size="line"> 1x Calças de ouro         |
 | <img src="../../../../.gitbook/assets/image (28) (1).png" alt="" data-size="line"> 1x Botas de ouro             |
 | Ferramentas de ouro                                                                                             |
 | ![](<../../../../.gitbook/assets/image (45) (1).png>) 1x Cristal do End                                         |
@@ -78,7 +78,7 @@ coverY: 0
 | <img src="../../../../.gitbook/assets/image (34) (1).png" alt="" data-size="line"> 5x Maça dourada encantada   |
 |  <img src="../../../../.gitbook/assets/image (6) (4).png" alt="" data-size="line"> 1x Ovo gerador de galinha   |
 | <img src="../../../../.gitbook/assets/image (53) (1).png" alt="" data-size="line"> 1x Escama de tartaruga      |
-| <img src="../../../../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> 1x Concha de náutilo         |
+| <img src="../../../../.gitbook/assets/image (7) (1) (1).png" alt="" data-size="line"> 1x Concha de náutilo     |
 
 ### » Lendário «
 
