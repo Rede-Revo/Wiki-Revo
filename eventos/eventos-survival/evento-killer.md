@@ -35,11 +35,11 @@ coverY: 0
 
 Formação de time ou grupos no evento Killer não é permitido. Jogadores que forem flagrados em times ou grupos serão penalizados.
 
-* Em casos de formações de alianças os jogadores serão expulsos do evento e ficarão 7 dias sem poder participar de nenhum outro evento semanal, além de 3 dias de prisão.
+* Em casos de formações de alianças os jogadores serão expulsos do evento e serão punidos por anti -jogo. conforme diz a [Regra 15](../../regras/jogabilidade.md#id-01-5).
 
 #### 2. É estritamente proibido participar com mais de uma conta por jogador.
 
-* Em casos de jogadores que entrarem com mais de uma conta serão expulsos do evento e ficarão 7 dias sem poder participar de nenhum outro evento semanal.
+* Em casos de jogadores que entrarem com mais de uma conta serão expulsos do evento e serão punidos também por anti-jogo.
 
 #### **3. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
 

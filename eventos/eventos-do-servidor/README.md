@@ -19,6 +19,10 @@ coverY: 0
 [evento-cla-x-cla.md](../eventos-survival/evento-cla-x-cla.md)
 {% endcontent-ref %}
 
+{% content-ref url="../../survival/eventos-do-servidor/semanais/evento-pre-cla-x-cla.md" %}
+[evento-pre-cla-x-cla.md](../../survival/eventos-do-servidor/semanais/evento-pre-cla-x-cla.md)
+{% endcontent-ref %}
+
 {% content-ref url="../eventos-survival/evento-dominador-arena.md" %}
 [evento-dominador-arena.md](../eventos-survival/evento-dominador-arena.md)
 {% endcontent-ref %}

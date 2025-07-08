@@ -34,11 +34,15 @@ coverY: 0
 
 Formação de time ou grupos no evento Arqueiro não é permitido. Jogadores que forem flagrados em times ou grupos serão penalizados.
 
-* Em casos de formações de alianças os jogadores serão expulsos do evento e ficarão 7 dias sem poder participar de nenhum outro evento semanal, além de 3 dias de prisão.
+* Em casos de formações de alianças os jogadores serão expulsos do evento e serão punidos por anti -jogo. conforme diz a [Regra 15](../../regras/jogabilidade.md#id-01-5).
 
-#### **2. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
+#### 2. É estritamente proibido participar com mais de uma conta por jogador.
 
-Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
+* Em casos de jogadores que entrarem com mais de uma conta serão expulsos do evento e serão punidos também por anti-jogo.
+
+#### **3. Utilização de programas, mods hackers ou qualquer tipo de trapaça que deem vantagens no combate.**
+
+Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/)..
 
 ## » Premiação
 
