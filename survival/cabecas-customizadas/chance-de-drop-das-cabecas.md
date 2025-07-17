@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# ☠ Chance de drop das Cabeças
+# ☠️ Chance de drop das Cabeças
 
 * **Jogadores: `25%`**
 * **Abelha: `0.6%`**
@@ -84,7 +84,7 @@ coverY: 0
 * **Zumbi: `0.4%`**
 * **Zumbi-múmia: `0.5%`**
 
-> Lembrando que animais com variantes como ovelhas de todas as cores, cachorros e gatos com colares de todas as cores podem dropar cabeça, abelha polinizada, abelha zangada e assim em diante, boa sorte para os colecionadores.
+> Lembrando que animais com variantes como ovelhas de todas as cores, cachorros e gatos com colares de todas as cores podem dropar cabeça, abelha polinizada, abelha zangada e assim em diante. Boa sorte para os colecionadores.
 
 {% hint style="info" %}
 Pilhagem aumenta em **1.1x** por nível a chance de drop de todas as cabeças
