@@ -1,5 +1,6 @@
 ---
 description: Eventos que ocorrem uma vez na temporada.
+hidden: true
 ---
 
 # 🌊 Temporada
