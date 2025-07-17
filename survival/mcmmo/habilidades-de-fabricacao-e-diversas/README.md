@@ -10,20 +10,19 @@ coverY: 0
 
 ## » Habilidades de fabricação e diversas
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="reparacao/" %}
+[reparacao](reparacao/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="acrobacias/" %}
+[acrobacias](acrobacias/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="alquimia/" %}
+[alquimia](alquimia/)
 {% endcontent-ref %}
 
-## » Habilidades diversas
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="fundicao/" %}
+[fundicao](fundicao/)
 {% endcontent-ref %}
+

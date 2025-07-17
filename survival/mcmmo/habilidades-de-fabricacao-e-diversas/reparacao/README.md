@@ -12,6 +12,10 @@ coverY: 0
 
 ## » Habilidades
 
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
 {% content-ref url="mestre-reparador.md" %}
 [mestre-reparador.md](mestre-reparador.md)
 {% endcontent-ref %}
