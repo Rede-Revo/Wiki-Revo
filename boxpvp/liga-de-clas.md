@@ -7,7 +7,7 @@ cover: ../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# 🎖 Liga de Clãs
+# 🎖️ Liga de Clãs
 
 Liga consiste em pontos gerados por ações dos jogadores tanto positivas quanto negativas ranqueando-os respectivamente pela quantidade de pontos, que se divide em 2 fases:
 
@@ -63,12 +63,7 @@ Jogadores que tentarem burlar a punição ao clã saindo ou debandando o mesmo, 
 
 |         Ação         | Pontos |
 | :------------------: | :----: |
-|       Guardião       |        |
 | Banimento permanente |  -250  |
-
-{% hint style="warning" %}
-Líderes de clã ao tomar qualquer punição perderão a quantia multiplicada por 2.
-{% endhint %}
 
 ## Pontuação Negativa (Regra 18)
 

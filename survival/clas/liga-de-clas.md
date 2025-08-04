@@ -89,11 +89,11 @@ Assim como boas ações geram pontos, más ações removem pontos, portanto seja
 
 ### Recompensa liga (Mensal)
 
-|     Posição    |                                                                     Recompensa                                                                     |
-| :------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Primeiro Lugar | <ul><li>5M Coins </li><li>Tag Especial (30d) [10 Membros] </li><li>4500 Cash </li><li>15% da taxa de venda do <strong>/mercado</strong>.</li></ul> |
-|  Segundo Lugar |                      <ul><li>2.5M Coins</li><li>3000 Cash</li><li>10% da taxa de venda do <strong>/mercado</strong>.</li></ul>                     |
-| Terceiro Lugar |                      <ul><li>1M Coins </li><li>1500 Cash </li><li>5% da taxa de venda do <strong>/mercado</strong>.</li></ul>                      |
+|     Posição    |                                       Recompensa                                       |
+| :------------: | :------------------------------------------------------------------------------------: |
+| Primeiro Lugar | <ul><li>5M Coins </li><li>Tag Especial (30d) [10 Membros] </li><li>4500 Cash</li></ul> |
+|  Segundo Lugar |                     <ul><li>2.5M Coins</li><li>3000 Cash</li></ul>                     |
+| Terceiro Lugar |                      <ul><li>1M Coins </li><li>1500 Cash</li></ul>                     |
 
 ### Recompensa liga (Temporada)
 
