@@ -19,7 +19,7 @@ Utilizar uma skin sexual ou discriminatória.
 
 ### Lista de Punições <a href="#lista-de-punicoes" id="lista-de-punicoes"></a>
 
-<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias (em caso de não atender o pedido de alterar a skin inadequada)</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente</td></tr></tbody></table>
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento de 3 dias (em caso de não atender o pedido de alterar a skin inadequada)</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente</td></tr></tbody></table>
 
 ## Regra 09 - Abuso de Bug
 
@@ -31,7 +31,7 @@ Jogadores(as) que reportarem quaisquer bug que afetem a jogabilidade do servidor
 
 | Incidência |        Punição       |
 | :--------: | :------------------: |
-|      1     |   Prisão de 10 dias  |
+|      1     | Banimento de 15 dias |
 |      2     | Banimento permanente |
 
 ### Regra 09.1 - Abuso de Bug
@@ -84,7 +84,7 @@ Será definida como conta principal a conta do IP com o registro mais antigo.
 
 ### Lista de Punições <a href="#lista-de-punicoes-2" id="lista-de-punicoes-2"></a>
 
-<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente</td></tr></tbody></table>
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento de 7 dias</td></tr><tr><td align="center">2</td><td align="center">Banimento permanente</td></tr></tbody></table>
 
 ### Regra 10.1 - Conta falsa <a href="#id-01" id="id-01"></a>
 
@@ -110,7 +110,7 @@ Consiste na tentativa de negociação e/ou transação de itens ou vantagens no 
 
 ### Lista de Punições <a href="#lista-de-punicoes-4" id="lista-de-punicoes-4"></a>
 
-<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 5 dias + Confisco do conteúdo comercializado</td></tr><tr><td align="center">2</td><td align="center">Prisão de 10 dias + Confisco do conteúdo comercializado</td></tr><tr><td align="center">3</td><td align="center">Banimento Permanente + Confisco do conteúdo comercializado</td></tr></tbody></table>
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento de 15 dias + Confisco do conteúdo comercializado</td></tr><tr><td align="center">2</td><td align="center">Banimento de 30 dias + Confisco do conteúdo comercializado</td></tr><tr><td align="center">3</td><td align="center">Banimento Permanente + Confisco do conteúdo comercializado</td></tr></tbody></table>
 
 {% hint style="warning" %}
 Contas e itens comercializados ilegalmente serão recolhidos pela equipe e, posteriormente, leiloados.
@@ -126,7 +126,7 @@ Jogadores(as) com atividade suspeita que não atenderem o chamado no período de
 
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
-<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 5 dias</td></tr><tr><td align="center">2</td><td align="center">Prisão de 10 dias</td></tr><tr><td align="center">3</td><td align="center">Banimento permanente</td></tr></tbody></table>
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento de 7 dias</td></tr><tr><td align="center">2</td><td align="center">Banimento de 15 dias</td></tr><tr><td align="center">3</td><td align="center">Banimento permanente</td></tr></tbody></table>
 
 {% hint style="danger" %}
 Além do banimento, punições extras são aplicadas referentes ação praticada pelo jogador e a incidência:\
@@ -187,7 +187,7 @@ Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relac
 
 ### Lista de Punições <a href="#lista-de-punicoes-7" id="lista-de-punicoes-7"></a>
 
-<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Aviso + Prisão de 5 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Prisão de 10 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Banimento Permanente</td></tr></tbody></table>
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento de 7 dias</td></tr><tr><td align="center">2</td><td align="center">Banimento de 15 dias</td></tr><tr><td align="center">3</td><td align="center">Banimento de 30 dias</td></tr><tr><td align="center">4</td><td align="center">Banimento Permanente</td></tr></tbody></table>
 
 ## Regra 16 - Griefing <a href="#id-01" id="id-01"></a>
 
@@ -207,7 +207,7 @@ Dica: Para evitar problemas futuros, utilize os mundos de recursos, The End ou N
 
 ### Lista de Punições <a href="#lista-de-punicoes-8" id="lista-de-punicoes-8"></a>
 
-<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Aviso + Prisão de 5 dias</td></tr><tr><td align="center">3</td><td align="center">Aviso + Prisão de 10 dias</td></tr><tr><td align="center">4</td><td align="center">Aviso + Banimento Permanente</td></tr></tbody></table>
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento de 7 dias</td></tr><tr><td align="center">2</td><td align="center">Banimento de 15 dias</td></tr><tr><td align="center">3</td><td align="center">Banimento de 30 dias</td></tr><tr><td align="center">4</td><td align="center">Banimento Permanente</td></tr></tbody></table>
 
 ## Regra 17 - Cúmplice de Infrator <a href="#id-01" id="id-01"></a>
 
@@ -219,7 +219,7 @@ O ato de não reportar trapaceiros explícitos ([Regra 18](jogabilidade.md#01-7)
 
 ### Lista de Punições <a href="#lista-de-punicoes-9" id="lista-de-punicoes-9"></a>
 
-<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Prisão de 3 dias</td></tr><tr><td align="center">2</td><td align="center">Prisão de 5 dias</td></tr><tr><td align="center">3</td><td align="center">Prisão de 10 dias</td></tr><tr><td align="center">4</td><td align="center">Banimento Permanente</td></tr></tbody></table>
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento de 7 dias</td></tr><tr><td align="center">2</td><td align="center">Banimento de 15 dias</td></tr><tr><td align="center">3</td><td align="center">Banimento  de 30 dias</td></tr><tr><td align="center">4</td><td align="center">Banimento Permanente</td></tr></tbody></table>
 
 ## Regra 18 - Uso de Trapaças <a href="#id-01" id="id-01"></a>
 
@@ -229,8 +229,12 @@ O uso de clientes, programas, modificações (mods), injeções no client que de
 Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-permitidos.md).
 {% endhint %}
 
-\
-
+| Incidência | Duração              |
+| ---------- | -------------------- |
+| 1ª         | Banimento de 15 dias |
+| 2ª         | Banimento de 30 dias |
+| 3ª         | Banimento de 45 dias |
+| 4          | Banimento permanente |
 
 Regra 19 -  **Uso irregular da tag "Mito"**
 
