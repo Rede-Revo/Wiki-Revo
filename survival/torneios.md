@@ -237,12 +237,6 @@ Lista de blocos que contam no torneio Pedreiro no final da página.
 * **Lã Verde**
 * **Lã Vermelha**
 * **Lã Preta**
-* **Laje de Pedra**
-* **Laje de Pedra Lisa**
-* **Laje de Arenito**
-* **Laje de Tijolos**
-* **Laje de Tijolos de Pedra**
-* **Laje de Tijolos do Nether**
 * **Laje de Quartzo**
 * **Tijolos**
 * **Estante de Livros**
