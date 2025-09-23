@@ -50,28 +50,25 @@ Ao visualizar um jogador possivelmente infringindo uma regra, abra uma denúncia
 5. Após preenchimento de todos campos faça o envio.
 6. Após o envio, aguarde a analise feita pela equipe e a resposta da sua solicitação denúncia será enviada no seu privado, nenhum chat será aberto.
 
-### Provas
+### Punições: <a href="#punicoes" id="punicoes"></a>
 
-* Somente serão aceitas caso sejam capturas da tela toda e com scoreboard ativa.
-* Possuem a validade de **3 dias** (Exceto regras [**12**](jogabilidade.md#01-3), [**16**](jogabilidade.md#01-3) e [**18**](jogabilidade.md#01-7) que não expiram).
-
-## Punições:
-
-* **Prisão:** Conta fica bloqueada o uso especifico de acordo com o servidor que infringiu a regra.
-  * O tempo somente contabiliza **online**.
-  * Reduz **10 segundos** ao quebrar blocos de **pedregulho**.
-  * Caso tenha interesse, poderá adquirir booster que aumenta o rendimento de redução de tempo em 3x (30 segundos) por bloco.
-  * Afeta todos servidores: [❌](https://emojiterra.com/pt/x-vermelho/)
-* **Silenciamento:** Conta fica impossibilitada de utilizar chat e quaisquer meio de comunicação dentro dos servidores.&#x20;
+* **Silenciamento:** Conta fica impossibilitada de utilizar chat e quaisquer meio de comunicação dentro dos servidores.
   * O tempo também contabiliza **offline**.
   * Afeta todos servidores: ✔️
-* **Banimento:** Conta fica com acesso bloqueado de todos servidores.&#x20;
+* **Banimento:** Conta fica com acesso bloqueado de todos servidores.
   * Guardião aplica punições automáticas desta categoria.
   * Ao ser punido **permanentemente** você será automaticamente preso por **5 dias.**
   * Limite de **2** banimentos permanentes por conta.
   * Afeta todos servidores: [❌](https://emojiterra.com/pt/x-vermelho/)
 * **Blacklist:** Bloqueio permanente do servidor, impossibilitada a criação de novas contas.
 * **Discord:** Mesma linha de punições do servidor, porém dentro da comunidade do discord.
+
+### Provas
+
+* Somente serão aceitas caso sejam capturas da tela toda e com scoreboard ativa.
+* Possuem a validade de **3 dias** (Exceto regras [**12**](jogabilidade.md#01-3), [**16**](jogabilidade.md#01-3) e [**18**](jogabilidade.md#01-7) que não expiram).
+
+## Punições:
 
 {% hint style="danger" %}
 Evite brincadeiras de mau gosto, pois a staff não irá fazer distinção entre elas. Dado que não temos como avaliar todas as circunstâncias, não conseguimos determinar com certeza se uma afirmação é verdadeira ou não.
