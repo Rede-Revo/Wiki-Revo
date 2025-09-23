@@ -19,7 +19,7 @@ Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores
 Ameaças e/ou perseguições a outros jogadores(as) sejam elas com relação à sua pessoa, sua família, seus bens ou sua conta também são incluídos neste tópico.\*
 {% endhint %}
 
-* &#x20;Em casos de ameaças e/ou perseguições em que ocorra a membros da equipe, independente dos meios de comunicação poderá ser aplicada **blacklist** dentro da rede de servidores.
+* &#x20;Em casos de ameaças e/ou perseguições em que ocorra a membros do servidor, independente dos meios de comunicação poderá ser aplicada **blacklist** dentro da rede de servidores.
 
 ### Lista de Punições <a href="#lista-de-punicoes" id="lista-de-punicoes"></a>
 
