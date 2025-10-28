@@ -187,214 +187,29 @@ Lista de blocos que contam no torneio Pedreiro no final da página.
 {% hint style="info" %}
 
 
-* **Escadas de Madeira de Carvalho**
-* **Tronco de Carvalho**
-* **Tronco de Pinheiro**
-* **Escadas de Madeira de Pinheiro**
-* **Tronco de Bétula**
-* **Escadas de Madeira de Bétula**
-* **Tronco de Selva**
-* **Escadas de Madeira de Selva**
-* **Laje de Quartzo Liso**
-* **Tronco de Acácia**
-* **Escadas de Madeira de Acácia**
-* **Tronco de Carvalho Escuro**
-* **Escadas de Madeira de Carvalho Escuro**
-* **Tronco de Carvalho Descascado**
-* **Tronco de Pinheiro Descascado**
-* **Tronco de Bétula Descascado**
-* **Tronco de Selva Descascado**
-* **Tronco de Acácia Descascado**
-* **Tronco de Carvalho Escuro Descascado**
-* **Folhas de Carvalho**
-* **Folhas de Pinheiro**
-* **Folhas de Bétula**
-* **Folhas de Selva**
-* **Folhas de Acácia**
-* **Folhas de Carvalho Escuro**
-* **Granito**
-* **Granito Polido**
-* **Diorito**
-* **Diorito Polido**
-* **Andesito**
-* **Andesito Polido**
-* **Vidro**
-* **Arenito Cinzelado**
-* **Arenito Liso**
-* **Lã Branca**
-* **Lã Laranja**
-* **Lã Magenta**
-* **Lã Azul Claro**
-* **Lã Amarela**
-* **Lã Verde Limão**
-* **Lã Rosa**
-* **Lã Cinza**
-* **Lã Cinza Claro**
-* **Lã Ciano**
-* **Lã Roxa**
-* **Lã Azul**
-* **Lã Marrom**
-* **Lã Verde**
-* **Lã Vermelha**
-* **Lã Preta**
-* **Laje de Quartzo**
-* **Tijolos**
-* **Estante de Livros**
-* **Obsidiana**
-* **Gelo**
-* **Pedra Luminosa**
-* **Vidro Tingido de Branco**
-* **Vidro Tingido de Laranja**
-* **Vidro Tingido de Magenta**
-* **Vidro Tingido de Azul Claro**
-* **Vidro Tingido de Amarelo**
-* **Vidro Tingido de Verde Limão**
-* **Vidro Tingido de Rosa**
-* **Vidro Tingido de Cinza**
-* **Vidro Tingido de Cinza Claro**
-* **Vidro Tingido de Ciano**
-* **Vidro Tingido de Roxo**
-* **Vidro Tingido de Azul**
-* **Vidro Tingido de Marrom**
-* **Vidro Tingido de Verde**
-* **Vidro Tingido de Vermelho**
-* **Vidro Tingido de Preto**
-* **Tijolos de Pedra**
-* **Grades de Ferro**
-* **Painel de Vidro**
-* **Escadas de Tijolos**
-* **Escadas de Tijolos de Pedra**
-* **Tijolos do Nether**
-* **Cerca de Tijolos do Nether**
-* **Escadas de Tijolos do Nether**
-* **Pedra do End**
-* **Lâmpada de Redstone**
-* **Laje de Madeira de Carvalho**
-* **Escadas de Mangue**
-* **Tábuas de Mangue**
-* **Laje de Madeira de Pinheiro**
-* **Laje de Mangue**
-* **Laje de Madeira de Bétula**
-* **Laje de Madeira de Selva**
-* **Laje de Madeira de Acácia**
-* **Laje de Madeira de Carvalho Escuro**
-* **Escadas de Arenito**
-* **Laje de Purpur**
-* **Laje de Prismarinho**
-* **Laje de Tijolos de Prismarinho**
-* **Laje de Prismarinho Escuro**
-* **Quartzo Liso**
-* **Pedra Lisa**
-* **Bloco de Purpur**
-* **Pilar de Purpur**
-* **Escadas de Purpur**
-* **Tijolos de Pedra Cinzelados**
-* **Tijolos de Pedra do End**
-* **Bloco de Quartzo**
-* **Pilar de Quartzo**
-* **Bloco de Quartzo Cinzelado**
-* **Terracota Branca**
-* **Terracota Laranja**
-* **Terracota Magenta**
-* **Terracota Azul Claro**
-* **Terracota Amarela**
-* **Terracota Verde Limão**
-* **Terracota Rosa**
-* **Terracota Cinza**
-* **Terracota Cinza Claro**
-* **Terracota Ciano**
-* **Terracota Roxa**
-* **Terracota Azul**
-* **Terracota Marrom**
-* **Terracota Verde**
-* **Terracota Vermelha**
-* **Terracota Preta**
-* **Terracota**
-* **Gelo Compactado**
-* **Painel de Vidro Tingido de Branco**
-* **Painel de Vidro Tingido de Laranja**
-* **Painel de Vidro Tingido de Magenta**
-* **Painel de Vidro Tingido de Azul Claro**
-* **Painel de Vidro Tingido de Amarelo**
-* **Painel de Vidro Tingido de Verde Limão**
-* **Painel de Vidro Tingido de Rosa**
-* **Painel de Vidro Tingido de Cinza**
-* **Painel de Vidro Tingido de Cinza Claro**
-* **Painel de Vidro Tingido de Ciano**
-* **Painel de Vidro Tingido de Roxo**
-* **Painel de Vidro Tingido de Azul**
-* **Painel de Vidro Tingido de Marrom**
-* **Painel de Vidro Tingido de Verde**
-* **Painel de Vidro Tingido de Vermelho**
-* **Painel de Vidro Tingido de Preto**
-* **Prismarinho**
-* **Tijolos de Prismarinho**
-* **Prismarinho Escuro**
-* **Escadas de Prismarinho**
-* **Escadas de Tijolos de Prismarinho**
-* **Escadas de Prismarinho Escuro**
-* **Lanterna do Mar**
-* **Tijolos Vermelhos do Nether**
-* **Bloco de Fungo do Nether**
-* **Terracota Esmaltada Branca**
-* **Terracota Esmaltada Laranja**
-* **Terracota Esmaltada Magenta**
-* **Terracota Esmaltada Azul Claro**
-* **Terracota Esmaltada Amarela**
-* **Terracota Esmaltada Verde Limão**
-* **Terracota Esmaltada Rosa**
-* **Terracota Esmaltada Cinza**
-* **Terracota Esmaltada Cinza Claro**
-* **Terracota Esmaltada Ciano**
-* **Terracota Esmaltada Roxa**
-* **Terracota Esmaltada Azul**
-* **Terracota Esmaltada Marrom**
-* **Terracota Esmaltada Verde**
-* **Terracota Esmaltada Vermelha**
-* **Terracota Esmaltada Preta**
-* **Concreto Branco**
-* **Concreto Laranja**
-* **Concreto Magenta**
-* **Concreto Azul Claro**
-* **Concreto Amarelo**
-* **Concreto Verde Limão**
-* **Concreto Rosa**
-* **Concreto Cinza**
-* **Concreto Cinza Claro**
-* **Concreto Ciano**
-* **Concreto Roxo**
-* **Concreto Azul**
-* **Concreto Marrom**
-* **Concreto Verde**
-* **Concreto Vermelho**
-* **Concreto Preto**
-* **Bloco de Coral Tubular**
-* **Bloco de Coral Cérebro**
-* **Bloco de Coral Bolha**
-* **Bloco de Coral Fogo**
-* **Bloco de Coral Chifre**
-* **Gelo Azul**
-* **Tábuas Carmesim**
-* **Tábuas Distorcidas**
-* **Tronco Carmesim**
-* **Tronco Distorcido**
-* **Tronco Carmesim Descascado**
-* **Tronco Distorcido Descascado**
-* **Hifas Carmesim**
-* **Hifas Distorcidas**
-* **Hifas Distorcidas Descascadas**
-* **Hifas Carmesim Descascadas**
-* **Basalto**
-* **Basalto Polido**
-* **Tijolos do Nether Cinzelados**
-* **Fogueira das Almas**
-* **Obsidiana Chorosa**
-* **Pedra Negra**
-* **Pedra Negra Dourada**
-* **Pedra Negra Polida**
-* **Pedra Negra Polida Cinzelada**
-* **Escadas de Pedra Negra Polida**
-* **Tijolos de Pedra Negra Polida**
-* **Escadas de Tijolos de Pedra Negra Polida**
+
+
+* Madeiras (todas as variações de Troncos, Folhas e Escadas das 6 árvores normais)
+* Madeiras de Mangue (Tábuas e Escadas)
+* Madeiras do Nether (variações Carmesim e Distorcidas, incluindo Hifas)
+* Pedras (Granito, Diorito, Andesito e suas variações polidas)
+* Arenito (variações Lisas, Cinzeladas e Escadas)
+* Tijolos de Pedra (Normal, Cinzelado e Escadas)
+* Pedra Negra (todas as variações, incluindo Polida, Cinzelada e Tijolos)
+* Tijolos do Nether (Normal, Cinzelado, Vermelho, Escadas e Cerca)
+* Basalto (Normal e Polido)
+* Obsidiana (Normal e Chorosa)
+* Blocos do End (Pedra do End, Tijolos de Pedra do End e variações de Purpur: Bloco, Pilar e Escadas)
+* Quartzo (Bloco, Pilar, Cinzelado e Liso)
+* Prismarinho (todas as variações de Bloco, Tijolo, Escuro e Escadas)
+* Tijolos (Normal e Escadas)
+* Vidro (Normal, Painel, e todas as 16 cores Tingidas de Bloco e Painel)
+* Lã (todas as 16 cores)
+* Terracota (Normal e todas as 16 cores)
+* Terracota Esmaltada (todas as 16 cores)
+* Concreto (todas as 16 cores)
+* Blocos de Coral (todos os 5 tipos)
+* Gelo (Normal, Compactado e Azul)
+* Blocos Diversos (Estante de Livros, Pedra Luminosa, Lanterna do Mar, Lâmpada de Redstone, Grades de Ferro, Pedra Lisa, Bloco de Fungo do Nether, Fogueira das Almas)
 {% endhint %}
 
