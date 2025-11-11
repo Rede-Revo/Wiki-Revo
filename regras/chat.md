@@ -92,7 +92,7 @@ Está regra também inclui anunciar a sua warp em um chat que não seja no `/anu
 
 
 
-<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Aviso</td></tr><tr><td align="center">2</td><td align="center">Silenciamento temporário de 12 horas</td></tr><tr><td align="center">3</td><td align="center">Silenciamento temporário de 3 dias</td></tr><tr><td align="center">4 em diante</td><td align="center">Aviso + Silenciamento temporário de 7 dias</td></tr></tbody></table>
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Silenciamento temporário de 2 horas</td></tr><tr><td align="center">2</td><td align="center">Silenciamento temporário de 12 horas</td></tr><tr><td align="center">3</td><td align="center">Silenciamento temporário de 3 dias</td></tr><tr><td align="center">4 em diante</td><td align="center">Aviso + Silenciamento temporário de 7 dias</td></tr></tbody></table>
 
 ## Regra 07 - **Desinformação** <a href="#id-02" id="id-02"></a>
 
