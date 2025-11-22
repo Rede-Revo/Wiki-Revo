@@ -88,6 +88,12 @@ Para que se tenha um chat mais limpo foi implementado um canal separado para env
 
 Está regra também inclui anunciar a sua warp em um chat que não seja no `/anunciar`.
 
+{% hint style="warning" %}
+A fim de evitar poluição de anúncios, fica limitado a **2 anúncios** do mesmo local, clã, objetivo etc por minuto.
+
+Exemplo: O mesmo clã só pode ser anunciado 2 vezes no período de um minuto, demais anúncios serão dados como infração.
+{% endhint %}
+
 ### Lista de Punições <a href="#lista-de-punicoes-5" id="lista-de-punicoes-5"></a>
 
 
