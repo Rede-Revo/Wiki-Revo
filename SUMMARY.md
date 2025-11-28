@@ -203,7 +203,7 @@
 * [🎮 Revo Pack](outros/revo-pack.md)
 * [👑 Equipe](outros/equipe.md)
 * [🎓 Faça Parte da Equipe](outros/faca-parte-da-equipe.md)
-* [✏️ Termos](outros/termos.md)
+* [✏️ Termos de Uso e Serviço da Rede Revo](outros/termos.md)
 
 ## Guia Moderador
 

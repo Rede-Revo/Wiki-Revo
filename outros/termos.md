@@ -4,66 +4,94 @@ cover: ../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
-# ✏️ Termos
+# ✏️ Termos de Uso e Serviço da Rede Revo
 
 {% hint style="warning" %}
-Ao adquirir qualquer serviço prestado por nós, deverá concordar com os nossos Termos de Uso e a nossa Política de Privacidade.
+**IMPORTANTE:** Ao registrar-se, acessar ou adquirir qualquer serviço/ativo na Rede Revo, você declara ter lido, compreendido e concordado integralmente com estes Termos de Uso e nossa Política de Privacidade.
 
-Fica reservado o nosso direito de alterar os Termos de Uso para assegurar a nossa segurança e de nossos clientes. Estes termos podem sofrer alterações sem aviso prévio.
+A Rede Revo reserva-se o direito de alterar estes termos a qualquer momento para adequação legal ou técnica, sendo responsabilidade do usuário a verificação periódica.
 {% endhint %}
 
-### **1. POLÍTICA DE PRIVACIDADE E SEGURANÇA**
+#### **1. DEFINIÇÕES E ACEITAÇÃO** <a href="#id-1-definicoes-e-aceitacao" id="id-1-definicoes-e-aceitacao"></a>
 
-**1.1.** A Rede Revo manterá todas as informações pessoais de seus usuário em sigilo total. Nunca distribuiremos ou venderemos informações existentes em nossos cadastros.
+**1.1.** A Rede Revo é um servidor privado do jogo Minecraft. Não possuímos vínculo, afiliação ou parceria com a **Mojang Studios**, **Microsoft** ou seus parceiros.
 
-**1.2.** Membros de nossa equipe de moderação jamais requisitarão acesso à sua conta ou à dados pessoais ([você pode verificar os membros de nossa equipe de moderação clicando aqui](https://wiki.rederevo.com/outros/equipe)).
+**1.2.** Ao jogar em nossos servidores, o usuário aceita que está sujeito a um ambiente de software em constante desenvolvimento, suscetível a falhas ("bugs") inerentes à natureza técnica de jogos online e softwares de terceiros.
 
-**1.3.** A conta de cada usuário em nossos servidores é de sua total responsabilidade. A Rede Revo se responsabiliza por um sistema de cadastro e login seguro com a possibilidade de recuperação de senha em caso de perda tendo a sua conta vinculada com o servidor ou através de seu IP. Em caso de perda de acesso, o usuário deve abrir um ticket em nosso [discord](https://discord.gg/rederevo) e seguir as instruções passadas por um membro de nossa equipe.
+#### **2. POLÍTICA DE PRIVACIDADE E SEGURANÇA DA CONTA** <a href="#id-2-politica-de-privacidade-e-seguranca-da-conta" id="id-2-politica-de-privacidade-e-seguranca-da-conta"></a>
 
-### **2. REGRAS DE USO E PUNIÇÕES**
+**2.1.** A Rede Revo compromete-se a manter em sigilo as informações pessoais de cadastro. Seus dados não serão vendidos ou distribuídos a terceiros, exceto quando exigido por lei.
 
-**2.1.** O usuário deve seguir todas as regras de nossa rede. Não seguir todas as regras citadas na [página de regras](../regras/) poderá fazer com que o usuário tenha seu acesso ao nossos servidores e domínios bloqueados independentemente de quaisquer produtos adquiridos, contudo, asseguramos a possibilidade de contestação de qualquer punição recebida através de revisões de punição em nosso [discord](https://discord.gg/rederevo) em um prazo de **7 dias** após o ocorrido.
+**2.2.** **Segurança da Conta:** A segurança da conta é de **responsabilidade exclusiva do usuário**.
 
-### **3. DOAÇÕES, PRIVILÉGIOS E REEMBOLSO**
+* A Rede Revo fornece ferramentas de proteção (login, senha, PIN).
+* Nossa equipe **JAMAIS** solicitará sua senha.
+* Não nos responsabilizamos por acessos indevidos causados por compartilhamento de senhas, uso de senhas fracas ou falhas de segurança no computador do usuário.
 
-**3.1.** Ao adquirir qualquer item do site, a ativação será feita automaticamente por nosso sistema. A entrega não será feita automaticamente caso haja algum problema com sua doação pela forma de pagamento escolhida e ou caso nosso sistema esteja passando por uma atualização.
+**2.3.** Todo o suporte e recuperação de contas será tratado **exclusivamente** via Ticket no Discord oficial. A administração ignora e não se responsabiliza por apelos feitos via chat global, mensagens privadas (DMs) não solicitadas ou outras redes sociais.
 
-**3.2.** Ao adquirir um item em nosso site, você está doando para o servidor. Em reconhecimento disso, o servidor agradece com uma jogabilidade diferenciada, assim fazendo com que nós permaneçamos online.&#x20;
+#### 3. REGRAS DE CONDUTA E SUSPENSÃO DE ACESSO
 
-**3.3.** Qualquer item adquirido em nossa loja faz parte de um modelo de doação. Posto isso, pedidos de reembolso apenas serão aceitos caso siga as regras abaixo:
+**3.1.** O acesso ao servidor é um privilégio, não um direito. O descumprimento das regras (disponíveis na [página de regras](../regras/)) acarretará na suspensão temporária ou permanente (banimento) do acesso aos nossos serviços.
 
-* Você tem até **7 dias** após a doação para realizar a solicitação.
-* Você não pode ter utilizado de nenhuma forma o produto para poder cancelar a sua doação. (Ao concordar com este termo, o doador confirma e concorda que o **Artigo 49**, do **Código de Defesa do Consumidor (CDC)**, não poderá ser aplicado em casos de utilização do produto adquirido).
-* O reembolso será na mesma moeda corrente usada na doação.
+**3.2.** O usuário banido perde, imediatamente e irrevogavelmente, a licença de uso de quaisquer vantagens, itens virtuais, terrenos ou saldos adquiridos, sem direito a qualquer tipo de reembolso ou indenização, visto que a rescisão do serviço se deu por culpa exclusiva do consumidor.
 
-**3.4.** Em casos de doadores que abrem disputas, nosso sistema aplicará ao player que fez a doação para nosso servidor uma consequência "in-game" (dentro do jogo).
+**3.3. Comércio Externo e Irregular (RMT):** É estritamente proibida a comercialização de contas, itens, "money" ou terrenos do servidor por dinheiro real ou vantagens externas fora da loja oficial da Rede Revo.
 
-**3.5.** Em explicação à cláusula acima, nosso sistema não fará distinção de sexo, cor ou qualquer outro tipo de preconceito e discriminação. A consequência aplicada faz-se necessária para que o servidor não passe por situações como:&#x20;
+* A detecção dessa prática resultará no banimento permanente de todos os envolvidos (comprador e vendedor).
 
-\- Ter que explicar uma doação feita para ajudar uma comunidade a se manter online.&#x20;
+**3.4. Destinação de Ativos de Contas Banidas:** Em casos de banimento permanente, especialmente por comércio irregular, uso de trapaças (hack) ou fraudes, a Rede Revo reserva-se o direito de realizar o **confisco e a reintegração dos ativos virtuais** (itens, terrenos, bases e saldo) da conta punida.
 
-\- Reorganizar as finanças ora destinadas a partes essenciais para o desenvolvimento, crescimento e melhorias na jogabilidade do servidor para outros players
+* A administração poderá, a seu exclusivo critério, destruir esses itens ou **leiloá-los publicamente dentro do jogo** para outros jogadores, visando o equilíbrio da economia do servidor e a retirada da moeda virtual de circulação.
+* O usuário infrator reconhece que não possui direito de propriedade sobre esses itens e concorda com sua expropriação em favor da comunidade do servidor.
 
-**3.6.** Nós não temos nenhuma ligação com a **Mojang**.
+**3.5.** As punições são passíveis de revisão dentro do prazo de 7 dias através de nosso Discord.
 
-**3.7.** Prazo estimado padrão de entrega de até **10 minutos**.
+#### 4. AQUISIÇÃO DE CRÉDITOS, VIPs E REEMBOLSOS
 
-### **4. PRIVILÉGIOS E** UTILIZAÇÃO DOS ITENS ADQUIRIDOS
+**4.1.** Os pagamentos realizados no site da Rede Revo têm a natureza jurídica de **Aquisição de Licença de Uso de Ativos Digitais**. Ao pagar, você não está comprando uma propriedade física ou uma participação na empresa, mas sim uma licença limitada, revogável e não transferível para utilizar itens/vantagens virtuais dentro do nosso servidor.
 
-**4.1.** A ativação do benefício que o servidor dará, será feita para a conta informada em nosso site. Não faremos a ativação na conta de outros players.
+4.2. O valor pago é revertido para a manutenção técnica, hospedagem, desenvolvimento da rede e desenvolvimento de softwares.
 
-**4.2.** O servidor não se responsabilizará por mal uso do benefício adquirido com a doação.
+**4.3. Política de Reembolso e Direito de Arrependimento:** Em conformidade com o Código de Defesa do Consumidor (CDC), o usuário poderá exercer o direito de arrependimento em até 7 (sete) dias após a compra, **DESDE QUE O PRODUTO DIGITAL NÃO TENHA SIDO UTILIZADO/CONSUMIDO**.
 
-**4.3.** Ser um doador não torna o player impune de sofrer consequências ao desrespeitar as regras do servidor. Se o jogador desrespeitar as regras do servidor, estará sujeito a punições como qualquer membro da comunidade.
+* **Produtos Consumíveis:** Itens que são gastos ou ativados imediatamente (ex: ativação de VIP, Keys de caixas, moedas virtuais gastas) caracterizam a fruição imediata do serviço. Ao utilizar o item, o usuário reconhece a execução do contrato, renunciando ao direito de arrependimento por já ter usufruído do benefício.
+* Disputas de pagamento (Chargeback) sem contato prévio com o suporte resultarão no bloqueio automático e permanente da conta e do IP do usuário na rede, devido aos custos administrativos gerados.
 
-### **5.** DESCONTINUAÇÃO
+#### 5. PROPRIEDADE VIRTUAL E LIMITAÇÃO DE RESPONSABILIDADE
 
-**5.1.** Você entende que o Serviço é fornecido pela Internet pela Empresa através do uso de servidores, redes e outras tecnologias. Não obstante qualquer disposição em contrário neste Contrato, a Rede Revo se reserva o direito de interromper permanentemente o Serviço a qualquer momento. Após tal descontinuação, sua Conta e este Contrato serão encerrados.
+**5.1. Natureza dos Itens:** Todos os itens, terrenos, construções, "money" (moeda do jogo) e estatísticas são dados virtuais e propriedade intelectual da Rede Revo. O usuário possui apenas a permissão precária de uso destes dados enquanto sua conta estiver regular e o servidor ativo.
 
-### **6. RESPEITO AOS TERMOS DE SERVIÇO**
+**5.2. Perda de Itens e Falhas Técnicas:** A Rede Revo utiliza diversos "plugins" (softwares) desenvolvidos por terceiros para o funcionamento de sistemas como terrenos, proteção de baús, clãs e economia. **A Rede Revo NÃO se responsabiliza e NÃO realizará devolução de itens, construções ou moedas virtuais nos seguintes casos:**
 
-**6.1.** Nos reservamos ao direito de realizar o bloqueio do acesso de qualquer usuário em caso de descumprimento dos termos e regras definidos nessa página.
+* **A.** Falhas, "bugs" ou corrupção de dados em plugins de terceiros (ex: plugin de proteção de terreno falhar, plugin de máquinas corromper). Isso é considerado caso fortuito técnico, alheio à vontade da administração.
+* **B.** "Wipes" (reinícios) necessários por atualizações do Minecraft ou mudanças críticas na economia do servidor (com aviso prévio sempre que possível).
+* **C.** Roubos, furtos ou fraudes ("scams") realizados por outros jogadores. A interação e confiança entre jogadores é de responsabilidade dos mesmos.
+* **D.** Perda de itens devido a morte do personagem, "lag", queda de conexão do usuário ou mecânica normal do jogo.
 
-> Agradecemos sua atenção, respeito e compreensão!
->
-> Atenciosamente, **Equipe Rede Revo**
+**5.3.** Ao concordar com estes termos, o usuário isenta a Rede Revo de responsabilidade civil por danos morais ou materiais decorrentes da perda de progressão no jogo causada pelas situações descritas acima.
+
+#### 6. DISPONIBILIDADE DO SERVIÇO (SLA)
+
+**6.1.** A Rede Revo empenha-se para manter o servidor online 24 horas por dia. Contudo, interrupções podem ocorrer para manutenções emergenciais, atualizações ou falhas na empresa de hospedagem (Data Center).
+
+**6.2.** Reservamo-nos o direito de descontinuar o serviço a qualquer momento, mediante aviso nos canais oficiais.
+
+#### 7. CANAIS OFICIAIS DE COMUNICAÇÃO E SUPORTE
+
+**7.1.** Para segurança de todos os usuários, a Rede Revo reconhece **apenas** os seguintes meios como oficiais para suporte, anúncios e contato da administração:
+
+* **Servidor In-Game:** Mensagens via chat global e avisos do sistema (Broadcast).
+* **Discord Oficial:** [https://discord.gg/rederevo](https://discord.gg/rederevo) (Sistema de Tickets e canais de avisos).
+
+**7.2.** A Rede Revo **NÃO** oferece suporte e **NÃO** realiza vendas ou tratativas administrativas via **WhatsApp, Instagram, Facebook, Telegram, Twitter (X)** ou mensagens privadas (DM) de Discord que não sejam através do sistema de Tickets.
+
+**7.3.** A Rede Revo não se responsabiliza por quaisquer danos, prejuízos ou fraudes decorrentes de interações em canais não oficiais listados acima. Qualquer oferta de vantagem ou item feita fora dos canais oficiais deve ser considerada tentativa de golpe.
+
+{% hint style="info" %}
+Agradecemos por fazer parte da nossa comunidade.
+
+
+
+Atenciosamente, Equipe Jurídica e Administrativa Rede Revo
+{% endhint %}
