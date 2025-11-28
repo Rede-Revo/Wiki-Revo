@@ -22,7 +22,7 @@ A Rede Revo reserva-se o direito de alterar estes termos a qualquer momento para
 
 **2.1.** A Rede Revo compromete-se a manter em sigilo as informações pessoais de cadastro. Seus dados não serão vendidos ou distribuídos a terceiros, exceto quando exigido por lei.
 
-**2.2.** **Segurança da Conta:** A segurança da conta é de **responsabilidade exclusiva do usuário**.
+**2.2.** A segurança da conta é de **responsabilidade exclusiva do usuário**.
 
 * A Rede Revo fornece ferramentas de proteção (login, senha, PIN).
 * Nossa equipe **JAMAIS** solicitará sua senha.
@@ -36,7 +36,7 @@ A Rede Revo reserva-se o direito de alterar estes termos a qualquer momento para
 
 **3.2.** O usuário banido perde, imediatamente e irrevogavelmente, a licença de uso de quaisquer vantagens, itens virtuais, terrenos ou saldos adquiridos, sem direito a qualquer tipo de reembolso ou indenização, visto que a rescisão do serviço se deu por culpa exclusiva do consumidor.
 
-**3.3. Comércio Externo e Irregular (RMT):** É estritamente proibida a comercialização de contas, itens, "money" ou terrenos do servidor por dinheiro real ou vantagens externas fora da loja oficial da Rede Revo.
+**3.3. Comércio Externo e Irregular (RMT) é** estritamente proibida a comercialização de contas, itens, "money" ou terrenos do servidor por dinheiro real ou vantagens externas fora da loja oficial da Rede Revo.
 
 * A detecção dessa prática resultará no banimento permanente de todos os envolvidos (comprador e vendedor).
 
@@ -51,7 +51,7 @@ A Rede Revo reserva-se o direito de alterar estes termos a qualquer momento para
 
 **4.1.** Os pagamentos realizados no site da Rede Revo têm a natureza jurídica de **Aquisição de Licença de Uso de Ativos Digitais**. Ao pagar, você não está comprando uma propriedade física ou uma participação na empresa, mas sim uma licença limitada, revogável e não transferível para utilizar itens/vantagens virtuais dentro do nosso servidor.
 
-4.2. O valor pago é revertido para a manutenção técnica, hospedagem, desenvolvimento da rede e desenvolvimento de softwares.
+**4.2.** Os valores arrecadados são integralmente destinados ao custeio operacional e à expansão tecnológica da Rede Revo. Isso abrange despesas com infraestrutura de servidores (Data Center), serviços de mitigação de ataques (DDoS), desenvolvimento de software proprietário, aquisição de licenças de novos sistemas e plugins, bem como outros investimentos adjacentes necessários para a inovação e continuidade do projeto.
 
 **4.3. Política de Reembolso e Direito de Arrependimento:** Em conformidade com o Código de Defesa do Consumidor (CDC), o usuário poderá exercer o direito de arrependimento em até 7 (sete) dias após a compra, **DESDE QUE O PRODUTO DIGITAL NÃO TENHA SIDO UTILIZADO/CONSUMIDO**.
 
@@ -87,6 +87,24 @@ A Rede Revo reserva-se o direito de alterar estes termos a qualquer momento para
 **7.2.** A Rede Revo **NÃO** oferece suporte e **NÃO** realiza vendas ou tratativas administrativas via **WhatsApp, Instagram, Facebook, Telegram, Twitter (X)** ou mensagens privadas (DM) de Discord que não sejam através do sistema de Tickets.
 
 **7.3.** A Rede Revo não se responsabiliza por quaisquer danos, prejuízos ou fraudes decorrentes de interações em canais não oficiais listados acima. Qualquer oferta de vantagem ou item feita fora dos canais oficiais deve ser considerada tentativa de golpe.
+
+#### 8. MENORES DE IDADE E RESPONSABILIDADE PARENTAL
+
+**8.1.** O acesso e a aquisição de itens na Rede Revo por usuários menores de 18 anos devem ser realizados com a supervisão e autorização expressa de seus pais ou responsáveis legais.
+
+**8.2.** Ao realizar qualquer doação ou aquisição em nossa loja, o usuário declara ser maior de idade ou estar devidamente autorizado por seus responsáveis. A Rede Revo não se responsabiliza por compras realizadas por menores sem o consentimento dos pais, não cabendo reembolso nesses casos por se tratar de negligência na guarda das credenciais de pagamento por parte do responsável.
+
+#### 9. DIREITOS DE IMAGEM E CONTEÚDO GERADO PELO USUÁRIO (UGC)
+
+**9.1.** O usuário concorda que quaisquer construções, mapas, estruturas ou criações feitas dentro dos servidores da Rede Revo tornam-se parte integrante do mundo virtual do servidor.
+
+**9.2.** O usuário concede à Rede Revo uma licença irrevogável, perpétua e gratuita para utilizar imagens, vídeos ou capturas de tela contendo seu personagem ("skin"), "nickname" e construções para fins de divulgação, marketing e publicidade da rede em qualquer mídia (YouTube, Instagram, TikTok, etc.), sem direito a qualquer remuneração.
+
+#### 10. LEGISLAÇÃO E FORO
+
+**10.1.** Estes Termos são regidos pelas leis da República Federativa do Brasil.
+
+**10.2.** Fica eleito o Foro da Comarca de Peruíbe/São Paulo para dirimir quaisquer dúvidas ou conflitos oriundos destes termos, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
 
 {% hint style="info" %}
 Agradecemos por fazer parte da nossa comunidade.
