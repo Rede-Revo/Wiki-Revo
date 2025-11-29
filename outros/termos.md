@@ -100,11 +100,26 @@ A Rede Revo reserva-se o direito de alterar estes termos a qualquer momento para
 
 **9.2.** O usuário concede à Rede Revo uma licença irrevogável, perpétua e gratuita para utilizar imagens, vídeos ou capturas de tela contendo seu personagem ("skin"), "nickname" e construções para fins de divulgação, marketing e publicidade da rede em qualquer mídia (YouTube, Instagram, TikTok, etc.), sem direito a qualquer remuneração.
 
-#### 10. LEGISLAÇÃO E FORO
+#### 10. VERIFICAÇÃO DE INTEGRIDADE E INSPEÇÃO DE TELA
 
-**10.1.** Estes Termos são regidos pelas leis da República Federativa do Brasil.
+**10.1. Procedimento de Segurança:** Visando garantir o "Fair Play" (Jogo Limpo) e a integridade competitiva da comunidade, a equipe administrativa reserva-se o direito de solicitar uma verificação de tela a qualquer usuário suspeito de utilizar softwares ilícitos (Cheats, Hacks, Clientes modificados, Ghost Clients, etc.).
 
-**10.2.** Fica eleito o Foro da Comarca de Peruíbe/São Paulo para dirimir quaisquer dúvidas ou conflitos oriundos destes termos, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
+**10.2.** Limites e Privacidade: A inspeção será realizada através de compartilhamento de tela em ferramenta de comunicação oficial (Discord/AnyDesk) e limitar-se-á estritamente a:
+
+* Histórico de versões e arquivos do jogo (Minecraft);
+* Pastas de downloads recentes, lixeira e pastas de "mods";
+* Softwares em execução no momento;
+* Ferramentas de detecção de injeção de código (ex: Process Hacker, Everything, Ocean). A equipe compromete-se a NÃO acessar, ler ou copiar arquivos pessoais, fotos, documentos bancários ou e-mails do usuário
+
+**10.3. Recusa e Consequências:** O usuário tem o direito de recusar a inspeção. No entanto, a recusa, a desconexão do servidor durante o pedido ("sair do jogo"), ou a falta de cooperação técnica, serão interpretadas como obstrução da justiça administrativa do servidor, resultando em banimento automático e permanente.
+
+**10.4.** O usuário banido por recusa à telagem poderá solicitar revisão de punição (appeal) conforme a **cláusula 3.5**, mas a reversão dependerá de contraprovas técnicas fornecidas pelo usuário.
+
+#### 11. LEGISLAÇÃO E FORO
+
+**11.1.** Estes Termos são regidos pelas leis da República Federativa do Brasil.
+
+**11.2.** Fica eleito o Foro da Comarca de Peruíbe/São Paulo para dirimir quaisquer dúvidas ou conflitos oriundos destes termos, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
 
 {% hint style="info" %}
 Agradecemos por fazer parte da nossa comunidade.
