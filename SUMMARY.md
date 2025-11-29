@@ -17,7 +17,6 @@
 * [🪙 Cash](sistemas/cash/README.md)
   * [💎 VIPs](sistemas/cash/vips.md)
   * [🌻 Divindade](sistemas/cash/divino-a.md)
-  * [🎂 Desconto de Aniversario](global/cash/desconto-de-aniversario.md)
   * [💰 Adquirir Cash](https://rederevo.com/category/cash)
 * [🔑 Votos](sistemas/votos.md)
 * [🛡️ Guardião](global/guardiao.md)

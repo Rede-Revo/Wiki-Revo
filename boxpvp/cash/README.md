@@ -55,6 +55,6 @@ Se o prazo de entrega tiver passado, entre em contato conosco através do nosso 
 [chaves.md](../../survival/cash/chaves.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/x7gPpm8sOOncaNk9o2Hj" %}
+[Broken link](/broken/pages/x7gPpm8sOOncaNk9o2Hj)
 {% endcontent-ref %}

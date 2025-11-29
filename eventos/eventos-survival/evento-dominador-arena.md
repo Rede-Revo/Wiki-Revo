@@ -37,5 +37,5 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### 🥇 **Dominador**
 
 * 💰 Premiação de **150.000 Coins**
-* <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Dominador(a)]** durante 3 dias
+* <img src="../../.gitbook/assets/image (14) (1) (2) (1).png" alt="" data-size="line"> TAG **\[Dominador(a)]** durante 3 dias
 * 💎 **\[Liga]** 25 Pontos

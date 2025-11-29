@@ -64,4 +64,4 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
-* <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG [**\[Mito\]**](../../survival/mito.md)
+* <img src="../../.gitbook/assets/image (14) (1) (2) (1).png" alt="" data-size="line"> TAG [**\[Mito\]**](../../survival/mito.md)

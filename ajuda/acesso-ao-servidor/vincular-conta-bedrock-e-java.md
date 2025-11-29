@@ -47,8 +47,7 @@ Pronto! Conta vinculada com sucesso! Agora ao entrar na conta Bedrock o servidor
 
 **Como Desvincular**[**​**](https://wiki.armamc.com/#como-desvincular)
 
-1. Envie `/unlinkaccount` usando a conta na versão Java ou Bedrock Edition.\
-
+1. Envie `/unlinkaccount` usando a conta na versão Java ou Bedrock Edition.<br>
 
 **Outras informações**[**​**](https://wiki.armamc.com/#outras-informa%C3%A7%C3%B5es)
 

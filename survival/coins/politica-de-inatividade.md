@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 📴 Política de Inatividade
 
 Para manter a economia do servidor saudável e incentivar a participação ativa dos jogadores, implementamos as seguintes penalidades para inatividade:

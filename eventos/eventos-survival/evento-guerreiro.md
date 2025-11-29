@@ -40,7 +40,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### 🥇 **1° Lugar**
 
 * 💰 Premiação de **100.000 Coins**
-* <img src="../../.gitbook/assets/image (14) (1) (2).png" alt="" data-size="line"> TAG **\[Guerreiro(a)]** durante 7 dias
+* <img src="../../.gitbook/assets/image (14) (1) (2) (1).png" alt="" data-size="line"> TAG **\[Guerreiro(a)]** durante 7 dias
 * �&#xDC8E;**\[Liga]** 50 Pontos
 * ⚔️ **Espada do(a) Guerreiro(a)**
 

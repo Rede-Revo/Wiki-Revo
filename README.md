@@ -22,8 +22,8 @@ Aqui você aprenderá tudo que precisa sobre o vosso servidor, desde os sistemas
 
 ## Principais sistemas do servidor:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/kJOoK2qG23EwOGsU3QfB" %}
+[Broken link](/broken/pages/kJOoK2qG23EwOGsU3QfB)
 {% endcontent-ref %}
 
 ## Entrar em contato com a equipe:

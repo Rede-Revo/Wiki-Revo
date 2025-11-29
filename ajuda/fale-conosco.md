@@ -18,4 +18,4 @@ Caso seja necessário discutir assuntos relacionados à informações privadas d
 
 ## Prazo de atendimento
 
-A nossa equipe de suporte responderá sua mensagem em até **3 dias úteis**, não importando a plataforma que você escolheu para entrar em contato.\
+A nossa equipe de suporte responderá sua mensagem em até **3 dias úteis**, não importando a plataforma que você escolheu para entrar em contato.<br>

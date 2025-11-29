@@ -54,14 +54,12 @@ Em bugs de duplicação a punição aplicada é permanentemente e o jogador ter�
 
 _Reportar erros são uma forma de apoio direto ao servidor, os mesmos devem ser reportados assim que descobertos, usufruir do erro pode ser considerado Abuso de Bug e enquadrado na Regra 9._
 
-* Reportar erros em que a staff já tenha ciência da existência serão reconhecidos porém não serão considerados no sistema de recompensas.\
-
+* Reportar erros em que a staff já tenha ciência da existência serão reconhecidos porém não serão considerados no sistema de recompensas.<br>
 
 **Reportador de erros nível 1:**
 
 * Item exclusivo com o nome HEX "\[Bug Hunter]"; Descrição: "Caçador de erros nível 1 da Rede Revo!" e personalização com o nick do dono do item.
-* Nível de erro: Afeta jogabilidade pessoal.\
-
+* Nível de erro: Afeta jogabilidade pessoal.<br>
 
 **Reportador de erros nível 2:**&#x20;
 
@@ -177,7 +175,7 @@ Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relac
 * Criar uma proteção a menos de **50 blocos** de outro jogador atrapalhando o mesmo de expandir, além do banimento está sujeito a remoção:
   * A partir de **10 dias** de existência do terreno, o mesmo não poderá ser solicitada a remoção (Exceção para terrenos vazios).
   * Caso seu terreno possua mais de **50.000 blocos**, não poderá solicitar remoções.
-* Criar proteções ao redor de terrenos abandonados que estão próximos a [reivindicação](broken-reference).
+* Criar proteções ao redor de terrenos abandonados que estão próximos a [reivindicação](/broken/pages/aSD2mXHe2EubuFcro4Fs).
 * Editar itens seja seu nome, lore ou encantamento com intuito de confundir jogadores (Renomear um gancho de armadilha com nome de chave misteriosa por exemplo). Inclui a edição de itens que induza algo mas na verdade não é aquilo, caracterizando um item falso, por exemplo: colocar apenas uma parte da shulker com 64 de um determinado item e o resto colocar apenas um item por slot da capacidade da shulker, enganando o jogador.
 * Mandar TPA para algum jogador com finalidade exclusiva de o prejudicar e se apossar de seus itens;
 * Perseguir jogadores por meio da jogabilidade, com meio exclusivo de o prejudicar (ficar em volta de proteções esperando o jogador sair da mesma com finalidade exclusiva de o perturbar/matar, por exemplo). Casos de perseguição o jogador denunciado será previamente avisado, posteriormente ao aviso, se persistir, será punido.
@@ -238,7 +236,7 @@ Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-
 
 Regra 19 -  **Uso irregular da tag "Mito"**
 
-Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só pode ser adquirida apenas em algumas situações. Comercializar ou arquivar em conta secundária esta TAG resultará em punição. Saiba mais sobre a TAG: [Clique aqui!](broken-reference)
+Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só pode ser adquirida apenas em algumas situações. Comercializar ou arquivar em conta secundária esta TAG resultará em punição. Saiba mais sobre a TAG: [Clique aqui!](/broken/pages/krShtBA5J6oFJhyadKmn)
 
 | Incidência | Vendedor |    Comprador   |
 | :--------: | :------: | :------------: |
