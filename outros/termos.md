@@ -36,7 +36,7 @@ A Rede Revo reserva-se o direito de alterar estes termos a qualquer momento para
 
 **3.2.** O usuário banido perde, imediatamente e irrevogavelmente, a licença de uso de quaisquer vantagens, itens virtuais, terrenos ou saldos adquiridos, sem direito a qualquer tipo de reembolso ou indenização, visto que a rescisão do serviço se deu por culpa exclusiva do consumidor.
 
-**3.3. Comércio Externo e Irregular (RMT) é** estritamente proibida a comercialização de contas, itens, "money" ou terrenos do servidor por dinheiro real ou vantagens externas fora da loja oficial da Rede Revo.
+**3.3. Comércio Externo e Irregular (RMT):** É estritamente proibida a comercialização de contas, itens, "money" ou terrenos do servidor por dinheiro real ou vantagens externas fora da loja oficial da Rede Revo.
 
 * A detecção dessa prática resultará no banimento permanente de todos os envolvidos (comprador e vendedor).
 
@@ -55,7 +55,7 @@ A Rede Revo reserva-se o direito de alterar estes termos a qualquer momento para
 
 **4.3. Política de Reembolso e Direito de Arrependimento:** Em conformidade com o Código de Defesa do Consumidor (CDC), o usuário poderá exercer o direito de arrependimento em até 7 (sete) dias após a compra, **DESDE QUE O PRODUTO DIGITAL NÃO TENHA SIDO UTILIZADO/CONSUMIDO**.
 
-* **Produtos Consumíveis:** Itens que são gastos ou ativados imediatamente (ex: ativação de VIP, Keys de caixas, moedas virtuais gastas) caracterizam a fruição imediata do serviço. Ao utilizar o item, o usuário reconhece a execução do contrato, renunciando ao direito de arrependimento por já ter usufruído do benefício.
+* Itens que são gastos ou ativados imediatamente (ex: ativação de VIP, Keys de caixas, moedas virtuais gastas) caracterizam a fruição imediata do serviço. Ao utilizar o item, o usuário reconhece a execução do contrato, renunciando ao direito de arrependimento por já ter usufruído do benefício.
 * Disputas de pagamento (Chargeback) sem contato prévio com o suporte resultarão no bloqueio automático e permanente da conta e do IP do usuário na rede, devido aos custos administrativos gerados.
 
 #### 5. PROPRIEDADE VIRTUAL E LIMITAÇÃO DE RESPONSABILIDADE
