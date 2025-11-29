@@ -120,9 +120,9 @@ A Rede Revo reserva-se o direito de alterar estes termos a qualquer momento para
 * Alterou o arquivo "Hosts" para bloquear a comunicação de ferramentas de verificação;
 * Utiliza softwares ou scripts que impeçam o funcionamento correto dos aplicativos de auditoria listados na **cláusula 10.2**.
 
-**10.4. Recusa e Consequências:** O usuário tem o direito de recusar a inspeção. No entanto, a recusa, a desconexão do servidor durante o pedido ("sair do jogo"), ou a falta de cooperação técnica, serão interpretadas como obstrução da justiça administrativa do servidor, resultando em banimento automático e permanente.
+**10.5. Recusa e Consequências:** O usuário tem o direito de recusar a inspeção. No entanto, a recusa, a desconexão do servidor durante o pedido ("sair do jogo"), ou a falta de cooperação técnica, serão interpretadas como obstrução da justiça administrativa do servidor, resultando em banimento automático e permanente.
 
-**10.5.** O usuário banido por recusa à telagem poderá solicitar revisão de punição (appeal) conforme a **cláusula 3.5**, mas a reversão dependerá de contraprovas técnicas fornecidas pelo usuário.
+**10.6.** O usuário banido por recusa à telagem poderá solicitar revisão de punição (appeal) conforme a **cláusula 3.5**, mas a reversão dependerá de contraprovas técnicas fornecidas pelo usuário.
 
 #### 11. LEGISLAÇÃO E FORO
 
@@ -132,7 +132,7 @@ A Rede Revo reserva-se o direito de alterar estes termos a qualquer momento para
 
 #### 12. DISPOSIÇÕES GERAIS
 
-12.1. A tolerância do servidor com o descumprimento de qualquer cláusula destes termos não implicará em novação ou renúncia aos direitos aqui estabelecidos.
+**12.1.** A tolerância do servidor com o descumprimento de qualquer cláusula destes termos não implicará em novação ou renúncia aos direitos aqui estabelecidos.
 
 {% hint style="info" %}
 Agradecemos por fazer parte da nossa comunidade.
