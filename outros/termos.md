@@ -104,22 +104,35 @@ A Rede Revo reserva-se o direito de alterar estes termos a qualquer momento para
 
 **10.1. Procedimento de Segurança:** Visando garantir o "Fair Play" (Jogo Limpo) e a integridade competitiva da comunidade, a equipe administrativa reserva-se o direito de solicitar uma verificação de tela a qualquer usuário suspeito de utilizar softwares ilícitos (Cheats, Hacks, Clientes modificados, Ghost Clients, etc.).
 
-**10.2.** Limites e Privacidade: A inspeção será realizada através de compartilhamento de tela em ferramenta de comunicação oficial (Discord/AnyDesk) e limitar-se-á estritamente a:
+**10.2. Escopo da Inspeção e Ferramentas:** A inspeção será realizada através de compartilhamento de tela (via Discord/AnyDesk) e abrangerá a verificação de diretórios e processos do sistema operacional do usuário, incluindo, mas não se limitando a:
 
-* Histórico de versões e arquivos do jogo (Minecraft);
-* Pastas de downloads recentes, lixeira e pastas de "mods";
-* Softwares em execução no momento;
-* Ferramentas de detecção de injeção de código (ex: Process Hacker, Everything, Ocean). A equipe compromete-se a NÃO acessar, ler ou copiar arquivos pessoais, fotos, documentos bancários ou e-mails do usuário
+* **Escopo da Busca:** Pasta de instalação do Minecraft e subpastas (versões, mods, resource packs), pasta de Downloads, Lixeira, arquivos Recentes, softwares em execução no momento (Processos) e busca por ferramentas injetáveis.
+* **Ferramentas de Análise:** A equipe poderá utilizar softwares de auditoria forense digital como: _WinPrefetchView, BrowserDownloadsView, RecentFilesView, ShellBagsView, ExecutedProgramsList, AlternateStreamView, JournalTrace, LastActivityView, PcaSvcExecuted, PrefetchParser_. **A equipe compromete-se a NÃO acessar arquivos pessoais (fotos, documentos, e-mails) não relacionados ao jogo**.
 
-**10.3. Recusa e Consequências:** O usuário tem o direito de recusar a inspeção. No entanto, a recusa, a desconexão do servidor durante o pedido ("sair do jogo"), ou a falta de cooperação técnica, serão interpretadas como obstrução da justiça administrativa do servidor, resultando em banimento automático e permanente.
+**10.3. Gravação e Privacidade da Equipe:**
 
-**10.4.** O usuário banido por recusa à telagem poderá solicitar revisão de punição (appeal) conforme a **cláusula 3.5**, mas a reversão dependerá de contraprovas técnicas fornecidas pelo usuário.
+* **Gravação pela Equipe:** O procedimento será integralmente gravado pelo membro da equipe administrativa para fins de prova material e auditoria da punição.
+* **Proibição de Gravação pelo Usuário:** É estritamente proibido ao usuário gravar, transmitir ("streamar") ou divulgar o procedimento de telagem, visando proteger a identidade, a segurança e a privacidade do moderador, evitando assédio e exposição indevida (_doxxing_). A violação desta regra resultará em banimento imediato.
+
+**10.4. Obstrução Técnica e Sistema Operacional:** Será considerado confissão de culpa e resultará em banimento automático se for constatado que o usuário:
+
+* Desativou, modificou ou adulterou serviços essenciais do Windows;
+* Alterou o arquivo "Hosts" para bloquear a comunicação de ferramentas de verificação;
+* Utiliza softwares ou scripts que impeçam o funcionamento correto dos aplicativos de auditoria listados na **cláusula 10.2**.
+
+**10.4. Recusa e Consequências:** O usuário tem o direito de recusar a inspeção. No entanto, a recusa, a desconexão do servidor durante o pedido ("sair do jogo"), ou a falta de cooperação técnica, serão interpretadas como obstrução da justiça administrativa do servidor, resultando em banimento automático e permanente.
+
+**10.5.** O usuário banido por recusa à telagem poderá solicitar revisão de punição (appeal) conforme a **cláusula 3.5**, mas a reversão dependerá de contraprovas técnicas fornecidas pelo usuário.
 
 #### 11. LEGISLAÇÃO E FORO
 
 **11.1.** Estes Termos são regidos pelas leis da República Federativa do Brasil.
 
 **11.2.** Fica eleito o Foro da Comarca de Peruíbe/São Paulo para dirimir quaisquer dúvidas ou conflitos oriundos destes termos, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
+
+#### 12. DISPOSIÇÕES GERAIS
+
+12.1. A tolerância do servidor com o descumprimento de qualquer cláusula destes termos não implicará em novação ou renúncia aos direitos aqui estabelecidos.
 
 {% hint style="info" %}
 Agradecemos por fazer parte da nossa comunidade.
