@@ -90,6 +90,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 * <img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> <mark style="color:red;">**AndreLasOliveira**</mark>**&#x20;(data de entrada: 27/06/2025)**
 * <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> <mark style="color:red;">**Andre12768**</mark>**&#x20;(data de entrada 03/07/2025)**
 * <img src="../.gitbook/assets/image (12).png" alt="" data-size="line"> <mark style="color:red;">**uGuiKz**</mark>**&#x20;(data de entrada: 12/11/2025)**
+* <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> <mark style="color:red;">**milkmuu**</mark>**&#x20;(data de entrada: 23/12/2025)**
 
 
 
@@ -106,7 +107,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
-* <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> <mark style="color:green;">**milkmuu**</mark>**&#x20;(data de entrada: 09/07/2025)**
+* <img src="../.gitbook/assets/image (112).png" alt="" data-size="line"> <mark style="color:green;">**nicktryky**</mark>**&#x20;(data de entrada: 06/12/2025)**
 
 ## <img src="../.gitbook/assets/image (9) (1) (2) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
