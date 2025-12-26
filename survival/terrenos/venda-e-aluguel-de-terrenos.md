@@ -12,7 +12,7 @@ Dentro do terreno de um terreno protegido de sua posse digite **/terreno vender 
 
 ## Comprar
 
-Visualize os terrenos a venda em **/imoboliaria**.
+Visualize os terrenos a venda em **/imobiliaria**.
 
 ## Proteções
 
