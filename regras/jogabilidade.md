@@ -174,6 +174,7 @@ Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relac
 * Inventar histórias ou induzir jogadores a enviar pedidos de teletransporte e matá-los em seguida (fake chat);
 * Criar uma proteção a menos de **50 blocos** de outro jogador atrapalhando o mesmo de expandir, além do banimento está sujeito a remoção:
   * A partir de **10 dias** de existência do terreno, o mesmo não poderá ser solicitada a remoção (Exceção para terrenos vazios).
+  * **Terrenos reinvidicados** mantêm a data de criação original para fins de contagem dos 10 dias, impedindo abuso desta regra contra reinvidicações legítimas.
   * Caso seu terreno possua mais de **50.000 blocos**, não poderá solicitar remoções.
 * Criar proteções ao redor de terrenos abandonados que estão próximos a [reivindicação](/broken/pages/aSD2mXHe2EubuFcro4Fs).
 * Editar itens seja seu nome, lore ou encantamento com intuito de confundir jogadores (Renomear um gancho de armadilha com nome de chave misteriosa por exemplo). Inclui a edição de itens que induza algo mas na verdade não é aquilo, caracterizando um item falso, por exemplo: colocar apenas uma parte da shulker com 64 de um determinado item e o resto colocar apenas um item por slot da capacidade da shulker, enganando o jogador.
