@@ -14,9 +14,8 @@ coverY: 0
 
     Com fogo amigo entre os membros do clã desativado, os clãs lutarão entre si.
 * Itens próprios dos jogadores;\
-  Poderá ser levado todos os itens, totem da imortalidade, poções, maça encantada e etc...
-* Não perde os itens ao morrer;\
-  Itens quebrados durante a batalha não serão recuperados.
+  Poderá ser levado todos os itens, totem da imortalidade, poções, maçã encantada e etc...
+* O evento é Drop On, ou seja, se morrer, você perderá os itens que levou para o evento.
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.
 * Borda que reduz no decorrer da batalha;\
@@ -50,7 +49,7 @@ Com o intuito de evitar que o servidor se polarize em clãs, o limite máximo é
 
 Qualquer suspeita de utilização de trapaça durante o combate, a equipe poderá solicitar compartilhamento de tela do jogador através do [programa Any Desk que pode ser baixado aqui.](https://anydesk.com/pt/downloads) Além de violar a [Regra 18](https://wiki.rederevo.com/regras/jogabilidade#01-7) do servidor, saiba todas as regras em [**Regras**](../../regras/).
 
-#### **4. (Provisório) Utilização do item colecionável "Botas de Coelho"**
+#### **4. Utilização do item colecionável "Botas de Coelho"**
 
 Por questões de balanceamento, fica proibida a entrada com o item colecionável **Botas de Coelho**, jogadores que utilizando o mesmo durante o evento estão sujeitos a exclusão permanente do item.
 

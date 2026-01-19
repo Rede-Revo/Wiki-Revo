@@ -28,10 +28,6 @@ description: Eventos que ocorrem uma vez na semana.
 [evento-gladiador.md](../../../eventos/eventos-survival/evento-gladiador.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../eventos/eventos-survival/guerra-de-clas.md" %}
-[guerra-de-clas.md](../../../eventos/eventos-survival/guerra-de-clas.md)
-{% endcontent-ref %}
-
 {% content-ref url="../../../eventos/eventos-survival/evento-guerreiro.md" %}
 [evento-guerreiro.md](../../../eventos/eventos-survival/evento-guerreiro.md)
 {% endcontent-ref %}
