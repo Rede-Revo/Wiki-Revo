@@ -189,29 +189,13 @@ Lista de blocos que contabilizam no torneio de pedreiro no fim da página.
 {% hint style="info" %}
 
 
-
-
-* Madeiras (todas as variações de Troncos, Folhas e Escadas das 6 árvores normais)
-* Madeiras de Mangue (Tábuas e Escadas)
-* Madeiras do Nether (variações Carmesim e Distorcidas, incluindo Hifas)
-* Pedras (Granito, Diorito, Andesito e suas variações polidas)
-* Arenito (variações Lisas, Cinzeladas e Escadas)
-* Tijolos de Pedra (Normal, Cinzelado e Escadas)
-* Pedra Negra (todas as variações, incluindo Polida, Cinzelada e Tijolos)
-* Tijolos do Nether (Normal, Cinzelado, Vermelho, Escadas e Cerca)
-* Basalto (Normal e Polido)
-* Obsidiana (Normal e Chorosa)
-* Blocos do End (Pedra do End, Tijolos de Pedra do End e variações de Purpur: Bloco, Pilar e Escadas)
-* Quartzo (Bloco, Pilar, Cinzelado e Liso)
-* Prismarinho (todas as variações de Bloco, Tijolo, Escuro e Escadas)
-* Tijolos (Normal e Escadas)
-* Vidro (Normal, Painel, e todas as 16 cores Tingidas de Bloco e Painel)
-* Lã (todas as 16 cores)
-* Terracota (Normal e todas as 16 cores)
-* Terracota Esmaltada (todas as 16 cores)
-* Concreto (todas as 16 cores)
-* Blocos de Coral (todos os 5 tipos)
-* Gelo (Normal, Compactado e Azul)
-* Blocos Diversos (Estante de Livros, Pedra Luminosa, Lanterna do Mar, Lâmpada de Redstone, Grades de Ferro, Pedra Lisa, Bloco de Fungo do Nether, Fogueira das Almas)
+* Madeiras (Troncos, Folhas e Escadas): Carvalho, Pinheiro, Eucalipto, Selva, Acácia e Carvalho Escuro.
+* Madeiras Específicas: Tábuas, Escadas e Lajes de Mangue, Cerejeira e Bambu. Troncos de Cerejeira e Blocos/Mosaicos de Bambu também contam.
+* Nether: Tábuas, Caules, Hifas e Escadas Carmesim e Distorcidas. Tijolos do Nether (Normal, Cinzelado, Vermelho, Escada e Cerca), Pedra Negra (Normal, Polida, Cinzelado, Tijolos e Escadas), Basalto (Normal e Polido) e Cogumeluz.
+* Pedras e Rochas: Pedra, Pedregulho, Granito, Diorito, Andesito (e versões polidas). Toda a linha de Abissal/Deepslate (Pedregulho, Polido, Cinzelado, Azulejos e Tijolos, incluindo muros), Tufo e Calcita.
+* Construção e Decoração: Tijolos de Argila, Tijolos de Pedra (Normal e Cinzelado), Quartzo (Normal, Liso, Pilar, Cinzelado, Tijolos e Laje), Prismarinho (Normal, Tijolos, Escuro e variantes de laje/escada), Purpur (Bloco, Pilar, Laje e Escada) e Pedra do End (Normal e Tijolos).
+* Vidros e Lãs: Lã (16 cores), Vidro comum e Painéis de Vidro (Normal e as 16 cores).
+* Cobre: Blocos de Cobre, Cobre Cortado e todas as suas variações de oxidação (Normal, Exposto, Envelhecido e Oxidado), incluindo lajes e escadas.
+* Diversos: Obsidiana (Normal e Chorosa), Bloco de Ametista, Estante de Livros, Lanterna do Mar, Pedra Luminosa, Lâmpada de Redstone, Grades de Ferro, Fogueira das Almas e Magnetita.
 {% endhint %}
 
