@@ -7,10 +7,10 @@ description: Informações sobre o evento Rush com mcMMO ativo.
 ## » Como Funciona
 
 * Batalha de clãs de 15 jogadores por equipe batalhando numa arena reduzida em busca de eliminar todos os oponentes e sair vencedor da arena.;
-* Itens definidos pela equipe; (3 Armaduras de netherite, com capacete e bota extras, todas encantadas com proteção IV e inquebrável III,  10 pares de poção de força 2 e velocidade 2, Machado e espadas de netherite, um arco com 64 flechas, 64 maças encantadas e 64 bifes)
+* Itens definidos pela equipe; (3 Armaduras de netherite, com capacete e bota extras, todas encantadas com proteção IV e inquebrável III,  10 pares de poção de força 2 e velocidade 2, Machado e espadas de netherite, 64 maças encantadas e 64 bifes)
 * mcMMO Ativado.
 
-<figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 ## » Como Participar
 

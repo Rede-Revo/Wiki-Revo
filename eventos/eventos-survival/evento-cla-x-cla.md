@@ -9,11 +9,11 @@ coverY: 0
 ## » Como Funciona
 
 * Batalha Clã x Clã entre vários Clãs, o Clã que derrotar todos seus oponentes vence;
-*   Itens definidos pela equipe; (3 armaduras de netherite, espada de diamante, machado de diamante, poções de força e agilidade e 64 maças encantadas)
-
-    <figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+* Itens definidos pela equipe; (2 armaduras de netherite, espada de netherite, machado de netherite, poções de força e agilidade e 64 maças encantadas)
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.
+
+<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 ## » Como Participar
 
