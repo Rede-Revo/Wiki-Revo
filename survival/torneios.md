@@ -20,167 +20,169 @@ Assim que o relógio marcar **00:00 na segunda-feira** e as recompensas da seman
 
 Atualmente, existem 16 torneios em nosso servidor, que são:
 
-#### **1. Mineiro(a)**
+#### 1. Mineiro(a)
 
-* **Descrição:** Minere a maior quantidade de minérios que conseguir. Contabiliza apenas na `/warp recursos`.
-* **Premiação:**
-  * 1º lugar: TAG \[Mineiro(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Mineiro(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Mineiro(a)] + 100 de Cash + \[Liga] 25 pontos
+* Descrição: Minere a maior quantidade de minérios que conseguir. Contabiliza apenas na `/warp recursos`.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Mineiro(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-***
+#### 2. Assassino(a)
 
-#### **2. Assassino(a)**
+* Descrição: Mate a maior quantidade de jogadores. Contabiliza apenas em eventos agendados.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Assassino(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-* **Descrição:** Mate a maior quantidade de jogadores. Contabiliza apenas em eventos agendados.
-* **Premiação:**
-  * 1º lugar: TAG \[Assassino(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Assassino(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Assassino(a)] + 100 de Cash + \[Liga] 25 pontos
+#### 3. Tesoureiro(a)
 
-***
+* Descrição: Abra a maior quantidade de caixas que conseguir.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Tesoureiro(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-#### **3. Tesoureiro(a)**
+#### 4. Gastador(a)
 
-* **Descrição:** Abra a maior quantidade de caixas que conseguir.
-* **Premiação:**
-  * 1º lugar: TAG \[Tesoureiro(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Tesoureiro(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Tesoureiro(a)] + 100 de Cash + \[Liga] 25 pontos
+* Descrição: Gaste a maior quantidade de coins na loja do servidor.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Gastador(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-***
+#### 5. Desmatador(a)
 
-#### **4. Gastador(a)**
+* Descrição: Destrua a maior quantidade de florestas. Contabiliza apenas na `/warp recursos`.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Desmatador(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-* **Descrição:** Gaste a maior quantidade de coins na loja do servidor.
-* **Premiação:**
-  * 1º lugar: TAG \[Gastador(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Gastador(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Gastador(a)] + 100 de Cash + \[Liga] 25 pontos
+#### 6. Aniquilador(a)
 
-***
+* Descrição: Mate a maior quantidade de mobs.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Aniquilador(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-#### **5. Desmatador(a)**
+#### 7. Conectado(a)
 
-* **Descrição:** Destrua a maior quantidade de florestas. Contabiliza apenas na `/warp recursos`.
-* **Premiação:**
-  * 1º lugar: TAG \[Desmatador(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Desmatador(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Desmatador(a)] + 100 de Cash + \[Liga] 25 pontos
+* Descrição: Fique conectado pelo maior tempo possível (AFK contabiliza).
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Conectado(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-***
+#### 8. Vencedor(a)
 
-#### **6. Aniquilador(a)**
+* Descrição: Vença o maior número de eventos.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Vencedor(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-* **Descrição:** Mate a maior quantidade de mobs.
-* **Premiação:**
-  * 1º lugar: TAG \[Aniquilador(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Aniquilador(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Aniquilador(a)] + 100 de Cash + \[Liga] 25 pontos
+#### 9. Toupeira
 
-***
+* Descrição: Escave a maior quantidade de blocos. Contabiliza apenas na `/warp recursos`.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Toupeira]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-#### **7. Conectado(a)**
+#### 10. Slayer
 
-* **Descrição:** Fique conectado pelo maior tempo possível (AFK contabiliza).
-* **Premiação:**
-  * 1º lugar: TAG \[Conectado(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Conectado(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Conectado(a)] + 100 de Cash + \[Liga] 25 pontos
+* Descrição: Mate a maior quantidade de Dragões do Fim.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Slayer]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-***
+#### 11. Super Fã
 
-#### **8. Vencedor(a)**
+* Descrição: Consiga a maior quantidade de votos no servidor.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Super Fã]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-* **Descrição:** Vença o maior número de eventos.
-* **Premiação:**
-  * 1º lugar: TAG \[Vencedor(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Vencedor(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Vencedor(a)] + 100 de Cash + \[Liga] 25 pontos
+#### 12. Frenético(a)
 
-***
+* Descrição: Adquira a maior quantidade de XP do mcMMO.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Frenético(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-#### **9. Toupeira**
+#### 13. Farmador(a)
 
-* **Descrição:** Escave a maior quantidade de blocos. Contabiliza apenas na `/warp recursos`.
-* **Premiação:**
-  * 1º lugar: TAG \[Toupeira] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Toupeira] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Toupeira] + 100 de Cash + \[Liga] 25 pontos
+* Descrição: Colha a maior quantidade de plantações.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Farmador(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-***
+#### 14. Peixeiro(a)
 
-#### **10. Slayer**
+* Descrição: Pesque a maior quantidade de peixes. Contabiliza apenas na `/warp recursos`.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Peixeiro(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
-* **Descrição:** Mate a maior quantidade de Dragões do Fim.
-* **Premiação:**
-  * 1º lugar: TAG \[Slayer] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Slayer] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Slayer] + 100 de Cash + \[Liga] 25 pontos
+#### 15. Pedreiro(a)
 
-***
-
-#### **11. Super Fã**
-
-* **Descrição:** Consiga a maior quantidade de votos no servidor.
-* **Premiação:**
-  * 1º lugar: TAG \[Super Fã] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Super Fã] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Super Fã] + 100 de Cash + \[Liga] 25 pontos
-
-***
-
-#### **12. Frenético(a)**
-
-* **Descrição:** Adquira a maior quantidade de XP do mcMMO.
-* **Premiação:**
-  * 1º lugar: TAG \[Frenético(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Frenético(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Frenético(a)] + 100 de Cash + \[Liga] 25 pontos
-
-***
-
-#### **13. Farmador(a)**
-
-* **Descrição:** Colha a maior quantidade de plantações.
-* **Premiação:**
-  * 1º lugar: TAG \[Farmador(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Farmador(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Farmador(a)] + 100 de Cash + \[Liga] 25 pontos
-
-***
-
-#### **14. Peixeiro(a)**
-
-* **Descrição:** Pesque a maior quantidade de peixes. Contabiliza apenas na `/warp recursos`.
-* **Premiação:**
-  * 1º lugar: TAG \[Peixeiro(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Peixeiro(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Peixeiro(a)] + 100 de Cash + \[Liga] 25 pontos
-
-***
-
-#### **15. Pedreiro(a)**
-
-* **Descrição:** Coloque a maior quantidade de blocos em construções.
-* **Premiação:**
-  * 1º lugar: TAG \[Pedreiro(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Pedreiro(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Pedreiro(a)] + 100 de Cash + \[Liga] 25 pontos
+* Descrição: Coloque a maior quantidade de blocos em construções.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Pedreiro(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
 {% hint style="info" %}
-Lista de blocos que contam no torneio Pedreiro no final da página.
+Lista de blocos que contabilizam no torneio de pedreiro no fim da página.
 {% endhint %}
 
-***
+#### 16. Feiticeiro(a)
 
-#### **16. Feiticeiro(a)**
-
-* **Descrição:** Fabrique a maior quantidade de poções.
-* **Premiação:**
-  * 1º lugar: TAG \[Feiticeiro(a)] + 200 de Cash + \[Liga] 75 pontos
-  * 2º lugar: TAG \[Feiticeiro(a)] + 150 de Cash + \[Liga] 50 pontos
-  * 3º lugar: TAG \[Feiticeiro(a)] + 100 de Cash + \[Liga] 25 pontos  &#x20;
+* Descrição: Fabrique a maior quantidade de poções.
+* Premiação:
+  * 1º lugar: 300 Cash + \[Liga] 75 + Chave M \[Temporada] + TAG \[Feiticeiro(a)]
+  * 2º lugar: 200 Cash + \[Liga] 50 + Chave M. \[Épica]
+  * 3º lugar: 100 Cash + \[Liga] 25 + Chave M. \[Rara]
+  * 4º lugar: Chave M. \[Épica]
+  * 5º lugar: Chave M. \[Rara]
 
 ## Blocos que contam no torneio Pedreiro:
 
