@@ -39,5 +39,5 @@ Jogadores que estiverem no top no final de temporada, serão recompensados com i
 
 <figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

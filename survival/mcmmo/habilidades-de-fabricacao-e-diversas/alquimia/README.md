@@ -22,7 +22,7 @@ coverY: 0
 
 | Nome da Poção                                                                | Efeito da Poção     | Ingrediente           | Nível de Desbloqueio | Tipo   | Informação                                                                |
 | ---------------------------------------------------------------------------- | ------------------- | --------------------- | -------------------- | ------ | ------------------------------------------------------------------------- |
-| ![](<../../../../.gitbook/assets/image (1) (1) (1).png>)Poção da Pressa      | Pressa              | Cenoura               | 100                  | Buff   | Aumenta a Velocidade de Mineração e Ataque                                |
+| ![](<../../../../.gitbook/assets/image (1) (1) (1) (1).png>)Poção da Pressa  | Pressa              | Cenoura               | 100                  | Buff   | Aumenta a Velocidade de Mineração e Ataque                                |
 | ![](<../../../../.gitbook/assets/image (2) (1).png>)Poção da Absorção        | Absorção            | Quartzo do Nether     | 200                  | Buff   | Aplica 2 corações adicionais (por nível) que desaparecem ao receber dano. |
 | Poção da Fadiga de Mineração                                                 | Fadiga de Mineração | Bola de Slime         | 200                  | Debuff | Diminui a Velocidade de Mineração e Ataque                                |
 | ![](<../../../../.gitbook/assets/image (3) (1).png>)Poção de Aumento de Vida | Aumento de Vida     | Maçã                  | 350                  | Buff   | Aplica 2 corações recarregáveis por nível                                 |

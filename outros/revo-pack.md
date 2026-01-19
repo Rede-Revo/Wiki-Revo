@@ -2,6 +2,7 @@
 description: >-
   Um resource pack feito por nossa equipe para deixar o jogo mais divertido e
   interativo
+hidden: true
 cover: ../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
