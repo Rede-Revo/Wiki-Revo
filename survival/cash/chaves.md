@@ -10,11 +10,12 @@ coverY: 0
 
 Atualmente, estão presentes no nosso servidor as seguintes chaves:
 
-* Chave comum
-* Chave rara
-* Chave épica
-* Chave lendária
-* Chave especial (Eventos)
+* Chave Comum
+* Chave Rara
+* Chave Épica
+* Chave Lendária
+* Chave Especial (Eventos)
+* Chave Divina
 
 ## Chave Comum
 
@@ -35,3 +36,7 @@ Atualmente, estão presentes no nosso servidor as seguintes chaves:
 ## Chave Especial
 
 Ao longo do ano, diversas caixas especiais são disponibilizadas na **Rede Revo**. Em cada ocasião especial do nosso servidor, lançamos caixas temáticas que oferecem itens exclusivos e texturas personalizadas, proporcionando uma experiência única e diferenciada aos jogadores.
+
+## Chave Divina
+
+Ao longo do ano, a equipe vai adicionando novas chaves divinas no estoque, portanto, fique sempre atento em nosso discord e ingame para não perder a oportunidade. É possível adquirir via cash shop, ou juntando 9 fragmentos de chave. Os fragmentos de chave, você consegue quando algum player ativar qualquer pacote de cash no nosso servidor, assim que o player ativar o cash, uma GG Wave iniciará, e você irá mandar ''GG'' no chat global ou local, assim, o fragmento de chave irá para o seu correio.
