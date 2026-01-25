@@ -66,7 +66,10 @@ Ao visualizar um jogador possivelmente infringindo uma regra, abra uma denúncia
 ### Provas
 
 * Somente serão aceitas caso sejam capturas da tela toda e com scoreboard ativa.
-* Possuem a validade de **3 dias** (Exceto regras [**12**](jogabilidade.md#01-3), [**16**](jogabilidade.md#01-3) e [**18**](jogabilidade.md#01-7) que não expiram).
+* Regras em geral possuem a validade de **3 dias** com algumas exceçõe&#x73;**:**
+  * Regra [12](https://wiki.rederevo.com/regras/jogabilidade#id-01-4): Não expiram (A contar da temporada **XVIII** no modo Survival).
+  * Regra [16](jogabilidade.md#01-3): 3 meses.
+  * Regra [18](jogabilidade.md#01-7): 3 meses.
 
 ## Punições:
 
