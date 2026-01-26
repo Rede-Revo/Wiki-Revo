@@ -98,15 +98,23 @@ Tentar realizar estorno da compra de um produto adquirido em nossa rede através
 
 ## Regra 12 - Comércio não autorizado <a href="#id-01" id="id-01"></a>
 
-Consiste na tentativa de negociação e/ou transação de itens ou vantagens no servidor em troca de produtos externos (sem relação com o servidor).
+Consiste na tentativa de negociação ou divulgação de itens ou vantagens no servidor em troca de produtos externos (sem relação com o servidor).
 
 ### Lista de Punições <a href="#lista-de-punicoes-4" id="lista-de-punicoes-4"></a>
 
-<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento de 15 dias + Confisco do conteúdo comercializado</td></tr><tr><td align="center">2</td><td align="center">Banimento de 30 dias + Confisco do conteúdo comercializado</td></tr><tr><td align="center">3</td><td align="center">Banimento Permanente + Confisco do conteúdo comercializado</td></tr></tbody></table>
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento de 15 dias + Confisco do conteúdo divulgado</td></tr><tr><td align="center">2</td><td align="center">Banimento de 30 dias + Confisco do conteúdo divulgado</td></tr><tr><td align="center">3</td><td align="center">Banimento Permanente + Confisco do conteúdo divulgado</td></tr></tbody></table>
+
+### Regra 12.1 - Comércio não autorizado (ação consumada) <a href="#id-01" id="id-01"></a>
+
+Esta regra é aplicada nos casos em que o comércio não autorizado foi concluído, caracterizando a efetiva negociação, recebimento ou entrega de itens, vantagens ou benefícios do servidor em troca de produtos, serviços ou valores externos.
+
+<table><thead><tr><th width="150" align="center">Incidência</th><th align="center">Punição</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">Banimento Permanente + Confisco do conteúdo comercializado</td></tr></tbody></table>
 
 {% hint style="warning" %}
-Contas e itens comercializados ilegalmente serão recolhidos pela equipe e, posteriormente, leiloados.
+Contas e itens comercializados ilegalmente serão recolhidos pela equipe e posteriormente, leiloados.
 {% endhint %}
+
+### Lista de Punições <a href="#lista-de-punicoes-4" id="lista-de-punicoes-4"></a>
 
 ## Regra 13 - Ação indevida AFK
 
