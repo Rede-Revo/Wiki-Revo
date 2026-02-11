@@ -10,7 +10,7 @@ coverY: 0
 
 ## Onde posso conseguir Cash?
 
-Cash é uma recompensa que você recebe em troca de apoiar o nosso servidor com doações, você pode doar em nosso site oficial: [https://rederevo.com/itens](https://rederevo.com/itens)
+Cash é uma recompensa que você recebe em troca de apoiar o nosso servidor com doações, você pode doar em nosso site oficial clicando [aqui](https://rederevo.com/category/cash).
 
 ## **Por que precisamos das doações?**
 
