@@ -8,33 +8,27 @@ description: >-
 
 ## Introdução
 
-Sempre que um jogador for punido pela [Regra 18](../../regras/jogabilidade.md#01-7), um aviso será emitido ao clã, o grau da punição
+Para que senha uma disputa justa e um ambiente ainda mais competitivo, infrações geradas pela [Regra 18](../../regras/jogabilidade.md#id-01-9) geram pontuações ao clã.
 
-e do cargo do jogador influencia diretamente no nível de punição.&#x20;
+## Tabela de avisos
 
-## Avisos
-
-|  Cargo |    Tipo    | Pontos |
-| :----: | :--------: | :----: |
-| Membro |  Guardião  |    1   |
-| Membro | Permanente |    2   |
-|  Líder |  Guardião  |    3   |
-|  Líder | Permanente |    5   |
+| Cargo  | Avisos |
+| ------ | ------ |
+| Membro | 1      |
+| Líder  | 2      |
 
 ## Consequência dos Avisos
 
-O acumulo de avisos acarreta em punições ao clã.
-
-| Estágio | Avisos |        Punição       |
-| :-----: | :----: | :------------------: |
-|    I    |    3   |  -500 pontos de liga |
-|    II   |    5   | -1000 pontos de liga |
-|   III   |    7   | -2500 pontos de liga |
-|    IV   |   10   | -5000 pontos de liga |
-|    V    |   12   |     Clã excluído.    |
-
-## Observações
+O acumulo de avisos acarreta em punições ao clã:
 
 * Pontos removidos afetam ambas ligas (temporada e mensal).
-* Estágios são progressivos, líder punido implicará em avisos de estágio I e II por exemplo (5 avisos).
-* Líderes são figuras representativas, suas ações influenciam diretamente no desempenho do clã.
+* Ao atingir a quantia de avisos, a punição é automaticamente aplicada.
+
+| Estágio | Avisos |            Punição           |
+| :-----: | :----: | :--------------------------: |
+|    I    |    2   |      -250 pontos de liga     |
+|    II   |    4   |      -500 pontos de liga     |
+|   III   |    6   |     -1000 pontos de liga     |
+|    IV   |    8   |      -2500 pontos de liga    |
+|    V    |   10   | Clã desclassificado da liga. |
+

@@ -77,14 +77,6 @@ No momento de finalização de pontuação para decidir quais clãs serão defin
 * O seguintes rankings **não** contabilizam: Cash, Coins e mcMMO.
 {% endhint %}
 
-## Pontuação Negativa
-
-Assim como boas ações geram pontos, más ações removem pontos, portanto sejam seletivos no recrutamento de membros, a ação de um jogador pode impactar diretamente no desempenho de todo o clã!
-
-|         Ação         | Pontos |
-| :------------------: | :----: |
-| Banimento permanente |  -250  |
-
 ## Recompensas
 
 ### Recompensa liga (Mensal)
