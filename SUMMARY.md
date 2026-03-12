@@ -23,7 +23,6 @@
 
 ## 🌳 SURVIVAL
 
-* [🎲 Temporadas](survival/temporadas.md)
 * [🤖 Comandos](survival/comandos.md)
 * [💰 Coins](survival/coins/README.md)
   * [📴 Política de Inatividade](survival/coins/politica-de-inatividade.md)

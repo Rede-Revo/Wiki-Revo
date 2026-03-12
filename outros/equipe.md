@@ -21,8 +21,8 @@ coverY: 0
 
 #### Lista de Diretores
 
-* [<img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png)  <mark style="color:yellow;">**Nevisk**</mark>**&#x20; (data de entrada: 21/05/2021)**
-* <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">  <mark style="color:yellow;">**SOekd**</mark>**&#x20;(data de entrada: 08/09/2025)**
+* [<img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png)  <mark style="color:yellow;">**Nevisk**</mark>**&#x20; (data de entrada: 21/05/2021)**
+* <img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">  <mark style="color:yellow;">**SOekd**</mark>**&#x20;(data de entrada: 08/09/2025)**
 
 ## <img src="../.gitbook/assets/image (11) (1) (2) (1).png" alt="" data-size="line"> <mark style="color:blue;">Gerente</mark>
 
@@ -37,9 +37,9 @@ O cargo de **gerente** tem muita relevância e sempre possui muitas responsabili
 
 #### Lista de Gerentes
 
-* <img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">  <mark style="color:blue;">**julgzin**</mark>**&#x20;(data de entrada: 15/10/2021)**
-* <img src="../.gitbook/assets/image (3).png" alt="" data-size="line">  <mark style="color:blue;">**Felipesfera**</mark>**&#x20;(data de entrada: 13/09/2022)**
-* <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> <mark style="color:blue;">**\_RezentXz**</mark>**&#x20;(data de entrada: 27/06/2025)**
+* <img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line">  <mark style="color:blue;">**julgzin**</mark>**&#x20;(data de entrada: 15/10/2021)**
+* <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="line">  <mark style="color:blue;">**Felipesfera**</mark>**&#x20;(data de entrada: 13/09/2022)**
+* <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> <mark style="color:blue;">**\_RezentXz**</mark>**&#x20;(data de entrada: 27/06/2025)**
 
 ## <img src="../.gitbook/assets/image (18) (2).png" alt="" data-size="line"> <mark style="color:purple;">Desenvolvedor(a)</mark>
 
@@ -52,8 +52,8 @@ O **desenvolvedor** é o profissional que desenvolve _plugins e os demais sistem
 
 #### Lista de Desenvolvedores
 
-* <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> <mark style="color:purple;">**xMattNice\_**</mark>**&#x20;(data de entrada: 13/04/2022)**
-* <img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> <mark style="color:purple;">**yxork**</mark>**&#x20;(data de entrada: 27/06/2025)**
+* <img src="../.gitbook/assets/image (6) (1).png" alt="" data-size="line"> <mark style="color:purple;">**xMattNice\_**</mark>**&#x20;(data de entrada: 13/04/2022)**
+* <img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> <mark style="color:purple;">**yxork**</mark>**&#x20;(data de entrada: 27/06/2025)**
 
 
 
@@ -69,9 +69,9 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 
 #### Lista de Técnicos
 
-* <img src="../.gitbook/assets/image (8).png" alt="" data-size="line"> <mark style="color:orange;">**zGumeloBr**</mark>**&#x20;(data de entrada: 06/04/2022)**
+* <img src="../.gitbook/assets/image (8) (1).png" alt="" data-size="line"> <mark style="color:orange;">**zGumeloBr**</mark>**&#x20;(data de entrada: 06/04/2022)**
 
-## <img src="../.gitbook/assets/image (20) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">Administrador</mark>
+## <img src="../.gitbook/assets/image (20) (1) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">Administrador</mark>
 
 **O administrador administra e não executa**. A responsabilidade do administrador é coordenar pessoas e recursos, assim, ele consegue atingir os objetivos traçados. Para conseguir aplicar as tarefas de administrador é preciso delegar as tarefas de execução, e evitar perder tempo realizando tarefas de execução.
 
@@ -85,12 +85,12 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 
 #### Lista de Administradores
 
-* <img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> <mark style="color:red;">**Beazika\_**</mark>**&#x20;** **(data de entrada: 13/09/2022)**
-* <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> <mark style="color:red;">**ManoBrelson**</mark>**&#x20;(data de entrada: 11/06/2024)**
-* <img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> <mark style="color:red;">**AndreLasOliveira**</mark>**&#x20;(data de entrada: 27/06/2025)**
-* <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> <mark style="color:red;">**Andre12768**</mark>**&#x20;(data de entrada 03/07/2025)**
-* <img src="../.gitbook/assets/image (12).png" alt="" data-size="line"> <mark style="color:red;">**uGuiKz**</mark>**&#x20;(data de entrada: 12/11/2025)**
-* <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> <mark style="color:red;">**milkmuu**</mark>**&#x20;(data de entrada: 23/12/2025)**
+* <img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> <mark style="color:red;">**Beazika\_**</mark>**&#x20;** **(data de entrada: 13/09/2022)**
+* <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> <mark style="color:red;">**ManoBrelson**</mark>**&#x20;(data de entrada: 11/06/2024)**
+* <img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="line"> <mark style="color:red;">**AndreLasOliveira**</mark>**&#x20;(data de entrada: 27/06/2025)**
+* <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> <mark style="color:red;">**Andre12768**</mark>**&#x20;(data de entrada 03/07/2025)**
+* <img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> <mark style="color:red;">**uGuiKz**</mark>**&#x20;(data de entrada: 12/11/2025)**
+* <img src="../.gitbook/assets/image (13) (1).png" alt="" data-size="line"> <mark style="color:red;">**milkmuu**</mark>**&#x20;(data de entrada: 23/12/2025)**
 
 
 
@@ -119,7 +119,7 @@ O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que co
 
 ## <img src="../.gitbook/assets/Untitled-1.png" alt="" data-size="line"> <mark style="color:orange;">Coordenador de Equipe</mark>
 
-## <img src="../.gitbook/assets/image (21) (1) (1).png" alt="" data-size="line"> <mark style="color:orange;">Construtor</mark>
+## <img src="../.gitbook/assets/image (21) (1) (1) (1).png" alt="" data-size="line"> <mark style="color:orange;">Construtor</mark>
 
 O **construtor** será responsável pelo desenvolvimento de toda construção realizada no servidor, ficando sob sua supervisão as adequadas medidas técnicas e administrativas para a sua perfeita e integral execução e entrega formal ao final dos trabalhos.
 
