@@ -20,7 +20,7 @@ Assim que o relógio marcar **00:00 na segunda-feira** e as recompensas da seman
 
 Atualmente, existem 16 torneios em nosso servidor, que são:
 
-#### 1. Mineiro(a)
+### 1. Mineiro(a)
 
 * Descrição: Minere a maior quantidade de minérios que conseguir. Contabiliza apenas na `/warp recursos`.
 * Premiação:
@@ -30,7 +30,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 2. Assassino(a)
+***
+
+### 2. Assassino(a)
 
 * Descrição: Mate a maior quantidade de jogadores. Contabiliza apenas em eventos agendados.
 * Premiação:
@@ -40,7 +42,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 3. Tesoureiro(a)
+***
+
+### 3. Tesoureiro(a)
 
 * Descrição: Abra a maior quantidade de caixas que conseguir.
 * Premiação:
@@ -50,7 +54,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 4. Gastador(a)
+***
+
+### 4. Gastador(a)
 
 * Descrição: Gaste a maior quantidade de coins na loja do servidor.
 * Premiação:
@@ -60,7 +66,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 5. Desmatador(a)
+***
+
+### 5. Desmatador(a)
 
 * Descrição: Destrua a maior quantidade de florestas. Contabiliza apenas na `/warp recursos`.
 * Premiação:
@@ -70,7 +78,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 6. Aniquilador(a)
+***
+
+### 6. Aniquilador(a)
 
 * Descrição: Mate a maior quantidade de mobs.
 * Premiação:
@@ -80,7 +90,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 7. Conectado(a)
+***
+
+### 7. Conectado(a)
 
 * Descrição: Fique conectado pelo maior tempo possível (AFK contabiliza).
 * Premiação:
@@ -90,7 +102,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 8. Vencedor(a)
+***
+
+### 8. Vencedor(a)
 
 * Descrição: Vença o maior número de eventos.
 * Premiação:
@@ -100,7 +114,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 9. Toupeira
+***
+
+### 9. Toupeira
 
 * Descrição: Escave a maior quantidade de blocos. Contabiliza apenas na `/warp recursos`.
 * Premiação:
@@ -110,7 +126,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 10. Slayer
+***
+
+### 10. Slayer
 
 * Descrição: Mate a maior quantidade de Dragões do Fim.
 * Premiação:
@@ -120,7 +138,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 11. Super Fã
+***
+
+### 11. Super Fã
 
 * Descrição: Consiga a maior quantidade de votos no servidor.
 * Premiação:
@@ -130,7 +150,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 12. Frenético(a)
+***
+
+### 12. Frenético(a)
 
 * Descrição: Adquira a maior quantidade de XP do mcMMO.
 * Premiação:
@@ -140,7 +162,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 13. Farmador(a)
+***
+
+### 13. Farmador(a)
 
 * Descrição: Colha a maior quantidade de plantações.
 * Premiação:
@@ -150,7 +174,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 14. Peixeiro(a)
+***
+
+### 14. Peixeiro(a)
 
 * Descrição: Pesque a maior quantidade de peixes. Contabiliza apenas na `/warp recursos`.
 * Premiação:
@@ -160,7 +186,9 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 4º lugar: Chave M. \[Épica]
   * 5º lugar: Chave M. \[Rara]
 
-#### 15. Pedreiro(a)
+***
+
+### 15. Pedreiro(a)
 
 * Descrição: Coloque a maior quantidade de blocos em construções.
 * Premiação:
@@ -171,10 +199,12 @@ Atualmente, existem 16 torneios em nosso servidor, que são:
   * 5º lugar: Chave M. \[Rara]
 
 {% hint style="info" %}
-Lista de blocos que contabilizam no torneio de pedreiro no fim da página.
+Blocos que contam no torneio Pedreiro no fim da página.&#x20;
 {% endhint %}
 
-#### 16. Feiticeiro(a)
+***
+
+### 16. Feiticeiro(a)
 
 * Descrição: Fabrique a maior quantidade de poções.
 * Premiação:
