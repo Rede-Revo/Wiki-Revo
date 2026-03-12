@@ -15,29 +15,27 @@ Eu perco tudo? Não, segue abaixo as informações das mudanças...
 * Mundos reiniciados:
   * Nether
   * The End
-  * Recurrsos
+  * Recursos (Mensalmente)
 * Passe de Batalha alterado com base na nova temática e redefinido.
-* Alguns rankings do Halla da Fama são redefinidos, segue as informações abaixo.
+* Alguns rankings do Hall da Fama são redefinidos, segue as informações abaixo.
 
 ## Hall da Fama
 
 Jogadores que estiverem no top no final de temporada, serão recompensados com itens e tags exclusivas na troca dela.
 
-![](../.gitbook/assets/att.png)
+{% stepper %}
+{% step %}
+### Top Cash
 
-![](<../.gitbook/assets/unknown (4).png>)
 
-![](<../.gitbook/assets/unknown (1).png>)
 
-![](../.gitbook/assets/unknown.png)
 
-![](<../.gitbook/assets/unknown (5).png>)
+{% endstep %}
 
-![](<../.gitbook/assets/unknown (3).png>)
+{% step %}
+###
 
-![](<../.gitbook/assets/unknown (2).png>)
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
