@@ -33,7 +33,7 @@ Jogadores que estiverem no top no final de temporada, serão recompensados com r
 
 * Descrição: Jogadores com mais cash da temporada. Este ranking não reseta.
 * Premiação:
-  * 1º lugar: TAG <img src="../.gitbook/assets/image (3).png" alt="" data-size="original">+ Troféu
+  * 1º lugar: TAG <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">+ Troféu
   * 2º lugar: TAG ![](<../.gitbook/assets/image (4).png>)
   * 3º lugar: TAG ![](<../.gitbook/assets/image (5).png>)
 

@@ -23,7 +23,9 @@
 
 ## 🌳 SURVIVAL
 
-* [🤖 Comandos](survival/comandos.md)
+* [🤖 Ajuda e Comandos](survival/comandos/README.md)
+  * [Ajuda geral no início no servidor](survival/comandos/ajuda-geral-no-inicio-no-servidor.md)
+  * [Ajuda extra](survival/comandos/ajuda-extra.md)
 * [💰 Coins](survival/coins/README.md)
   * [📴 Política de Inatividade](survival/coins/politica-de-inatividade.md)
 * [🪙 Cash](survival/cash/README.md)
