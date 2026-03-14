@@ -4,11 +4,11 @@ description: >-
   digitar /ajuda ingame que o seguinte menu irá aparecer em sua tela:
 ---
 
-# Ajuda geral no início no servidor
+# 📚 Ajuda geral no início no servidor
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-### 1. Iniciando sua jornada
+### 1. Iniciando sua jornada:
 
 * Descrição: Primeiros passos essenciais para começar sua aventura no servidor.
 * Passo a Passo:
@@ -21,7 +21,7 @@ description: >-
 
 ***
 
-### 2. Como evoluir
+### 2. Como evoluir:
 
 * Descrição: O foco principal para crescer no servidor são os Coins, a principal moeda de troca.
 * Como conseguir coins:
@@ -32,7 +32,7 @@ description: >-
 
 ***
 
-### 3. Warps e Mundos
+### 3. Warps e Mundos:
 
 * Descrição: Menu principal para acessar todos os locais e mundos disponíveis no servidor.
 * Comando: `/warps`
@@ -40,7 +40,7 @@ description: >-
 
 ***
 
-### 4. Temporadas
+### 4. Temporadas:
 
 * Descrição: Entenda como funciona o ciclo do servidor, o sistema de ligas e o passe de batalha.
 * Dúvidas Frequentes:
@@ -50,21 +50,21 @@ description: >-
 
 ***
 
-### 5. Kits
+### 5. Kits:
 
 * Descrição: Menu centralizado para resgate de kits diários, semanais ou de terrenos.
 * Comando: `/kit`
 
 ***
 
-### 6. Limites
+### 6. Limites:
 
 * Descrição: Informações sobre os padrões técnicos seguidos para garantir a melhor estabilidade e jogabilidade para todos.
 * Comando: `/limites`
 
 ***
 
-### 7. Caixas Misteriosas
+### 7. Caixas Misteriosas:
 
 * Descrição: Teste sua sorte abrindo caixas para desbloquear recompensas exclusivas e itens raros.
 * Como obter chaves:
@@ -76,7 +76,7 @@ description: >-
 
 ***
 
-### 8. Eventos
+### 8. Eventos:
 
 * Descrição: Informações sobre eventos semanais como Guerra, Killer e eventos automáticos.
 * Destaques: \* Duração do voo durante os eventos: 1.
@@ -85,21 +85,21 @@ description: >-
 
 ***
 
-### 9. Preferências
+### 9. Preferências:
 
 * Descrição: Painel de configurações pessoais para ajustar sua experiência de jogo de acordo com seu gosto.
 * Comando: `/pref`
 
 ***
 
-### 10. Regras
+### 10. Regras:
 
 * Descrição: Leia atentamente as normas do servidor para manter a boa convivência e evitar punições.
 * Comando: `/regras`
 
 ***
 
-### 11. Votar
+### 11. Votar:
 
 * Descrição: Ajude o servidor a crescer na comunidade e receba recompensas exclusivas por cada voto.
 * Recompensas:
@@ -109,7 +109,7 @@ description: >-
 
 ***
 
-### 12. Correio
+### 12. Correio:
 
 * Descrição: Local de entrega e resgate de recompensas acumuladas de caixas, chaves e eventos.
 * Comando: `/correio`
