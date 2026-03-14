@@ -54,7 +54,7 @@ description: >-
 ### 6. Torneios:
 
 * Descrição: Disputas semanais contra todos os jogadores valendo recompensas.
-* Comando: `/hall`
+* Comando: `/torneio`
 
 ***
 
