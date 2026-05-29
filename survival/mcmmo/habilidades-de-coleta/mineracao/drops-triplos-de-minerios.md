@@ -2,6 +2,27 @@
 description: Triplique os drops normais.
 cover: ../../../../.gitbook/assets/imagem_2025-05-07_110037653.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🪶 Drops Triplos de Minérios
