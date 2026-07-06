@@ -33,7 +33,7 @@ coverY: 0
 Coloque um detrito ancestral e clique com o botão direito para reparar o item que você está segurando no momento. Isso consome 1 item cada uso.
 
 {% hint style="info" %}
-Cuidado ao reparar os itens, se você não possuir algum vip, ou tiver menos de 1000 de reparação, você poderá perder os encantamentos do seu item reparado.
+Cuidado ao reparar itens, se você não possuir algum vip, ou tiver menos de 1500 de reparação, você poderá perder os encantamentos do item reparado.
 {% endhint %}
 
 ## » Tabela de EXP ganho
