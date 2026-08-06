@@ -8,7 +8,7 @@ description: >-
 
 ## Introdução
 
-Para que senha uma disputa justa e um ambiente ainda mais competitivo, infrações geradas pela [Regra 18](../../regras/jogabilidade.md#id-01-9) geram pontuações ao clã.
+Para que seja uma disputa justa e um ambiente ainda mais competitivo, infrações geradas pela [Regra 18](../../regras/jogabilidade.md#id-01-9) geram pontuações ao clã.
 
 ## Tabela de avisos
 
