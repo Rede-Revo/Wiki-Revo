@@ -69,7 +69,7 @@ description: >-
 
 * Descrição: Crie sua própria loja em baús de maneira simples.
 * Como criar: Segure o item, agache e hite o baú com ele. O restante da configuração aparece no chat.
-* Comando: `/pshop`
+* Comando: `/lojaplaca`
 
 ***
 

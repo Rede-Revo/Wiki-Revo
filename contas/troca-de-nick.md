@@ -35,7 +35,7 @@ Possui uma conta original para original e pretende alterar seu nick no minecraft
 
 ## ❌ Não ocorre automaticamente&#x20;
 
-Todas opções que o processo não ocorre automaticamente, caso realmente deseje alterar seu nick, precisará realizar a aquisição do produto [**Troca de Conta**](https://rederevo.com/itens) (categoria outros) para que a equipe possa realizar manualmente a troca de dados entre as contas.&#x20;
+Todas opções que o processo não ocorre automaticamente, caso realmente deseje alterar seu nick, precisará realizar a aquisição do produto [**Troca de Conta**](https://rederevo.com/category/conta) (categoria conta) em nosso site, após isso, será necessário abrir um ticket em nosso [discord](https://discord.com/channels/793269891557490688/929227946512777216) solicitando a troca, informando o nick atual e o novo nick, lembrando que o prazo para transferência é de até 3 dias úteis após a solicitação.
 
 {% hint style="warning" %}
 Todos dados serão transferidos em exceção a data de registro que passará a exibir a partir da data de registro da nova conta.

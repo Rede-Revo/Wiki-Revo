@@ -10,39 +10,25 @@ coverY: 0
 
 ## Benefícios de Pacotes VIP
 
-| **Benefício**                             | **Super** | **Ultra** | **Legend** | **Especial** |
-| ----------------------------------------- | --------- | --------- | ---------- | ------------ |
-| **Coins**                                 | 50.000    | 100.000   | 150.000    | 250.000      |
-| **Blocos de Proteção**                    | 5.000     | 10.000    | 15.000     | 25.000       |
-| **Limite de Terrenos**                    | 15        | 20        | 25         | 30           |
-| **Bônus na loja (compra e venda)**        | 5%        | 7,5%      | 10%        | 12,5%        |
-| **Sem delay de teleporte**                | ✅         | ✅         | ✅          | ✅            |
-| **Remover spawner (Toque Suave)**         | 30%       | 40%       | 50%        | 75%          |
-| **Cores no Chat e Placas**                | ✅         | ✅         | ✅          | ✅            |
-| **Conectar com o servidor lotado**        |           | ✅         | ✅          | ✅            |
-| **Tempo AFK até ser movido para o spawn** | 8 horas   | 10 horas  | 12 horas   | Não é movido |
-| **Não perde XP ao morrer**                |           | ✅         | ✅          | ✅            |
-| **Acesso à Loja Virtual**                 | 3 dias    | 7 dias    | 15 dias    | 30 dias      |
-| **Isenção da taxa do mercado**            | ❌         | ❌         | ❌          | ✅            |
-| **Plushie Aleatório ao ativar o VIP**     | ❌         | ❌         | ❌          | ✅            |
+| **Benefício**                                                                                      | **Super** | **Ultra** | **Legend** | **Especial** |
+| -------------------------------------------------------------------------------------------------- | --------- | --------- | ---------- | ------------ |
+| **Coins**                                                                                          | 50.000    | 100.000   | 150.000    | 250.000      |
+| **Blocos de Proteção**                                                                             | 5.000     | 10.000    | 15.000     | 25.000       |
+| **Limite de Terrenos**                                                                             | 15        | 20        | 25         | 30           |
+| **Bônus na loja (compra e venda)**                                                                 | 5%        | 7,5%      | 10%        | 12,5%        |
+| **Sem delay de teleporte**                                                                         | ✅         | ✅         | ✅          | ✅            |
+| **Remover spawner (Toque Suave)**                                                                  | 30%       | 40%       | 50%        | 75%          |
+| **Cores no Chat e Placas**                                                                         | ✅         | ✅         | ✅          | ✅            |
+| **Conectar com o servidor lotado**                                                                 |           | ✅         | ✅          | ✅            |
+| **Tempo AFK até ser movido para o spawn**                                                          | 8 horas   | 10 horas  | 12 horas   | Não é movido |
+| **Não perde XP ao morrer**                                                                         |           | ✅         | ✅          | ✅            |
+| **Acesso à Loja Virtual**                                                                          | 3 dias    | 7 dias    | 15 dias    | 30 dias      |
+| <p><strong>Linhas do</strong> </p><p><strong>/naopegar</strong><br><strong>/naovender</strong></p> | 3         | 4         | 5          | 6            |
+| **Plushie Aleatório ao ativar o VIP**                                                              | ❌         | ❌         | ❌          | ✅            |
 
 ### Comandos <a href="#comandos" id="comandos"></a>
 
-| **Comandos**                                                                            | **Especial** | **Legend** | **Ultra** | **Super** |
-| --------------------------------------------------------------------------------------- | ------------ | ---------- | --------- | --------- |
-| **/ec** Abrir o baú do fim virtual                                                      | ✅            | ✅          | ✅         | ✅         |
-| **/craft** Abrir a bancada de trabalho virtual                                          | ✅            | ✅          | ✅         | ✅         |
-| **/hat** Adicionar o item na mão como chapéu                                            | ✅            | ✅          | ✅         | ✅         |
-| **/nick** Alterar a cor do nick                                                         | ✅            | ✅          | ✅         | ✅         |
-| **/compactar** Transformar itens em blocos                                              | ✅            | ✅          | ✅         | ✅         |
-| **/bigorna** Acessa a bigorna virtual                                                   | ✅            | ✅          | ✅         | ✅         |
-| **/tear** Acessa o tear virtual                                                         | ✅            | ✅          | ✅         | ✅         |
-| **/cortador** Acessa o cortador virtual                                                 | ✅            | ✅          | ✅         | ✅         |
-| **/ferraria** Acessa a bancada de ferraria virtual                                      | ✅            | ✅          | ✅         | ✅         |
-| **/cartografia** Acessa a bancada de cartografia virtual                                | ✅            | ✅          | ✅         | ✅         |
-| **/rebelo** Acessa o rebelo virtual                                                     | ✅            | ✅          | ✅         | ✅         |
-| **/organizar** Acessa o organizador de containers                                       | ✅            | ✅          | ✅         | ✅         |
-| **/back** Volta ao último lugar que esteve (delay de 5 minutos para utilizar novamente) | ✅            | ✅          | ✅         | ✅         |
+<table data-header-hidden><thead><tr><th width="283.6666259765625"></th><th></th><th></th><th width="109.3333740234375"></th><th></th></tr></thead><tbody><tr><td><strong>Comandos</strong></td><td><strong>Especial</strong></td><td><strong>Legend</strong></td><td><strong>Ultra</strong></td><td><strong>Super</strong></td></tr><tr><td><strong>/autocompactar</strong> Permite compactar todos os itens possíveis dentro do inventário de forma automática</td><td>✅</td><td>x</td><td>x</td><td>x</td></tr><tr><td><strong>/drusa</strong> Permite bloquear a quebra das drusas de ametistas</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>/vender</strong> Abir menu de venda por ação</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>/ec</strong> Abrir o baú do fim virtual</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>/craft</strong> Abrir a bancada de trabalho virtual</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>/hat</strong> Adicionar o item na mão como chapéu</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>/nick</strong> Alterar a cor do nick</td><td>✅</td><td>✅ </td><td>✅</td><td>✅</td></tr><tr><td><strong>/compactar</strong> Transformar itens em blocos</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>/bigorna</strong> Acessa a bigorna virtual</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>/tear</strong> Acessa o tear virtual</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>/cortador</strong> Acessa o cortador virtual</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>/ferraria</strong> Acessa a bancada de ferraria virtual</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>/cartografia</strong> Acessa a bancada de cartografia virtual</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>/rebelo</strong> Acessa o rebelo virtual</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><strong>/organizar</strong> Acessa o organizador de containers</td><td>✅</td><td>✅ </td><td>✅</td><td>✅</td></tr><tr><td><strong>/back</strong> Volta ao último lugar que esteve (delay de 5 minutos para utilizar novamente)</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr></tbody></table>
 
 ### Limites
 

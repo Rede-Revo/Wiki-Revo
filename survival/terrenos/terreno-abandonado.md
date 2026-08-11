@@ -22,7 +22,7 @@ O custo de reivindicação é de 250 coins por bloco.
 
 Terreno de `1000` blocos.
 
-* Tempo para expirar: `60 dias` -> `(1000 a 9.999 blocos)`
+* Tempo para expirar: `120 dias` -> `(1000 a 9.999 blocos)`
 * Custo total para reivindicar: `$250.000 coins`
 
 {% hint style="info" %}
@@ -33,12 +33,12 @@ O preço por bloco reduz em 1 coin por dia a mais de inatividade de acordo com o
 
 Terreno de `1000` blocos.&#x20;
 
-* 61 dias -> Custo por bloco `$249 coins` -> `$249.000 coins`
-* 62 dias -> Custo por bloco `$248 coins` -> `$248.000 coins`
-* 63 dias -> Custo por bloco `$247 coins` -> `$247.000 coins`
-* 64 dias -> Custo por bloco `$246 coins` -> `$246.000 coins`
-* 65 dias -> Custo por bloco `$245 coins` -> `$245.000 coins`
-* 66 dias -> Custo por bloco `$244 coins`-> `$244.000 coins`&#x20;
+* 121 dias -> Custo por bloco `$249 coins` -> `$249.000 coins`
+* 122 dias -> Custo por bloco `$248 coins` -> `$248.000 coins`
+* 123 dias -> Custo por bloco `$247 coins` -> `$247.000 coins`
+* 124 dias -> Custo por bloco `$246 coins` -> `$246.000 coins`
+* 125 dias -> Custo por bloco `$245 coins` -> `$245.000 coins`
+* 126 dias -> Custo por bloco `$244 coins`-> `$244.000 coins`&#x20;
 * ...&#x20;
 * 285 dias -> Custo por bloco `$25 coins`-> `$25.000 coins`&#x20;
 

@@ -91,9 +91,9 @@ No momento de finalização de pontuação para decidir quais clãs serão defin
 
 |     Posição    |                                                                     Recompensa                                                                    |
 | :------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
-| Primeiro Lugar | <ul><li>800R$ ou 160k Cash</li><li>Troféu (Item exclusivo)</li><li>Banner destaque enviado pelo clã exposto no <strong>/spawn</strong>.</li></ul> |
-|  Segundo Lugar |                                                                 400R$ ou 80k Cash                                                                 |
-| Terceiro Lugar |                                                                 200R$ ou 40k Cash                                                                 |
+| Primeiro Lugar | <ul><li>800R$ ou 200k Cash</li><li>Troféu (Item exclusivo)</li><li>Banner destaque enviado pelo clã exposto no <strong>/spawn</strong>.</li></ul> |
+|  Segundo Lugar |                                                                 400R$ ou 100k Cash                                                                |
+| Terceiro Lugar |                                                                 200R$ ou 50k Cash                                                                 |
 
 {% hint style="info" %}
 Sempre ao fim de um ciclo de liga, as recompensas deverão ser reivindicadas por um **Líder** do clã através de **Ticket** no discord do servidor.&#x20;

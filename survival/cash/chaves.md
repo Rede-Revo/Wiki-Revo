@@ -13,7 +13,7 @@ Atualmente, estão presentes no nosso servidor as seguintes chaves:
 * Chave Comum
 * Chave Rara
 * Chave Épica
-* Chave Lendária
+* Chave Temporada
 * Chave Especial (Eventos)
 * Chave Divina
 
@@ -23,15 +23,15 @@ Atualmente, estão presentes no nosso servidor as seguintes chaves:
 
 ## Chave Rara
 
-É possível adquirir via /cash shop, ou dando a sorte de evoluir ao abrir a caixa comum, tendo 0,25% de chance de evoluir.
+É possível adquirir via /cash shop, /voteshop ou dando a sorte de evoluir ao abrir a caixa comum, tendo 0,25% de chance de evoluir.
 
 ## Chave Épica
 
-É possível adquirir via /cash shop, ou dando a sorte de evoluir ao abrir a caixa comum, tendo 0,2% de chance de evoluir.
+É possível adquirir via /cash shop, /voteshop ou dando a sorte de evoluir ao abrir a caixa comum, tendo 0,2% de chance de evoluir.
 
 ## Chave Lendária
 
-É possível adquirir via /cash shop, ou dando a sorte de evoluir ao abrir a caixa comum, tendo 0,1% de chance de evoluir.
+É possível adquirir via /cash shop, /voteshop, ou dando a sorte de evoluir ao abrir a caixa comum, tendo 0,1% de chance de evoluir.
 
 ## Chave Especial
 

@@ -17,6 +17,10 @@ Lojas físicas serão removidas quando a proteção for excluida!
 {% endhint %}
 
 {% hint style="warning" %}
+Lojas serão removidas na próxima interação caso o dono não tenha mais permissão no terreno.
+{% endhint %}
+
+{% hint style="warning" %}
 Custo: 100 Coins por loja criada
 {% endhint %}
 
@@ -26,42 +30,17 @@ Aprimore sua estratégia de marketing criando e distribuindo cupons de desconto 
 
 ### Como ativo um cupom de loja para poder usa-lo?
 
-Utilize `/pshop discount install <código>`, lembre-se de sempre usar esse comando quando for fazer compra em alguma loja utilizando cupons.
-
-Utilize o comando `/pshop disount info` para ver informações de seu cupom ativo.
+Selecionado uma placa vendendo um item, será possível adicionar o cupom na parte inferior, ao clicar abrirá um outro menu solicitando o cupom, ao aplicar, o sistema irá verificar se o cupom é válido e aplicar ele na venda atual. Em casos onde o cupom seja inválido ou expirado, nenhum desconto será aplicado.
 
 ### Como crio um cupom?
 
-#### Para criar para todas as suas placas de loja:
+Selecionado a placa é possível criar cupons pelo menu, para isso, ao selecionar a opção cupons, abrirá um menu listando todos os cupons ativos, juntamente com 2 opções, uma para criar um cupom ilimitado, qualquer jogador poderá usar enquanto ele estiver ativo, sendo necessário informar apenas o código do cupom e o percentual de desconto, a outra opção é o cupom limitado, por enquanto só é possível limitar por uso\*,  sendo necessário informar o código, percentual de desconto e o número máximo de usos.
 
-`/pshop discount create <código> PLAYER_ALL_SHOPS <porcentagem> <uso-máximo> <preço mínimo ou -1 caso não queira definir um valor mínimo> <data de expiração ou -1 para sem data>`
-
-Exemplo:
-
-`/pshop discount create REVONIVER PLAYER_ALL_SHOPS 25 10 -1 -1`
-
-Esse exemplo criaria o cupom REVONIVER com 25% de desconto sem valor mínimo e sem data de expiração
-
-#### Para criar para placas de loja em especifico:
-
-`/pshop discount create <código> SPECIFIC_SHOPS <porcentagem> <uso-máximo> <preço mínimo ou -1 caso não queira definir um valor mínimo> <data de expiração ou -1 para sem data>`
-
-Exemplo:
-
-`/pshop discount create REVONIVER PLAYER_ALL_SHOPS 25 10 -1 -1`
-
-Esse exemplo criaria o cupom REVONIVER com 25% de desconto sem valor mínimo e sem data de expiração
-
-Para definir quais lojas devem aceitar este desconto digite o comando: `/pshop discount config addshop` olhando para a placa de loja ou use `/pshop discount config removeshop` para remover.
+{% hint style="info" %}
+\*O cupom limitado, é limitdo por uso, não por item, ele contará um uso sendo um item ou sendo cem itens.
+{% endhint %}
 
 #### Como deleto um cupom?
 
-Basta digitar o comando `/pshop discount remove <código>.`
+É possível deletar um cupom pelo menu adiministrativo da placa.
 
-{% hint style="info" %}
-O tempo de expiração aceita o formato Zulu Time e UNIX Timestamp no formato de segundos
-
-Existe um site on-line que pode ajudá-lo a converter o tempo: https://www.unixtimestamp.com/
-
-Para o formato Zulu Time (ISO 8601 Estendido): `yyyy-MM-dd'T'HH:mm:ssZZ`
-{% endhint %}
