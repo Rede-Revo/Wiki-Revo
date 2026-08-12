@@ -29,7 +29,7 @@ Atualmente, estão presentes no nosso servidor as seguintes chaves:
 
 É possível adquirir via /cash shop, /voteshop ou dando a sorte de evoluir ao abrir a caixa comum, tendo 0,2% de chance de evoluir.
 
-## Chave Lendária
+## Chave Temporada
 
 É possível adquirir via /cash shop, /voteshop, ou dando a sorte de evoluir ao abrir a caixa comum, tendo 0,1% de chance de evoluir.
 

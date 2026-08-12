@@ -140,6 +140,7 @@
   * [🛒 VoteShop](survival/votos/voteshop.md)
 * [⛏️ Passe de Batalha](survival/passe-de-batalha.md)
 * [🪵 Terrenos](survival/terrenos/README.md)
+  * [Comandos](survival/terrenos/commandos.md)
   * [Permissões](survival/terrenos/permissoes.md)
   * [💸 Imobiliária](survival/terrenos/venda-e-aluguel-de-terrenos.md)
   * [🕸️ Terreno Abandonado](survival/terrenos/terreno-abandonado.md)
