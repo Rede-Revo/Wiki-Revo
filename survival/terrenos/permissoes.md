@@ -71,7 +71,7 @@ Permite todas as permissões de [#acesso](permissoes.md#acesso "mention") e [#ar
 * Permite colocar e quebrar blocos.
 * Permite usar caldeirões composteiras, colmeias e suas variações.
 * Permite usar pederneiras.
-* Permite ordenhar vaxas e cabras.
+* Permite ordenhar vacas e cabras.
 * Permite criar placas de loja.
 * Permite voar dentro do terreno.\*\*
 
@@ -93,4 +93,4 @@ Permite todas as permissões de [#confiar](permissoes.md#confiar "mention").
 
 
 
-<sup><sub>\*A explosão irá ocorrer, mas só quebrará os blocos e/ou baús caso as explosões estiver ativa.<sub></sup>\ <sup><sub>\*\*O jogador só conseguirá voar caso possua VIP Peleco, Legend ou Especial.<sub></sup>&#x20;
+<sup><sub>\*A explosão irá ocorrer, mas só quebrará os blocos e/ou baús caso as explosões estiver ativa no terreno.<sub></sup>\ <sup><sub>\*\*O jogador só conseguirá voar caso possua VIP Peleco, Legend ou Especial.<sub></sup>&#x20;

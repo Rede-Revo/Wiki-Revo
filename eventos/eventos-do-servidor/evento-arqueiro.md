@@ -49,7 +49,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### 🥇 **Ultimo Sobrevivente**
 
 * 💰 Premiação de **50.000 Coins**
-* �&#xDC8E;**\[Liga]** 25 Pontos
+* &#x1F48E;**\[Liga]** 25 Pontos
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 

@@ -50,11 +50,11 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### 🥇 **Ultimo Sobrevivente**
 
 * 💰 Premiação de 50.000 **Coins**
-* �&#xDC8E;**\[Liga]** 25 Pontos
+* &#x1F48E;**\[Liga]** 25 Pontos
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 
 * 💰 Premiação de **100.000 Coins**
 * <img src="../../.gitbook/assets/image (14) (1) (2) (1).png" alt="" data-size="line"> TAG **\[Killer]** durante 7 dias
 * <img src="../../.gitbook/assets/contador_de_almas_icon.png" alt="" data-size="line"> **Contador de Almas**&#x20;
-* �&#xDC8E;**\[Liga]** 50 Pontos
+* &#x1F48E;**\[Liga]** 50 Pontos

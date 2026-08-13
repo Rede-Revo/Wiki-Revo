@@ -22,8 +22,8 @@ Aqui você aprenderá tudo que precisa sobre o vosso servidor, desde os sistemas
 
 ## Principais sistemas do servidor:
 
-{% content-ref url="/broken/pages/kJOoK2qG23EwOGsU3QfB" %}
-[Broken link](/broken/pages/kJOoK2qG23EwOGsU3QfB)
+{% content-ref url="https://app.gitbook.com/s/vDOKGccGYHA70l7WF72d/global" %}
+[GLOBAL](https://app.gitbook.com/s/vDOKGccGYHA70l7WF72d/global)
 {% endcontent-ref %}
 
 ## Entrar em contato com a equipe:

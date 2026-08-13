@@ -51,7 +51,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### 🥇 **Ultimo Sobrevivente**
 
 * 💰 Premiação de **50.000 Coins**
-* �&#xDC8E;**\[Liga]** 25 Pontos
+* &#x1F48E;**\[Liga]** 25 Pontos
 * <img src="../../.gitbook/assets/contador_de_almas_icon.png" alt="" data-size="line"> **Contador de Peixes Pescados**&#x20;
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**

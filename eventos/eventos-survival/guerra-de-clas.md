@@ -59,7 +59,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 
 * :moneybag: Premiação de **1.000.000 Coins** depositados no banco do clã
 * <img src="../../.gitbook/assets/trofeurevo (2).png" alt="" data-size="line">**Troféu personalizado** para recordação adicionado no inventario do líder do clã
-* �&#xDC8E;**\[Liga]** 250 Pontos
+* &#x1F48E;**\[Liga]** 250 Pontos
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**
 

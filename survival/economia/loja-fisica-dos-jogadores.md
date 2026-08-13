@@ -8,6 +8,8 @@ description: >-
 
 ## Criar uma Loja <a href="#criar-uma-loja" id="criar-uma-loja"></a>
 
+#### Em breve...
+
 {% hint style="warning" %}
 Lojas são protegidas pelo sistema de proteção de terrenos!
 {% endhint %}

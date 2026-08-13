@@ -55,4 +55,4 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 #### 🥇 **Clã Vencedor**
 
 * :moneybag: Premiação de **30.000 Coins para cada sobrevivente**.
-* �&#xDC8E;**\[Liga] 10 Pontos para cada sobrevivente.**
+* &#x1F48E;**\[Liga] 10 Pontos para cada sobrevivente.**
