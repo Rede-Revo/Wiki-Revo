@@ -14,7 +14,7 @@ O mercado é um sistema que permite aos jogadores comprar e anunciar itens para 
 
 
 
-| Comando                                        |                                                                                                                                                                                                    |
+| Comando                                        | Descrição                                                                                                                                                                                          |
 | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | /ah                                            | Abre o menu com todos os itens anunciados                                                                                                                                                          |
 | /ah open \[menu]                               | Abre o menu especificado, caso não informe nenhum abrirá o menu padrão, main.                                                                                                                      |

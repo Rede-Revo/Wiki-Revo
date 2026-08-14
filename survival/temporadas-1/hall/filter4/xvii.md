@@ -1,4 +1,5 @@
 ---
+description: Temporada Arcade, ocorreu entre 5 de agosto de 2025 e 31 de outubro de 2025.
 icon: line-columns
 cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
@@ -6,9 +7,25 @@ coverY: 0
 
 # Temporada XVII
 
+### Destaques da Temporada
+
+Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
+
 <table><thead><tr><th width="187">Categoria</th><th>🥇 1º lugar</th><th>🥈 2º lugar</th><th>🥉 3º lugar</th></tr></thead><tbody><tr><td>Top Eventos</td><td><a data-footnote-ref href="#user-content-fn-1"><strong>crashzada</strong></a></td><td><a data-footnote-ref href="#user-content-fn-2"><strong>WWaniing</strong></a></td><td><a data-footnote-ref href="#user-content-fn-3"><strong>yHenrisz</strong></a></td></tr><tr><td>Top Votos</td><td><a data-footnote-ref href="#user-content-fn-4"><strong>nicktryky</strong></a></td><td><a data-footnote-ref href="#user-content-fn-5"><strong>deusa</strong></a></td><td><a data-footnote-ref href="#user-content-fn-6"><strong>crashzada</strong></a></td></tr><tr><td>Top Online</td><td><a data-footnote-ref href="#user-content-fn-7"><strong>Fedantass</strong></a> </td><td><a data-footnote-ref href="#user-content-fn-8"><strong>crashzada</strong></a></td><td><a data-footnote-ref href="#user-content-fn-9"><strong>Leonardo7561790</strong></a></td></tr><tr><td>Top Destemido</td><td><a data-footnote-ref href="#user-content-fn-10"><strong>crashzada</strong></a></td><td><a data-footnote-ref href="#user-content-fn-11"><strong>GustavoFrings</strong></a></td><td><a data-footnote-ref href="#user-content-fn-12"><strong>Bahiadaspatyy</strong></a></td></tr><tr><td>Top Torneios</td><td><a data-footnote-ref href="#user-content-fn-13"><strong>crashzada</strong></a></td><td><a data-footnote-ref href="#user-content-fn-14"><strong>Fedantass</strong></a></td><td><a data-footnote-ref href="#user-content-fn-15"><strong>candidato</strong></a></td></tr><tr><td>Top mcMMO</td><td><a data-footnote-ref href="#user-content-fn-16"><strong>H4ppyExceeD</strong></a></td><td><a data-footnote-ref href="#user-content-fn-17"><strong>BeelzyWor</strong></a></td><td><a data-footnote-ref href="#user-content-fn-18"><strong>ClaxmeteR</strong></a></td></tr><tr><td>Top Coins</td><td><a data-footnote-ref href="#user-content-fn-19"><strong>EnricoFMA</strong></a></td><td><a data-footnote-ref href="#user-content-fn-20"><strong>crashzada</strong></a></td><td><a data-footnote-ref href="#user-content-fn-21"><strong>H4ppyExceeD</strong></a></td></tr><tr><td>Top Cash</td><td><a data-footnote-ref href="#user-content-fn-22"><strong>yPatrcksz</strong></a></td><td><a data-footnote-ref href="#user-content-fn-23"><strong>h1k1</strong></a></td><td><a data-footnote-ref href="#user-content-fn-24"><strong>Fedantass</strong></a></td></tr><tr><td>Top Lojas</td><td><a data-footnote-ref href="#user-content-fn-25"><strong>deusa</strong></a></td><td><a data-footnote-ref href="#user-content-fn-26"><strong>SiriusBlack784</strong></a></td><td><a data-footnote-ref href="#user-content-fn-27"><strong>StartkEvoX</strong></a></td></tr></tbody></table>
 
 
+
+
+
+
+
+## Liga
+
+
+
+Confira abaixo os Clãs que mais pontuaram nessa temporada.
+
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>KG2</td><td>Kingdom2</td><td>10.407</td></tr><tr><td>🥈 2º Lugar</td><td>KGM</td><td>Kingdom</td><td>10.268</td></tr><tr><td>🥉 3º Lugar</td><td>FOX</td><td>The Fox</td><td>8.021</td></tr><tr><td>🏅 4º Luga</td><td>TDG</td><td>Terror Dos Guri</td><td>4.910</td></tr><tr><td>🎖️ 5º Lugar</td><td>120</td><td>1PONTO20</td><td>3.153</td></tr></tbody></table>
 
 [^1]: 205 Eventos
 

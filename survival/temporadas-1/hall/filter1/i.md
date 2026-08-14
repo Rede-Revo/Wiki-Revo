@@ -1,10 +1,15 @@
 ---
+description: Temporada Medieval, ocorreu entre 24 de julho de 2021 e 31 de outubro de 2021.
 icon: line-columns
 cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
 # Temporada I
+
+### Destaques da Temporada
+
+Confira abaixo os jogadores que mais se destacaram nos rankings da primeira temporada.
 
 <table><thead><tr><th width="143">Categoria</th><th>🥇 1º lugar</th><th>🥈 2º lugar</th><th width="196.3333740234375">🥉 3º lugar</th></tr></thead><tbody><tr><td>Top Eventos</td><td><a data-footnote-ref href="#user-content-fn-1"><strong>jakseli</strong></a></td><td><a data-footnote-ref href="#user-content-fn-2"><strong>Ghooooooooost</strong></a></td><td><a data-footnote-ref href="#user-content-fn-3"><strong>GameplayPE</strong></a></td></tr><tr><td>Top Votos</td><td><a data-footnote-ref href="#user-content-fn-4"><strong>Pudim</strong></a></td><td><a data-footnote-ref href="#user-content-fn-5"><strong>senhorbatata117</strong></a></td><td><a data-footnote-ref href="#user-content-fn-6"><strong>Pexter_</strong></a></td></tr><tr><td>Top Online</td><td><a data-footnote-ref href="#user-content-fn-7"><strong>AdreusRichard</strong></a></td><td><a data-footnote-ref href="#user-content-fn-8"><strong>Pudim</strong></a></td><td><a data-footnote-ref href="#user-content-fn-9"><strong>jakseli</strong></a></td></tr><tr><td>Top Destemido</td><td><a data-footnote-ref href="#user-content-fn-10"><strong>evaldiN_21</strong></a></td><td><a data-footnote-ref href="#user-content-fn-11"><strong>jakseli</strong></a></td><td><a data-footnote-ref href="#user-content-fn-12"><strong>Creeper0550</strong></a></td></tr><tr><td>Top mcMMO</td><td><a data-footnote-ref href="#user-content-fn-13"><strong>alceofc</strong></a></td><td><a data-footnote-ref href="#user-content-fn-14"><strong>Felipesfera</strong></a></td><td><a data-footnote-ref href="#user-content-fn-15"><strong>ClaxmeteR</strong></a></td></tr><tr><td>Top Coins</td><td><a data-footnote-ref href="#user-content-fn-16"><strong>SplashWax</strong></a></td><td><a data-footnote-ref href="#user-content-fn-17"><strong>BanatoFrito</strong></a></td><td><a data-footnote-ref href="#user-content-fn-18"><strong>ClaxmeteR</strong></a></td></tr><tr><td>Top Cash</td><td><a data-footnote-ref href="#user-content-fn-19"><strong>Landzking</strong></a></td><td><a data-footnote-ref href="#user-content-fn-20"><strong>BanatoFrito</strong></a></td><td><a data-footnote-ref href="#user-content-fn-21"><strong>Guga_S2</strong></a></td></tr></tbody></table>
 

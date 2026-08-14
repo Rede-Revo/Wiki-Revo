@@ -1,4 +1,5 @@
 ---
+description: Temporada Olimpo, ocorreu entre 16 de fevereiro de 2026 e 8 de maio de 2026.
 icon: line-columns
 cover: ../../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
@@ -6,9 +7,25 @@ coverY: 0
 
 # Temporada XIX
 
+### Destaques da Temporada
+
+Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
+
 <table><thead><tr><th width="187">Categoria</th><th>🥇 1º lugar</th><th>🥈 2º lugar</th><th>🥉 3º lugar</th></tr></thead><tbody><tr><td>Top Eventos</td><td><a data-footnote-ref href="#user-content-fn-1"><strong>Gusteds</strong></a></td><td><a data-footnote-ref href="#user-content-fn-2"><strong>jggxd</strong></a></td><td><a data-footnote-ref href="#user-content-fn-3"><strong>bladeARRANCADIU</strong></a></td></tr><tr><td>Top Votos</td><td><a data-footnote-ref href="#user-content-fn-4"><strong>FeDanttass</strong></a></td><td><a data-footnote-ref href="#user-content-fn-5"><strong>fwlipexd</strong></a></td><td><a data-footnote-ref href="#user-content-fn-6"><strong>Ironside_</strong></a></td></tr><tr><td>Top Online</td><td><a data-footnote-ref href="#user-content-fn-7"><strong>FeDanttass</strong></a></td><td><a data-footnote-ref href="#user-content-fn-8"><strong>BeelzyWor</strong></a></td><td><a data-footnote-ref href="#user-content-fn-9"><strong>jess_lost</strong></a></td></tr><tr><td>Top Destemido</td><td><a data-footnote-ref href="#user-content-fn-10"><strong>zGabsDuBem</strong></a></td><td><a data-footnote-ref href="#user-content-fn-11"><strong>Sabor_yNaex</strong></a></td><td><a data-footnote-ref href="#user-content-fn-12"><strong>jggxd</strong></a></td></tr><tr><td>Top Torneios</td><td><a data-footnote-ref href="#user-content-fn-13"><strong>FeDanttass</strong></a></td><td><a data-footnote-ref href="#user-content-fn-14"><strong>fwlipexd</strong></a></td><td><a data-footnote-ref href="#user-content-fn-15"><strong>jggxd</strong></a></td></tr><tr><td>Top mcMMO</td><td><a data-footnote-ref href="#user-content-fn-16"><strong>BeelzyWor</strong></a></td><td><a data-footnote-ref href="#user-content-fn-17"><strong>_deusa</strong></a></td><td><a data-footnote-ref href="#user-content-fn-18"><strong>ClaxmeteR</strong></a></td></tr><tr><td>Top Coins</td><td><a data-footnote-ref href="#user-content-fn-19"><strong>reidelasfc10</strong></a></td><td><a data-footnote-ref href="#user-content-fn-20"><strong>ClaxmeteR</strong></a></td><td><a data-footnote-ref href="#user-content-fn-21"><strong>FeDanttass</strong></a></td></tr><tr><td>Top Cash</td><td><a data-footnote-ref href="#user-content-fn-22"><strong>xWesz</strong></a></td><td><a data-footnote-ref href="#user-content-fn-23"><strong>Sov3r3</strong></a></td><td><a data-footnote-ref href="#user-content-fn-24"><strong>IJohnWiick</strong></a></td></tr><tr><td>Top Lojas</td><td><a data-footnote-ref href="#user-content-fn-25"><strong>WendysonLima</strong></a></td><td><a data-footnote-ref href="#user-content-fn-26"><strong>EnricoFMA</strong></a></td><td><a data-footnote-ref href="#user-content-fn-27"><strong>tilapia2</strong></a></td></tr></tbody></table>
 
 
+
+
+
+
+
+## Liga
+
+
+
+Confira abaixo os Clãs que mais pontuaram nessa temporada.
+
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>FOX</td><td>The Fox</td><td>19.234</td></tr><tr><td>🥈 2º Lugar</td><td>VKG</td><td>Vikings</td><td>11.999</td></tr><tr><td>🥉 3º Lugar</td><td>BSC</td><td>Bradesco</td><td>9.072</td></tr><tr><td>🏅 4º Luga</td><td>CDR</td><td>Clube do Remo</td><td>4.678</td></tr><tr><td>🎖️ 5º Lugar</td><td>CAV</td><td>Cavalos</td><td>2.801</td></tr></tbody></table>
 
 [^1]: 104 Eventos
 
