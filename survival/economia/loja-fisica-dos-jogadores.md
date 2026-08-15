@@ -6,10 +6,6 @@ description: >-
 
 # 🪧 Loja Física dos Jogadores
 
-## Criar uma Loja <a href="#criar-uma-loja" id="criar-uma-loja"></a>
-
-#### Em breve...
-
 {% hint style="warning" %}
 Lojas são protegidas pelo sistema de proteção de terrenos!
 {% endhint %}
@@ -22,8 +18,157 @@ Lojas físicas serão removidas quando a proteção for excluida!
 Lojas serão removidas na próxima interação caso o dono não tenha mais permissão no terreno.
 {% endhint %}
 
+## Placa de Loja
+
+As placas de loja permitem que os jogadores criem suas próprias lojas para vender e comprar itens de outros jogadores de forma simples e automática.\
+Uma mesma loja pode vender itens, comprar itens ou fazer as duas ações ao mesmo tempo, todas as transações são feitas pelo jogador usando Coins ou Cashs, conforme configurada na placa da loja.
+
+### Criação
+
+Criar uma placa de loja é bem simples.
+
+1. Segure o item na mão principal que quer vender, comprar ou fazer os dois.
+2. Agache e bata em um baú, barril ou caixa de shulker.
+3. Após isso, uma tela será aberta solicitando o valor que deseja vender o item.
+4. Informe o valor que deseja vender o item e confirme. (Mesmo que for apenas comprar itens de outros jogadores, é necessário informar um valor aqui, mas é possível alterar isso depois.)
+5. Pronto, você já tem uma placa vendendo item. (Por padrão, a placa é criada com a moeda Coins.)
+
+{% hint style="warning" icon="light-emergency" %}
+**IMPORTANTE**
+
+O valor informado tanto na compra, quanto na venda é sempre do valor da unidade, ou seja, é o valor de 1 item, a quantidade, quem escolhe é o cliente.
+
+Por exemplo, se você informar o valor de 500 Coins, cada unidade daquele item será vendida por 500 coins, independente da quantidade do item que você estava segurando no momento da criação.
+{% endhint %}
+
+### Gerenciamento
+
+O dono da placa ao clicar nela, abre um menu gerencia da placa, permitindo alterar as configurações a qualquer momento.\
+Por meio desse menu é possível configurar preços, moeda, compras, notificações, cupons, entre outros.
+
+#### **Moeda**
+
+Define qual moeda será usada nas compras e vendas, sendo elas, Coins e Cash, mas não é possível selecionar uma moeda diferente para compra e venda na mesma placa.
+
+#### **Preço de Venda**
+
+Define qual é o valor  que os jogadores deverão pagar por **cada unidade** do item ao comprar na sua loja.
+
+{% hint style="info" %}
+* Caso o valor informado seja 0, a loja deixará de vender o item.
+* É possível alterar o valor a qualquer momento.
+* O preço informado é sempre o valor de uma unidade.
+{% endhint %}
+
+#### **Preço de Compra**
+
+Além de vender itens, sua loja pode também comprar itens de outros jogadores, ao informar um valor maior que 0, sua loja passará a comprar o item pelo valor informado.
+
+{% hint style="info" %}
+* Caso o valor informado seja 0, a loja deixará de comprar o item.
+* É possível alterar o valor a qualquer momento.
+* O preço informado é sempre o valor de uma unidade.
+* Sua loja pode comprar e vender ao mesmo tempo.
+{% endhint %}
+
+#### **Alterar item**
+
+É possível trocar o item comercializado pela placa de loja, para fazer isso, segure o item desejado e clique na placa, ao abrir o menu gerencial, selecione a opção **trocar item**, após isso, a loja passará a comercializar o item que está segurando.
+
+#### **Notificações**
+
+O menu de notificação permite escolher quais acontecimentos da loja deverão gerar avisos para você.
+
+#### **Histórico**
+
+Permite consultar todas as operações realizadas nas placas.
+
+#### **Cupom**
+
+As lojas também possuem um sistema de cupons, permitindo que crie e gerencie descontos que poderão ser utilizados pelos clientes durante a compra. [#sistema-de-cupons](loja-fisica-dos-jogadores.md#sistema-de-cupons "mention")
+
 {% hint style="warning" %}
-Custo: 100 Coins por loja criada
+Os cupons são aplicados por venda, e não por item. Por exemplo, se um cupom tiver o limite de 2 usos, ele poderá ser utilizado em duas compras distintas, independentemente do jogador adquirir um ou duzentos itens de uma vez, isso contará como apenas um uso.
+{% endhint %}
+
+#### **Estado da Loja**
+
+Permite ativar e desativar a venda de itens sem precisar excluir a placa de loja.
+
+### Utilizando uma Loja
+
+Uma loja pode permitir as duas operações:
+
+* Comprar da loja: Você paga ao proprietário e recebe o item.
+* Vender para a loja: Você entrega o item e recebe o pagamento do proprietário.
+
+As ações utilizadas para abrir cada menu podem variar conforme a plataforma que você jogue, mas por padrão é:
+
+* Interagir com a placa (Botão direito do mouse) → Comprar da loja.
+* Atacar a placa (Botão esquerdo do mouse) → Vender para a loja.
+
+{% hint style="info" %}
+Caso a placa só realize uma opção, pode não ser exigido que execute uma ação específica, por exemplo, se a placa só compra item do jogador, pode ser que ao interagir com a placa(Botão direito) abra o menu para você vender um item para o dono da loja, pois não existe a ação de comprar o item da loja.
+{% endhint %}
+
+### Comprando de uma loja
+
+Utilize a ação de interagir (Botão direito do mouse) com a placa para abrir o menu de compra, nesse menu serão exibidas todas as informações necessárias para comprar o item.
+
+#### Item
+
+Na parte superior, será exibido o **item que está sendo vendido pela loja.**
+
+#### Preço
+
+Logo abaixo serão exibidos, a moeda, valor e quantidade selecionada para a compra do item pelo cliente.
+
+{% hint style="info" %}
+O valor é atualizado automaticamente ao selecionar a quantidade ou aplicar um cupom.
+{% endhint %}
+
+#### Quantidade
+
+É possível escolher a quantidade de **itens que deseja comprar**, ao alterar a quantidade, o valor será atualizado automaticamente na linha de cima.
+
+#### Cupom
+
+Caso você tenha um cupom válido da placa, poderá usar ele para obter descontos, é só usar a opção de **aplicar cupom**, após isso, irá exibir uma tela solicitando o código do cupom, após a confirmação, caso o cupom seja **válido**, o sistema aplicará o desconto e o valor da compra será atualizado automaticamente.
+
+#### Finalização
+
+Na ultima linha, terá a opção de  confirmar ou cancelar a compra, ao confirmar, o sistema irá validar a quantidade de itens e a quantidade de coins estando tudo certo, a transação é realizada.
+
+{% hint style="success" %}
+&#x20;**Coins adicionados para o dono da placa e item adicionado no inventário do cliente.**
+{% endhint %}
+
+### Vendendo um item para a loja
+
+Utilize a ação de atacar(Botão esquerdo do mouse) a placa para abrir o menu de venda, nesse menu será exibidas todas as informações necessárias para vender um item.
+
+#### Item
+
+Na parte superior, será exibido o **item que está sendo comprado pela loja.**
+
+#### Preço
+
+Logo abaixo serão exibidos, a moeda, valor e quantidade selecionada para a venda do item pelo cliente.
+
+{% hint style="info" %}
+O valor é atualizado automaticamente ao selecionar a quantidade.
+{% endhint %}
+
+#### Quantidade
+
+É possível escolher a quantidade de **itens que deseja vender para a loja**, ao alterar a quantidade, o valor será atualizado automaticamente na linha de cima.
+
+#### Finalização
+
+Na ultima linha, terá a opção de  confirmar ou cancelar a venda do item para a loja, ao confirmar, o sistema irá validar a quantidade de itens e a quantidade de coins, e estando tudo certo, a transação é realizada.
+
+{% hint style="success" %}
+&#x20;**Coins adicionados para o cliente e item enviado para o dono pela placa.**
 {% endhint %}
 
 ## Comandos

@@ -68,7 +68,7 @@ description: >-
 ### 8. Loja Pessoal:
 
 * Descrição: Crie sua própria loja em baús de maneira simples.
-* Como criar: Segure o item, agache e hite o baú com ele. O restante da configuração aparece no chat.
+* Como criar: Segure o item, agache e hite o baú com ele. O restante da configuração aparece no menu.
 * Comando: `/lojaplaca`
 
 ***
@@ -249,8 +249,8 @@ description: >-
 ### 31. Mercado:
 
 * Descrição: Negocie seus itens de forma virtual com outros jogadores.
-* Informações: Taxa de venda de 5% (Cargo Especial é isento). Os anúncios expiram após 2 dias.
-* Comando: `/mercado`
+* Informações: Taxa de venda de 5% (Vendas em Cash não sofrem cobrança de taxas). Os anúncios expiram após 7 dias.
+* Comando: `/ah`
 
 ***
 

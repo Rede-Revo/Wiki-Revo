@@ -27,7 +27,7 @@ description: >-
 * Como conseguir coins:
   * Produza recursos para a `/warp loja` (Plantações, Minérios, Drops e mais).
   * Venda itens em lojas de jogadores com `/pwarp`.
-  * Utilize o mercado virtual através do comando `/mercado`.
+  * Utilize o mercado virtual através do comando `/ah`.
   * Participe e vença eventos agendados ou automáticos.
 
 ***
