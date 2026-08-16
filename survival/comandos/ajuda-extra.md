@@ -45,7 +45,7 @@ description: >-
 ### 5. Liga:
 
 * Descrição: Competição mensal e de temporada em busca do topo do ranking.
-* Recompensas Mensais: 1º ao 3º lugar ganham milhões de Coins, Cash, TAG especial e porcentagem das taxas do mercado.
+* Recompensas Mensais: 1º ao 3º lugar ganham milhões de Coins, Cash, TAG especial.
 * Recompensas Temporada: 1º ao 3º lugar ganham troféu e prêmios em Cash ou dinheiro real (até R$ 300,00 para o primeiro lugar).
 * Comando: `/liga`
 

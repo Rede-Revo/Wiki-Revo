@@ -28,7 +28,7 @@ Uma mesma loja pode vender itens, comprar itens ou fazer as duas ações ao mesm
 Criar uma placa de loja é bem simples.
 
 1. Segure o item na mão principal que quer vender, comprar ou fazer os dois.
-2. Agache e bata em um baú, barril ou caixa de shulker.
+2. Agache e bata em um baú ou barril.
 3. Após isso, uma tela será aberta solicitando o valor que deseja vender o item.
 4. Informe o valor que deseja vender o item e confirme. (Mesmo que for apenas comprar itens de outros jogadores, é necessário informar um valor aqui, mas é possível alterar isso depois.)
 5. Pronto, você já tem uma placa vendendo item. (Por padrão, a placa é criada com a moeda Coins.)
