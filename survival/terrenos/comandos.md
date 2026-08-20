@@ -13,7 +13,7 @@ coverY: 0
 
 ### Consulta e remoção
 
-<table><thead><tr><th width="227.3333740234375">Comando</th><th width="510">Descrição</th></tr></thead><tbody><tr><td>/terreno lista</td><td>Exibe no chat uma lista com todos os seus terrenos.</td></tr><tr><td>/terreno desproteger</td><td>Deleta o terreno que você estiver.</td></tr><tr><td>/terreno info</td><td>Exibe no chat informações sobre o terreno.</td></tr><tr><td>/terreno desprotegertudo</td><td>Solicita a remoção de todos os seus terrenos.</td></tr><tr><td>/terreno reivindicar</td><td>Solicita a reinvindicação de um <a href="https://wiki.rederevo.com/survival/terrenos/terreno-abandonado">terreno abandonado</a>.</td></tr></tbody></table>
+<table><thead><tr><th width="227.3333740234375">Comando</th><th width="510">Descrição</th></tr></thead><tbody><tr><td>/terreno lista</td><td>Exibe no chat uma lista com todos os seus terrenos.</td></tr><tr><td>/terreno desproteger</td><td>Deleta o terreno que você estiver.</td></tr><tr><td>/terreno info</td><td>Exibe no chat informações sobre o terreno.</td></tr><tr><td>/terreno desprotegertudo</td><td>Solicita a remoção de todos os seus terrenos.</td></tr><tr><td>/terreno reivindicar</td><td>Solicita a reivindicação de um <a href="https://wiki.rederevo.com/survival/terrenos/terreno-abandonado">terreno abandonado</a>.</td></tr></tbody></table>
 
 ### Permissões
 

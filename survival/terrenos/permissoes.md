@@ -26,6 +26,7 @@ coverY: 0
 #### ACESSO
 
 * Permite realizar trocas com aldeões.
+* Permite usar o transportador de mobs.
 * Permite nomear mobs com etiquetas.
 * Permite alimentar animais.
 * Permite domar lobos, gatos e papagaios.
@@ -34,11 +35,11 @@ coverY: 0
 * Permite usar o baú do fim.
 * Permite interagir com alçapões, portas, portões, alavancas, placas de pressão, comparadores de redstone e repetidores de redstone.
 * Permite detonar TNT e cristais do fim.\*
-* Permite iniciar invações (raids).
 * Permite usar armas e itens arremessáveis.
 * &#x20;Permite usar barcos, jangadas e carrinhos de mina.
 * Permite remover lã das ovelhas.
-* Permite usar camas, âncoras de ranascimento, sinos e vasos de flores.
+* Permite usar camas, âncoras de renascimento, sinos e vasos de flores.
+* Permite voar dentro do terreno.\*\*
 
 
 
@@ -50,13 +51,14 @@ A permissão de acesso não permite entrar no terreno caso ele esteja privado.
 
 #### ARMAZÉM
 
-Permite todas as permissões de [#acesso](permissoes.md#acesso "mention"), com exceção de não permitir matar mobs pacíficos.
+Permite todas as permissões de [#acesso](permissoes.md#acesso "mention").
 
 * Permite domar cavalos, lhamas e outros mobs semelhantes.
+* Permite matar todos os mobs.
 * Permite entrar no terreno mesmo que ele esteja privado.
 * Permite definir home dentro do terreno.
-* Permite interagir com bancadas de tabalho em geral.
-* Permite interagir com baús, shulker, molduras, estantes, barris e suportes de armadura.
+* Permite interagir com bancadas de trabalho em geral.
+* Permite interagir com baús, caixa de shulker, estantes, barris e suportes de armadura.
 * Permite usar barcos e jangadas com baú.
 * Permite interagir com todas as variações de carrinhos de mina.
 * Permite prender mobs usando laço.
@@ -66,14 +68,18 @@ Permite todas as permissões de [#acesso](permissoes.md#acesso "mention"), com e
 
 #### CONFIAR
 
-Permite todas as permissões de [#acesso](permissoes.md#acesso "mention") e [#armazem](permissoes.md#armazem "mention").
+Permite todas as permissões de [#armazem](permissoes.md#armazem "mention").
 
 * Permite colocar e quebrar blocos.
-* Permite usar caldeirões composteiras, colmeias e suas variações.
+* Permite iniciar invasões (raids).
+* Permite usar caldeirões, composteira, colmeias e suas variações.
+* Permite interagir com molduras.
 * Permite usar pederneiras.
 * Permite ordenhar vacas e cabras.
 * Permite criar placas de loja.
-* Permite voar dentro do terreno.\*\*
+* Permite usar o transformador de moldura.
+
+
 
 
 

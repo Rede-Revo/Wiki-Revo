@@ -12,7 +12,7 @@ A Picareta Natalina é uma ferramenta especial disponibilizada durante o evento 
 
 A versão com Toque Suave Ⅰ funciona como uma picareta comum, sem nenhuma habilidade adicional.
 
-A versão com Toque Suave ⅠⅠ possue efeitos especiais relacionados a quebra de spawners e McMMO.
+A versão com Toque Suave ⅠⅠ possui efeitos especiais relacionados a quebra de spawners e McMMO.
 
 É importante ressaltar que o encantamento Toque Suave ⅠⅠ é exclusivo da Picareta Natalina 2024, não podendo ser encontrado em livros ou em outras ferramentas.
 

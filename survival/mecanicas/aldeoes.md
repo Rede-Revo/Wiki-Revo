@@ -12,7 +12,7 @@ No servidor, algumas mecânicas dos aldeões foram modificadas para melhorar o d
 
 ### Principais diferenças
 
-Algumas mecânicas funcionam de forma diferente do Minecraft convencional. As principais mundaças é que os aldeões não reproduzem no Survival, as trocas e redução de preço são limitadas e eles precisam ficar lobotizados para pode realizar trocas.
+Algumas mecânicas funcionam de forma diferente do Minecraft convencional. As principais mudanças é que os aldeões não reproduzem no Survival, as trocas e redução de preço são limitadas e eles precisam ficar lobotizados para pode realizar trocas.
 
 ### Reprodução
 

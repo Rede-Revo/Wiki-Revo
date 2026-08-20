@@ -14,15 +14,15 @@ O mercado é um sistema que permite aos jogadores comprar e anunciar itens para 
 
 
 
-| Comando                                        | Descrição                                                                                                                                                                                          |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| /ah                                            | Abre o menu com todos os itens anunciados                                                                                                                                                          |
-| /ah open \[menu]                               | Abre o menu especificado, caso não informe nenhum abrirá o menu padrão, main.                                                                                                                      |
-| /ah sell \<valor> \<quantidade> \<Coins\|Cash> | Anuncia o item que estiver segurando pelo valor, quantidade e moeda informada.                                                                                                                     |
-| /ah search \[pesquisa]                         | Inicia uma pesquisa dos itens anunciados atualmente. É possível pequisar por nome, descrição, material ou nick. Caso não informe uma pesquisa, o sistema abrirá uma placa para inserir a pesquisa. |
-| /ah view \[nick]                               | Exibe todos os itens anunciados pelo jogador especificado, caso não informe nenhum jogador, o sistema abrirá seus itens anunciados.                                                                |
-| /ah history                                    | Exibe o historico de todos os itens vendidos. É exibido os itens de todos os jogadores.                                                                                                            |
-| /ah deleted                                    | Abre um menu exibindo todos os itens excluidos pelo sistema, itens expirados.                                                                                                                      |
+| Comando                                        | Descrição                                                                                                                                                                                           |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| /ah                                            | Abre o menu com todos os itens anunciados                                                                                                                                                           |
+| /ah open \[menu]                               | Abre o menu especificado, caso não informe nenhum abrirá o menu padrão, main.                                                                                                                       |
+| /ah sell \<valor> \<quantidade> \<Coins\|Cash> | Anuncia o item que estiver segurando pelo valor, quantidade e moeda informada.                                                                                                                      |
+| /ah search \[pesquisa]                         | Inicia uma pesquisa dos itens anunciados atualmente. É possível pesquisar por nome, descrição, material ou nick. Caso não informe uma pesquisa, o sistema abrirá uma placa para inserir a pesquisa. |
+| /ah view \[nick]                               | Exibe todos os itens anunciados pelo jogador especificado, caso não informe nenhum jogador, o sistema abrirá seus itens anunciados.                                                                 |
+| /ah history                                    | Exibe o histórico de todos os itens vendidos. É exibido os itens de todos os jogadores.                                                                                                             |
+| /ah deleted                                    | Abre um menu exibindo todos os itens excluídos pelo sistema, itens expirados.                                                                                                                       |
 
 
 

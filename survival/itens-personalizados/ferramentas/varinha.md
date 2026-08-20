@@ -57,11 +57,11 @@ Os diferentes benefícios aplicados conforme a mecânica de cada sistema e não 
 {% endhint %}
 
 {% hint style="info" %}
-Os talismã de Experiência podem ser encontrados na [Caixa Divina](https://wiki.rederevo.com/survival/caixas/divina#itens).
+A Varinha de venda pode ser encontrada na [Caixa Divina](https://wiki.rederevo.com/survival/caixas/divina#itens).
 {% endhint %}
 
 
 
 
 
-<sup><sub>\*Os itens adicionados no<sub></sup> <sup><sub> </sup><sup><sub><kbd>/naovender<kbd><sub></sup><sup><sub>, não serão vendidos mesmo usando o item.<sub></sup>\ <sup><sub>\*\*Exceto caso use um Núcleo de Proteção ou sistema equivalente.<sub></sup>
+<sup><sub>\*Os itens adicionados no /naovender, não serão vendidos mesmo usando o item.<sub></sup>\ <sup><sub>\*\*Exceto caso use um Núcleo de Proteção ou sistema equivalente.<sub></sup>
