@@ -9,6 +9,8 @@ coverY: 0
 
 ## Comandos
 
+`terreno confiarfarm <nick>` → Concede permissão de farmar. [#farm](permissoes.md#farm "mention")
+
 `/terreno confiaracesso <nick>` → Concede permissão de acesso. [#acesso](permissoes.md#acesso "mention")
 
 `/terreno confiararmazem <nick>` → Concede permissão de Armazém. [#armazem](permissoes.md#armazem "mention")
@@ -23,7 +25,17 @@ coverY: 0
 
 ## Níveis de acesso
 
-#### ACESSO
+### FARM
+
+* Permite plantar, quebrar e coletar plantações.
+* Permite usar farinha de osso em todos os blocos possíveis.
+* Permite interagir com enderchest.
+* Permite usar bancadas de trabalho que não armazenem itens.
+* Permite detonar TNT.\*
+* Permite usar armas arremessáveis.
+* Permite interagir com portas, alçapões e portões.&#x20;
+
+### ACESSO
 
 * Permite realizar trocas com aldeões.
 * Permite usar o transportador de mobs.
@@ -49,7 +61,7 @@ A permissão de acesso não permite entrar no terreno caso ele esteja privado.
 
 
 
-#### ARMAZÉM
+### ARMAZÉM
 
 Permite todas as permissões de [#acesso](permissoes.md#acesso "mention").
 
@@ -66,7 +78,7 @@ Permite todas as permissões de [#acesso](permissoes.md#acesso "mention").
 
 
 
-#### CONFIAR
+### CONFIAR
 
 Permite todas as permissões de [#armazem](permissoes.md#armazem "mention").
 
@@ -83,7 +95,7 @@ Permite todas as permissões de [#armazem](permissoes.md#armazem "mention").
 
 
 
-#### CONFIARTUDO
+### CONFIARTUDO
 
 Permite todas as permissões de [#confiar](permissoes.md#confiar "mention").
 

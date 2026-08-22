@@ -17,7 +17,9 @@ coverY: 0
 
 ### Permissões
 
-<table><thead><tr><th width="302">Comando</th><th width="436.6666259765625">Descrição</th></tr></thead><tbody><tr><td>/terreno confiaracesso &#x3C;nick></td><td>Concede permissão de acesso.</td></tr><tr><td>/terreno confiararmazem &#x3C;nick></td><td>Concede permissão de armazém.</td></tr><tr><td>/terreno confiar &#x3C;nick></td><td>Concede permissão de construção.</td></tr><tr><td>/terreno confiartudo &#x3C;nick></td><td>Concede permissão de gerenciamento.</td></tr><tr><td>/terreno confiarlista</td><td>Exibe no chat todos os jogadores com permissão.</td></tr><tr><td>/terreno desconfiar &#x3C;nick></td><td>Remove a permissão dos jogadores.</td></tr></tbody></table>
+<table><thead><tr><th width="302">Comando</th><th width="436.6666259765625">Descrição</th></tr></thead><tbody><tr><td>/terreno confiarfarm &#x3C;nick></td><td>Concede permissão para interagir com plantações.</td></tr><tr><td>/terreno confiaracesso &#x3C;nick></td><td>Concede permissão de acesso.</td></tr><tr><td>/terreno confiararmazem &#x3C;nick></td><td>Concede permissão de armazém.</td></tr><tr><td>/terreno confiar &#x3C;nick></td><td>Concede permissão de construção.</td></tr><tr><td>/terreno confiartudo &#x3C;nick></td><td>Concede permissão de gerenciamento.</td></tr><tr><td>/terreno confiarlista</td><td>Exibe no chat todos os jogadores com permissão.</td></tr><tr><td>/terreno desconfiar &#x3C;nick></td><td>Remove a permissão dos jogadores.</td></tr></tbody></table>
+
+
 
 {% hint style="info" %}
 Você também pode usar a tag #all no lugar do nick para conceder essa permissão para todos os jogadores.
