@@ -9,7 +9,7 @@ coverY: 0
 
 ## Comandos
 
-`terreno confiarfarm <nick>` → Concede permissão de farmar. [#farm](permissoes.md#farm "mention")
+`/terreno confiarfarm <nick>` → Concede permissão de farmar. [#farm](permissoes.md#farm "mention")
 
 `/terreno confiaracesso <nick>` → Concede permissão de acesso. [#acesso](permissoes.md#acesso "mention")
 

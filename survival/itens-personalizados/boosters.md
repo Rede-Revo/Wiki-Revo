@@ -20,16 +20,16 @@ Os Boosters de Experiência aumentam temporariamente a quantidade de experiênci
 
 Existem quatro versões comuns.&#x20;
 
-<table><thead><tr><th width="287.666748046875">Booster</th><th width="130">Bônus</th><th width="167.66650390625">Duração</th></tr></thead><tbody><tr><td>Booster de Experiencia Pequeno</td><td>50%</td><td>1 hora</td></tr><tr><td>Booster de Experiencia Médio</td><td>75%</td><td>1 hora</td></tr><tr><td>Booster de Experiencia Grande</td><td>100%</td><td>1 hora</td></tr><tr><td>Benção Dracônica (mcMMO)</td><td>125%</td><td>1 hora</td></tr></tbody></table>
+<table><thead><tr><th width="287.666748046875">Booster</th><th width="130">Bônus</th><th width="167.66650390625">Duração</th></tr></thead><tbody><tr><td>Booster de Experiencia Pequeno</td><td>50%</td><td>1 hora</td></tr><tr><td>Booster de Experiencia Médio</td><td>75%</td><td>1 hora</td></tr><tr><td>Booster de Experiencia Grande</td><td>100%</td><td>1 hora</td></tr><tr><td>bênção Dracônica (mcMMO)</td><td>125%</td><td>1 hora</td></tr></tbody></table>
 
 Basta beber o item para ativar o benefício.
 
 {% hint style="info" %}
-O booster chamado benção dracônica (mcMMO) está disponível no npc do end, sua disponibilidade é limitada, acompanhe nosso discord para saber quando irá estocar esse booster.
+O booster chamado bênção dracônica (mcMMO) está disponível no npc do end, sua disponibilidade é limitada, acompanhe nosso discord para saber quando irá estocar esse booster.
 {% endhint %}
 
 {% hint style="warning" %}
-Não é possível ativer um booster enquanto o outro ainda está ativo. Caso já tenha ativado um booster, precisa aguardar o seu término para ativar o outro.&#x20;
+Não é possível ativar um booster enquanto o outro ainda está ativo. Caso já tenha ativado um booster, precisa aguardar o seu término para ativar o outro.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -79,7 +79,7 @@ Existem três versões:
 Basta beber o item para ativar o benefício.
 
 {% hint style="warning" %}
-Não é possível ativer um booster enquanto o outro ainda está ativo. Caso já tenha ativado um booster de vendas, precisa aguardar o seu término para ativar o outro.&#x20;
+Não é possível ativar um booster enquanto o outro ainda está ativo. Caso já tenha ativado um booster de vendas, precisa aguardar o seu término para ativar o outro.&#x20;
 {% endhint %}
 
 {% hint style="info" %}

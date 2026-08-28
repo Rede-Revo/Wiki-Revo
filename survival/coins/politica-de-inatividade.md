@@ -4,6 +4,12 @@ hidden: true
 
 # 📴 Política de Inatividade
 
+{% hint style="danger" %}
+**IMPORTANTE**
+
+Sistema está desativado no momento.
+{% endhint %}
+
 Para manter a economia do servidor saudável e incentivar a participação ativa dos jogadores, implementamos as seguintes penalidades para inatividade:
 
 * **Inatividade de 90 dias**: A penalidade agora é de 10.000 coins por dia para jogadores offline por 90 dias consecutivos.
@@ -14,3 +20,9 @@ Para manter a economia do servidor saudável e incentivar a participação ativa
 * **Inatividade de 360 dias**: Jogadores que não logarem por 360 dias consecutivos enfrentarão uma perda diária de 100.000 coins.
 
 Mantenha-se ativo para evitar perdas significativas!
+
+{% hint style="danger" %}
+**IMPORTANTE**
+
+Sistema está desativado no momento.
+{% endhint %}
