@@ -57,9 +57,10 @@
     * [Set de Vendas](survival/itens-personalizados/vestimentas/armadura-vendas.md)
     * [Botas de coelho](survival/itens-personalizados/vestimentas/botas-coelho.md)
     * [Set Tectônico](survival/itens-personalizados/vestimentas/tectonico.md)
+    * [Botas do Saltitante](survival/itens-personalizados/vestimentas/botas-saltitante.md)
   * [Boosters](survival/itens-personalizados/boosters.md)
   * [Diversos](survival/itens-personalizados/outros/README.md)
-    * [Ovo de Páscoa](survival/itens-personalizados/outros/ovo-de-pacoa-chocavel.md)
+    * [Ovo de Páscoa](survival/itens-personalizados/outros/ovo-de-pascoa-chocavel.md)
     * [Talismã de Experiência](survival/itens-personalizados/outros/talisma.md)
     * [Núcleo de Proteção](survival/itens-personalizados/outros/nucleo.md)
     * [Bônus de Venda e Desconto](survival/itens-personalizados/outros/vendas-descontos.md)
@@ -270,3 +271,14 @@
 ## Guia Moderador
 
 * [Como usar o CoreProtect](guia-moderador/como-usar-o-coreprotect.md)
+
+## Troubleshooting
+
+* [Contas e acesso](troubleshooting/contas-acesso/README.md)
+  * [Transferência de conta](troubleshooting/contas-acesso/troca-transferencia-conta.md)
+* [Itens, inventários e caixas](troubleshooting/itens-inv-caixas/README.md)
+  * [Item perdeu nome, lore, descrição ou textura](troubleshooting/itens-inv-caixas/item-sem-lore-descricao-textura.md)
+* [Punições e denúncias](troubleshooting/punicoes-denuncias/README.md)
+  * [Reanálise ou solicitação de provas de punições](troubleshooting/punicoes-denuncias/punicoes-analise-provas.md)
+* [Terrenos](troubleshooting/claims/README.md)
+  * [Terrenos próximos](troubleshooting/claims/claim-remocao-staff.md)

@@ -127,6 +127,10 @@ Logo abaixo serão exibidos, a moeda, valor e quantidade selecionada para a comp
 O valor é atualizado automaticamente ao selecionar a quantidade ou aplicar um cupom.
 {% endhint %}
 
+{% hint style="info" %}
+Jogadores mobile precisam clicar na placa apenas para realizar essa ação.
+{% endhint %}
+
 #### Quantidade
 
 É possível escolher a quantidade de **itens que deseja comprar**, ao alterar a quantidade, o valor será atualizado automaticamente na linha de cima.
@@ -157,6 +161,10 @@ Logo abaixo serão exibidos, a moeda, valor e quantidade selecionada para a vend
 
 {% hint style="info" %}
 O valor é atualizado automaticamente ao selecionar a quantidade.
+{% endhint %}
+
+{% hint style="info" %}
+Jogadores mobile precisam executar a ação de "quebrar" a placa para realizar essa ação.
 {% endhint %}
 
 #### Quantidade
