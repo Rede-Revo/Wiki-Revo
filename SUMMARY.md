@@ -34,6 +34,7 @@
   * [🏷️ TAGs](survival/cash/tags.md)
   * [💰 Adquirir Cash](https://rederevo.com/category/cash)
 * [🛡️ Clãs](survival/clas/README.md)
+  * [Comandos](survival/clas/comandos.md)
   * [🎖️ Liga de Clãs](survival/clas/liga-de-clas.md)
   * [⚠️ Sistema de Avisos](survival/clas/sistema-de-avisos.md)
 * [📦 Caixas](survival/caixas/README.md)

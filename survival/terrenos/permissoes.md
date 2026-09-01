@@ -34,6 +34,7 @@ coverY: 0
 * Permite detonar TNT.\*
 * Permite usar armas arremessáveis.
 * Permite interagir com portas, alçapões e portões.&#x20;
+* Permite deixar mobs com o transportador de mobs.
 
 ### ACESSO
 
@@ -90,6 +91,8 @@ Permite todas as permissões de [#armazem](permissoes.md#armazem "mention").
 * Permite ordenhar vacas e cabras.
 * Permite criar placas de loja.
 * Permite usar o transformador de moldura.
+* Permite alterar o gerador de criaturas usado o ovo gerador de outro mob.
+* Permite invocar mobs usando o ovo gerador desse mob.
 
 
 

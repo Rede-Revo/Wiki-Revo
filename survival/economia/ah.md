@@ -6,7 +6,7 @@ description: Menu onde jogadores podem vender e comprar itens.
 
 ## O que é o Mercado? <a href="#criar-uma-loja" id="criar-uma-loja"></a>
 
-O mercado é um sistema que permite aos jogadores comprar e anunciar itens para a venda de maneira simples, sem precisar visitar uma loja. Ele pode ser acessado de qualquer lugar\*, e as negociações podem ser realizadas usando as duas moedas disponíveis no servidor, coins ou cash.
+O mercado é um sistema que permite aos jogadores comprar e anunciar itens para a venda de maneira simples, sem precisar visitar uma loja. Ele pode ser acessado de qualquer lugar\*, e as negociações podem ser realizadas usando as duas moedas disponíveis no servidor, Coins ou Cash.
 
 
 
