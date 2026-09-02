@@ -34,12 +34,10 @@ coverY: 0
 * Permite detonar TNT.\*
 * Permite usar armas arremessáveis.
 * Permite interagir com portas, alçapões e portões.&#x20;
-* Permite deixar mobs com o transportador de mobs.
 
 ### ACESSO
 
 * Permite realizar trocas com aldeões.
-* Permite usar o transportador de mobs.
 * Permite nomear mobs com etiquetas.
 * Permite alimentar animais.
 * Permite domar lobos, gatos e papagaios.
@@ -84,6 +82,7 @@ Permite todas as permissões de [#acesso](permissoes.md#acesso "mention").
 Permite todas as permissões de [#armazem](permissoes.md#armazem "mention").
 
 * Permite colocar e quebrar blocos.
+* Permite usar o transportador de mobs.
 * Permite iniciar invasões (raids).
 * Permite usar caldeirões, composteira, colmeias e suas variações.
 * Permite interagir com molduras.

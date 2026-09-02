@@ -47,5 +47,5 @@ Por mais que os dados internos sejam mantidos, existe uma exceção importante, 
 {% endhint %}
 
 {% hint style="info" %}
-O Trasportador de Mobs pode ser encontrado no [Passe de Batalha](https://wiki.rederevo.com/survival/passe-de-batalha).
+O Trasportador de Mobs pode ser encontrado no [Passe de Batalha](https://wiki.rederevo.com/survival/passe-de-batalha) e no end com o npc Dracônico .
 {% endhint %}

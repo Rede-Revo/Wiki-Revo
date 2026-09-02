@@ -43,6 +43,7 @@
   * [Caixa Épica](survival/caixas/epica.md)
   * [Caixa Temporada](survival/caixas/temporada.md)
   * [Caixa Divina](survival/caixas/divina.md)
+  * [Caixas Temáticas](survival/caixas/tematicas.md)
 * [🪅 Super Pinhata](sistemas/cash/super-pinhata.md)
 * [✨ Itens personalizados](survival/itens-personalizados/README.md)
   * [Ferramentas](survival/itens-personalizados/ferramentas/README.md)

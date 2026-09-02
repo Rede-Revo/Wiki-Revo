@@ -68,14 +68,18 @@ Sistema válido para todos os jogadores, inclusive jogadores banidos.
 ### Remoção
 
 * Remoção manual realizada pela Staff após abertura de ticket.
-* É preciso que um ticket seja aberto informando as coordenadas da proteção.
-*   O ticket será resolvido em até 3 dias uteis após sua abertura.
+* É preciso que um ticket seja aberto informando as coordenadas e mundo da proteção.
+* Informe também o nick do jogador denunciado.
+* O ticket será resolvido em até 3 dias uteis após sua abertura.
+  * O tempo pode variar por motivos de força maior.
 
-    * O tempo pode variar por motivos de força maior.
+### Requisitos
 
+* O terreno denunciado precisa ter sido criado em menos de 10 dias.
+* O terreno do denunciante precisa ter menos de 50.000 blocos.&#x20;
+* O terreno do denunciado não pode ser fruto de reivindicação, já que ao reivindicar um terreno, o prazo de criação passa a ser o do terreno anterior.&#x20;
 
-
-    ### **Motivo**
+### **Motivo**
 
 {% hint style="danger" %}
 ## Regra 15 - Anti-jogo <a href="#id-01" id="id-01"></a>

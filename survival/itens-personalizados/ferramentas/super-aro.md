@@ -8,15 +8,15 @@ coverY: 0
 
 ## Introdução
 
-A Enxada de páscoa com super aro, é uma ferramenta especial capaz de arar vários blocos  de uma só vez, sua área de atuação varia conforme o nível do Super Aro presente no item.
+A Enxada de páscoa com Super Aro, é uma ferramenta especial capaz de arar vários blocos  de uma só vez, sua área de atuação varia conforme o nível do Super Aro presente no item.
 
 ## Funcionamento
 
-Ao utilizar a Enxada de Páscoa com super aro para arar um bloco o super aro ara também os blocos em volta dentro da área correspondente ao nível do item.
+Ao utilizar a Enxada de Páscoa com Super Aro para arar um bloco o Super Aro ara também os blocos em volta dentro da área correspondente ao nível do item.
 
 A área é representada no formato, **largura** x **comprimento**.
 
-<table><thead><tr><th width="159.6666259765625">Nível</th><th width="112.6666259765625" align="center">Área</th><th width="99.666748046875" data-type="number">Blocos</th></tr></thead><tbody><tr><td>Explosão I</td><td align="center">3 x 1</td><td>3</td></tr><tr><td>Explosão II</td><td align="center">3 x 2</td><td>6</td></tr><tr><td>Explosão III</td><td align="center">3 x 3 </td><td>9</td></tr></tbody></table>
+<table><thead><tr><th width="159.6666259765625">Nível</th><th width="112.6666259765625" align="center">Área</th><th width="99.666748046875" data-type="number">Blocos</th></tr></thead><tbody><tr><td>Super Aro I</td><td align="center">3 x 1</td><td>3</td></tr><tr><td>Super Aro II</td><td align="center">3 x 2</td><td>6</td></tr><tr><td>Super Aro III</td><td align="center">3 x 3 </td><td>9</td></tr></tbody></table>
 
 Qualquer bloco possível arar dentro do raio do nível da ferramenta, será arado de forma automática.&#x20;
 
@@ -42,7 +42,7 @@ Ao remover os encantamentos a função de Super Aro não perderá seu efeito.
 
 ## Descrição
 
-A descrição ou lore do item identifica o nível do Super Aro e o jogador que recebeu ela da caixa. Além disso, é pela descrição que você consegue validar se o item de fato é uma Enxada de Páscoa com super aro.
+A descrição ou lore do item identifica o nível do Super Aro e o jogador que recebeu ela da caixa. Além disso, é pela descrição que você consegue validar se o item de fato é uma Enxada de Páscoa com Super Aro.
 
 Super Aro <mark style="color:orange;">I</mark>-<mark style="color:orange;">II</mark>-<mark style="color:orange;">III</mark>
 
@@ -54,7 +54,7 @@ Raridade: <mark style="color:orange;">✦✦✦✦✦</mark>
 
 ## Obtenção
 
-A Enxada de Páscoa com super aro foi disponibilizada durante a Caixa de páscoa 2025, atualmente o item não pode mais ser obtido oficialmente pelo servidor.
+A Enxada de Páscoa com Super Aro foi disponibilizada durante a Caixa de páscoa 2025, atualmente o item não pode mais ser obtido oficialmente pelo servidor.
 
 Esse item ainda está circulando pelo servidor, sendo possível obter ele com outros jogadores.&#x20;
 

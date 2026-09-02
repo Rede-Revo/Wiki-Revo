@@ -108,7 +108,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
-
+* <img src="../.gitbook/assets/FelipinhoProMAX.png" alt="" data-size="line"> <mark style="color:green;">**FelipinhoProMAX**</mark>**&#x20;(data de entrada: 01/09/2026)**
 
 ## <img src="../.gitbook/assets/image (9) (1) (2) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
