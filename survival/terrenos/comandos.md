@@ -34,7 +34,7 @@ Você também pode usar a tag #all no lugar do nick para conceder essa permissã
 <table><thead><tr><th width="227.3333740234375">Comando</th><th width="510">Descrição</th></tr></thead><tbody><tr><td>/terreno explosoes</td><td>Alterna a permissão para explosões quebrarem blocos dentro do terreno.</td></tr><tr><td>/terreno explosoes on</td><td>Permite que as explosões quebrem blocos dentro do terreno.</td></tr><tr><td>/terreno explosoes off</td><td>Impede que as explosões quebrem blocos dentro do terreno.</td></tr></tbody></table>
 
 {% hint style="warning" %}
-Isso também é válido para mobs, como o creeper, evite sair do jogo com essa opção ligada.
+Isso também é válido para mobs como o creeper, evite sair do jogo com essa opção ligada.
 {% endhint %}
 
 ### Controle de entrada

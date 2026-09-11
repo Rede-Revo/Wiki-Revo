@@ -7,6 +7,12 @@ coverY: 0
 
 # 📱 Vincular conta Bedrock e Java
 
+{% hint style="danger" %}
+**IMPORTANTE**
+
+Sistema está desativado no momento.
+{% endhint %}
+
 **Como Funciona**[**​**](https://wiki.armamc.com/#como-funciona)
 
 Ao vincular sua conta Java com sua Conta Bedrock você entrará pelo Bedrock Edition mas carregará os dados da sua conta Java. Você poderá jogar no celular, Xbox, Playstation usando sua conta Java após vincular as contas.
@@ -56,3 +62,9 @@ Sua gamertag é seu nickname dentro do servidor sem o `*`
 Você também pode visualizar sua gamertag no launcher Bedrock:
 
 <figure><img src="../../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+**IMPORTANTE**
+
+Sistema está desativado no momento.
+{% endhint %}

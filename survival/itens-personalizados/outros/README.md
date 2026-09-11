@@ -6,5 +6,5 @@ coverY: 0
 
 # Diversos
 
-## Em breve...
+##
 

@@ -89,3 +89,9 @@ coverY: 0
 {% hint style="info" %}
 Pilhagem aumenta em **1.1x** por nível a chance de drop de todas as cabeças
 {% endhint %}
+
+{% hint style="danger" %}
+**IMPORTANTE**
+
+Sistema está desativado no momento.
+{% endhint %}
