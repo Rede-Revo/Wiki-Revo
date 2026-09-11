@@ -88,7 +88,6 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 * <img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> <mark style="color:red;">**Beazika\_**</mark>**&#x20;** **(data de entrada: 13/09/2022)**
 * <img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line"> <mark style="color:red;">**ManoBrelson**</mark>**&#x20;(data de entrada: 11/06/2024)**
 * <img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="line"> <mark style="color:red;">**AndreLasOliveira**</mark>**&#x20;(data de entrada: 27/06/2025)**
-* <img src="../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> <mark style="color:red;">**Andre12768**</mark>**&#x20;(data de entrada 03/07/2025)**
 * <img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> <mark style="color:red;">**uGuiKz**</mark>**&#x20;(data de entrada: 12/11/2025)**
 * <img src="../.gitbook/assets/image (119).png" alt="" data-size="line"> <mark style="color:red;">**nicktryky**</mark>**&#x20;(data de entrada: 27/05/2026)**
 * <img src="../.gitbook/assets/image (121).png" alt="" data-size="line"> <mark style="color:red;">**crashzada**</mark>**&#x20;(data de entrada: 27/05/2026)**
