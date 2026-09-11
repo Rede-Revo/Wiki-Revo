@@ -29,7 +29,7 @@ Nosso principal objetivo é selecionar os jogadores mais bem capacitados e adequ
 
 ### Onde posso fazer o formulário?
 
-Em nosso [discord](https://discord.com/invite/rederevo) no canal [#📬・central-de-suporte](https://discord.com/channels/793269891557490688/929227946512777216) você seleciona a opção do formulário no qual você tem interesse em participar na nossa equipe.
+Em nosso [Discord](https://discord.com/invite/rederevo), no canal [#Comandos](https://discord.com/channels/793269891557490688/846189183550881792), você digitará /formulario. Lá, irá abrir uma tela para você preencher informações solicitadas no formulário para fazer parte da equipe do nosso servidor.
 
 O prazo mínimo para receber a resposta é de **10 dias**. Certifique-se de que seu chat privado no Discord esteja aberto, pois o bot enviará uma mensagem para agendarmos uma reunião.
 
