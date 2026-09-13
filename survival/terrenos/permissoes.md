@@ -34,6 +34,7 @@ coverY: 0
 * Permite detonar TNT.\*
 * Permite usar armas arremessáveis.
 * Permite interagir com portas, alçapões e portões.&#x20;
+* Permite soltar cubo de enxofre.
 
 ### ACESSO
 
@@ -49,6 +50,9 @@ coverY: 0
 * Permite usar armas e itens arremessáveis.
 * &#x20;Permite usar barcos, jangadas e carrinhos de mina.
 * Permite remover lã das ovelhas.
+* Permite pegar e soltar cubo de enxofre.
+* Permite alterar ou remover o bloco dentro do cubo de enxofre.
+* Permite pegar peixes com balde com agua.
 * Permite usar camas, âncoras de renascimento, sinos e vasos de flores.
 * Permite voar dentro do terreno.\*\*
 
@@ -90,6 +94,7 @@ Permite todas as permissões de [#armazem](permissoes.md#armazem "mention").
 * Permite ordenhar vacas e cabras.
 * Permite criar placas de loja.
 * Permite usar o transformador de moldura.
+* Permite soltar peixes com balde.&#x20;
 * Permite alterar o gerador de criaturas usado o ovo gerador de outro mob.
 * Permite invocar mobs usando o ovo gerador desse mob.
 

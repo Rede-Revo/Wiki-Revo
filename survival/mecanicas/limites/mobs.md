@@ -27,6 +27,8 @@ Os limites são aplicados individualmente para cada tipo de mob, e não pela cat
 Todas as variações de um mesmo mob compartilham o mesmo limite, por exemplo, diferentes variantes de lobo são contabilizadas juntas, assim como, os aldeões de diferentes profissões continuam sendo considerados apenas como aldeões para a contagem do sistema de limites.
 
 {% hint style="danger" %}
+### **ATENÇÃO**
+
 Caso um mob seja removido automaticamente pelo sistema por ultrapassar o limite permitido, não será possível recuperar ele, incluindo quaisquer características, equipamentos ou itens associados a ele, sendo a perda permanente.
 {% endhint %}
 
@@ -167,4 +169,4 @@ Os mobs classificados como especiais possuem limite de 2 a cada 20 blocos.
 Alguns mobs não utilizam atualmente um dos limites apresentados acima.
 
 * Dragão do Fim (Não aplicável)
-* Cubo de Enxofre (Ainda não disponível no servidor)
+* Cubo de Enxofre (Ainda sem limite)

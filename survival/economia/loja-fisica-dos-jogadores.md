@@ -148,7 +148,7 @@ Caso você tenha um cupom válido da placa, poderá usar ele para obter desconto
 Na ultima linha, terá a opção de  confirmar ou cancelar a compra, ao confirmar, o sistema irá validar a quantidade de itens e a quantidade de coins estando tudo certo, a transação é realizada.
 
 {% hint style="success" %}
-&#x20;**Coins adicionados para o dono da placa e item adicionado no inventário do cliente.**
+&#x20;**Coins/Cashs adicionados para o dono da placa e item adicionado no inventário do cliente.**
 {% endhint %}
 
 ### Vendendo um item para a loja
@@ -180,7 +180,7 @@ Jogadores mobile precisam executar a ação de "quebrar" a placa para realizar e
 Na ultima linha, terá a opção de  confirmar ou cancelar a venda do item para a loja, ao confirmar, o sistema irá validar a quantidade de itens e a quantidade de coins, e estando tudo certo, a transação é realizada.
 
 {% hint style="success" %}
-&#x20;**Coins adicionados para o cliente e item enviado para o dono pela placa.**
+&#x20;**Coins/Cashs adicionados para o cliente e item enviado para o dono pela placa.**
 {% endhint %}
 
 ## Comandos
