@@ -11,6 +11,7 @@
   * [🔒 Proteção](contas/protecao.md)
   * [🔐 Recuperação](contas/recuperacao.md)
   * [🆔 Troca de Nick](contas/troca-de-nick.md)
+  * [Autenticação Java](contas/autenticar.md)
 
 ## 🌎 GLOBAL
 

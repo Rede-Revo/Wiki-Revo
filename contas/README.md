@@ -2,7 +2,7 @@
 description: Principais informações referente a sua conta dentro do servidor.
 ---
 
-# 🧑💼 Contas
+# 🧑‍💼 Contas
 
 ## Senha
 
@@ -25,3 +25,8 @@ Contas podem exibir os 2 tipos de plataforma (Bedrock e Java) com uma terceira v
 {% content-ref url="troca-de-nick.md" %}
 [troca-de-nick.md](troca-de-nick.md)
 {% endcontent-ref %}
+
+{% content-ref url="autenticar.md" %}
+[autenticar.md](autenticar.md)
+{% endcontent-ref %}
+
