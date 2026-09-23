@@ -9,7 +9,11 @@ icon: key
 Os jogadores da versão Java podem possuir contas registradas no servidor como originais ou piratas, o tipo de registro da conta define a forma de autenticação(Login) usado para entrar no servidor.&#x20;
 
 {% hint style="info" %}
-O tipo do UUID da conta é definido em seu primeiro registro no servidor e não e alterado ao mudar a forma de autenticação, isso significa que uma conta registrada como pirata em seu primeiro login continuará usando o UUID pirata mesmo após ativar a autenticação original, dessa mesma forma, uma conta registrada como original continuará usando um UUID original mesmo após ser alterado a forma de autenticação para pirata.&#x20;
+O tipo do UUID da conta é definido em seu primeiro registro no servidor e não é alterado ao mudar a forma de autenticação, isso significa que uma conta registrada como pirata em seu primeiro login continuará usando o UUID pirata mesmo após ativar a autenticação original, dessa mesma forma, uma conta registrada como original continuará usando um UUID original mesmo após ser alterado a forma de autenticação para pirata.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+O UUID funciona como a identidade da sua conta. é ele que garante que todos os seus itens, terrenos, pets, tags, homes, pwarps e progressos continuem salvos com você, independentemente de você trocar de nick ou alterar sua conta entre original e pirata.
 {% endhint %}
 
 ## Conta pirata para original
