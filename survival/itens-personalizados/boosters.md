@@ -29,7 +29,9 @@ O booster chamado bênção dracônica (mcMMO) está disponível no npc do end, 
 {% endhint %}
 
 {% hint style="warning" %}
-Não é possível ativar um booster enquanto o outro ainda está ativo. Caso já tenha ativado um booster, precisa aguardar o seu término para ativar o outro.&#x20;
+É possível ativar um novo booster mesmo que já exista outro ativo, ao fazer isso, o booster atual será substituído pelo novo, incluindo seu tempo de duração e sua porcentagem de bônus.
+
+Ao ativar um novo booster, o booster anterior será perdido e não poderá ser recuperado.
 {% endhint %}
 
 {% hint style="info" %}
@@ -79,7 +81,9 @@ Existem três versões:
 Basta beber o item para ativar o benefício.
 
 {% hint style="warning" %}
-Não é possível ativar um booster enquanto o outro ainda está ativo. Caso já tenha ativado um booster de vendas, precisa aguardar o seu término para ativar o outro.&#x20;
+É possível ativar um novo booster mesmo que já exista outro ativo, ao fazer isso, o booster atual será substituído pelo novo, incluindo seu tempo de duração e sua porcentagem de bônus.
+
+Ao ativar um novo booster, o booster anterior será perdido e não poderá ser recuperado.
 {% endhint %}
 
 {% hint style="info" %}
