@@ -202,7 +202,6 @@
 * [Mecânicas](survival/mecanicas/README.md)
   * [Aldeões](survival/mecanicas/aldeoes.md)
   * [Pets](survival/mecanicas/pet.md)
-  * [Redstone](survival/mecanicas/redstone.md)
   * [Limites](survival/mecanicas/limites/README.md)
     * [Mobs](survival/mecanicas/limites/mobs.md)
   * [Renderização](survival/mecanicas/renderizacao.md)
