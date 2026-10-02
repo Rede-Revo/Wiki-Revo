@@ -45,7 +45,7 @@ As peças possuem, por padrão, os seguintes encantamentos:
 
 ## Descrição
 
-As pelas podem ser identificadas pela sua descrição/lore, os itens que contenham o nível de Tectônico participam dessa contagem para o efeito de pressa.
+As peças podem ser identificadas pela sua descrição/lore, os itens que contenham o nível de Tectônico participam dessa contagem para o efeito de pressa.
 
 ## Obtenção
 

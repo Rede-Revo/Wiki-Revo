@@ -42,7 +42,7 @@ Jogadores de versões antigas, para ativar, é só ficar segurando o botão de i
 
 Em determinadas datas, versões especiais podem ser disponibilizadas com benefícios diferentes dos boosters convencionais.
 
-Esses itens especiais, são capaz de fornecer normalmente 150% a mais de ganho de xp McMMO durante 1 hora.
+Esses itens especiais são capazes de fornecer normalmente 150% a mais de ganho de xp McMMO durante 1 hora.
 
 ## Booster de Cooldown — McMMO
 
@@ -106,6 +106,6 @@ Quando diferentes sistemas de bonus são utilizados em conjunto, cada benefício
 
 ## Como obter
 
-Os boosters convencionais podem ser encontradas na [Caixa Divina](https://wiki.rederevo.com/survival/caixas/divina#itens).
+Os boosters convencionais podem ser encontrados na [Caixa Divina](https://wiki.rederevo.com/survival/caixas/divina#itens).
 
 Versões especiais relacionadas a eventos ou datas comemorativas possuem disponibilidade limitada pelo servidor, e por isso, não é mais possível encontrar eles pelo servidor. Após o encerramento, precisa aguardar uma nova data ou negociar com outros jogadores.

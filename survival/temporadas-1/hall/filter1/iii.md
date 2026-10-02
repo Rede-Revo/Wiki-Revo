@@ -25,7 +25,7 @@ coverY: 0
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>REI</td><td>Reinado de Cururus</td><td>13.614</td></tr><tr><td>🥈 2º Lugar</td><td>ZZZ</td><td>Bloods</td><td>8.594</td></tr><tr><td>🥉 3º Lugar</td><td>666</td><td>The Ritual</td><td>6.627</td></tr><tr><td>🏅 4º Luga</td><td>knS</td><td>Kawamura no Senshi</td><td>6.595</td></tr><tr><td>🎖️ 5º Lugar</td><td>uwu</td><td>Nike United</td><td>1.635</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>REI</td><td>Reinado de Cururus</td><td>13.614</td></tr><tr><td>🥈 2º Lugar</td><td>ZZZ</td><td>Bloods</td><td>8.594</td></tr><tr><td>🥉 3º Lugar</td><td>666</td><td>The Ritual</td><td>6.627</td></tr><tr><td>🏅 4º Lugar</td><td>knS</td><td>Kawamura no Senshi</td><td>6.595</td></tr><tr><td>🎖️ 5º Lugar</td><td>uwu</td><td>Nike United</td><td>1.635</td></tr></tbody></table>
 
 
 

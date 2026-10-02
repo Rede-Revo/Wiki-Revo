@@ -26,7 +26,7 @@ As Botas do Saltitante são inquebráveis, ou seja, não perdem durabilidade com
 
 ## Armadura
 
-Apenas do item ser uma bota de couro, as Botas do Saltitante fornecem 3 pontos de armadura, a mesma quantidade de defesa base fornecida por uma bota de netherita, mas vale lembrar, que esse valor refere apenas a armadura base do item e não significa que ele possua todos os demais atributos de uma bota de netherita.
+Apensar do item ser uma bota de couro, as Botas do Saltitante fornecem 3 pontos de armadura, a mesma quantidade de defesa base fornecida por uma bota de netherita, mas vale lembrar, que esse valor refere apenas a armadura base do item e não significa que ele possua todos os demais atributos de uma bota de netherita.
 
 ## Encantamentos
 

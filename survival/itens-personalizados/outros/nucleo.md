@@ -20,7 +20,7 @@ Caso a tentativa falhe, o núcleo irá proteger pelo menos um dos itens envolvid
 
 ## Proteção
 
-O núcleo possui duas possibilidade de proteção, sendo 100% de chance de proteger um item e 50% de chance de proteger os dois itens. Isso significa que, caso uma evolução falhe utilizando o núcleo de proteção, pelo menos um dos itens utilizados será preservado, mas além disso, existe 50% de chance dos dois itens serem preservados.&#x20;
+O núcleo possui duas possibilidades de proteção, sendo 100% de chance de proteger um item e 50% de chance de proteger os dois itens. Isso significa que, caso uma evolução falhe utilizando o núcleo de proteção, pelo menos um dos itens utilizados será preservado, mas além disso, existe 50% de chance dos dois itens serem preservados.&#x20;
 
 ## Consumo do Núcleo
 

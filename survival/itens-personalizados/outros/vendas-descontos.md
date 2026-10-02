@@ -20,7 +20,7 @@ Cada item utilizado adiciona 30 dias à duração do benefício.
 
 ## Duração acumulável
 
-A duração dos diferentes itens desse sistema é compartilhada, isso significa que utilizar outro item quanto o beneficio ainda estiver ativo adicionaŕa sua duração ao tempo restante.
+A duração dos diferentes itens desse sistema é compartilhada, isso significa que utilizar outro item enquanto o beneficio ainda estiver ativo adicionará sua duração ao tempo restante.
 
 Por exemplo, se você tiver 20 dias restantes e utilizar outro item que entrega esse benefício, passará a ficar com 50 dias restantes.
 
@@ -39,7 +39,7 @@ Buquê Amazônico e Presente Natalino pertencem ao mesmo sistema. Utilizar um en
 O benefício desses itens funcionam simultaneamente com outros sistemas de vendas, como Boosters de venda, Set de Vendas, bônus da loja e similares.
 
 {% hint style="info" %}
-Os diferentes benefícios aplicados conforme a mecânica de cada sistema e não devem ser tratados necessariamente como uma simples soma direta das porcentagens.
+Os diferentes benefícios são aplicados conforme a mecânica de cada sistema e não devem ser tratados necessariamente como uma simples soma direta das porcentagens.
 {% endhint %}
 
 ## Obtenção

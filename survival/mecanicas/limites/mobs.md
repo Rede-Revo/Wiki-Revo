@@ -15,7 +15,7 @@ Os limites de forma geral são definidos pelo seu tipo, mas pode conter variaç�
 <table><thead><tr><th width="219">Categoria</th><th>Limite</th><th data-type="content-ref">Lista</th></tr></thead><tbody><tr><td>Aldeões</td><td>8 a cada 30 blocos</td><td><a href="mobs.md#aldeao">#aldeao</a></td></tr><tr><td>Aquáticos</td><td>3 a cada 10 blocos</td><td><a href="mobs.md#aquaticos">#aquaticos</a></td></tr><tr><td>Pacíficos</td><td>4 a cada 10 blocos</td><td><a href="mobs.md#pacificos">#pacificos</a></td></tr><tr><td>Pacíficos 2</td><td>5 a cada 10 blocos</td><td><a href="mobs.md#pacificos-2">#pacificos-2</a></td></tr><tr><td>Hostis </td><td>8 a cada 10 blocos</td><td><a href="mobs.md#hostis">#hostis</a></td></tr><tr><td>Especiais</td><td>2 a cada 20 blocos</td><td><a href="mobs.md#especiais">#especiais</a></td></tr></tbody></table>
 
 {% hint style="info" %}
-Os Limites a todos os mobs, independentemente da forma como foram gerados, seja gerados naturalmente, por geradores(spawners), pelo McMMO ou pelo sistema do /pets.
+Os limites são aplicados a todos os mobs, independentemente da forma como foram gerados, seja gerados naturalmente, por geradores(spawners), pelo McMMO ou pelo sistema do /pets.
 {% endhint %}
 
 Cada mob tem um limite máximo e uma distância de verificação, quando determinado limite é atingido, os mobs que excedem esse limite serão removidos pelo sistema de limite do servidor.
@@ -93,7 +93,7 @@ Os mobs classificados como pacíficos possuem limite de 4 a cada 10 blocos.
 {% hint style="warning" %}
 ### **ATENÇÃO**
 
-Os limites também é aplicado aos burros e mulas que possuem itens armazenados em baús, caso o limite removam esses animais, os itens armazenados não poderão ser recuperados.&#x20;
+Os limites também são aplicados aos burros e mulas que possuem itens armazenados em baús, caso o sistema de limites remova esses animais, os itens armazenados não poderão ser recuperados.&#x20;
 {% endhint %}
 
 {% hint style="info" %}

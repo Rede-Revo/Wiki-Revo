@@ -25,7 +25,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>KGM</td><td>Kingdom</td><td>28.460</td></tr><tr><td>🥈 2º Lugar</td><td>CAV</td><td>Cavalos</td><td>14.023</td></tr><tr><td>🥉 3º Lugar</td><td>KG2</td><td>Kingdom2</td><td>9.495</td></tr><tr><td>🏅 4º Luga</td><td>Dry</td><td>Dry</td><td>4.783</td></tr><tr><td>🎖️ 5º Lugar</td><td>v10</td><td>Vortex10</td><td>2.522</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>KGM</td><td>Kingdom</td><td>28.460</td></tr><tr><td>🥈 2º Lugar</td><td>CAV</td><td>Cavalos</td><td>14.023</td></tr><tr><td>🥉 3º Lugar</td><td>KG2</td><td>Kingdom2</td><td>9.495</td></tr><tr><td>🏅 4º Lugar</td><td>Dry</td><td>Dry</td><td>4.783</td></tr><tr><td>🎖️ 5º Lugar</td><td>v10</td><td>Vortex10</td><td>2.522</td></tr></tbody></table>
 
 [^1]: 114 Eventos
 

@@ -25,7 +25,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>CAV</td><td>Cavalos</td><td>24.032</td></tr><tr><td>🥈 2º Lugar</td><td>AsG</td><td>Asgard</td><td>17.557</td></tr><tr><td>🥉 3º Lugar</td><td>KGM</td><td>Kingdom</td><td>7.560</td></tr><tr><td>🏅 4º Luga</td><td>HGW</td><td>HOGWARTS</td><td>4.137</td></tr><tr><td>🎖️ 5º Lugar</td><td>SxS</td><td>Seu último Suspiro Reborn</td><td>3.595</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>CAV</td><td>Cavalos</td><td>24.032</td></tr><tr><td>🥈 2º Lugar</td><td>AsG</td><td>Asgard</td><td>17.557</td></tr><tr><td>🥉 3º Lugar</td><td>KGM</td><td>Kingdom</td><td>7.560</td></tr><tr><td>🏅 4º Lugar</td><td>HGW</td><td>HOGWARTS</td><td>4.137</td></tr><tr><td>🎖️ 5º Lugar</td><td>SxS</td><td>Seu último Suspiro Reborn</td><td>3.595</td></tr></tbody></table>
 
 [^1]: 83 Eventos
 

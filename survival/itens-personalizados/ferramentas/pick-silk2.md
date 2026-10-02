@@ -51,7 +51,7 @@ Os encantamentos da Picareta Natalina podem ser removidos normalmente utilizando
 {% hint style="danger" %}
 ### ATENÇÃO
 
-O encantamento Toque Suave II não pode ser obtido através de livros encontrado ou encontrados normalmente em outras ferramentas. Tenha cuidado ao utilizar um rebolo ou bigorna McMMO em uma picareta que possua esse encantamento.&#x20;
+O encantamento Toque Suave II não pode ser obtido através de livros encantados ou encontrados normalmente em outras ferramentas. Tenha cuidado ao utilizar um rebolo ou bigorna McMMO em uma picareta que possua esse encantamento.&#x20;
 {% endhint %}
 
 ## Obtenção

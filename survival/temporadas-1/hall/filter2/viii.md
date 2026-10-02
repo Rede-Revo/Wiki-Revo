@@ -26,7 +26,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>HDG</td><td>Highgarden</td><td>27.776</td></tr><tr><td>🥈 2º Lugar</td><td>TBF</td><td>The Best Farmers</td><td>10.298</td></tr><tr><td>🥉 3º Lugar</td><td>TB2</td><td>The Best Farmers</td><td>9.988</td></tr><tr><td>🏅 4º Luga</td><td>PTA</td><td>El Petardo</td><td>2.075</td></tr><tr><td>🎖️ 5º Lugar</td><td>AKS</td><td>Akatsuki</td><td>1.502</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>HDG</td><td>Highgarden</td><td>27.776</td></tr><tr><td>🥈 2º Lugar</td><td>TBF</td><td>The Best Farmers</td><td>10.298</td></tr><tr><td>🥉 3º Lugar</td><td>TB2</td><td>The Best Farmers</td><td>9.988</td></tr><tr><td>🏅 4º Lugar</td><td>PTA</td><td>El Petardo</td><td>2.075</td></tr><tr><td>🎖️ 5º Lugar</td><td>AKS</td><td>Akatsuki</td><td>1.502</td></tr></tbody></table>
 
 [^1]: 1.199 Votos
 

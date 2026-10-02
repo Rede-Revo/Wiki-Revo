@@ -43,9 +43,9 @@ Durante o transporte, os dados do mob são mantidos, isso permite mover eles sem
 {% hint style="danger" %}
 ### RESTRIÇÃO McMMO
 
-Por mais que os dados internos sejam mantidos, existe uma exceção importante, ao colocar o mob no novo local, o sistema de McMMO para de identificar ele como um mob natural, fazendo com ele não gere xp de McMMO.&#x20;
+Por mais que os dados internos sejam mantidos, existe uma exceção importante, ao colocar o mob no novo local, o sistema de McMMO para de identificar ele como um mob natural, fazendo com que ele não gere xp de McMMO.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-O Trasportador de Mobs pode ser encontrado no [Passe de Batalha](https://wiki.rederevo.com/survival/passe-de-batalha) e no end com o npc Dracônico .
+O Transportador de Mobs pode ser encontrado no [Passe de Batalha](https://wiki.rederevo.com/survival/passe-de-batalha) e no end com o npc Dracônico .
 {% endhint %}

@@ -26,7 +26,7 @@ O Talismã possui cinco níveis, quanto maior o nível, maior será o bonus de e
 
 Cada evolução possui uma chance de sucesso, que diminui conforme o nível do item aumenta.
 
-Caso a evolução seja realizada com sucesso, você receberá o Talismã do próximo nível, mas caso a tentativa falhe, os itens utilizados no processos serão destruídos\*.
+Caso a evolução seja realizada com sucesso, você receberá o Talismã do próximo nível, mas caso a tentativa falhe, os itens utilizados no processo serão destruídos\*.
 
 {% hint style="warning" %}
 A evolução não é garantida, confira sempre a chance de sucesso antes de realizar uma tentativa.
@@ -51,7 +51,7 @@ Para mais informações sobre o núcleo, acesse a página do [Núcleo de Proteç
 O bônus fornecido pelo Talismã é independente do sistema de Boosters McMMO, isso significa que você pode usar um Talismã enquanto estiver com o booster McMMO ativo, recebendo assim os dois benefícios ao mesmo tempo.
 
 {% hint style="info" %}
-Os talismã de Experiência podem ser encontrados na [Caixa Divina](https://wiki.rederevo.com/survival/caixas/divina#itens).
+Os talismãs de Experiência podem ser encontrados na [Caixa Divina](https://wiki.rederevo.com/survival/caixas/divina#itens).
 {% endhint %}
 
 

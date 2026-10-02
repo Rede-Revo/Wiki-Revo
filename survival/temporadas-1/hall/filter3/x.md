@@ -27,7 +27,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>TBF</td><td>The Best Farmers</td><td>31.455</td></tr><tr><td>🥈 2º Lugar</td><td>HGD</td><td>Highgarden</td><td>9.969</td></tr><tr><td>🥉 3º Lugar</td><td>Btz</td><td>Blitz</td><td>5.398</td></tr><tr><td>🏅 4º Luga</td><td>CDP</td><td>Chapeu De Palha</td><td>5.051</td></tr><tr><td>🎖️ 5º Lugar</td><td>PTA</td><td>Petardo</td><td>3.402</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>TBF</td><td>The Best Farmers</td><td>31.455</td></tr><tr><td>🥈 2º Lugar</td><td>HGD</td><td>Highgarden</td><td>9.969</td></tr><tr><td>🥉 3º Lugar</td><td>Btz</td><td>Blitz</td><td>5.398</td></tr><tr><td>🏅 4º Lugar</td><td>CDP</td><td>Chapeu De Palha</td><td>5.051</td></tr><tr><td>🎖️ 5º Lugar</td><td>PTA</td><td>Petardo</td><td>3.402</td></tr></tbody></table>
 
 [^1]: 143 Eventos
 
@@ -73,11 +73,11 @@ Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
 [^22]: Loja: lima\
     \
-    0 Visistas
+    0 Visitas
 
 [^23]: Loja: anao\
     \
-    0 Visistas
+    0 Visitas
 
 [^24]: Loja: Pequenna\
     \

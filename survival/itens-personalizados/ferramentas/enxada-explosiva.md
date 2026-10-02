@@ -12,7 +12,7 @@ A Enxada Natalina é uma ferramenta especial voltada para a colheita de plantaç
 
 ## Funcionamento
 
-Ao quebrar uma plantação com a Enxada Natalina com explosão, os blocos próximos também são colhidos automaticamente. O tamanho da área quebrada varia confirme o nível de explosão do item.
+Ao quebrar uma plantação com a Enxada Natalina com explosão, os blocos próximos também são colhidos automaticamente. O tamanho da área quebrada varia conforme o nível de explosão do item.
 
 A área é representada no formato, **largura** x **comprimento**.
 

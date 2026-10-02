@@ -1,6 +1,6 @@
 # Reanálise ou solicitação de provas de punições
 
-Assunto: Solicitar transferência de conta\
+Assunto: Solicitar reanálise ou solicitação de provas\
 Categoria: Punições\
 Local: Discord\
 Prioridade: Baixa\

@@ -47,7 +47,7 @@ Ao abrir um Ovo de Páscoa Comum (Chocado), o jogador irá receber em seu invent
 
 Ao abrir um Ovo de Páscoa Raro (Chocado), o jogador irá receber em seu inventário de forma aleatória uma das seguintes recompensas:&#x20;
 
-<table data-header-hidden data-search="true"><thead><tr><th>Recompensas Ovo de Páscoa Comum (Chocado)</th></tr></thead><tbody><tr><td>Ovo Gerador de Abelha</td></tr><tr><td>Ovo Gerador de Zumbi</td></tr><tr><td>Ovo Gerador de Aranha</td></tr><tr><td>Ovo Gerador de Esqueleto</td></tr><tr><td>Ovo Gerador de Cubo de Magma</td></tr><tr><td>Ovo Gerador de Creeper</td></tr><tr><td>Ovo Gerador de Piglin Zumbificado</td></tr><tr><td>Ovo Gerador de Breeze</td></tr><tr><td>Ovo Gerador de Bruxa</td></tr><tr><td>Ovo Gerador de Golem de Ferro</td></tr><tr><td>Ovo de Páscoa Épico</td></tr></tbody></table>
+<table data-header-hidden data-search="true"><thead><tr><th>Recompensas Ovo de Páscoa Raro (Chocado)</th></tr></thead><tbody><tr><td>Ovo Gerador de Abelha</td></tr><tr><td>Ovo Gerador de Zumbi</td></tr><tr><td>Ovo Gerador de Aranha</td></tr><tr><td>Ovo Gerador de Esqueleto</td></tr><tr><td>Ovo Gerador de Cubo de Magma</td></tr><tr><td>Ovo Gerador de Creeper</td></tr><tr><td>Ovo Gerador de Piglin Zumbificado</td></tr><tr><td>Ovo Gerador de Breeze</td></tr><tr><td>Ovo Gerador de Bruxa</td></tr><tr><td>Ovo Gerador de Golem de Ferro</td></tr><tr><td>Ovo de Páscoa Épico</td></tr></tbody></table>
 
 
 
@@ -55,7 +55,7 @@ Ao abrir um Ovo de Páscoa Raro (Chocado), o jogador irá receber em seu invent�
 
 Ao abrir um Ovo de Páscoa Épico (Chocado), o jogador irá receber em seu inventário de forma aleatória uma das seguintes recompensas:&#x20;
 
-<table data-header-hidden data-search="true"><thead><tr><th>Recompensas Ovo de Páscoa Comum (Chocado)</th></tr></thead><tbody><tr><td>Ovo Gerador de Creeper</td></tr><tr><td>Ovo Gerador de Piglin Zumbificado</td></tr><tr><td>Ovo Gerador de Breeze</td></tr><tr><td>Ovo Gerador de Bruxa</td></tr><tr><td>Ovo Gerador de Golem de Ferro</td></tr></tbody></table>
+<table data-header-hidden data-search="true"><thead><tr><th>Recompensas Ovo de Páscoa Épico (Chocado)</th></tr></thead><tbody><tr><td>Ovo Gerador de Creeper</td></tr><tr><td>Ovo Gerador de Piglin Zumbificado</td></tr><tr><td>Ovo Gerador de Breeze</td></tr><tr><td>Ovo Gerador de Bruxa</td></tr><tr><td>Ovo Gerador de Golem de Ferro</td></tr></tbody></table>
 
 
 
@@ -65,7 +65,7 @@ Somente o Ovo de Páscoa Comum podia ser obtido diretamente, as versões raras e
 
 ## Descrição e nome
 
-O nome mostra a raridade do item, já a lore/descrição exibe a progresso atual do ovo e as recompensas, informando também se o ovo está chocado ou não. Além disso, é pela descrição que você consegue validar se o item de fato é uma Ovo de Páscoa com raridade.
+O nome mostra a raridade do item, já a lore/descrição exibe o progresso atual do ovo e as recompensas, informando também se o ovo está chocado ou não. Além disso, é pela descrição que você consegue validar se o item de fato é um Ovo de Páscoa com raridade.
 
 Nomes:\
 &#x20;  Ovo de Páscoa ᴄᴏᴍᴜᴍ \
@@ -88,7 +88,7 @@ Choque este ovo especial para receber um Ovo Especial de forma aleatória, avanc
 
 ## Obtenção
 
-O Ovo de Páscoa chocável foi disponibilizada durante a Caixa de Páscoa de 2026, atualmente o item não pode mais ser obtido oficialmente pelo servidor.
+O Ovo de Páscoa chocável foi disponibilizado durante a Caixa de Páscoa de 2026, atualmente o item não pode mais ser obtido oficialmente pelo servidor.
 
 Esse item ainda está circulando pelo servidor, sendo possível obter ela com outros jogadores.&#x20;
 

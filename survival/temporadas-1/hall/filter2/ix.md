@@ -27,7 +27,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>PSD</td><td>Paysandu</td><td>26.696</td></tr><tr><td>🥈 2º Lugar</td><td>TBF</td><td>The Best Farmers</td><td>11.571</td></tr><tr><td>🥉 3º Lugar</td><td>666</td><td>The Ritual</td><td>11.551</td></tr><tr><td>🏅 4º Luga</td><td>PTA</td><td>El Petardo</td><td>7.294</td></tr><tr><td>🎖️ 5º Lugar</td><td>PAN</td><td>pançudos</td><td>2.657</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>PSD</td><td>Paysandu</td><td>26.696</td></tr><tr><td>🥈 2º Lugar</td><td>TBF</td><td>The Best Farmers</td><td>11.571</td></tr><tr><td>🥉 3º Lugar</td><td>666</td><td>The Ritual</td><td>11.551</td></tr><tr><td>🏅 4º Lugar</td><td>PTA</td><td>El Petardo</td><td>7.294</td></tr><tr><td>🎖️ 5º Lugar</td><td>PAN</td><td>pançudos</td><td>2.657</td></tr></tbody></table>
 
 [^1]: 300 Eventos
 

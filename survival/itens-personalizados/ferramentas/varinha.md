@@ -8,7 +8,7 @@ coverY: 0
 
 ## Introdução
 
-A Varinha de Venda é uma ferramenta especial utilizada para vender itens rapidamente os itens armazenados em armazém, recebendo ainda um bônus especial sobre a venda.&#x20;
+A Varinha de Venda é uma ferramenta especial utilizada para vender rapidamente os itens armazenados em armazém, recebendo ainda um bônus especial sobre a venda.&#x20;
 
 Quanto maior o nível da varinha, maior será o bônus concedido.
 
@@ -53,7 +53,7 @@ Para mais informações sobre o núcleo, acesse a página do [Núcleo de Proteç
 O bônus da Varinha de Vendas pode funcionar em conjunto com outros benefícios de venda disponíveis, como Booster de Vendas, Bonus de compra e venda, Set de Vendas, Bônus da loja, entre outros.&#x20;
 
 {% hint style="info" %}
-Os diferentes benefícios aplicados conforme a mecânica de cada sistema e não devem ser tratados necessariamente como uma simples soma direta das porcentagens.
+Os diferentes benefícios são aplicados conforme a mecânica de cada sistema e não devem ser tratados necessariamente como uma simples soma direta das porcentagens.
 {% endhint %}
 
 {% hint style="info" %}

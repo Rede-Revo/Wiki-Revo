@@ -27,7 +27,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th>Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>sbN</td><td>SiberiaN</td><td>5.478</td></tr><tr><td>🥈 2º Lugar</td><td>LOV</td><td>Love</td><td>4.617</td></tr><tr><td>🥉 3º Lugar</td><td>PAT</td><td>De dia Assada De noite Frita</td><td>2.322</td></tr><tr><td>🏅 4º Luga</td><td>PsW</td><td>Primitives seeking</td><td>1.758</td></tr><tr><td>🎖️ 5º Lugar</td><td>MCR</td><td>Murcielagos Rosa</td><td>630</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th>Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>sbN</td><td>SiberiaN</td><td>5.478</td></tr><tr><td>🥈 2º Lugar</td><td>LOV</td><td>Love</td><td>4.617</td></tr><tr><td>🥉 3º Lugar</td><td>PAT</td><td>De dia Assada De noite Frita</td><td>2.322</td></tr><tr><td>🏅 4º Lugar</td><td>PsW</td><td>Primitives seeking</td><td>1.758</td></tr><tr><td>🎖️ 5º Lugar</td><td>MCR</td><td>Murcielagos Rosa</td><td>630</td></tr></tbody></table>
 
 [^1]: 73 Eventos
 

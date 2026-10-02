@@ -8,7 +8,7 @@ coverY: 0
 
 ## Anunciar
 
-Dentro do terreno de um terreno protegido de sua posse digite **/terreno vender \<valor>**.
+Dentro de um terreno protegido de sua posse digite **/terreno vender \<valor>**.
 
 ## Comprar
 

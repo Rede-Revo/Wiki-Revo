@@ -25,7 +25,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>TDE</td><td>Tropa de Elite</td><td>17.755</td></tr><tr><td>🥈 2º Lugar</td><td>Cry</td><td>Cryngpeep e amigos</td><td>16.862</td></tr><tr><td>🥉 3º Lugar</td><td>TBF</td><td>The Best Farmers</td><td>13.763</td></tr><tr><td>🏅 4º Luga</td><td>CAV</td><td>Cavalos</td><td>6.003</td></tr><tr><td>🎖️ 5º Lugar</td><td>NoT</td><td>NoTalent</td><td>2.230</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>TDE</td><td>Tropa de Elite</td><td>17.755</td></tr><tr><td>🥈 2º Lugar</td><td>Cry</td><td>Cryngpeep e amigos</td><td>16.862</td></tr><tr><td>🥉 3º Lugar</td><td>TBF</td><td>The Best Farmers</td><td>13.763</td></tr><tr><td>🏅 4º Lugar</td><td>CAV</td><td>Cavalos</td><td>6.003</td></tr><tr><td>🎖️ 5º Lugar</td><td>NoT</td><td>NoTalent</td><td>2.230</td></tr></tbody></table>
 
 [^1]: 103 Eventos
 

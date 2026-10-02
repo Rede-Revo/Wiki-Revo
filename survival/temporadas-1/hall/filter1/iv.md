@@ -25,7 +25,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>suN</td><td>Sunshine</td><td>20.235</td></tr><tr><td>🥈 2º Lugar</td><td>666</td><td>The Ritual</td><td>14.122</td></tr><tr><td>🥉 3º Lugar</td><td>Rev</td><td>Revoada</td><td>8.681</td></tr><tr><td>🏅 4º Luga</td><td>VhL</td><td>Vahalla</td><td>7.771</td></tr><tr><td>🎖️ 5º Lugar</td><td>333</td><td>Meio Besta</td><td>1.924</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>suN</td><td>Sunshine</td><td>20.235</td></tr><tr><td>🥈 2º Lugar</td><td>666</td><td>The Ritual</td><td>14.122</td></tr><tr><td>🥉 3º Lugar</td><td>Rev</td><td>Revoada</td><td>8.681</td></tr><tr><td>🏅 4º Lugar</td><td>VhL</td><td>Vahalla</td><td>7.771</td></tr><tr><td>🎖️ 5º Lugar</td><td>333</td><td>Meio Besta</td><td>1.924</td></tr></tbody></table>
 
 
 

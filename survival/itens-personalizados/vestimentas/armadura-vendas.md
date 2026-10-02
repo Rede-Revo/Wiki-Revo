@@ -25,6 +25,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Set de Vendas
@@ -41,11 +43,11 @@ Para formar o conjunto, basta vestir simultaneamente as quatro partes do Set est
 
 ## Nível de perfeição
 
-Cada parte recebe individualmente um nível de perfeição, variando de 1% a 100%, quanto maior sua perfeição, maior será o seu bônus e sua durabilidade. Por esse motivo, duas pelas do mesmo tipo podem possuir valores diferentes.
+Cada parte recebe individualmente um nível de perfeição, variando de 1% a 100%, quanto maior sua perfeição, maior será o seu bônus e sua durabilidade. Por esse motivo, duas peças do mesmo tipo podem possuir valores diferentes.
 
 ### Calculo do bônus de venda
 
-O bônus é calculada em cima do nível de perfeição da pela, de forma simplificada, a formula seria:\
+O bônus é calculada em cima do nível de perfeição da peça, de forma simplificada, a formula seria:\
 Bônus = 0,5+(Perfeição \* 0,015).\
 Exemplo:\
 Se o capacete de vendas tem 70% de perfeição, na fórmula ficaria:\
@@ -88,7 +90,7 @@ Exemplo:
 * 64 itens agrupados em 1 slot → consome 1 de durabilidade;
 * 4 itens separados em 4 slots → consome 4 de durabilidade;
 * 4 packs de 64 ocupando 4 slots → consome 4 de durabilidade.
-* 4 packs de 64 ocupando 8 slots → consume 8 de durabilidade.
+* 4 packs de 64 ocupando 8 slots → consome 8 de durabilidade.
 
 {% hint style="info" %}
 O que importa para o consumo do Set de Vendas é quantos slots participaram da venda, independentemente da quantidade de itens.
@@ -109,7 +111,7 @@ Em breve...
 O benefício das peças funcionam simultaneamente com outros sistemas de vendas, como Boosters de venda, bônus da loja e similares.
 
 {% hint style="info" %}
-Os diferentes benefícios aplicados conforme a mecânica de cada sistema e não devem ser tratados necessariamente como uma simples soma direta das porcentagens.
+Os diferentes benefícios são aplicados conforme a mecânica de cada sistema e não devem ser tratados necessariamente como uma simples soma direta das porcentagens.
 {% endhint %}
 
 ## Obtenção

@@ -6,7 +6,7 @@ coverY: 0
 
 # 🕸️ Terreno Abandonado
 
-Terrenos são consideradas abandonadas de acordo com o tempo que o dono dele fica sem acessar o servidor (offline). Quanto maior a proteção, mais tempo leva para o terreno ser considerado abandonado.\
+Terrenos são considerados abandonados de acordo com o tempo que o dono dele fica sem acessar o servidor (offline). Quanto maior a proteção, mais tempo leva para o terreno ser considerado abandonado.\
 \
 Caso encontre um terreno abandonado utilize o comando `/terreno reivindicar` para reivindicar a propriedade ao custo de `250 coins` por bloco, segue a tabela de tempo necessário para que um terreno seja considerado abandonado:
 

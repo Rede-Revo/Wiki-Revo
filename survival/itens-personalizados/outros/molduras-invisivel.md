@@ -22,7 +22,7 @@ Para transformar uma moldura, é necessário possuir um item nela, depois disso,
 
 {% hint style="info" %}
 * Apenas molduras com item é possível deixar invisível.
-* Cada transformação de moldura, consume 1 uso de durabilidade.
+* Cada transformação de moldura, consome 1 uso de durabilidade.
 {% endhint %}
 
 ## Moldura invisível

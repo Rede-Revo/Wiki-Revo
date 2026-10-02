@@ -7,7 +7,7 @@ coverY: 0
 # Hall da fama
 
 {% hint style="warning" %}
-Esta sessão ainda está sendo criada. Por esse motivo, algumas páginas podem apresentar informações incompletas.
+Esta seção ainda está sendo criada. Por esse motivo, algumas páginas podem apresentar informações incompletas.
 {% endhint %}
 
 | Temporada                              | Tema         | Período                 |

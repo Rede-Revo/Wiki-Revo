@@ -27,7 +27,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>FOX</td><td>The Fox</td><td>11.231</td></tr><tr><td>🥈 2º Lugar</td><td>RaT</td><td>Bueiro</td><td>9.414</td></tr><tr><td>🥉 3º Lugar</td><td>WnX</td><td>Club Das Winx</td><td>8.945</td></tr><tr><td>🏅 4º Luga</td><td>AWK</td><td>awkward</td><td>6.233</td></tr><tr><td>🎖️ 5º Lugar</td><td>VKG</td><td>Vikings</td><td>5.293</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>FOX</td><td>The Fox</td><td>11.231</td></tr><tr><td>🥈 2º Lugar</td><td>RaT</td><td>Bueiro</td><td>9.414</td></tr><tr><td>🥉 3º Lugar</td><td>WnX</td><td>Club Das Winx</td><td>8.945</td></tr><tr><td>🏅 4º Lugar</td><td>AWK</td><td>awkward</td><td>6.233</td></tr><tr><td>🎖️ 5º Lugar</td><td>VKG</td><td>Vikings</td><td>5.293</td></tr></tbody></table>
 
 [^1]: 111 Eventos
 

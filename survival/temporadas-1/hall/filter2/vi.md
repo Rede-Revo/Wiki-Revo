@@ -27,7 +27,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>TBF</td><td>The Best Farmers</td><td>20.488</td></tr><tr><td>🥈 2º Lugar</td><td>ZRS</td><td>zueiros</td><td>13.169</td></tr><tr><td>🥉 3º Lugar</td><td>666</td><td>The Ritual</td><td>6.053</td></tr><tr><td>🏅 4º Luga</td><td>VhL</td><td>Valhalla</td><td>5.842</td></tr><tr><td>🎖️ 5º Lugar</td><td>NPU</td><td>Nova Pátria Unida</td><td>1.229</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>TBF</td><td>The Best Farmers</td><td>20.488</td></tr><tr><td>🥈 2º Lugar</td><td>ZRS</td><td>zueiros</td><td>13.169</td></tr><tr><td>🥉 3º Lugar</td><td>666</td><td>The Ritual</td><td>6.053</td></tr><tr><td>🏅 4º Lugar</td><td>VhL</td><td>Valhalla</td><td>5.842</td></tr><tr><td>🎖️ 5º Lugar</td><td>NPU</td><td>Nova Pátria Unida</td><td>1.229</td></tr></tbody></table>
 
 [^1]: 707 Votos
 

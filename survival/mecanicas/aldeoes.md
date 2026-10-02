@@ -12,7 +12,7 @@ No servidor, algumas mecânicas dos aldeões foram modificadas para melhorar o d
 
 ### Principais diferenças
 
-Algumas mecânicas funcionam de forma diferente do Minecraft convencional. As principais mudanças é que os aldeões não reproduzem no Survival, as trocas e redução de preço são limitadas e eles precisam ficar lobotizados para pode realizar trocas.
+Algumas mecânicas funcionam de forma diferente do Minecraft convencional. As principais mudanças é que os aldeões não reproduzem no Survival, as trocas e redução de preço são limitadas e eles precisam ficar lobotizados para poder realizar trocas.
 
 ### Reprodução
 
@@ -20,7 +20,7 @@ No Minecraft, aldeões podem se reproduzir quando possuem alimentos e camas disp
 
 ### Imobilização
 
-A imobilização, também chamada de lobotomização, é a prática de deixar um aldeão parado em um local definido. Essa mecânica facilita a organizações das áreas de onde eles ficam, além de ajudar a reduzir o processamento necessário par controlar a movimentação deles.
+A imobilização, também chamada de lobotomização, é a prática de deixar um aldeão parado em um local definido. Essa mecânica facilita a organizações das áreas de onde eles ficam, além de ajudar a reduzir o processamento necessário para controlar a movimentação deles.
 
 Para realizar uma troca com o aldeão é necessário ele estar lobotizado, para isso, deixe ele sem espaços para mover, ou seja, em um espaço 1x1x2, como mostrado na imagem a seguir.
 

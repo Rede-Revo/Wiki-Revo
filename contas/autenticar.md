@@ -36,7 +36,7 @@ Uma vez a conta registrada como pirata, ela sempre será pirata, ou seja, trocar
 
 ## Conta original para pirata
 
-A convenção de uma conta registrada como original para uma autenticação pirata, não pode ser realizada diretamente pelo jogador.
+A conversão de uma conta registrada como original para uma autenticação pirata, não pode ser realizada diretamente pelo jogador.
 
 O procedimento para conversão de autenticação original para pirata é realizado gratuitamente pela Staff e somente em situações especificas, mediante abertura de ticket e a comprovação do ocorrido.
 
@@ -56,7 +56,7 @@ Antes de alterar seu nick da sua conta original, é necessário verificar se o n
 Nessa situação, você poderá solicitar a conversão da autenticação da sua conta original para autenticação pirata, mas isso só vai permitir que você consiga acessar sua conta no nick antigo.
 
 {% hint style="info" %}
-A existência de registro não depende do jogador ter acessado o Survival, ou seja, comando dentro do survival não garantem que o nick não possui registro no serivdor.
+A existência de registro não depende do jogador ter acessado o Survival, ou seja, comando dentro do survival não garantem que o nick não possui registro no servidor.
 
 Um jogador pode ter registro no servidor e nunca ter entrado no Survival. Para fins de propriedade da conta no servidor, será considerado o jogador que registrou primeiro o nick.
 {% endhint %}
@@ -97,7 +97,7 @@ Ao solicitar a conversão da autenticação original para pirata, você declara 
 
 Caso seja identificado o compartilhamento, empréstimo, venda, doação, acesso a terceiros ou qualquer ação proibida citado acima, a conta será bloqueada permanentemente.&#x20;
 
-Caso o proprietário considere que o bloqueio ocorreu de forma incorreta, poderá abrir um ticket para explicar a situação e solicitar uma novo analise.
+Caso o proprietário considere que o bloqueio ocorreu de forma incorreta, poderá abrir um ticket para explicar a situação e solicitar uma novo análise.
 {% endhint %}
 
 ## Contas originalmente registradas como piratas
@@ -108,7 +108,7 @@ As restrições adicionais descritas acima, não se aplicam as contas registrada
 
 O jogador poderá voltar quando achar necessário para o seu tipo de autenticação de registro, usando os comandos:
 
-<table><thead><tr><th width="175">Comando</th><th>Descrição</th></tr></thead><tbody><tr><td>/orignal &#x3C;senha></td><td>Define uma conta como original.</td></tr><tr><td>/pirata &#x3C;senha></td><td>Define uma conta como pirata.</td></tr></tbody></table>
+<table><thead><tr><th width="175">Comando</th><th>Descrição</th></tr></thead><tbody><tr><td>/original &#x3C;senha></td><td>Define uma conta como original.</td></tr><tr><td>/pirata &#x3C;senha></td><td>Define uma conta como pirata.</td></tr></tbody></table>
 
 {% hint style="info" %}
 Caso ocorra algum erro durante o procedimento, o jogador poderá abrir um ticket para que a equipe verifique o ocorrido.

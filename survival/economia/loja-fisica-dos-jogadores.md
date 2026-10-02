@@ -47,7 +47,7 @@ Por exemplo, se você informar o valor de 500 Coins, cada unidade daquele item s
 
 ### Gerenciamento
 
-O dono da placa ao clicar nela, abre um menu gerencia da placa, permitindo alterar as configurações a qualquer momento.\
+O dono da placa ao clicar nela, abre um menu gerencial da placa, permitindo alterar as configurações a qualquer momento.\
 Por meio desse menu é possível configurar preços, moeda, compras, notificações, cupons, entre outros.
 
 #### **Moeda**
@@ -195,11 +195,11 @@ Aprimore sua estratégia de marketing criando e distribuindo cupons de desconto 
 
 ### Como ativo um cupom de loja para poder usar?
 
-Selecionado uma placa vendendo um item, será possível adicionar o cupom na parte inferior, ao clicar abrirá um outro menu solicitando o cupom, ao aplicar, o sistema irá verificar se o cupom é válido e aplicar ele na venda atual. Em casos onde o cupom seja inválido ou expirado, nenhum desconto será aplicado.
+Selecionando uma placa vendendo um item, será possível adicionar o cupom na parte inferior, ao clicar abrirá um outro menu solicitando o cupom, ao aplicar, o sistema irá verificar se o cupom é válido e aplicar ele na venda atual. Em casos onde o cupom seja inválido ou expirado, nenhum desconto será aplicado.
 
 ### Como crio um cupom?
 
-Selecionado a placa é possível criar cupons pelo menu, para isso, ao selecionar a opção cupons, abrirá um menu listando todos os cupons ativos, juntamente com 2 opções, uma para criar um cupom ilimitado, qualquer jogador poderá usar enquanto ele estiver ativo, sendo necessário informar apenas o código do cupom e o percentual de desconto, a outra opção é o cupom limitado, por enquanto só é possível limitar por uso\*,  sendo necessário informar o código, percentual de desconto e o número máximo de usos.
+Selecionando a placa é possível criar cupons pelo menu, para isso, ao selecionar a opção cupons, abrirá um menu listando todos os cupons ativos, juntamente com 2 opções, uma para criar um cupom ilimitado, qualquer jogador poderá usar enquanto ele estiver ativo, sendo necessário informar apenas o código do cupom e o percentual de desconto, a outra opção é o cupom limitado, por enquanto só é possível limitar por uso\*,  sendo necessário informar o código, percentual de desconto e o número máximo de usos.
 
 {% hint style="info" %}
 \*O cupom limitado, é limitado por uso, não por item, ele contará um uso sendo um item ou sendo cem itens.

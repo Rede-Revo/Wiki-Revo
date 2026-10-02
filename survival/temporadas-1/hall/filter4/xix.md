@@ -25,7 +25,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>FOX</td><td>The Fox</td><td>19.234</td></tr><tr><td>🥈 2º Lugar</td><td>VKG</td><td>Vikings</td><td>11.999</td></tr><tr><td>🥉 3º Lugar</td><td>BSC</td><td>Bradesco</td><td>9.072</td></tr><tr><td>🏅 4º Luga</td><td>CDR</td><td>Clube do Remo</td><td>4.678</td></tr><tr><td>🎖️ 5º Lugar</td><td>CAV</td><td>Cavalos</td><td>2.801</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>FOX</td><td>The Fox</td><td>19.234</td></tr><tr><td>🥈 2º Lugar</td><td>VKG</td><td>Vikings</td><td>11.999</td></tr><tr><td>🥉 3º Lugar</td><td>BSC</td><td>Bradesco</td><td>9.072</td></tr><tr><td>🏅 4º Lugar</td><td>CDR</td><td>Clube do Remo</td><td>4.678</td></tr><tr><td>🎖️ 5º Lugar</td><td>CAV</td><td>Cavalos</td><td>2.801</td></tr></tbody></table>
 
 [^1]: 104 Eventos
 

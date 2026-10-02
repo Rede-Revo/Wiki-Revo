@@ -8,7 +8,7 @@ coverY: 0
 
 ## Introdução
 
-A Picareta Ametista é um ferramenta capaz de coletar Drusas de Amestista, bloco gerador da ametista dentro dos geodos.
+A Picareta Ametista é uma ferramenta capaz de coletar Drusas de Ametista, bloco gerador da ametista dentro dos geodos.
 
 Normalmente ao quebrar uma drusa de ametista, o bloco é destruído, sem entregar o drop ao jogador. Utilizando a Picareta Ametista, existe uma chance de conseguir coletar o item.
 

@@ -27,7 +27,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>TDE</td><td>Tropa de Elite</td><td>26.445</td></tr><tr><td>🥈 2º Lugar</td><td>KGM</td><td>Kingdom</td><td>15.414</td></tr><tr><td>🥉 3º Lugar</td><td>TBF</td><td>The Best Farmers</td><td>12.724</td></tr><tr><td>🏅 4º Luga</td><td>HOL</td><td>House Laurent</td><td>10.000</td></tr><tr><td>🎖️ 5º Lugar</td><td>PrD</td><td>Purificados</td><td>4.615</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>TDE</td><td>Tropa de Elite</td><td>26.445</td></tr><tr><td>🥈 2º Lugar</td><td>KGM</td><td>Kingdom</td><td>15.414</td></tr><tr><td>🥉 3º Lugar</td><td>TBF</td><td>The Best Farmers</td><td>12.724</td></tr><tr><td>🏅 4º Lugar</td><td>HOL</td><td>House Laurent</td><td>10.000</td></tr><tr><td>🎖️ 5º Lugar</td><td>PrD</td><td>Purificados</td><td>4.615</td></tr></tbody></table>
 
 [^1]: 185 Eventos
 

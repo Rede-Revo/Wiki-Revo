@@ -25,7 +25,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>KGZ</td><td>Kingdom of Zen</td><td>13.756</td></tr><tr><td>🥈 2º Lugar</td><td>Dy7</td><td>7 Days In The Underworld</td><td>8.424</td></tr><tr><td>🥉 3º Lugar</td><td>777</td><td>777</td><td>6.894</td></tr><tr><td>🏅 4º Luga</td><td>III</td><td>⚝ Ensemble of Fools ⚝</td><td>6.758</td></tr><tr><td>🎖️ 5º Lugar</td><td>SuS</td><td>Seu último Suspiro</td><td>5.573</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>KGZ</td><td>Kingdom of Zen</td><td>13.756</td></tr><tr><td>🥈 2º Lugar</td><td>Dy7</td><td>7 Days In The Underworld</td><td>8.424</td></tr><tr><td>🥉 3º Lugar</td><td>777</td><td>777</td><td>6.894</td></tr><tr><td>🏅 4º Lugar</td><td>III</td><td>⚝ Ensemble of Fools ⚝</td><td>6.758</td></tr><tr><td>🎖️ 5º Lugar</td><td>SuS</td><td>Seu último Suspiro</td><td>5.573</td></tr></tbody></table>
 
 [^1]: 107 Eventos
 

@@ -20,22 +20,22 @@ Os limites de criaturas(mobs) possuem regras detalhadas e estão disponíveis pa
 
 ### Drusas de Ametistas e Geradores de Criaturas
 
-As drusas de Ametista e os Geradores de Criaturas possuem limite por chunck.
+As drusas de Ametista e os Geradores de Criaturas possuem limite por chunk.
 
-<table><thead><tr><th width="211">Item</th><th>Limite</th></tr></thead><tbody><tr><td>Drusas de Ametista</td><td>72 drusas por Chunck</td></tr><tr><td>Geradores de Criaturas</td><td>2 spawners por Chunck</td></tr></tbody></table>
+<table><thead><tr><th width="211">Item</th><th>Limite</th></tr></thead><tbody><tr><td>Drusas de Ametista</td><td>72 drusas por chunk</td></tr><tr><td>Geradores de Criaturas</td><td>2 spawners por chunk</td></tr></tbody></table>
 
 A verificação no caso das drusas e spawners ocorrem no momento da colocação, ou seja, caso o limite já tenha excedido o sistema não permitirá uma nova colocação.
 
 ### Redstone
 
-Componentes de redstone possuem limite por chunck.
+Componentes de redstone possuem limite por chunk.
 
-<table><thead><tr><th width="237.666748046875">Item</th><th>Limite</th></tr></thead><tbody><tr><td>Bancada Automática</td><td>8 bancadas automáticas por chunck</td></tr><tr><td>Comparador de Redstone</td><td>16 comparadores de redstone por chunk</td></tr><tr><td>Ejetor</td><td>16 ejetores por chunk</td></tr><tr><td>Liberador</td><td>16 liberadores por chunk</td></tr><tr><td>Observador</td><td>16 observadores por chunck</td></tr><tr><td>Pistão</td><td>16 pistões por chunck</td></tr><tr><td>Pistão Grudento</td><td>16 pistões grudentos por chunk</td></tr><tr><td>Repetidor de Redstone</td><td>16 repetidores de redstone por chunk</td></tr><tr><td>Funil</td><td>10 funis por chunck</td></tr><tr><td>Pó de redstone</td><td>32 pós de redstone por chunk</td></tr></tbody></table>
+<table><thead><tr><th width="237.666748046875">Item</th><th>Limite</th></tr></thead><tbody><tr><td>Bancada Automática</td><td>8 bancadas automáticas por chunk</td></tr><tr><td>Comparador de Redstone</td><td>16 comparadores de redstone por chunk</td></tr><tr><td>Ejetor</td><td>16 ejetores por chunk</td></tr><tr><td>Liberador</td><td>16 liberadores por chunk</td></tr><tr><td>Observador</td><td>16 observadores por chunk</td></tr><tr><td>Pistão</td><td>16 pistões por chunk</td></tr><tr><td>Pistão Grudento</td><td>16 pistões grudentos por chunk</td></tr><tr><td>Repetidor de Redstone</td><td>16 repetidores de redstone por chunk</td></tr><tr><td>Funil</td><td>10 funis por chunk</td></tr><tr><td>Pó de redstone</td><td>32 pós de redstone por chunk</td></tr></tbody></table>
 
 Para todos os itens citados acima, o limite é verificado no momento da colocação, ou seja, se o limite já estiver ultrapassado, não será possível colocar um novo bloco.
 
 {% hint style="info" %}
-Cada item possui sua própria contagem, por exemplo, o limite de compradores de redstone não interferem na quantidade de observadores ou pistões que podem ser colocados na mesma chunck.
+Cada item possui sua própria contagem, por exemplo, o limite de comparadores de redstone não interferem na quantidade de observadores ou pistões que podem ser colocados na mesma chunk.
 {% endhint %}
 
 ### Carrinho de Mina com Funil
@@ -44,7 +44,7 @@ O carrinho de mina com funil funciona de forma um pouco diferente dos demais ite
 
 <table><thead><tr><th width="247">Item</th><th>Limite</th></tr></thead><tbody><tr><td>Carrinho de Mina com Funil</td><td>4 carrinhos de mina com funil em um raio de 16 blocos</td></tr></tbody></table>
 
-No caso do carrinho com funil, o limite não é calculado por chunck, podendo existir no máximo 4 carrinhos em um raio de 16 blocos.
+No caso do carrinho com funil, o limite não é calculado por chunk, podendo existir no máximo 4 carrinhos em um raio de 16 blocos.
 
 Diferente dos demais limites desta página, o limite dos carrinhos com funil é calculado mediante análises periódicas no raio do carrinho, caso o sistema identifique que existem mais de 4 carrinhos de mina com funil em um raio de 16 blocos, o(s) carrinho(s) com funil excedente(s) será(ão) removido(s) pelo sistema.
 

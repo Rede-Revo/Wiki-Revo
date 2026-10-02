@@ -29,7 +29,7 @@ A Staff não interfere quando o nome ou o RGB foi perdido porque o jogador renom
 
 ## Antes de começar
 
-* Verifique que o item não foi modificado por ação do incorreta do jogador.
+* Verifique que o item não foi modificado por ação incorreta do jogador.
 * Certifique que o item não foi alterado o nome na bigorna, caso tenha sido, não é possível solicitar a restauração pela Staff.
 
 ## Diagnóstico e solução

@@ -27,7 +27,7 @@ Confira abaixo os jogadores que mais se destacaram nos rankings dessa temporada.
 
 Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
-<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>suN</td><td>Sunshine</td><td>29.131</td></tr><tr><td>🥈 2º Lugar</td><td>VhL</td><td>Valhalla</td><td>11.906</td></tr><tr><td>🥉 3º Lugar</td><td>GoD</td><td>Godness</td><td>11.368</td></tr><tr><td>🏅 4º Luga</td><td>666</td><td>The Ritual </td><td>3.991</td></tr><tr><td>🎖️ 5º Lugar</td><td>TMN</td><td>Toquio Manji</td><td>2.433</td></tr></tbody></table>
+<table><thead><tr><th width="116.6666259765625">Posição</th><th width="81.6666259765625">Tag</th><th width="411.3333740234375">Nome</th><th width="110.3333740234375">Pontos</th></tr></thead><tbody><tr><td>🥇 1º Lugar</td><td>suN</td><td>Sunshine</td><td>29.131</td></tr><tr><td>🥈 2º Lugar</td><td>VhL</td><td>Valhalla</td><td>11.906</td></tr><tr><td>🥉 3º Lugar</td><td>GoD</td><td>Godness</td><td>11.368</td></tr><tr><td>🏅 4º Lugar</td><td>666</td><td>The Ritual </td><td>3.991</td></tr><tr><td>🎖️ 5º Lugar</td><td>TMN</td><td>Toquio Manji</td><td>2.433</td></tr></tbody></table>
 
 
 
