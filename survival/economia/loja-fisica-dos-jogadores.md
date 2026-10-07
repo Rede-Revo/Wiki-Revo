@@ -11,7 +11,7 @@ Lojas são protegidas pelo sistema de proteção de terrenos!
 {% endhint %}
 
 {% hint style="warning" %}
-Lojas físicas serão removidas quando a proteção for excluida!
+Lojas físicas serão removidas quando a proteção for excluída!
 {% endhint %}
 
 {% hint style="warning" %}
@@ -195,7 +195,7 @@ Aprimore sua estratégia de marketing criando e distribuindo cupons de desconto 
 
 ### Como ativo um cupom de loja para poder usar?
 
-Selecionando uma placa vendendo um item, será possível adicionar o cupom na parte inferior, ao clicar abrirá um outro menu solicitando o cupom, ao aplicar, o sistema irá verificar se o cupom é válido e aplicar ele na venda atual. Em casos onde o cupom seja inválido ou expirado, nenhum desconto será aplicado.
+Selecionanda uma placa vendendo um item, será possível adicionar o cupom na parte inferior, ao clicar abrirá um outro menu solicitando o cupom, ao aplicar, o sistema irá verificar se o cupom é válido e aplicar ele na venda atual. Em casos onde o cupom seja inválido ou expirado, nenhum desconto será aplicado.
 
 ### Como crio um cupom?
 

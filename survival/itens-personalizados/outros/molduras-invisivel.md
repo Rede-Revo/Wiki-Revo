@@ -10,7 +10,7 @@ coverY: 0
 
 O Transformador de molduras é um item utilizado para transformar molduras comuns em molduras invisíveis, permitindo exibir itens sem que a moldura fique visível.
 
-O transformador possui uma quantidade de uso limitada em 32 usos e não pode ser reparado.
+O transformador possui uma quantidade de uso limitada a 32 usos e não pode ser reparado.
 
 ## Como usar
 

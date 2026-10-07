@@ -10,7 +10,7 @@ Em nosso servidor, acreditamos firmemente no valor da competição leal, na inte
 
 ## O que é o sistema de anti-trapaça "Guardião"?
 
-O Guardião é um sofisticada sistema desenvolvido para detectar e prevenir tentativas de trapaça em nosso servidor. Isso inclui uma gama de comportamentos prejudiciais, desde trapaças de jogabilidade até uso de bots, e outras formas de trapaça. O sistema é projetado para atuar de maneira justa, precisa e eficiente, minimizando interrupções para jogadores honestos, enquanto pune aqueles que tentam ganhar vantagem injustamente.
+O Guardião é um sofisticado sistema desenvolvido para detectar e prevenir tentativas de trapaça em nosso servidor. Isso inclui uma gama de comportamentos prejudiciais, desde trapaças de jogabilidade até uso de bots, e outras formas de trapaça. O sistema é projetado para atuar de maneira justa, precisa e eficiente, minimizando interrupções para jogadores honestos, enquanto pune aqueles que tentam ganhar vantagem injustamente.
 
 ## Como o sistema funciona?
 
@@ -18,10 +18,10 @@ O Guardião está sempre trabalhando silenciosamente em segundo plano, analisand
 
 ## Justiça
 
-Durante a jogabilidade devido sua alta confiabilidade, punições podem ser aplicadas caso confirmado uma detectação:
+Durante a jogabilidade devido sua alta confiabilidade, punições podem ser aplicadas caso confirmado uma detecção:
 
-* Em eventos: Caso jogador cometa **8** i**nfrações** em uma única infração (Picos de cliques impossíveis por exemplo) o mesmo será punido, ou em uma somatoria de **12 infrações** totais para infrações de combat&#x65;**.**
-  * Todas punições são acompanhadas das informações de desempenho do jogador/servidor no momento para evitar falsos positivos.
+* Em eventos: Caso o jogador cometa **8** **infrações** em uma única infração (Picos de cliques impossíveis por exemplo) o mesmo será punido, ou em uma somatoria de **12 infrações** totais para infrações de combat&#x65;**.**
+  * Todas as punições são acompanhadas das informações de desempenho do jogador/servidor no momento para evitar falsos positivos.
 
 ### Restrição
 
@@ -43,9 +43,9 @@ A revisão pode ser solicitada através do nosso [suporte](https://discord.com/c
 
 ## Avisos
 
-Ações que podem gerar punições automáticas do sistema, utilize por conta em risco:
+Ações que podem gerar punições automáticas do sistema, utilize por conta e risco:
 
 * Alterações de debounce time, ou mouses com baixo tempo de debounce (Linha Bloody).
 * Programas que alterem a funcionalidade de clicks do mouse. (Scroll click, programas de alteração de delay de click etc.)
-* Modificar botões de click para teclas de atalho no minecraft em ambientes de combate.
+* Modificar botões de click para teclas de atalho no Minecraft em ambientes de combate.
 * ButterflyClick ou instabilidades de clicks gerados por mal funcionamento dos botões de click.

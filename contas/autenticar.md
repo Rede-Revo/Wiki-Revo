@@ -20,7 +20,7 @@ O UUID funciona como a identidade da sua conta. é ele que garante que todos os 
 
 Caso você possua uma conta registrada no servidor como pirata e posteriormente adquira uma conta original usando o mesmo nick, você poderá ativar a autenticação original diretamente pelo servidor, usando o comando <kbd>/premium \<senha></kbd> , essa senha é a cadastrada no momento do registro da conta, após executar o comando, você será desconectado do servidor e no seu próximo acesso, o sistema tentará validar sua conta através da autenticação oficial da Mojang, caso a validação ocorra com sucesso, os próximos acessos utilizarão a autenticação da conta original.
 
-Mas caso você tente realizar o acesso sem estar devidamente autenticado em uma conta original, será exibido um erro informando que a conta não esta autenticada no Minecraft, como mecanismo de segurança, caso a alteração para a conta original não seja concluída,  a conta voltará a ser identificada como pirata, permitindo que o jogador continue jogando normalmente.&#x20;
+Mas caso você tente realizar o acesso sem estar devidamente autenticado em uma conta original, será exibido um erro informando que a conta não está autenticada no Minecraft, como mecanismo de segurança, caso a alteração para a conta original não seja concluída,  a conta voltará a ser identificada como pirata, permitindo que o jogador continue jogando normalmente.&#x20;
 
 {% hint style="warning" %}
 ### **ATENÇÃO**
@@ -38,7 +38,7 @@ Uma vez a conta registrada como pirata, ela sempre será pirata, ou seja, trocar
 
 A conversão de uma conta registrada como original para uma autenticação pirata, não pode ser realizada diretamente pelo jogador.
 
-O procedimento para conversão de autenticação original para pirata é realizado gratuitamente pela Staff e somente em situações especificas, mediante abertura de ticket e a comprovação do ocorrido.
+O procedimento para conversão de autenticação original para pirata é realizado gratuitamente pela Staff e somente em situações específicas, mediante abertura de ticket e a comprovação do ocorrido.
 
 A conversão só poderá ser analisada nos seguintes casos:
 
@@ -46,7 +46,7 @@ A conversão só poderá ser analisada nos seguintes casos:
 * Problemas após a alteração do nick da conta original.
 
 {% hint style="info" %}
-A solicitação passará por análise da equipe mesmo que cumpram todos os requisitos acima, ou seja, cumprir esses requisitos não garante que sua conta será convertida em autenticação pirata.&#x20;
+A solicitação passará por análise da equipe mesmo que cumpra todos os requisitos acima, ou seja, cumprir esses requisitos não garante que sua conta será convertida em autenticação pirata.&#x20;
 {% endhint %}
 
 ### Alteração de nick para um já registrado
@@ -95,14 +95,14 @@ Ao solicitar a conversão da autenticação original para pirata, você declara 
 {% hint style="danger" %}
 ## **IMPORTANTE**
 
-Caso seja identificado o compartilhamento, empréstimo, venda, doação, acesso a terceiros ou qualquer ação proibida citado acima, a conta será bloqueada permanentemente.&#x20;
+Caso seja identificado o compartilhamento, empréstimo, venda, doação, acesso a terceiros ou qualquer ação proibida citada acima, a conta será bloqueada permanentemente.&#x20;
 
-Caso o proprietário considere que o bloqueio ocorreu de forma incorreta, poderá abrir um ticket para explicar a situação e solicitar uma novo análise.
+Caso o proprietário considere que o bloqueio ocorreu de forma incorreta, poderá abrir um ticket para explicar a situação e solicitar uma nova análise.
 {% endhint %}
 
 ## Contas originalmente registradas como piratas
 
-As restrições adicionais descritas acima, não se aplicam as contas registradas como piratas, essas contas continuam sujeitas normalmente as regras gerais do Servidor, inclusive as regras relacionada a venda de conta, consulte as regras para evitar problemas futuros. [regras](../regras/ "mention")
+As restrições adicionais descritas acima, não se aplicam as contas registradas como piratas, essas contas continuam sujeitas normalmente as regras gerais do Servidor, inclusive as regras relacionadas a venda de conta, consulte as regras para evitar problemas futuros. [regras](../regras/ "mention")
 
 ## Retornar para a autenticação de registro
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Reúna membros, crie seu império e destaquem-se no servidor, ações realizadas
+  Reúna membros, crie seu império e destaque-se no servidor, ações realizadas
   pelos membros dos clã geram pontos de liga, os melhores clãs são
   recompensados!
 cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
@@ -71,10 +71,10 @@ No momento de finalização de pontuação para decidir quais clãs serão defin
 | Terceiro Lugar |   150  |
 
 {% hint style="info" %}
-**Exemplo:** Jogador(a) finalizou em **segundo lugar** no ranking do **eventos top**, no fim da temporada _(momento de decidir o clã vencedor da liga de temporada)_ será adicionado **+200 pontos** ao seu respectivo clã.
+**Exemplo:** Jogador(a) finalizou em **segundo lugar** no ranking dos **eventos top**, no fim da temporada _(momento de decidir o clã vencedor da liga de temporada)_ será adicionado **+200 pontos** ao seu respectivo clã.
 
 * Não se aplica a liga mensal.
-* O seguintes rankings **não** contabilizam: Cash, Coins e mcMMO.
+* Os seguintes rankings **não** contabilizam: Cash, Coins e mcMMO.
 {% endhint %}
 
 ## Recompensas

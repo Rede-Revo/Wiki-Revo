@@ -13,7 +13,7 @@ coverY: 0
 *   Batalha entre vários clãs na mesma arena;
 
     Com fogo amigo entre os membros do clã desativado, os clãs lutarão entre si.
-* Itens definidos pela equipe; (3 armaduras de diamante (um capacete e uma bota extra), espada, machado, arco, flecha, poções de força, agilidade e invisibilidade, 64 bifes e 64 maças encantadas.
+* Itens definidos pela equipe; (3 armaduras de diamante (um capacete e uma bota extra), espada, machado, arco, flecha, poções de força, agilidade e invisibilidade, 64 bifes e 64 maçãs encantadas.
 
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ coverY: 0
    * Enquanto o evento estiver aberto use o comando `/warp eventos` e entre no portal de água a frente;
    * Saia do evento a qualquer momento com `/batalha sair`.
 2. Preparação para o evento;:
-   * Após o evento ser fechado você será teleportado para a arena onde ocorrera a batalha;
+   * Após o evento ser fechado você será teleportado para a arena onde ocorrerá a batalha;
    * Você terá 1 minuto para realizar o agrupamento do clã.
 3. Inicio da batalha:
    * Após passar o tempo de preparação será iniciado o combate entre todos os clãs;

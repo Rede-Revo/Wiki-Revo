@@ -19,5 +19,5 @@ coverY: 0
 ### Recompensas para quem estiver no TOP 1, 2 e 3 ao fechar o mês:
 
 * Receba duas tags exclusivas **Divino** e **Divina.** (com duração de 1 mês e exclusiva para o top 1)
-* Receberá um **Chapéu do Revonildo** (Item exclusivo e colecionável em todos modos de Jogo).&#x20;
+* Receberá um **Chapéu do Revonildo** (Item exclusivo e colecionável em todos os modos de Jogo).&#x20;
 

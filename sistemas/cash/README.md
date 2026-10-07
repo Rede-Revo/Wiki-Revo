@@ -14,7 +14,7 @@ Cash é uma recompensa que você recebe em troca de apoiar o nosso servidor com 
 
 ## **Por que precisamos das doações?**
 
-Manter um servidor de minecraft online não é barato. Existe vários custos mensais envolvidos, hospedagem, compra de plugins e pagamento de serviços. Para hospedar nosso servidor, possuímos duas máquinas **dedicadas e hospedada em São Paulo,** uma possui com um processador Ryzen 9 7950x com 128GB de memória RAM e disco de armazenamento de 1TB NVME e a outra Ryzen 9 7950x com 64GB de memória RAM e disco de armazenamento de 1TB NVME.
+Manter um servidor de minecraft online não é barato. Existem vários custos mensais envolvidos, hospedagem, compra de plugins e pagamento de serviços. Para hospedar nosso servidor, possuímos duas máquinas **dedicadas e hospedadas em São Paulo,** uma possui um processador Ryzen 9 7950x com 128GB de memória RAM e disco de armazenamento de 1TB NVME e a outra Ryzen 9 7950x com 64GB de memória RAM e disco de armazenamento de 1TB NVME.
 
 Ambas as maquinas são hospedadas pela empresa [EnxadaHost](https://enxadahost.com/members/aff.php?aff=361), caso possua interesse em conhecer o serviço, podem acessar [aqui](https://enxadahost.com/members/aff.php?aff=361).
 
@@ -43,7 +43,7 @@ Se deseja pagar com Pix ou Boleto Bancário você pode selecionar a opção "Mer
 
 ### Seu produto não foi ativado ainda?
 
-Se o prazo de entrega tiver passado, entre em contato conosco através do nosso [Discord](https://discord.com/invite/h6pQ5VwcMz) ou por meio de nosso [e-mail](mailto:supore@rederevo.com). Pode ser que tenha ocorrido algum problema na ativação e nossa equipe de atendimento estará pronta para te ajudar.
+Se o prazo de entrega tiver passado, entre em contato conosco através do nosso [Discord](https://discord.com/invite/h6pQ5VwcMz). Pode ser que tenha ocorrido algum problema na ativação e nossa equipe de atendimento estará pronta para te ajudar.
 
 ## Para mais informações selecione uma das seções abaixo:
 
@@ -53,8 +53,4 @@ Se o prazo de entrega tiver passado, entre em contato conosco através do nosso 
 
 {% content-ref url="../../survival/cash/chaves.md" %}
 [chaves.md](../../survival/cash/chaves.md)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/x7gPpm8sOOncaNk9o2Hj" %}
-[Broken link](/broken/pages/x7gPpm8sOOncaNk9o2Hj)
 {% endcontent-ref %}

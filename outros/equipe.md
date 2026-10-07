@@ -64,7 +64,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 #### Funções: <a href="#funcoes-1" id="funcoes-1"></a>
 
 * [x] Configurar hardwares e instalar e configurar softwares e drivers;
-* [x] Gerenciar opções de segurança e softwares nas maquinas da rede para manter a privacidade e a proteção contra ataques;
+* [x] Gerenciar opções de segurança e softwares nas máquinas da rede para manter a privacidade e a proteção contra ataques;
 * [x] Diagnosticar falhas ou erros de sistema e fornecer soluções para restaurar a funcionalidade.
 
 #### Lista de Técnicos
@@ -80,7 +80,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 * [x] Tirar dúvidas de jogadores realizadas por tickets ou chat;
 * [x] Realização de eventos, como os eventos de construção;
 * [x] Reportar bugs ou erros aos superiores;
-* [x] Ficar atento nos cargos inferiores, repassando aos superiores o desempenho da equipe;
+* [x] Ficar atento aos cargos inferiores, repassando aos superiores o desempenho da equipe;
 * [x] Trabalho de prevenção junto aos jogadores, conscientizando-os sobre os riscos que correm ao desrespeitar as [regras](../regras/).
 
 #### Lista de Administradores
@@ -107,7 +107,7 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
-* <img src="../.gitbook/assets/FelipinhoProMAX.png" alt="" data-size="line"> <mark style="color:green;">**FelipinhoProMAX**</mark>**&#x20;(data de entrada: 01/09/2026)**
+* <img src="../.gitbook/assets/FelipinhoProMAX.png" alt="" data-size="line"> <mark style="color:green;">**Felipe\_13HD**</mark>**&#x20;(data de entrada: 01/09/2026)**
 
 ## <img src="../.gitbook/assets/image (9) (1) (2) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 

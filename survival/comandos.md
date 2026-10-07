@@ -116,7 +116,7 @@ hidden: true
 
 ## Ajuda avançada.
 
-Um menu com funções mais avançadas do servidor com intuito de sanar todo tipo de dúvidas relacionado a sistemas do servidor.&#x20;
+Um menu com funções mais avançadas do servidor com intuito de sanar todo tipo de dúvidas relacionadas a sistemas do servidor.&#x20;
 
 ### 13. Guardião
 

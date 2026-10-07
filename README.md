@@ -1,5 +1,5 @@
 ---
-description: Bem vindo a Wiki da Rede Revo!
+description: Bem-vindo a Wiki da Rede Revo!
 cover: .gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---

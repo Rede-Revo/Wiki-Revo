@@ -9,7 +9,7 @@ coverY: 0
 ## » Como Funciona
 
 * Batalha Clã x Clã entre vários Clãs, o Clã que derrotar todos seus oponentes vence;
-* Itens definidos pela equipe; (2 armaduras de netherite, espada de netherite, machado de netherite, poções de força e agilidade e 64 maças encantadas)
+* Itens definidos pela equipe; (2 armaduras de netherite, espada de netherite, machado de netherite, poções de força e agilidade e 64 maçãs encantadas)
 * Habilidades do mcMMO ativadas;\
   Todas as habilidades do mcMMO serão ativadas no evento.
 
@@ -22,7 +22,7 @@ coverY: 0
    * Enquanto o evento estiver aberto, **limpe seu inventário** e use o comando `/warp eventos` e entre no portal de água a frente;
    * Saia do evento a qualquer momento com `/batalha sair`&#x20;
 2. Preparação para o evento:
-   * Após o evento ser fechado você será teleportado para a arena onde ocorrera a batalha;
+   * Após o evento ser fechado você será teleportado para a arena onde ocorrerá a batalha;
    * Você terá 30 segundos para se preparar para a batalha.&#x20;
 3. Inicio da batalha:
    * Após passar o tempo de preparação será iniciado os duelos ClãxClã.
@@ -48,7 +48,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 * 💰 Premiação de **500.000 Coins**
 * <img src="../../.gitbook/assets/image (14) (1) (2) (1).png" alt="" data-size="line"> TAG **\[Campeã(o)]** durante 7 dias
 * 💎 **\[Liga] 200** Pontos
-* <img src="../../.gitbook/assets/trofeurevo (2).png" alt="" data-size="line"> **Troféu personalizado** para recordação adicionado no inventario do líder do clã
+* <img src="../../.gitbook/assets/trofeurevo (2).png" alt="" data-size="line"> **Troféu personalizado** para recordação adicionado no inventário do líder do clã
 
 #### [🥈](https://emojipedia.org/2nd-place-medal/) **2° Lugar**
 

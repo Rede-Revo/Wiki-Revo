@@ -12,7 +12,7 @@ As botas do Saltitante é um item especial disponibilizado durante a Páscoa de 
 
 ## Funcionamento
 
-Ao utilizar as Botas do Saltitante, o jogador recebe dois benefícios principais, sendo eles, aumento da velocidade de movimento e a capacidade de subir blocos de até um de altura sem a necessidade de pular.
+Ao utilizar as Botas do Saltitante, o jogador recebe dois benefícios principais, sendo eles, aumento da velocidade de movimento e a capacidade de subir blocos de até um bloco de altura sem a necessidade de pular.
 
 {% hint style="warning" %}
 ### **ATENÇÃO**
@@ -26,7 +26,7 @@ As Botas do Saltitante são inquebráveis, ou seja, não perdem durabilidade com
 
 ## Armadura
 
-Apensar do item ser uma bota de couro, as Botas do Saltitante fornecem 3 pontos de armadura, a mesma quantidade de defesa base fornecida por uma bota de netherita, mas vale lembrar, que esse valor refere apenas a armadura base do item e não significa que ele possua todos os demais atributos de uma bota de netherita.
+Apesar do item ser uma bota de couro, as Botas do Saltitante fornecem 3 pontos de armadura, a mesma quantidade de defesa base fornecida por uma bota de netherita, mas vale lembrar, que esse valor se refere apenas a armadura base do item e não significa que ele possua todos os demais atributos de uma bota de netherita.
 
 ## Encantamentos
 
@@ -36,7 +36,7 @@ Todos encantamentos possíveis de serem adicionados em uma bota de couro é poss
 
 ## Obtenção
 
-As Botas do Saltitante foi disponibilizada durante a Caixa de Páscoa de 2026, atualmente o item não pode mais ser obtido oficialmente pelo servidor.
+As Botas do Saltitante foram disponibilizadas durante a Caixa de Páscoa de 2026, atualmente o item não pode mais ser obtido oficialmente pelo servidor.
 
 Esse item ainda está circulando pelo servidor, sendo possível obter ele com outros jogadores.&#x20;
 

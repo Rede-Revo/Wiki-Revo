@@ -18,7 +18,7 @@ A Picareta Ametista atualmente é a única forma de obter as Drusas de Ametista 
 
 ## Funcionamento
 
-Ao quebrar uma Drusa de Ametista usando a Picareta Ametista, o sistema realiza uma tentativa de drop baseada no nível da ferramenta. Caso a tentativa seja bem sucedida, a Drusa de Ametista será dropada como item, caso contrário, a drusa será destruida e nenhum bloco será dropado.
+Ao quebrar uma Drusa de Ametista usando a Picareta Ametista, o sistema realiza uma tentativa de drop baseada no nível da ferramenta. Caso a tentativa seja bem-sucedida, a Drusa de Ametista será dropada como item, caso contrário, a drusa será destruída e nenhum bloco será dropado.
 
 {% hint style="info" %}
 A Drusa de Ametista sempre quebra independente do resultado após a tentativa.
@@ -26,7 +26,7 @@ A Drusa de Ametista sempre quebra independente do resultado após a tentativa.
 
 ### Chance de drop
 
-A chance é definido exclusivamente pelo nível da Picareta, disponível no nome do item.
+A chance é definida exclusivamente pelo nível da Picareta, disponível no nome do item.
 
 <table><thead><tr><th width="95.9166259765625">Nível</th><th width="236.1666259765625">Chance de obter a Drusa</th><th width="173">Durabilidade</th></tr></thead><tbody><tr><td>I</td><td>1%</td><td>1.000</td></tr><tr><td>II</td><td>3%</td><td>1.000</td></tr><tr><td>III</td><td>7%</td><td>1.000</td></tr><tr><td>IV</td><td>16%</td><td>1.000</td></tr><tr><td>V</td><td>40%</td><td>1.000</td></tr></tbody></table>
 

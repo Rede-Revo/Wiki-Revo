@@ -7,19 +7,21 @@ coverY: 0
 
 # 📱 Vincular conta Bedrock e Java
 
+
+
 {% hint style="danger" %}
 **IMPORTANTE**
 
 Sistema está desativado no momento.
 {% endhint %}
 
-**Como Funciona**[**​**](https://wiki.armamc.com/#como-funciona)
+**Como Funciona​**
 
 Ao vincular sua conta Java com sua Conta Bedrock você entrará pelo Bedrock Edition mas carregará os dados da sua conta Java. Você poderá jogar no celular, Xbox, Playstation usando sua conta Java após vincular as contas.
 
 Exemplo: Minha conta no Java é `thiagogebrim` e minha conta no Bedrock é `thiagogebrim163`, após vincular minha conta vou entrar no servidor pelo Bedrock (PC, console ou mobile) mas o servidor entenderá que eu entrei com a minha conta Java `thiagogebrim` e com isso vou possuir todo o progresso da conta Java na conta Bedrock.
 
-**Como Vincular:**[**​**](https://wiki.armamc.com/#como-vincular)
+**Como Vincular:​**
 
 1. Entre no site da GeyserMC: [https://link.geysermc.org/](https://link.geysermc.org/)
 2. Clique em <img src="../../.gitbook/assets/image (7) (2).png" alt="" data-size="line">.
@@ -51,11 +53,11 @@ Pronto! Conta vinculada com sucesso! Agora ao entrar na conta Bedrock o servidor
 
 <figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
-**Como Desvincular**[**​**](https://wiki.armamc.com/#como-desvincular)
+**Como Desvincular​**
 
 1. Envie `/unlinkaccount` usando a conta na versão Java ou Bedrock Edition.<br>
 
-**Outras informações**[**​**](https://wiki.armamc.com/#outras-informa%C3%A7%C3%B5es)
+**Outras informações​**
 
 Sua gamertag é seu nickname dentro do servidor sem o `*`
 

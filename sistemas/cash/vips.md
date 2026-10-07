@@ -12,7 +12,7 @@ VIPs são cargos que você pode adquirir através do Cash em nossos servidores e
 
 ## Quais são os valores dos VIPs?
 
-Quando maior for o VIP mais cash ele vai custar, os valores são:
+Quanto maior for o VIP mais cash ele vai custar, os valores são:
 
 |    Cargo   | Preço |
 | :--------: | :---: |
@@ -34,6 +34,6 @@ Este ocorre em datas especiais do servidor por tempo limitado e pode ser adquiri
 * Todos **VIP** possuem acesso a voar (/fly) no Lobby.
 
 {% hint style="warning" %}
-\*Atente-se no momento da ativação: O **kit de ativaçã**o somente é entregue no servidor no qual você adquiriu o produto no **/cash shop**.
+\*Atente-se no momento da ativação: O **kit de ativação** somente é entregue no servidor no qual você adquiriu o produto no **/cash shop**.
 {% endhint %}
 

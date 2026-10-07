@@ -9,7 +9,7 @@ coverY: 0
 ## » Como Funciona
 
 * Batalha 1v1 entre vários jogadores, o jogador que derrotar todos seus oponentes vence;
-* Itens definidos pela equipe; (armadura de netherite, espada, machado, poções de força e agilidade e 64 maças encantadas)
+* Itens definidos pela equipe; (armadura de netherite, espada, machado, poções de força e agilidade e 64 maçãs encantadas)
 
 <figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ coverY: 0
    * Enquanto o evento estiver aberto, **limpe seu inventário** e use o comando `/warp eventos` e entre no portal de água a frente;
    * Saia do evento a qualquer momento com `/batalha sair`&#x20;
 2. Preparação para o evento:
-   * Após o evento ser fechado você será teleportado para a arena onde ocorrera a batalha;
+   * Após o evento ser fechado você será teleportado para a arena onde ocorrerá a batalha;
    * Você terá 30 segundos para se preparar para a batalha.&#x20;
 3. Inicio da batalha:
    * Após passar o tempo de preparação será iniciado os duelos 1v1.

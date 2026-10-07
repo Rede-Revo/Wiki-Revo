@@ -10,14 +10,14 @@ coverY: 0
 
 Os pets são mascotes especiais do servidor que podem seguir o jogador, eles fazem parte de um sistema do servidor e não são considerados mobs domesticáveis do vanilla, como os gatos e lobos. Os pets desbloqueados podem ser acessados pelo <kbd>/pets</kbd> .
 
-Existem pets disponíveis atualmente através das caixas do servidor e também pets exclusivos que foram possível obter exclusivamente durante determinados eventos e temporadas.
+Existem pets disponíveis atualmente através das caixas do servidor e também pets exclusivos que foi possível obter exclusivamente durante determinados eventos e temporadas.
 
 {% hint style="info" %}
 Pets de temporadas e eventos antigos não podem mais ser obtidos após o encerramento do período em que ficaram disponíveis.
 {% endhint %}
 
 {% hint style="info" %}
-Alguns pets foram disponibilizados em forma de item ativável e ainda pode ser negociados entre jogadores.&#x20;
+Alguns pets foram disponibilizados em forma de item ativável e ainda podem ser negociados entre jogadores.&#x20;
 {% endhint %}
 
 ## Pets disponíveis

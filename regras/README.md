@@ -25,7 +25,7 @@ Abaixo a tabela das regras aplicadas nos locais específicos.\
 
 A **STAFF** (Moderador ou Superior) a qualquer momento pode solicitar o compartilhamento de tela através do aplicativo [AnyDesk](https://anydesk.com/pt), a recusa será interpretada como atividade suspeita e o(a) jogador(a) será punido(a):
 
-* Inspeção de arquivos é totalmente focada em arquivos relacionado ao game, nenhuma informação pessoal será visualizada ou solicitada seguindo e respeitando totalmente a [LGPD](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd).
+* Inspeção de arquivos é totalmente focada em arquivos relacionados ao game, nenhuma informação pessoal será visualizada ou solicitada seguindo e respeitando totalmente a [LGPD](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd).
 * Jogador(a) que se desconectar durante o processo de solicitação de um staff (estando congelado) também será interpretado como recusa.
 * Jogador(a) possui o total direito da recusa da solicitação, porém será punido conforme a regra que incidiu na solicitação do compartilhamento (Inclui a recusa de execução de ferramentas auxiliares).
 
@@ -35,17 +35,17 @@ Ao visualizar um jogador possivelmente infringindo uma regra, abra uma denúncia
 
 1. Entre em nossa comunidade [discord.gg/rederevo](https://discord.com/invite/rederevo)
 2. Acesse a lista de canais e localize o canal: [📬・suporte](https://discord.com/channels/793269891557490688/929227946512777216)
-3. Selecione o tipo de atendimento: **Denúnciar um jogador**
+3. Selecione o tipo de atendimento: **Denunciar um jogador**
 4. Anexe todas informações necessárias, certifique-se de anexar informações verdadeiras
-   * O campo provas somente aceita as mesmas através de links, caso não sejam anexadas a denúncia será automaticamente recusada, plataformas recomendadas: [https://imgur.com/](https://imgur.com/) (Imagens) [https://streamble.com/](https://streamble.com/) (Vídeos)
+   * O campo provas somente aceita as mesmas através de links, caso não sejam anexadas a denúncia será automaticamente recusada, plataformas recomendadas: [https://imgur.com/](https://imgur.com/) (Imagens) [https://streamable.com/](https://streamable.com/) (Vídeos)
 5. Após preenchimento de todos campos faça o envio.
-6. Após o envio, aguarde a analise feita pela equipe e a resposta da sua solicitação denúncia será enviada no seu privado, nenhum chat será aberto.
+6. Após o envio, aguarde a análise feita pela equipe e a resposta da sua solicitação de denúncia será enviada no seu privado, nenhum chat será aberto.
 
 ### Punições: <a href="#punicoes" id="punicoes"></a>
 
 * **Silenciamento:** Conta fica impossibilitada de utilizar chat e quaisquer meio de comunicação dentro dos servidores.
   * O tempo também contabiliza **offline**.
-  * Afeta todos servidores: ✔️
+  * Afeta todos os servidores: ✔️
 * **Banimento:** Conta fica com acesso bloqueado de todos servidores.
   * Guardião aplica punições automáticas desta categoria.
   * Limite de **2** banimentos permanentes por conta.
@@ -69,10 +69,10 @@ Evite brincadeiras de mau gosto, pois a staff não irá fazer distinção entre 
 
 ## Como revisar uma punição?
 
-Caso jogador(a) acredite que a punição tenha sido aplicado incorretamente, o mesmo tem o direito de solicitar revisão sobre a punição com os seguintes passos:
+Caso jogador(a) acredite que a punição tenha sido aplicada incorretamente, o mesmo tem o direito de solicitar revisão sobre a punição com os seguintes passos:
 
 1. Entre em nossa comunidade [discord.gg/rederevo](https://discord.com/invite/rederevo)
 2. Acesse a lista de canais e localize o canal: [📬・suporte](https://discord.com/channels/793269891557490688/929227946512777216)
 3. Selecione o tipo de atendimento: **Apelar Punição**
-4. Preencha os campos indicados sinceridade e honestidade e faça o envio.
-5. Aguarde a reanalise feita pela equipe e a resposta da sua solicitação de revisão será anexada.
+4. Preencha os campos indicados com sinceridade e honestidade e faça o envio.
+5. Aguarde a reanálise feita pela equipe e a resposta da sua solicitação de revisão será anexada.

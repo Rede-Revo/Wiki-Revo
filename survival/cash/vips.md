@@ -59,8 +59,8 @@ coverY: 0
 |     Enxada \[Legend] `(Ef 5, Fort 3, Inq 3 e Remendo)`    |     Enxada \[Ultra] `(Ef 5, Fort 3 e Inq 3)`    |     Enxada \[Super] `(Ef 5 e Inq 3)`    |
 |           Élitros \[Legend] `(Inq 3 e Remendo)`           |            Élitros \[Ultra] `(Inq 3)`           |             Élitros \[Super]            |
 |   Espada \[Legend] `(Af 5, Asp. Fla 2, Inq 3 e Remendo)`  |   Espada \[Ultra] `(Af 5, Asp. Fla 2 e Inq 3)`  |     Espada \[Super] `(Af 5 e Inq 3)`    |
-|    Arco \[Legend] `(For 5, Infinida, Inq 3 e Remendo)`    |    Arco \[Ultra] `(For 5, Infinida e Inq 3)`    |     Arco \[Super] `(For 5 e Inq 3)`     |
-|                64 Maças douradas encantadas               |           32 Maças douradas encantadas          |       16 Maças douradas encantadas      |
+|   Arco \[Legend] `(For 5, Infinidade, Inq 3 e Remendo)`   |   Arco \[Ultra] `(For 5, Infinidade e Inq 3)`   |     Arco \[Super] `(For 5 e Inq 3)`     |
+|                64 Maçãs douradas encantadas               |           32 Maçãs douradas encantadas          |       16 Maçãs douradas encantadas      |
 |                  3 Totens da imortalidade                 |             2 Totens da imortalidade            |         1 Totem da imortalidade         |
 |                    3 Shulkers \[Legend]                   |               2 Shulkers \[Ultra]               |            1 Shulker \[Super]           |
 |              6 packs de Frasco de experiência             |         4 packs de Frasco de experiência        |     2 packs de Frasco de experiência    |
@@ -87,8 +87,8 @@ coverY: 0
 |          **Legend**         |          **Ultra**          |         **Super**        |
 | :-------------------------: | :-------------------------: | :----------------------: |
 |     32 Cenouras douradas    |     16 Cenouras douradas    |    8 Cenouras douradas   |
-|    32 Fogos de artificio    |    16 Fogos de artificio    |   8 Fogos de artificio   |
-| 3 Maças douradas encantadas | 2 Maças douradas encantadas | 1 Maça dourada encantada |
-|       16 Maças douradas     |       8 Maças douradas      |     4 Maças douradas     |
+|    32 Fogos de artifício    |    16 Fogos de artifício    |   8 Fogos de artifício   |
+| 3 Maçãs douradas encantadas | 2 Maçãs douradas encantadas | 1 Maçã dourada encantada |
+|       16 Maçãs douradas     |       8 Maçãs douradas      |     4 Maçãs douradas     |
 |  16 Frascos de experiência  |   8 Frascos de experiência  | 4 Frascos de experiência |
 

@@ -16,5 +16,5 @@ description: >-
 Caso não tenha sua conta vinculada em nenhuma forma, você possui uma chance de recuperação utilizando a recuperação manual do nosso [discord](https://discord.com/channels/793269891557490688/929227946512777216), um formulário a ser preenchido será aberto, para uma maior probabilidade de aceitação insira o máximo de informações válidas que se recordar.
 
 {% hint style="warning" %}
-Formulários manuais passam por analise de validação por diversas verificações, não há uma garantia de aceitação, proteja sua conta corretamente.
+Formulários manuais passam por análise de validação por diversas verificações, não há uma garantia de aceitação, proteja sua conta corretamente.
 {% endhint %}

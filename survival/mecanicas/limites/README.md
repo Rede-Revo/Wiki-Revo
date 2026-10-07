@@ -18,13 +18,13 @@ Os limites de criaturas(mobs) possuem regras detalhadas e estão disponíveis pa
 
 ## Limites
 
-### Drusas de Ametistas e Geradores de Criaturas
+### Drusas de Ametista e Geradores de Criaturas
 
 As drusas de Ametista e os Geradores de Criaturas possuem limite por chunk.
 
 <table><thead><tr><th width="211">Item</th><th>Limite</th></tr></thead><tbody><tr><td>Drusas de Ametista</td><td>72 drusas por chunk</td></tr><tr><td>Geradores de Criaturas</td><td>2 spawners por chunk</td></tr></tbody></table>
 
-A verificação no caso das drusas e spawners ocorrem no momento da colocação, ou seja, caso o limite já tenha excedido o sistema não permitirá uma nova colocação.
+A verificação no caso das drusas e spawners ocorre no momento da colocação, ou seja, caso o limite já tenha sido excedido o sistema não permitirá uma nova colocação.
 
 ### Redstone
 
@@ -35,7 +35,7 @@ Componentes de redstone possuem limite por chunk.
 Para todos os itens citados acima, o limite é verificado no momento da colocação, ou seja, se o limite já estiver ultrapassado, não será possível colocar um novo bloco.
 
 {% hint style="info" %}
-Cada item possui sua própria contagem, por exemplo, o limite de comparadores de redstone não interferem na quantidade de observadores ou pistões que podem ser colocados na mesma chunk.
+Cada item possui sua própria contagem, por exemplo, o limite de comparadores de redstone não interfere na quantidade de observadores ou pistões que podem ser colocados na mesma chunk.
 {% endhint %}
 
 ### Carrinho de Mina com Funil

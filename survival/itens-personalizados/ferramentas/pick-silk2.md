@@ -8,7 +8,7 @@ coverY: 0
 
 ## &#x20;<img src="../../../.gitbook/assets/pick_silk2.png" alt="" data-size="line"> Introdução
 
-A Picareta Natalina é uma ferramenta especial disponibilizada durante o evento de Natal 2024, ela possui duas variações, diferenciadas pelo nível de encantamento Toque Suave, sendo nivel 1 e nível 2.
+A Picareta Natalina é uma ferramenta especial disponibilizada durante o evento de Natal 2024, ela possui duas variações, diferenciadas pelo nível de encantamento Toque Suave, sendo nível 1 e nível 2.
 
 A versão com Toque Suave Ⅰ funciona como uma picareta comum, sem nenhuma habilidade adicional.
 

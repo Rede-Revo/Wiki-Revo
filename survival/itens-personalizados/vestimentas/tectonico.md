@@ -10,7 +10,7 @@ coverY: 0
 
 O Set Tectônico de Páscoa é um conjunto especial de armadura disponibilizado durante a caixa Páscoa 2026.
 
-O conjunto é formado por quatro peças, sendo elas, Capacete Páscoa, Peitoral Páscoa, Calça Páscoa e Botas de Páscoa. Na primeira linha da descrição ou lore é exibido o nível do Tectônico, mas atualmente só existe o nível Tectônico I.
+O conjunto é formado por quatro peças, sendo elas Capacete Páscoa, Peitoral Páscoa, Calça Páscoa e Botas de Páscoa. Na primeira linha da descrição ou lore é exibido o nível do Tectônico, mas atualmente só existe o nível Tectônico I.
 
 ## Efeito
 
@@ -49,7 +49,7 @@ As peças podem ser identificadas pela sua descrição/lore, os itens que conten
 
 ## Obtenção
 
-O Set Tectônico de páscoa foi disponibilizada durante a Caixa de Páscoa de 2026, atualmente o item não pode mais ser obtido oficialmente pelo servidor.
+O Set Tectônico de páscoa foi disponibilizado durante a Caixa de Páscoa de 2026, atualmente o item não pode mais ser obtido oficialmente pelo servidor.
 
 Esse item ainda está circulando pelo servidor, sendo possível obter ele com outros jogadores.&#x20;
 

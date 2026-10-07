@@ -8,7 +8,7 @@ coverY: 0
 
 ## Discord
 
-Utilizado como nossa princípal fonte de suporte onde podem ser realizadas, dúvidas, denúncias, sugestões, recuperações de senhas e muito mais, acesse clicando [aqui](https://discord.gg/rederevo)!
+Utilizado como nossa principal fonte de suporte onde podem ser realizadas, dúvidas, denúncias, sugestões, recuperações de senhas e muito mais, acesse clicando [aqui](https://discord.gg/rederevo)!
 
 ## E-mail
 

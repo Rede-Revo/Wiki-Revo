@@ -20,7 +20,7 @@ Os Boosters de Experiência aumentam temporariamente a quantidade de experiênci
 
 Existem quatro versões comuns.&#x20;
 
-<table><thead><tr><th width="287.666748046875">Booster</th><th width="130">Bônus</th><th width="167.66650390625">Duração</th></tr></thead><tbody><tr><td>Booster de Experiencia Pequeno</td><td>50%</td><td>1 hora</td></tr><tr><td>Booster de Experiencia Médio</td><td>75%</td><td>1 hora</td></tr><tr><td>Booster de Experiencia Grande</td><td>100%</td><td>1 hora</td></tr><tr><td>bênção Dracônica (mcMMO)</td><td>125%</td><td>1 hora</td></tr></tbody></table>
+<table><thead><tr><th width="287.666748046875">Booster</th><th width="130">Bônus</th><th width="167.66650390625">Duração</th></tr></thead><tbody><tr><td>Booster de Experiência Pequeno</td><td>50%</td><td>1 hora</td></tr><tr><td>Booster de Experiência Médio</td><td>75%</td><td>1 hora</td></tr><tr><td>Booster de Experiência Grande</td><td>100%</td><td>1 hora</td></tr><tr><td>Bênção Dracônica (mcMMO)</td><td>125%</td><td>1 hora</td></tr></tbody></table>
 
 Basta beber o item para ativar o benefício.
 
@@ -35,7 +35,7 @@ Ao ativar um novo booster, o booster anterior será perdido e não poderá ser r
 {% endhint %}
 
 {% hint style="info" %}
-Jogadores de versões antigas, para ativar, é só ficar segurando o botão de interagir(por padrão botão direito do mouse), não vai aparecer a animação de bebendo, mas é só aguardar segurando que será ativado normalmente em poucos segundos.
+Jogadores de versões antigas, para ativar, é só ficar segurando o botão de interagir(por padrão botão direito do mouse), não vai aparecer a animação de beber, mas é só aguardar segurando que será ativado normalmente em poucos segundos.
 {% endhint %}
 
 ### Boosters especiais
@@ -61,7 +61,7 @@ Consulte a página de [VIPs](https://wiki.rederevo.com/survival/cash/vips#mcmmo)
 
 O Booster de Sorte aumenta a chance de ativação das habilidades do mcMMO.
 
-Ele possui uma duração de 7 dias e aumenta 33% a chance de ativações.
+Ele possui uma duração de 7 dias e aumenta 33% a chance de ativação.
 
 Enquanto já tiver um Booster de Sorte ativo, não será possível ativar outro do mesmo tipo.
 
@@ -101,7 +101,7 @@ Booster de Vendas + bônus de um item mágico de Venda e Desconto;\
 Booster de Vendas + Varinha de Vendas + item mágico de Venda e Desconto.
 
 {% hint style="warning" %}
-Quando diferentes sistemas de bonus são utilizados em conjunto, cada benefício é aplicado conforme sua própria mecânica, por isso, não considere necessariamente as porcentagens como uma simples soma direta.
+Quando diferentes sistemas de bônus são utilizados em conjunto, cada benefício é aplicado conforme sua própria mecânica, por isso, não considere necessariamente as porcentagens como uma simples soma direta.
 {% endhint %}
 
 ## Como obter

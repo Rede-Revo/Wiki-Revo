@@ -8,9 +8,9 @@ coverY: 0
 
 ## Introdução
 
-Para ajudar a manter a estabilidade e desempenho do servidor, existem um limite para cada criatura(mob) que podem permanecer em um determinado raio de blocos.
+Para ajudar a manter a estabilidade e desempenho do servidor, existe um limite para cada criatura(mob) que podem permanecer em um determinado raio de blocos.
 
-Os limites de forma geral são definidos pelo seu tipo, mas pode conter variações.
+Os limites de forma geral são definidos pelo seu tipo, mas podem conter variações.
 
 <table><thead><tr><th width="219">Categoria</th><th>Limite</th><th data-type="content-ref">Lista</th></tr></thead><tbody><tr><td>Aldeões</td><td>8 a cada 30 blocos</td><td><a href="mobs.md#aldeao">#aldeao</a></td></tr><tr><td>Aquáticos</td><td>3 a cada 10 blocos</td><td><a href="mobs.md#aquaticos">#aquaticos</a></td></tr><tr><td>Pacíficos</td><td>4 a cada 10 blocos</td><td><a href="mobs.md#pacificos">#pacificos</a></td></tr><tr><td>Pacíficos 2</td><td>5 a cada 10 blocos</td><td><a href="mobs.md#pacificos-2">#pacificos-2</a></td></tr><tr><td>Hostis </td><td>8 a cada 10 blocos</td><td><a href="mobs.md#hostis">#hostis</a></td></tr><tr><td>Especiais</td><td>2 a cada 20 blocos</td><td><a href="mobs.md#especiais">#especiais</a></td></tr></tbody></table>
 
@@ -24,7 +24,7 @@ Cada mob tem um limite máximo e uma distância de verificação, quando determi
 
 Os limites são aplicados individualmente para cada tipo de mob, e não pela categoria em que ele está listado.&#x20;
 
-Todas as variações de um mesmo mob compartilham o mesmo limite, por exemplo, diferentes variantes de lobo são contabilizadas juntas, assim como, os aldeões de diferentes profissões continuam sendo considerados apenas como aldeões para a contagem do sistema de limites.
+Todas as variações de um mesmo mob compartilham o mesmo limite, por exemplo, diferentes variantes de lobo são contabilizadas juntas, assim como os aldeões de diferentes profissões continuam sendo considerados apenas como aldeões para a contagem do sistema de limites.
 
 {% hint style="danger" %}
 ### **ATENÇÃO**
@@ -50,7 +50,6 @@ Os mobs classificados como aquáticos possuem limite de 3 a cada 10 blocos.
 * Baiacu
 * Girino
 * Golfinho
-* Lobo
 * Lula
 * Lula-Brilhante
 * Náutilo
@@ -80,6 +79,7 @@ Os mobs classificados como pacíficos possuem limite de 4 a cada 10 blocos.
 * Lavagante
 * Lhama
 * Lhama do Vendedor
+* Lobo
 * Morcego
 * Mula
 * Panda

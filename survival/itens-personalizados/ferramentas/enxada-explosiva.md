@@ -18,10 +18,10 @@ A área é representada no formato, **largura** x **comprimento**.
 
 <table><thead><tr><th width="159.6666259765625">Nível</th><th width="112.6666259765625" align="center">Área</th><th width="99.666748046875" data-type="number">Blocos</th></tr></thead><tbody><tr><td>Explosão I</td><td align="center">3x1</td><td>3</td></tr><tr><td>Explosão II</td><td align="center">3x2</td><td>6</td></tr><tr><td>Explosão III</td><td align="center">5x1</td><td>5</td></tr><tr><td>Explosão IV</td><td align="center">5x2</td><td>10</td></tr></tbody></table>
 
-Não existe uma limitação específica de blocos que a explosão é aplicada, ou seja, qualquer bloco pode ser colhidos normalmente com uma enxada, o efeito explosão será aplicado.
+Não existe uma limitação específica de blocos em que a explosão é aplicada, ou seja, qualquer bloco pode ser colhidos normalmente com uma enxada, o efeito explosão será aplicado.
 
 {% hint style="info" %}
-Dependendo da velocidade com que os blocos são quebrados, alguns blocos dentro da área podem eventualmente não serem destruídos.&#x20;
+Dependendo da velocidade com que os blocos são quebrados, alguns blocos dentro da área podem eventualmente não ser destruídos.&#x20;
 {% endhint %}
 
 Fora a explosão causada, a enxada funciona como uma enxada normal do Minecraft.

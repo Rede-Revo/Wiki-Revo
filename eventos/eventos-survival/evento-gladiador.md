@@ -8,7 +8,7 @@ coverY: 0
 
 ## » Como Funciona
 
-* Mate o mate o ultimo sobrevivente na arena e torne-se o campeão ou mate a maior quantidade de inimigos e torne-se o matador;
+* Mate o mate o último sobrevivente na arena e torne-se o campeão ou mate a maior quantidade de inimigos e torne-se o matador;
 * Itens definidos pela equipe; (3 armaduras de netherite, machado de netherite, poções de força e agilidade, 64 maçãs douradas.);
 
 <figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
@@ -23,7 +23,7 @@ coverY: 0
    * Enquanto o evento estiver aberto, **limpe seu inventário** e use o comando `/warp eventos` e entre no portal de água a frente;
    * Saia do evento a qualquer momento com `/batalha sair`.
 2. Preparação para o evento:
-   * Após o evento ser fechado você será teleportado para a arena onde ocorrera a batalha;
+   * Após o evento ser fechado você será teleportado para a arena onde ocorrerá a batalha;
    * Você terá 30 segundos para se preparar para a batalha.&#x20;
 3.  Inicio da batalha:
 
@@ -51,7 +51,7 @@ Qualquer suspeita de utilização de trapaça durante o combate, a equipe poder�
 
 ## » Premiação
 
-#### 🥇 **Ultimo Sobrevivente**
+#### 🥇 Ú**ltimo Sobrevivente**
 
 * 💰 Premiação de **50.000 Coins**
 * &#x1F48E;**\[Liga] 25** Pontos

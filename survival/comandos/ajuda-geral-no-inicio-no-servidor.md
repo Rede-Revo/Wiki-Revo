@@ -104,7 +104,7 @@ description: >-
 * Descrição: Ajude o servidor a crescer na comunidade e receba recompensas exclusivas por cada voto.
 * Recompensas:
   * Individual (por site): 1x Chave M. \[Comum] + 1x VotePoint (use em `/voteshop`).
-  * Global (Meta de 75 votos): Surgimento da Pinhata através do comando `/pinata`.
+  * Global (Meta de 75 votos): Surgimento da Pinhata através do comando `/pinhata`.
 * Comando: `/votar` (Recebe os links no chat).
 
 ***

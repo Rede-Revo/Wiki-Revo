@@ -45,20 +45,20 @@ Para formar o conjunto, basta vestir simultaneamente as quatro partes do Set est
 
 Cada parte recebe individualmente um nível de perfeição, variando de 1% a 100%, quanto maior sua perfeição, maior será o seu bônus e sua durabilidade. Por esse motivo, duas peças do mesmo tipo podem possuir valores diferentes.
 
-### Calculo do bônus de venda
+### Cálculo do bônus de venda
 
-O bônus é calculada em cima do nível de perfeição da peça, de forma simplificada, a formula seria:\
+O bônus é calculado em cima do nível de perfeição da peça, de forma simplificada, a fórmula seria:\
 Bônus = 0,5+(Perfeição \* 0,015).\
 Exemplo:\
 Se o capacete de vendas tem 70% de perfeição, na fórmula ficaria:\
 Bônus = 0,5+(70 \* 0,015) = 0,5+1,05 = 1,55\
-Ou seja, o bônus nesse caso seria de 1,55%, mas isso é exibido na lore/descriçao da parte do set.&#x20;
+Ou seja, o bônus nesse caso seria de 1,55%, mas isso é exibido na lore/descrição da parte do set.&#x20;
 
 {% hint style="info" %}
 O valor exibido na descrição do item possui apenas duas casas decimais, porém o cálculo das vendas utiliza o valor interno completo, por esse motivo, somar apenas as porcentagens exibidas na descrição do item, pode resultar em uma pequena diferença em relação ao valor final recebido.
 {% endhint %}
 
-### Calculo da venda
+### Cálculo da venda
 
 Cada peça possui seu próprio bônus e os valores funcionam em conjunto durante as vendas, o cálculo é feito basicamente somando os bônus do set equipado, e depois adicionado em cima do valor que a venda ficaria.\
 Exemplo:\
@@ -70,12 +70,12 @@ Vamos imaginar os seguintes bônus para cada set:\
 se somar todos esses valores chegará em 5,95%, teoricamente esse é o valor total do bônus, porém, devido as casas decimais internas utilizadas pelo sistema, o bônus real desse conjunto é de 5,945, esse valor real, é calculado com base na fórmula do bônus pelo nível de perfeição.
 
 {% hint style="info" %}
-Essa foi uma breve explicação de como funciona o cálculo do sistema internamente. Os cálculos demonstrados aqui, apenas servem como base de comparação, ainda sim, no resultado final, podem ter divergências, pois o servidor trabalha apenas até duas casas decimais nos Coins.&#x20;
+Essa foi uma breve explicação de como funciona o cálculo do sistema internamente. Os cálculos demonstrados aqui, apenas servem como base de comparação, ainda assim, no resultado final, podem ter divergências, pois o servidor trabalha apenas até duas casas decimais nos Coins.&#x20;
 {% endhint %}
 
 ### Set Perfeito
 
-Uma peça que alcançar 100% de perfeição recebe o status especial Perfeito em frente do seu nome. Nesse caso em específico, não é realizada nenhum cálculo, o sistema entrega 2,5% de bônus e 125.000 pontos de durabilidade.
+Uma peça que alcançar 100% de perfeição recebe o status especial Perfeito na frente do seu nome. Nesse caso em específico, não é realizado nenhum cálculo, o sistema entrega 2,5% de bônus e 125.000 pontos de durabilidade.
 
 ## Durabilidade
 
@@ -108,7 +108,7 @@ Em breve...
 
 ## Uso em conjunto com outros bônus
 
-O benefício das peças funcionam simultaneamente com outros sistemas de vendas, como Boosters de venda, bônus da loja e similares.
+O benefício das peças funciona simultaneamente com outros sistemas de vendas, como Boosters de venda, bônus da loja e similares.
 
 {% hint style="info" %}
 Os diferentes benefícios são aplicados conforme a mecânica de cada sistema e não devem ser tratados necessariamente como uma simples soma direta das porcentagens.
@@ -116,6 +116,6 @@ Os diferentes benefícios são aplicados conforme a mecânica de cada sistema e 
 
 ## Obtenção
 
-Primeiro você precisa do Set Estranho completo, que podem ser encontradas na [Caixa Divina](https://wiki.rederevo.com/survival/caixas/divina#itens).
+Primeiro você precisa do Set Estranho completo, que pode ser encontrado na [Caixa Divina](https://wiki.rederevo.com/survival/caixas/divina#itens).
 
 Após conseguir todas as partes do set estranho, só equipar todos simultaneamente que o set Estranho irá converter automaticamente para Set de Vendas, gerando assim a Perfeição do item, juntamente com o bônus e durabilidade.

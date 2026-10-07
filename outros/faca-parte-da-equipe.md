@@ -23,7 +23,7 @@ Não é preciso ser excessivamente formal, contudo, o domínio da gramática é 
 
 Falar a verdade em sua aplicação é muito importante, mesmo que você tenha um histórico ruim ou não atenda algum dos requisitos, o melhor é ser honesto e falar isso em seu formulário. Caso você minta, ao verificar seus dados e histórico, descobriremos e isso fará com que você seja permanentemente negado e nunca tenha a chance de fazer parte da equipe.
 
-**Mostre quem você é e porque deve ser um membro da equipe**
+**Mostre quem você é e por que deve ser um membro da equipe**
 
 Nosso principal objetivo é selecionar os jogadores mais bem capacitados e adequados a um lugar na equipe através da análise de seu formulário de aplicação. Portanto, é crucial que você seja apresentado da forma correta e se torne, assim, interessante para a equipe. Faça com que sua aplicação mostre exatamente quem você é e porque você deve ser um membro da equipe. Fique à vontade para falar tudo que achar necessário sobre você!
 

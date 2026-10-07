@@ -80,11 +80,11 @@ Todo o progresso da conta antiga é transferido, incluindo:
 * Conquistas
 * Inventário
 * Enderchest
-* Experiencia
+* Experiência
 * Torneio
 * Terrenos
 * Homes
-* McMMo
+* mcMMO
 * Tags
 * Pets
 * Efeitos

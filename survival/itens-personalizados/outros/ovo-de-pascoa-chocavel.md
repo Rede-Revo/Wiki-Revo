@@ -14,7 +14,7 @@ O Ovo de Páscoa é um item especial que pode ser chocado ao percorrer uma deter
 
 Para aumentar o progresso do Ovo de Páscoa, o item precisa obrigatoriamente estar na mão secundária do jogador.
 
-Para aumentar o progresso também é necessário estar em movimento de corrida, seja andando correndo, voando correndo ou nadando correndo, já andar normalmente ou voar com élitros não aumentam o progresso. É possível consultar o progresso pela descrição/lore do item.
+Para aumentar o progresso também é necessário estar em movimento de corrida, seja andando correndo, voando correndo ou nadando correndo, já andar normalmente ou voar com élitros não aumenta o progresso. É possível consultar o progresso pela descrição/lore do item.
 
 ## Progresso
 
@@ -22,11 +22,11 @@ A quantidade de blocos que precisam ser percorridos para chocar o ovo varia conf
 
 <table><thead><tr><th width="132.666748046875">Raridade</th><th width="290">Distância necessária</th></tr></thead><tbody><tr><td>Comum</td><td>250.000 Blocos</td></tr><tr><td>Raro</td><td>500.000 Blocos</td></tr><tr><td>Épico</td><td>1.000.000 Blocos</td></tr></tbody></table>
 
-Ao atingir a distancia necessária, o ovo não entregará a recompensa de forma automática.
+Ao atingir a distância necessária, o ovo não entregará a recompensa de forma automática.
 
 ## Ovo Chocado
 
-Quando a quantidade de progresso é alcançada, o ovo altera seu estado para chocado, alterando o nome exibindo agora o status de chocado e a lore/descrição, quando isso acontecer, não é mais necessário percorrer nenhuma distancia com esse ovo. \
+Quando a quantidade de progresso é alcançada, o ovo altera seu estado para chocado, alterando o nome exibindo, e agora o status de chocado e a lore/descrição, quando isso acontecer, não é mais necessário percorrer nenhuma distancia com esse ovo. \
 Ao interagir com o ovo(Botão direito do mouse) chocado, ele será aberto e entregará uma única recompensa entre sua lista, diretamente no inventário do jogador.
 
 ## Recompensas

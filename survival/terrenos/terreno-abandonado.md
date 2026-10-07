@@ -70,7 +70,7 @@ Sistema válido para todos os jogadores, inclusive jogadores banidos.
 * Remoção manual realizada pela Staff após abertura de ticket.
 * É preciso que um ticket seja aberto informando as coordenadas e mundo da proteção.
 * Informe também o nick do jogador denunciado.
-* O ticket será resolvido em até 3 dias uteis após sua abertura.
+* O ticket será resolvido em até 3 dias úteis após sua abertura.
   * O tempo pode variar por motivos de força maior.
 
 ### Requisitos

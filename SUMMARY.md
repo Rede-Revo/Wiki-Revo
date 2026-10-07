@@ -51,6 +51,7 @@
     * [Arco Natalino](survival/itens-personalizados/ferramentas/arco-congelante.md)
     * [Picareta Natalina](survival/itens-personalizados/ferramentas/pick-silk2.md)
     * [Picareta Explosiva](survival/itens-personalizados/ferramentas/picareta-explosiva.md)
+    * [Picareta de Páscoa](survival/itens-personalizados/ferramentas/pick-veinminer.md)
     * [Enxada de Páscoa](survival/itens-personalizados/ferramentas/super-aro.md)
     * [Pá Explosiva](survival/itens-personalizados/ferramentas/pa-explosiva.md)
     * [Enxada Natalina](survival/itens-personalizados/ferramentas/enxada-explosiva.md)
@@ -235,8 +236,8 @@
     * [🗺️ Evento Desbravador](eventos/eventos-survival/evento-desbravador.md)
   * [🎲 Aleatórios](survival/eventos-do-servidor/aleatorios/README.md)
     * [🌪️ Evento Dominador](eventos/eventos-survival/evento-dominador-arena.md)
-* [🆙 Melhorias](survival/melhorias/README.md)
-  * [💡 Funil Inteligente](survival/melhorias/funil-inteligente.md)
+  * [🆙 Melhorias](survival/eventos-do-servidor/melhorias/README.md)
+    * [💡 Funil Inteligente](survival/eventos-do-servidor/melhorias/funil-inteligente.md)
 
 ## BOXPVP
 

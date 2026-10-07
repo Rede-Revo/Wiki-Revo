@@ -63,7 +63,7 @@ TAGs dos eventos mensais são temporárias e duram 30 dias.
 | Acrobacia     | \[Acrobata]                     |
 | Adestramento  | \[Domador] e \[Domadora]        |
 | Alquimia      | \[Alquimista]                   |
-| Arqueiria     | \[Arqueiro] e \[Arqueira]       |
+| Arquearia     | \[Arqueiro] e \[Arqueira]       |
 | Bestas        | \[Caçador] e \[Caçadora]        |
 | Clava         |                                 |
 | Desarmado     | \[Boxeador] e \[Boxeadora]      |

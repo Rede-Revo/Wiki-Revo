@@ -11,7 +11,7 @@ coverY: 0
 
 ## Regra 08 - Nick ou Skin Inadequada <a href="#id-01" id="id-01"></a>
 
-Criar uma conta com nickname com mensagem sexual, discriminatória, ofensiva aos jogadores ou ao servidor ou com ataques à pessoas ou grupos.
+Criar uma conta com nickname com mensagem sexual, discriminatória, ofensiva aos jogadores ou ao servidor ou com ataques a pessoas ou grupos.
 
 Utilizar uma skin sexual ou discriminatória.
 
@@ -37,7 +37,7 @@ Jogadores(as) que reportarem quaisquer bug que afetem a jogabilidade do servidor
 Aplicável em casos de abusos de erros graves.
 
 {% hint style="danger" %}
-Em bugs de duplicação a punição aplicada é permanentemente e o jogador terá a conta confiscada pela Staff.
+Em bugs de duplicação a punição aplicada é permanente e o jogador terá a conta confiscada pela Staff.
 {% endhint %}
 
 | Incidência |        Punição       |
@@ -48,7 +48,7 @@ Em bugs de duplicação a punição aplicada é permanentemente e o jogador ter�
 
 #### Sistema de Recompensas para Reporte de Erros
 
-_Reportar erros são uma forma de apoio direto ao servidor, os mesmos devem ser reportados assim que descobertos, usufruir do erro pode ser considerado Abuso de Bug e enquadrado na Regra 9._
+_Reportar erros é uma forma de apoio direto ao servidor, os mesmos devem ser reportados assim que descobertos, usufruir do erro pode ser considerado Abuso de Bug e enquadrado na Regra 9._
 
 * Reportar erros em que a staff já tenha ciência da existência serão reconhecidos porém não serão considerados no sistema de recompensas.<br>
 
@@ -64,7 +64,7 @@ _Reportar erros são uma forma de apoio direto ao servidor, os mesmos devem ser 
 
 **Reportador de erros nível 3:**
 
-* Item exclusivo com o nome HEX "\[~~**Bug**~~**&#x20;Hunter**]; Descrição: "Caçador de erros nível 3 da Rede Revo!" e personalização com o nick dono do item.
+* Item exclusivo com o nome HEX "\[~~**Bug**~~**&#x20;Hunter**]; Descrição: "Caçador de erros nível 3 da Rede Revo!" e personalização com o nick do dono do item.
 * A depender da gravidade do erro grave poderá ser entregue mais recompensas.
 * Nível de erro: Fonte de recurso infinita.
 
@@ -133,9 +133,9 @@ Além do banimento, punições extras são aplicadas referentes ação praticada
 \
 Aumento de Coins:
 
-* 1º - Saldo de coins redefinidos para 50%
-* 2º - Saldo de coins redefinidas para 25%
-* 3º - Saldo de coins redefinidas para 0.
+* 1º - Saldo de coins redefinido para 50%
+* 2º - Saldo de coins redefinida para 25%
+* 3º - Saldo de coins redefinida para 0.
 
 Aumento de Habilidades
 
@@ -168,9 +168,9 @@ Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relac
 * Inventar histórias ou induzir jogadores a enviar pedidos de teletransporte e matá-los em seguida (fake chat);
 * Criar uma proteção a menos de **50 blocos** de outro jogador atrapalhando o mesmo de expandir, além do banimento está sujeito a remoção:
   * A partir de **10 dias** de existência do terreno, o mesmo não poderá ser solicitada a remoção (Exceção para terrenos vazios).
-  * **Terrenos reinvidicados** mantêm a data de criação original para fins de contagem dos 10 dias, impedindo abuso desta regra contra reinvidicações legítimas.
+  * **Terrenos reivindicados** mantêm a data de criação original para fins de contagem dos 10 dias, impedindo abuso desta regra contra reivindicações legítimas.
   * Caso seu terreno possua mais de **50.000 blocos**, não poderá solicitar remoções.
-* Criar proteções ao redor de terrenos abandonados que estão próximos a [reivindicação](/broken/pages/aSD2mXHe2EubuFcro4Fs).
+* Criar proteções ao redor de terrenos abandonados que estão próximos a [reivindicação](../survival/terrenos/terreno-abandonado.md).
 * Editar itens seja seu nome, lore ou encantamento com intuito de confundir jogadores (Renomear um gancho de armadilha com nome de chave misteriosa por exemplo). Inclui a edição de itens que induza algo mas na verdade não é aquilo, caracterizando um item falso, por exemplo: colocar apenas uma parte da shulker com 64 de um determinado item e o resto colocar apenas um item por slot da capacidade da shulker, enganando o jogador.
 * Mandar TPA para algum jogador com finalidade exclusiva de o prejudicar e se apossar de seus itens;
 * Perseguir jogadores por meio da jogabilidade, com meio exclusivo de o prejudicar (ficar em volta de proteções esperando o jogador sair da mesma com finalidade exclusiva de o perturbar/matar, por exemplo). Casos de perseguição o jogador denunciado será previamente avisado, posteriormente ao aviso, se persistir, será punido.
@@ -185,7 +185,7 @@ Qualquer atitude que desestabilize a harmonia do servidor ou o convívio e relac
 Construir ou destruir de forma aleatória pelo mapa colocando lava, água, etc. Este tópico também se aplica para construções obscenas, ou qualquer construção que infrinja quaisquer outras regras, inclui o fato de ser fora de um terreno ou dentro de um terreno que você tenha permissão.
 
 {% hint style="danger" %}
-Colocar blocos de forma aleatória prejudica o mesmo visualmente e está sujeito a punição, caso seja localizado locais com blocos aleatórios o autor será notificado por um membro da equipe, a recusa ou não remoção no prazo de até **3 dias** resultará em punição.
+Colocar blocos de forma aleatória prejudica o mesmo visualmente e está sujeito a punição, caso seja localizados locais com blocos aleatórios o autor será notificado por um membro da equipe, a recusa ou não remoção no prazo de até **3 dias** resultará em punição.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -214,7 +214,7 @@ O ato de não reportar trapaceiros explícitos ([Regra 18](jogabilidade.md#01-7)
 
 ## Regra 18 - Uso de Trapaças <a href="#id-01" id="id-01"></a>
 
-O uso de clientes, programas, modificações (mods), injeções no client que de vantagens extras como por exemplo: encontrar minérios e outros blocos, bater mais longe ou correr mais rápido.
+O uso de clientes, programas, modificações (mods), injeções no client que dê vantagens extras como por exemplo: encontrar minérios e outros blocos, bater mais longe ou correr mais rápido.
 
 {% hint style="info" %}
 Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-permitidos.md).
@@ -229,7 +229,7 @@ Você pode visualizar a lista de mods permitidos clicando [aqui](mods-e-clients-
 
 ## Regra 19 - Uso irregular da TAG ''Mito''  <a href="#id-01" id="id-01"></a>
 
-Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só pode ser adquirida apenas em algumas situações. Comercializar ou arquivar em conta secundária esta TAG resultará em punição. Saiba mais sobre a TAG: [Clique aqui!](/broken/pages/krShtBA5J6oFJhyadKmn)
+Pra que seja considerado realmente um MITO e a TAG não perca seu valor ela só pode ser adquirida apenas em algumas situações. Comercializar ou arquivar em conta secundária esta TAG resultará em punição. Saiba mais sobre a TAG: [Clique aqui!](../survival/mito.md)
 
 | Incidência | Vendedor |    Comprador   |
 | :--------: | :------: | :------------: |

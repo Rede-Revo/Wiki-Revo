@@ -16,8 +16,9 @@ Visualize os terrenos a venda em **/imobiliaria**.
 
 ## Proteções
 
-A fim de evitar prática de anti-jogo segue algumas restrições para criação da placa:
+A fim de evitar a prática de anti-jogo seguem algumas restrições para criação da placa:
 
 * Não pode ser feita próximo a lava ou buracos.
 * A base da placa não pode ser alterada a menos que remova a placa.
-* São adicionados **30 segundo**s de proteção ao teleportar para um local a venda.
+* São adicionados **30 segundos** de proteção ao teleportar para um local a venda.
+

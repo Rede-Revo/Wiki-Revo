@@ -8,7 +8,7 @@ coverY: 0
 
 ## Introdução
 
-O Arco Natalino é um item especial com a capacidade de aplicar Congelamento em jogadores atingidos por suas flechas, sua característica especial é identificada pelo descrição do item pelo nome Congelamento, disponível nos níveis, I, II e III.
+O Arco Natalino é um item especial com a capacidade de aplicar Congelamento em jogadores atingidos por suas flechas, sua característica especial é identificada pelo descrição do item e pelo nome Congelamento, disponível nos níveis I, II e III.
 
 O item ficou disponível durante a Caixa Natalina de 2024, sendo possível encontrar ela na caixa ou trocar por CXP, o nível de congelamento recebido era sorteado de forma aleatória.
 
@@ -26,7 +26,7 @@ Fora a habilidade de aplicar o congelamento, o arco funciona normalmente como um
 
 ## Encantamentos
 
-O Arco Natalino com congelamento possuem originalmente os seguintes encantamentos.
+O Arco Natalino com congelamento possuí originalmente os seguintes encantamentos.
 
 <table><thead><tr><th width="159.333251953125">Encantamento</th><th width="93.999755859375">Nível</th></tr></thead><tbody><tr><td>Força</td><td>VI</td></tr><tr><td>Chama</td><td>I</td></tr><tr><td>Durabilidade</td><td>V</td></tr><tr><td>Infinidade</td><td>I</td></tr><tr><td>Remendo</td><td>I</td></tr></tbody></table>
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Enfatizando a ideia de união, reponsabilidade coletiva e jogo limpo, este
+  Enfatizando a ideia de união, responsabilidade coletiva e jogo limpo, este
   sistema pune todo o clã por membros trapaceiros.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ## Introdução
 
-Para que seja uma disputa justa e um ambiente ainda mais competitivo, infrações geradas pela [Regra 18](../../regras/jogabilidade.md#id-01-9) geram pontuações ao clã.
+Para que seja uma disputa justa e um ambiente ainda mais competitivo, punições pela [Regra 18](../../regras/jogabilidade.md#id-01-9) geram pontuações ao clã.
 
 ## Tabela de avisos
 
@@ -19,9 +19,9 @@ Para que seja uma disputa justa e um ambiente ainda mais competitivo, infraçõe
 
 ## Consequência dos Avisos
 
-O acumulo de avisos acarreta em punições ao clã:
+O acúmulo de avisos acarreta punições ao clã:
 
-* Pontos removidos afetam ambas ligas (temporada e mensal).
+* Pontos removidos afetam ambas as ligas (temporada e mensal).
 * Ao atingir a quantia de avisos, a punição é automaticamente aplicada.
 
 | Estágio | Avisos |            Punição           |

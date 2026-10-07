@@ -25,7 +25,7 @@ O mercado é um sistema que permite aos jogadores comprar e anunciar itens para 
 | /ah deleted                                    | Abre um menu exibindo todos os itens excluídos pelo sistema.                                                                                                                                        |
 
 {% hint style="info" %}
-Todas as vendas realizadas em Coins será cobrado uma taxa de 5% sobre o valor total. Vendas realizadas em cash não tem cobrança de taxa.
+Nas vendas realizadas em Coins será cobrado uma taxa de 5% sobre o valor total. Vendas realizadas em cash não tem cobrança de taxa.
 {% endhint %}
 
 ## Expiração

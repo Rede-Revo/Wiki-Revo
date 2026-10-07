@@ -8,13 +8,13 @@ coverY: 0
 
 ## Introdução
 
-Alguns itens especiais concedem temporariamente um benefício conjunto de aumento no valor das vendas e desconto nas compras realizada na loja do servidor.&#x20;
+Alguns itens especiais concedem temporariamente um benefício conjunto de aumento no valor das vendas e desconto nas compras realizadas na loja do servidor.&#x20;
 
-Por mais que esses itens possuem aparência e temas diferentes, esses itens compartilham o mesmo efeito e sua duração pode ser acumulada.
+Por mais que esses itens possuam aparência e temas diferentes, esses itens compartilham o mesmo efeito e sua duração pode ser acumulada.
 
 ## Benefícios
 
-Enquanto o efeito estiver ativo, o jogador receberá, 5% de bônus nas vendas para  a loja e 5% de desconto nas compras na loja.&#x20;
+Enquanto o efeito estiver ativo, o jogador receberá 5% de bônus nas vendas para  a loja e 5% de desconto nas compras na loja.&#x20;
 
 Cada item utilizado adiciona 30 dias à duração do benefício.
 
@@ -24,7 +24,7 @@ A duração dos diferentes itens desse sistema é compartilhada, isso significa 
 
 Por exemplo, se você tiver 20 dias restantes e utilizar outro item que entrega esse benefício, passará a ficar com 50 dias restantes.
 
-Isso também acontece entre itens comemorativos diferentes, desde que entregue a mesma porcentagem de benefícios.&#x20;
+Isso também acontece entre itens comemorativos diferentes, desde que entreguem a mesma porcentagem de benefícios.&#x20;
 
 ## Itens
 
@@ -36,10 +36,10 @@ Buquê Amazônico e Presente Natalino pertencem ao mesmo sistema. Utilizar um en
 
 ## Uso em conjunto com outros bônus
 
-O benefício desses itens funcionam simultaneamente com outros sistemas de vendas, como Boosters de venda, Set de Vendas, bônus da loja e similares.
+O benefício desses itens funciona simultaneamente com outros sistemas de vendas, como Boosters de venda, Set de Vendas, bônus da loja e similares.
 
 {% hint style="info" %}
-Os diferentes benefícios são aplicados conforme a mecânica de cada sistema e não devem ser tratados necessariamente como uma simples soma direta das porcentagens.
+Os diferentes benefício são aplicados conforme a mecânica de cada sistema e não devem ser tratados necessariamente como uma simples soma direta das porcentagens.
 {% endhint %}
 
 ## Obtenção

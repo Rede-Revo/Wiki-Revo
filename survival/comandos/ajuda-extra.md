@@ -36,7 +36,7 @@ description: >-
 
 ### 4. Clans
 
-* Descrição: Reuna-se com outros jogadores para cumprir objetivos em grupo.
+* Descrição: Reúna-se com outros jogadores para cumprir objetivos em grupo.
 * Informações: Crie seu clan por 250.000 coins, participe da Liga e tenha sua própria base.
 * Comando: `/clan`
 
@@ -149,7 +149,6 @@ description: >-
 
 * Descrição: Mensagens de destaque exibidas para todos quando você entra no servidor.
 * Como obter: Sendo TOP 1 de um ranking, o MITO do servidor ou completando categorias de Tags.
-* Comando: `/efeitos`
 
 ***
 

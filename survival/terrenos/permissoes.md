@@ -52,7 +52,7 @@ coverY: 0
 * Permite remover lã das ovelhas.
 * Permite pegar e soltar cubo de enxofre.
 * Permite alterar ou remover o bloco dentro do cubo de enxofre.
-* Permite pegar peixes com balde com agua.
+* Permite pegar peixes com balde com água.
 * Permite usar camas, âncoras de renascimento, sinos e vasos de flores.
 * Permite voar dentro do terreno.\*\*
 
@@ -73,7 +73,7 @@ Permite todas as permissões de [#acesso](permissoes.md#acesso "mention").
 * Permite entrar no terreno mesmo que ele esteja privado.
 * Permite definir home dentro do terreno.
 * Permite interagir com bancadas de trabalho em geral.
-* Permite interagir com baús, caixa de shulker, estantes, barris e suportes de armadura.
+* Permite interagir com baús, caixas de shulker, estantes, barris e suportes de armadura.
 * Permite usar barcos e jangadas com baú.
 * Permite interagir com todas as variações de carrinhos de mina.
 * Permite prender mobs usando laço.
@@ -95,7 +95,7 @@ Permite todas as permissões de [#armazem](permissoes.md#armazem "mention").
 * Permite criar placas de loja.
 * Permite usar o transformador de moldura.
 * Permite soltar peixes com balde.&#x20;
-* Permite alterar o gerador de criaturas usado o ovo gerador de outro mob.
+* Permite alterar o gerador de criaturas usando o ovo gerador de outro mob.
 * Permite invocar mobs usando o ovo gerador desse mob.
 
 
@@ -118,4 +118,4 @@ Permite todas as permissões de [#confiar](permissoes.md#confiar "mention").
 
 
 
-<sup><sub>\*A explosão irá ocorrer, mas só quebrará os blocos e/ou baús caso as explosões estiver ativa no terreno.<sub></sup>\ <sup><sub>\*\*O jogador só conseguirá voar caso possua VIP Peleco, Legend ou Especial.<sub></sup>&#x20;
+<sup><sub>\*A explosão irá ocorrer, mas só quebrará os blocos e/ou baús caso as explosões estejam ativas no terreno.<sub></sup>\ <sup><sub>\*\*O jogador só conseguirá voar caso possua VIP Peleco, Legend ou Especial.<sub></sup>&#x20;

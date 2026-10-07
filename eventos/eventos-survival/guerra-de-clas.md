@@ -28,7 +28,7 @@ coverY: 0
    * Enquanto o evento estiver aberto use o comando `/warp eventos` e entre no portal de água a frente;
    * Saia do evento a qualquer momento com `/batalha sair`.
 2. Preparação para o evento:
-   * Após o evento ser fechado você será teleportado para a arena onde ocorrera a batalha;
+   * Após o evento ser fechado você será teleportado para a arena onde ocorrerá a batalha;
    * Você terá 1 minuto para realizar o agrupamento do clã.
 3. Inicio da batalha:
    * Após passar o tempo de preparação será iniciado o combate entre todos os clãs;
@@ -58,7 +58,7 @@ Por questões de balanceamento, fica proibida a entrada com o item colecionável
 #### 🥇 **Clã Vencedor**
 
 * :moneybag: Premiação de **1.000.000 Coins** depositados no banco do clã
-* <img src="../../.gitbook/assets/trofeurevo (2).png" alt="" data-size="line">**Troféu personalizado** para recordação adicionado no inventario do líder do clã
+* <img src="../../.gitbook/assets/trofeurevo (2).png" alt="" data-size="line">**Troféu personalizado** para recordação adicionado no inventário do líder do clã
 * &#x1F48E;**\[Liga]** 250 Pontos
 
 #### [☠️](https://emojipedia.org/skull-and-crossbones/) **Matador**

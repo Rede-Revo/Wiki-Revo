@@ -11,12 +11,12 @@ coverY: 0
 
 ## Regra 01 - Ofensa <a href="#id-01" id="id-01"></a>
 
-Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores, será punido por ofensa todo jogador que agredir o outro ou o servidor verbalmente por meio de xingamentos e até mesmo com abreviações ou em outros idiomas, além disso, evite brincadeiras de mal gosto com outros jogadores (a staff não levará em conta se as palavras proferidas são para um amigo ou se tratam de meme), em casos de perseguição será enquadrado como _cyberbullying\*_.
+Para que todos se divirtam, é essencial o **respeito** entre todos os jogadores, será punido por ofensa todo jogador que agredir o outro ou o servidor verbalmente por meio de xingamentos e até mesmo com abreviações ou em outros idiomas, além disso, evite brincadeiras de mau gosto com outros jogadores (a staff não levará em conta se as palavras proferidas são para um amigo ou se tratam de meme), em casos de perseguição será enquadrado como _cyberbullying\*_.
 
 > * Cyberbullying é o bullying realizado por meio das plataformas digitais. É o comportamento repetido, com intuito de intimidar e hostilizar pessoas caluniando, insultando ou atacando covardemente.
 
 {% hint style="info" %}
-Ameaças e/ou perseguições a outros jogadores(as) sejam elas com relação à sua pessoa, sua família, seus bens ou sua conta também são incluídos neste tópico.\*
+Ameaças e/ou perseguições a outros jogadores(as) sejam elas com relação à sua pessoa, sua família, seus bens ou sua conta também são incluídas neste tópico.\*
 {% endhint %}
 
 * &#x20;Em casos de ameaças e/ou perseguições em que ocorra a membros do servidor, independente dos meios de comunicação poderá ser aplicada **blacklist** dentro da rede de servidores.
@@ -37,7 +37,7 @@ A Rede de Servidores Revo repudia e não tolera qualquer tipo de preconceito rac
 
 ## Regra 02.1 - **Discriminação e/ou atos depreciativos** <a href="#id-01" id="id-01"></a>
 
-Será aplicado este grau de punição caso ocorra ataques ou insultos diretos diante as situações citadas no tópico matriz.
+Será aplicado este grau de punição caso ocorram ataques ou insultos diretos diante das situações citadas no tópico matriz.
 
 | Incidência |        Punição       |
 | :--------: | :------------------: |
@@ -74,7 +74,7 @@ Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um cam
 > **Spam**: Consiste no uso excessivo de caracteres repetidos com limite de 30 caracteres iguais;
 >
 > Usar 15 caracteres repetidos e outros 15 diferentes repetidamente é também uma ação punível;\
-> OBS: Caracteres "k", "g" e "i" possuem um limite maior dos outros: 55.
+> OBS: Caracteres "k", "g" e "i" possuem um limite maior que os dos outros: 55.
 
 > **Flood**: Mesma frase/palavra enviadas repetidamente 3 vezes ou mais.
 
@@ -86,7 +86,7 @@ Essa infração consiste no uso inadequado do bate-papo, sendo assim, tem um cam
 
 Para que se tenha um chat mais limpo foi implementado um canal separado para envio de anúncios (/anunciar), sendo este chat exclusivo para o envio dos mesmos, portanto qualquer mensagem enviada neste canal sem pretexto de anunciar algo não será permitida.
 
-Está regra também inclui anunciar a sua warp em um chat que não seja no `/anunciar`.
+Esta regra também inclui anunciar a sua warp em um chat que não seja no `/anunciar`.
 
 {% hint style="warning" %}
 A fim de evitar poluição de anúncios, fica limitado a **2 anúncios** do mesmo local, clã, objetivo etc por minuto.
@@ -109,7 +109,7 @@ Consiste em passar informações erradas aos jogadores intencionalmente com obje
 * Aplicado apenas em casos que realmente prejudique de alguma forma a vítima ou o praticante se beneficie com sua desinformação.
 
 {% hint style="warning" %}
-Caso a desinformação se desdobre em perca de itens (enganar, fake chat) a ocorrência se enquadrará na [Regra 15](https://wiki.rederevo.com/regras/jogabilidade#01-4).
+Caso a desinformação se desdobre em perda de itens (enganar, fake chat) a ocorrência se enquadrará na [Regra 15](https://wiki.rederevo.com/regras/jogabilidade#01-4).
 {% endhint %}
 
 ### Lista de Punições <a href="#lista-de-punicoes-6" id="lista-de-punicoes-6"></a>

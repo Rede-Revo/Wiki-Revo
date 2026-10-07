@@ -23,15 +23,15 @@ Atualmente, estão presentes no nosso servidor as seguintes chaves:
 
 ## Chave Rara
 
-É possível adquirir via /cash shop, /voteshop ou dando a sorte de evoluir ao abrir a caixa comum, tendo 0,25% de chance de evoluir.
+É possível adquirir via /cash shop, /voteshop ou tendo a sorte de evoluir ao abrir a caixa comum, tendo 0,25% de chance de evoluir.
 
 ## Chave Épica
 
-É possível adquirir via /cash shop, /voteshop ou dando a sorte de evoluir ao abrir a caixa comum, tendo 0,2% de chance de evoluir.
+É possível adquirir via /cash shop, /voteshop ou tendo a sorte de evoluir ao abrir a caixa comum, tendo 0,2% de chance de evoluir.
 
 ## Chave Temporada
 
-É possível adquirir via /cash shop, /voteshop, ou dando a sorte de evoluir ao abrir a caixa comum, tendo 0,1% de chance de evoluir.
+É possível adquirir via /cash shop, /voteshop, ou tendo a sorte de evoluir ao abrir a caixa comum, tendo 0,1% de chance de evoluir.
 
 ## Chave Especial
 

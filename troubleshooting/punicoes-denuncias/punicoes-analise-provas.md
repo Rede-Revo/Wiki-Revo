@@ -49,7 +49,7 @@ O prazo padrão é de até 3 dias, mas pode variar conforme a demanda da equipe 
 
 ## Regras importantes
 
-* Apelações tem categorias próprias, não deverão ser resolvidas em tickets.
+* Apelações têm categorias próprias, não deverão ser resolvidas em tickets.
 * Nenhum jogador é punido sem motivo.
 
 ## Como confirmar que resolveu

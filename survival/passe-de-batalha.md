@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
 ---
 
-# ⛏ Passe de Batalha
+# ⛏️ Passe de Batalha
 
 ## Introdução
 
@@ -23,15 +23,15 @@ Os pontos são obtidos ao completar diversas missões disponíveis. As missões 
 
 ## Recompensas
 
-Receba recompensas ao evoluir de categoria para receber recompensas como itens, coins e muito mais... Vá além e recebe recompensas exclusivas ao adquirir a evolução de passe (Premium).
+Receba recompensas ao evoluir de categoria para receber recompensas como itens, coins e muito mais... Vá além e receba recompensas exclusivas ao adquirir a evolução de passe (Premium).
 
 ## Premium
 
-Obtenha recompensas exclusivas de temporada como tags, efeitos, itens colecionaveis. O mesmo pode ser adquirido no **/cash shop** dentro do servidor.
+Obtenha recompensas exclusivas de temporada como tags, efeitos, itens colecionáveis. O mesmo pode ser adquirido no **/cash shop** dentro do servidor.
 
 
 
 {% hint style="info" %}
-Passe acompanha a duração de temporada portanto atente-se ao fim da mesma e a mudança total do passe atual removendo todo o avanço.
+O Passe acompanha a duração de temporada portanto atente-se ao fim da mesma e a mudança total do passe atual removendo todo o avanço.
 {% endhint %}
 
