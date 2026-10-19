@@ -21,7 +21,7 @@ coverY: 0
 
 #### Lista de Diretores
 
-* [<img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">](https://minotar.net/helm/Nevisk/100.png)  <mark style="color:yellow;">**Nevisk**</mark>**&#x20; (data de entrada: 21/05/2021)**
+* <img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">  <mark style="color:yellow;">**Nevisk**</mark>**&#x20; (data de entrada: 21/05/2021)**
 * <img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line">  <mark style="color:yellow;">**SOekd**</mark>**&#x20;(data de entrada: 08/09/2025)**
 
 ## <img src="../.gitbook/assets/image (11) (1) (2) (1).png" alt="" data-size="line"> <mark style="color:blue;">Gerente</mark>
@@ -91,6 +91,7 @@ Manter e reparar equipamentos tecnológicos, orientar e coordenar o sistema de s
 * <img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="line"> <mark style="color:red;">**uGuiKz**</mark>**&#x20;(data de entrada: 12/11/2025)**
 * <img src="../.gitbook/assets/image (119).png" alt="" data-size="line"> <mark style="color:red;">**nicktryky**</mark>**&#x20;(data de entrada: 27/05/2026)**
 * <img src="../.gitbook/assets/image (121).png" alt="" data-size="line"> <mark style="color:red;">**crashzada**</mark>**&#x20;(data de entrada: 27/05/2026)**
+* <img src="../.gitbook/assets/FelipinhoProMAX.png" alt="" data-size="line"> <mark style="color:red;">**Felipe\_13HD**</mark> **(data de entrada: 15/10/2026)**
 
 
 
@@ -107,8 +108,6 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
-* <img src="../.gitbook/assets/FelipinhoProMAX.png" alt="" data-size="line"> <mark style="color:green;">**Felipe\_13HD**</mark>**&#x20;(data de entrada: 01/09/2026)**
-
 ## <img src="../.gitbook/assets/image (9) (1) (2) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
 O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que consiste em uma pessoa que dentro de um "universo" de Minecraft/Servidores tenha um conhecimento avançado em detecção de trapaças "incomuns", sendo elas: "JavaEdit, Injection Client, Ghost Client" entre outras trapaças.
@@ -116,8 +115,6 @@ O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que co
 #### Funções:
 
 * [x] Verificar se jogadores estão utilizando algum tipo de trapaça.
-
-## <img src="../.gitbook/assets/Untitled-1.png" alt="" data-size="line"> <mark style="color:orange;">Coordenador de Equipe</mark>
 
 ## <img src="../.gitbook/assets/image (21) (1) (1) (1).png" alt="" data-size="line"> <mark style="color:orange;">Construtor</mark>
 

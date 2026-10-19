@@ -14,6 +14,40 @@ Nessas caixas, é possível encontrar tags, cosméticos, pets, ferramentas e out
 
 ## Listagem
 
+<details open>
+
+<summary><strong>Halloween</strong> <strong>2026</strong></summary>
+
+## Recompensas
+
+A caixa Halloween 2026 ficou disponível de 14/10/2026 até 31/10/2026.
+
+## Tags
+
+<table><thead><tr><th width="264">Tag</th><th>Visualização da tag</th></tr></thead><tbody><tr><td>Boo</td><td><img src="../../.gitbook/assets/tag_boo.png" alt="[Boo]" data-size="line"></td></tr><tr><td>Chucky</td><td><img src="../../.gitbook/assets/tag_chucky.png" alt="[Chucky]" data-size="line"></td></tr><tr><td>Coraline</td><td><img src="../../.gitbook/assets/tag_Coraline.png" alt="[Coraline]" data-size="line"></td></tr><tr><td>Espectro</td><td><img src="../../.gitbook/assets/tag_Espectro.png" alt="[Espectro]" data-size="line"></td></tr><tr><td>Sepultada</td><td><img src="../../.gitbook/assets/tag_Sepultada.png" alt="[Sepultada]" data-size="line"></td></tr><tr><td>Sepultado</td><td><img src="../../.gitbook/assets/tag_Sepultado.png" alt="[Sepultado]" data-size="line"></td></tr><tr><td>Sinistra</td><td><img src="../../.gitbook/assets/tag_Sinistra.png" alt="[Sinistra]" data-size="line"></td></tr><tr><td>Sinistro</td><td><img src="../../.gitbook/assets/tag_Sinistra.png" alt="Sinistro" data-size="line"></td></tr><tr><td>Submundo</td><td><img src="../../.gitbook/assets/tag_Submundo.png" alt="[Submundo]" data-size="line"></td></tr><tr><td>Tormento</td><td><img src="../../.gitbook/assets/tag_Tormento.png" alt="[Tormento]" data-size="line"></td></tr></tbody></table>
+
+## Cosméticos
+
+| Cosmético               | Visualização |
+| ----------------------- | ------------ |
+| Lanterna de Halloween   | EM BREVE...  |
+| Gaiola de Halloween     | EM BREVE...  |
+| Máscara de Halloween    | EM BREVE...  |
+| Chapéu de Bruxa Abóbora | EM BREVE...  |
+| Shulker Halloween       | EM BREVE...  |
+
+## Pets
+
+Na caixa halloween 2026, foi possível obter o pet phantom.
+
+## Recompensas especiais
+
+Espada de Halloween: Permite o jogador obter o invocador de alguns mobs. [espada-ceifador.md](../itens-personalizados/ferramentas/espada-ceifador.md "mention")
+
+Paxel de Halloween: Ferramenta que funciona como machado, picareta, pá, clava e enxada.&#x20;
+
+</details>
+
 <details>
 
 <summary><strong>Aniversário 2026</strong></summary>

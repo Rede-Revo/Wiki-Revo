@@ -57,6 +57,7 @@
     * [Enxada Natalina](survival/itens-personalizados/ferramentas/enxada-explosiva.md)
     * [Picareta Ametista](survival/itens-personalizados/ferramentas/pick-ametista.md)
     * [Varinha de Vendas](survival/itens-personalizados/ferramentas/varinha.md)
+    * [Espada de Halloween](survival/itens-personalizados/ferramentas/espada-ceifador.md)
   * [Vestimentas](survival/itens-personalizados/vestimentas/README.md)
     * [Botas de coelho](survival/itens-personalizados/vestimentas/botas-coelho.md)
     * [Set Cuca](survival/itens-personalizados/vestimentas/vestimenta-cuca-2024.md)
