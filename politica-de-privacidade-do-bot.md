@@ -168,7 +168,7 @@ Também podemos divulgar dados quando exigido por **lei, ordem judicial** ou par
 | Cache de mensagens (logs de apagadas/editadas)           | Em memória, até 10.000 mensagens, apagado ao reiniciar o bot.                                                                                                                                                                                                                                  |
 | Dados de **tickets**                                     | No sistema de tickets atual, o registro é apagado ao fechar. No atendimento com IA, o registro (categoria, nick, plataforma, local, resumo e datas) é mantido, marcado como encerrado, por **até 1 ano**. Nos dois casos, a **transcrição** fica no canal de logs da equipe por **até 1 ano**. |
 | Denúncias, apelações, sugestões, formulários e parcerias | Enquanto forem necessários para a análise e para o histórico de moderação, por **até 1 ano**.                                                                                                                                                                                                  |
-| Ranking de XP                                            | Enquanto você estiver no servidor. Ao **sair**, o XP é zerado automaticamente.                                                                                                                                                                                                                 |
+| Ranking de XP                                            | Enquanto você estiver no servidor. Ao sair, o seu registro de ranking (ID, XP e horário da última mensagem) é apagado automaticamente.                                                                                                                                                         |
 | Sorteios                                                 | Os participantes são apagados quando o sorteio termina.                                                                                                                                                                                                                                        |
 | Logs técnicos do bot                                     | Aparecem apenas no console do servidor, sem gravação em arquivo. Descartados ao reiniciar o bot ou limpar o console.                                                                                                                                                                           |
 
@@ -197,7 +197,7 @@ Pela LGPD, você pode, a qualquer momento:
 
 Para exercer qualquer direito, abra um **ticket** no Discord ou use o contato acima. Poderemos pedir que você **confirme sua identidade** antes de atender. Alguns dados podem ser mantidos quando houver obrigação legal ou necessidade de preservar o histórico de moderação.
 
-Você também pode **parar de usar o bot** a qualquer momento ou **sair do servidor** (o que zera o seu XP). Dados em tickets, denúncias e logs só são apagados mediante pedido ou conforme os prazos acima.
+Você também pode parar de usar o bot a qualquer momento ou sair do servidor (o que apaga o seu registro de ranking). Dados em tickets, denúncias e logs só são apagados mediante pedido ou conforme os prazos acima.
 
 ## Crianças e adolescentes
 
