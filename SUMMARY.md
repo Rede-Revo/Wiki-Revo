@@ -290,3 +290,7 @@
   * [Reanálise ou solicitação de provas de punições](troubleshooting/punicoes-denuncias/punicoes-analise-provas.md)
 * [Terrenos](troubleshooting/claims/README.md)
   * [Terrenos próximos](troubleshooting/claims/claim-remocao-staff.md)
+
+***
+
+* [Política de Privacidade do Bot](politica-de-privacidade-do-bot.md)

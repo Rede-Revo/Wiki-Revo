@@ -1,6 +1,6 @@
 ---
 description: >-
-  Enfatizando a ideia de união, responsabilidade coletiva e jogo limpo, este
+  Enfatizando a ideia de união, reponsabilidade coletiva e jogo limpo, este
   sistema pune todo o clã por membros trapaceiros.
 ---
 
