@@ -44,7 +44,7 @@ Na caixa halloween 2026, foi possível obter o pet phantom.
 
 Espada de Halloween: Permite o jogador obter o invocador de alguns mobs. [espada-ceifador.md](../itens-personalizados/ferramentas/espada-ceifador.md "mention")
 
-Paxel de Halloween: Ferramenta que funciona como machado, picareta, pá, clava e enxada.&#x20;
+Paxel de Halloween: Ferramenta que funciona como machado, picareta, pá, clava e enxada. [paxel.md](../itens-personalizados/ferramentas/paxel.md "mention")
 
 </details>
 
@@ -313,6 +313,8 @@ Na caixa tradições brasileiras 2024, foi possível obter o pet Jaguatirica.
 ## Recompensas especiais
 
 Gerador de Jaguatirica: Foi adicionado o gerador de jaguatirica.
+
+Set Cuca: Conjunto capaz de fornecer o efeito Saturação para o jogador. [vestimenta-cuca-2024.md](../itens-personalizados/vestimentas/vestimenta-cuca-2024.md "mention")
 
 </details>
 
