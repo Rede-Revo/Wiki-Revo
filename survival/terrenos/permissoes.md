@@ -93,6 +93,8 @@ Permite todas as permissões de [#armazem](permissoes.md#armazem "mention").
 * Permite usar pederneiras.
 * Permite ordenhar vacas e cabras.
 * Permite criar placas de loja.
+* Permite editar suporte de armadura com o editor.
+* Permite renomear suportes de armadura com etiquetas.
 * Permite usar o transformador de moldura.
 * Permite soltar peixes com balde.&#x20;
 * Permite alterar o gerador de criaturas usando o ovo gerador de outro mob.
