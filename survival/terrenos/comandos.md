@@ -44,7 +44,3 @@ Isso também é válido para mobs como o creeper, evite sair do jogo com essa op
 ### Blocos de proteção
 
 <table><thead><tr><th width="227.3333740234375">Comando</th><th width="510">Descrição</th></tr></thead><tbody><tr><td>/terreno blocos</td><td>Exibe no chat a quantidade de blocos que você tem, usou, e total.</td></tr><tr><td>/comprarblocos &#x3C;qt></td><td>Compra a quantidade de blocos especificada. Cada bloco custa 25 coins.</td></tr></tbody></table>
-
-{% hint style="warning" %}
-Antes de comprar blocos de proteção, confira a quantidade e valor total. O sistema não tem confirmação, assim que o comando é executado, os coins são descontados e os blocos adicionados.
-{% endhint %}

@@ -204,6 +204,7 @@
   * [🛒 Mercado](survival/economia/ah.md)
 * [Mecânicas](survival/mecanicas/README.md)
   * [Aldeões](survival/mecanicas/aldeoes.md)
+  * [Elevadores](survival/mecanicas/elevador.md)
   * [Pets](survival/mecanicas/pet.md)
   * [Limites](survival/mecanicas/limites/README.md)
     * [Mobs](survival/mecanicas/limites/mobs.md)
