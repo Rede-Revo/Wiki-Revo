@@ -91,4 +91,10 @@ Raridade: ✦✦✦✦✦
 
 ## Obtenção
 
-A Espada Halloween foi disponibilizada durante a Caixa de Halloween de 2026, atualmente o item ainda pode ser obtido oficialmente pelo servidor na Caixa de Halloween até 31/10/2026.
+A Espada Halloween foi disponibilizada durante a Caixa de Halloween de 2026, atualmente o item não pode mais ser obtido oficialmente pelo servidor.
+
+Esse item ainda está circulando pelo servidor, sendo possível obter ele com outros jogadores.&#x20;
+
+{% hint style="info" %}
+Por ser um item limitado e serem itens dos jogadores, o valor do item precisa ser negociado diretamente entre os jogadores. O servidor ou a staff não interfere nisso.
+{% endhint %}

@@ -14,13 +14,13 @@ Nessas caixas, é possível encontrar tags, cosméticos, pets, ferramentas e out
 
 ## Listagem
 
-<details open>
+<details>
 
 <summary><strong>Halloween</strong> <strong>2026</strong></summary>
 
 ## Recompensas
 
-A caixa Halloween 2026 ficará disponível até 31/10/2026.
+A caixa Halloween 2026 ficou disponível de 14/10/2026  até 31/10/2026.
 
 ## Tags
 

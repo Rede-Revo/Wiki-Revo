@@ -34,28 +34,29 @@ O pet da Caixa Temporada é alterado a cada troca de temporada.
 
 Durante as temporadas do Survival, cada temporada conta com um pet exclusivo entre suas recompensas.
 
-| Tema                        | Pet               | Período                 |
-| --------------------------- | ----------------- | ----------------------- |
-| 20ª temporada - Origens     | Axolote           | 12/05/2026 - 02/08/2026 |
-| 19ª temporada - Olimpo      | Breeze            | 16/02/2026 - 08/05/2026 |
-| 18ª temporada - Dracônica   | Enderman          | 10/11/2025 - 02/02/2026 |
-| 17ª temporada - Arcade      | Creeper           | 05/08/2025 - 31/10/2025 |
-| 16ª temporada - Oriental    | Panda             | 05/05/2025 - 01/08/2025 |
-| 15ª temporada - Açucarada   | Vaca de Cogumelo  | 03/02/2025 - 05/05/2025 |
-| 14ª temporada - Moderna     | Lobo              | 04/11/2024 - 02/02/2025 |
-| 13ª temporada - Clássica    | Ovelha            | 01/08/2024 - 31/10/2024 |
-| 12ª temporada - Gênesis     | Girino            | 06/05/2024 - 31/07/2024 |
-| 11ª temporada - Vulcânica   | Cubo de magma     | 05/02/2024 - 01/05/2024 |
-| 10ª temporada - Jurássica   | Farejador         | 01/11/2023 - 01/02/2024 |
-| 9ª temporada - Aquática     | Golfinho          | 03/08/2023 - 01/11/2023 |
-| 8ª temporada - Espacial     | Endermite         | 01/05/2023 - 02/08/2023 |
-| 7ª temporada - Glacial      | Cabra             | 01/02/2023 - 01/05/2023 |
-| 6ª temporada - Apocalíptico | Esqueleto Errante | 01/11/2022 - 31/01/2023 |
-| 5ª temporada - Velho Oeste  | Cavalo            | 01/08/2022 - 31/10/2022 |
-| 4ª temporada - Tropical     | Tartaruga         | 02/05/2022 - 31/07/2022 |
-| 3ª temporada - Pirata       | Papagaio          | 07/02/2022 - 01/05/2022 |
-| 2ª temporada - Steampunk    | Traça             | 01/11/2021 - 06/02/2022 |
-| 1ª temporada - Medieval     | Morcego           | 24/07/2021 - 31/10/2021 |
+| Tema                        | Pet                | Período                 |
+| --------------------------- | ------------------ | ----------------------- |
+| 21ª temporada - Futurista   | Piglin zumbificado | 10/08/2026 - 01/11/2026 |
+| 20ª temporada - Origens     | Axolote            | 12/05/2026 - 02/08/2026 |
+| 19ª temporada - Olimpo      | Breeze             | 16/02/2026 - 08/05/2026 |
+| 18ª temporada - Dracônica   | Enderman           | 10/11/2025 - 02/02/2026 |
+| 17ª temporada - Arcade      | Creeper            | 05/08/2025 - 31/10/2025 |
+| 16ª temporada - Oriental    | Panda              | 05/05/2025 - 01/08/2025 |
+| 15ª temporada - Açucarada   | Vaca de Cogumelo   | 03/02/2025 - 05/05/2025 |
+| 14ª temporada - Moderna     | Lobo               | 04/11/2024 - 02/02/2025 |
+| 13ª temporada - Clássica    | Ovelha             | 01/08/2024 - 31/10/2024 |
+| 12ª temporada - Gênesis     | Girino             | 06/05/2024 - 31/07/2024 |
+| 11ª temporada - Vulcânica   | Cubo de magma      | 05/02/2024 - 01/05/2024 |
+| 10ª temporada - Jurássica   | Farejador          | 01/11/2023 - 01/02/2024 |
+| 9ª temporada - Aquática     | Golfinho           | 03/08/2023 - 01/11/2023 |
+| 8ª temporada - Espacial     | Endermite          | 01/05/2023 - 02/08/2023 |
+| 7ª temporada - Glacial      | Cabra              | 01/02/2023 - 01/05/2023 |
+| 6ª temporada - Apocalíptico | Esqueleto Errante  | 01/11/2022 - 31/01/2023 |
+| 5ª temporada - Velho Oeste  | Cavalo             | 01/08/2022 - 31/10/2022 |
+| 4ª temporada - Tropical     | Tartaruga          | 02/05/2022 - 31/07/2022 |
+| 3ª temporada - Pirata       | Papagaio           | 07/02/2022 - 01/05/2022 |
+| 2ª temporada - Steampunk    | Traça              | 01/11/2021 - 06/02/2022 |
+| 1ª temporada - Medieval     | Morcego            | 24/07/2021 - 31/10/2021 |
 
 ## Pets de eventos
 

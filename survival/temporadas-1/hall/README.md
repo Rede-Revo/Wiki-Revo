@@ -12,6 +12,7 @@ Esta seção ainda está sendo criada. Por esse motivo, algumas páginas podem a
 
 | Temporada                              | Tema         | Período                 |
 | -------------------------------------- | ------------ | ----------------------- |
+| [xxi.md](xxi.md "mention")             | Futurista    | 10/08/2026 - 01/11/2026 |
 | [xx.md](xx.md "mention")               | Origens      | 12/05/2026 - 02/08/2026 |
 | [xix.md](filter4/xix.md "mention")     | Olimpo       | 16/02/2026 - 08/05/2026 |
 | [xviii.md](filter4/xviii.md "mention") | Dracônica    | 10/11/2025 - 02/02/2026 |
