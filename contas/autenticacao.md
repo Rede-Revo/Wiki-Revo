@@ -31,7 +31,7 @@ O comando <kbd>/premium \<senha></kbd> deve ser utilizado apenas pelo proprietá
 {% hint style="warning" %}
 ### **ATENÇÃO**
 
-Uma vez a conta registrada como pirata, ela sempre será pirata, ou seja, trocar o nick na Mojang após usar o comando de conversão de autenticação, os dados não serão passados para o novo nick.
+Uma vez a conta registrada como pirata, ela sempre será pirata, ou seja, trocar o nick na Mojang após usar o comando de conversão de autenticação, os dados não serão passados para o novo nick, caso que a conta respeite as trocas na mojang, precisará adquirir a troca de conta.
 {% endhint %}
 
 ## Conta original para pirata
@@ -95,7 +95,7 @@ Ao solicitar a conversão da autenticação original para pirata, você declara 
 {% hint style="danger" %}
 ## **IMPORTANTE**
 
-Caso seja identificado o compartilhamento, empréstimo, venda, doação, acesso a terceiros ou qualquer ação proibida citada acima, a conta será bloqueada permanentemente.&#x20;
+Caso seja identificado o compartilhamento, empréstimo, venda, doação, acesso a terceiros ou qualquer ação proibida citada acima, a conta será bloqueada permanentemente para novas conversões, ficando de forma permanente como original. (É possível converter adquirindo a troca de conta)
 
 Caso o proprietário considere que o bloqueio ocorreu de forma incorreta, poderá abrir um ticket para explicar a situação e solicitar uma nova análise.
 {% endhint %}

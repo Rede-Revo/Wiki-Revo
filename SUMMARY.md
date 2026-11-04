@@ -11,7 +11,7 @@
   * [🔒 Proteção](contas/protecao.md)
   * [🔐 Recuperação](contas/recuperacao.md)
   * [🆔 Troca de Nick](contas/troca-de-nick.md)
-  * [Autenticação Java](contas/autenticar.md)
+  * [Autenticação Java](contas/autenticacao.md)
 
 ## 🌎 GLOBAL
 
@@ -73,6 +73,7 @@
     * [Bônus de Venda e Desconto](survival/itens-personalizados/outros/vendas-descontos.md)
     * [Transportador de Mobs](survival/itens-personalizados/outros/transportador-mobs.md)
     * [Transformador de Molduras](survival/itens-personalizados/outros/molduras-invisivel.md)
+    * [Editor de Suporte de Armadura](survival/itens-personalizados/outros/ase.md)
 * [🎲 Temporadas](survival/temporadas-1/README.md)
   * [Hall da fama](survival/temporadas-1/hall/README.md)
     * [Temporada XXI](survival/temporadas-1/hall/xxi.md)

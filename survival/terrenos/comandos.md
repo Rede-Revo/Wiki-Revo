@@ -9,7 +9,7 @@ coverY: 0
 
 ### Criação e redimensionamento
 
-<table><thead><tr><th width="227.3333740234375">Comando</th><th width="510">Descrição</th></tr></thead><tbody><tr><td>/terreno proteger &#x3C;raio></td><td>Cria uma proteção com o raio informado, usando sua posição atual como centro.</td></tr><tr><td>/terreno dividir</td><td>Ativa ou desativa o modo de criação de subterrenos.</td></tr><tr><td>/terreno dividir &#x3C;raio></td><td>Cria uma subproteção com o raio informado, usando sua posição atual como centro.</td></tr><tr><td>/terreno expandir &#x3C;raio></td><td>Aumenta o terreno na direção que estiver olhando.</td></tr></tbody></table>
+<table><thead><tr><th width="227.3333740234375">Comando</th><th width="510">Descrição</th></tr></thead><tbody><tr><td>/terreno proteger &#x3C;raio></td><td>Cria uma proteção com o raio informado, usando sua posição atual como centro.</td></tr><tr><td>/terreno dividir</td><td>Ativa ou desativa o modo de criação de subterrenos.</td></tr><tr><td>/terreno dividir &#x3C;raio></td><td>Cria uma subproteção com o raio informado, usando sua posição atual como centro.</td></tr><tr><td>/terreno expandir &#x3C;qt></td><td>Aumenta o terreno na direção que estiver olhando.</td></tr></tbody></table>
 
 ### Consulta e remoção
 

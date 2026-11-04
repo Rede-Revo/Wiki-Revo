@@ -108,6 +108,8 @@ A equipe de moderação está encarregada de conservar um ambiente amigável. Os
 
 #### Lista de Moderadores
 
+* <img src="https://raw.githubusercontent.com/Rede-Revo/Wiki-Revo/refs/heads/master/.gitbook/assets/image%20(11)%20(1).png" alt="" data-size="line"> <mark style="color:green;">**Andre12768**</mark>**&#x20;(data de entrada: 03/11/2026)**
+
 ## <img src="../.gitbook/assets/image (9) (1) (2) (1).png" alt="" data-size="line"> <mark style="color:green;">Moderador GC</mark>
 
 O termo "**GC-Detector**" é derivado de "**Detector de Ghost Clients**", que consiste em uma pessoa que dentro de um "universo" de Minecraft/Servidores tenha um conhecimento avançado em detecção de trapaças "incomuns", sendo elas: "JavaEdit, Injection Client, Ghost Client" entre outras trapaças.
