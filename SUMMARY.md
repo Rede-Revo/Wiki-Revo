@@ -54,6 +54,7 @@
     * [Picareta de Páscoa](survival/itens-personalizados/ferramentas/pick-veinminer.md)
     * [Enxada de Páscoa](survival/itens-personalizados/ferramentas/super-aro.md)
     * [Pá Explosiva](survival/itens-personalizados/ferramentas/pa-explosiva.md)
+    * [Enxada de Halloween](survival/itens-personalizados/ferramentas/super-plantio.md)
     * [Enxada Natalina](survival/itens-personalizados/ferramentas/enxada-explosiva.md)
     * [Picareta Ametista](survival/itens-personalizados/ferramentas/pick-ametista.md)
     * [Varinha de Vendas](survival/itens-personalizados/ferramentas/varinha.md)

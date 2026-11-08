@@ -165,6 +165,10 @@ A caixa Halloween 2025 ficou disponível de 17/10/2025 até 31/10/2025.
 
 Na caixa halloween 2025, foi possível obter o pet Rangente.
 
+## Recompensas especiais
+
+Enxada de Halloween: Item que permite o jogador plantar automaticamente uma determinada área. [super-plantio.md](../itens-personalizados/ferramentas/super-plantio.md "mention")
+
 </details>
 
 <details>

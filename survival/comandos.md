@@ -179,7 +179,7 @@ Um menu com funções mais avançadas do servidor com intuito de sanar todo tipo
 
 * Descrição: Crie sua loja em baús.
 * Como fazer: Segure o item, agache e hite o baú.
-* Comando: `/pshop`.
+* Comando: `/lojaplaca criar`.
 
 ***
 
