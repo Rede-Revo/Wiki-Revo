@@ -8,6 +8,12 @@ coverY: 0
 
 # ☠️ Chance de drop das Cabeças
 
+{% hint style="danger" %}
+**IMPORTANTE**
+
+Sistema está desativado no momento.
+{% endhint %}
+
 * **Jogadores: `25%`**
 * **Abelha: `0.6%`**
 * **Afogado: `0.3%`**

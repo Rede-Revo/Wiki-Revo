@@ -18,7 +18,7 @@ description: >-
 
 ### 2. Pinhata:
 
-* Descrição: Mob festivo que surge no `/spawn` a cada 100 votos.
+* Descrição: Mob festivo que surge no `/spawn` a cada 75 votos.
 * Super Pinhata: Evento agendado que ocorre conforme as metas do site, com chance de recompensas como VIP e 3x mcMMO.
 * Importante: É necessário ter votado para participar e hitar o mob.
 
@@ -46,7 +46,7 @@ description: >-
 
 * Descrição: Competição mensal e de temporada em busca do topo do ranking.
 * Recompensas Mensais: 1º ao 3º lugar ganham milhões de Coins, Cash, TAG especial.
-* Recompensas Temporada: 1º ao 3º lugar ganham troféu e prêmios em Cash ou dinheiro real (até R$ 300,00 para o primeiro lugar).
+* Recompensas Temporada: 1º ao 3º lugar ganham troféu e prêmios em Cash ou dinheiro real (até R$ 800,00 para o primeiro lugar).
 * Comando: `/liga`
 
 ***
@@ -76,7 +76,7 @@ description: >-
 ### 9. Warp pessoal:
 
 * Descrição: Publique sua própria warp pública para servir como ponto de teleporte de loja ou clan.
-* Custo: $25.000 para definir.
+* Custo: $500.000 para definir.
 * Comando: `/pwarp`
 
 ***
@@ -117,7 +117,7 @@ description: >-
 ### 14. Elevadores:
 
 * Descrição: Sistema prático para subir e descer andares em suas construções.
-* Como criar: Alinhe dois blocos de minério na mesma direção vertical (Y) a uma distância máxima de 50 blocos. Pule ou agache para usar.
+* Como criar: Alinhe dois blocos de minério na mesma direção vertical (Y). Pule ou agache para usar.
 
 ***
 
@@ -256,6 +256,7 @@ description: >-
 ### 32. Trocar:
 
 * Descrição: Sistema de trocas seguro para negociar pertences diretamente com outro jogador.
+* Uso exclusivo no `/spawn`.
 * Comando: `/trocar`
 
 ***
@@ -263,4 +264,5 @@ description: >-
 ### 33. Boosters:
 
 * Descrição: Ative aceleradores para evoluir seu jogo, habilidades e recursos de forma mais rápida.
-* Comando: `/booster`
+* Comando: `/boosts`
+

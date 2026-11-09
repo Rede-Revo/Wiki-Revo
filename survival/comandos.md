@@ -186,7 +186,7 @@ Um menu com funções mais avançadas do servidor com intuito de sanar todo tipo
 ### 21. Warp Pessoal
 
 * Descrição: Crie pontos de teleporte públicos para sua loja ou clan.
-* Custo: $25.000.
+* Custo: $500.000.
 * Comando: `/pwarp`.
 
 ***
@@ -311,7 +311,7 @@ Um menu com funções mais avançadas do servidor com intuito de sanar todo tipo
 ### 37. Moldura Invisível
 
 * Descrição: Torne suas molduras invisíveis usando o Transformador de Molduras.
-* Limite: 32 usos por item. Adquira na `/cash shop`.
+* Limite: 32 usos por item. Adquira na caixa Divina.
 
 ***
 
@@ -364,6 +364,7 @@ Um menu com funções mais avançadas do servidor com intuito de sanar todo tipo
 ### 44. Trocar
 
 * Descrição: Sistema de trocas seguro entre dois jogadores.
+* Uso exclusivo no `/spawn`
 * Comando: `/trocar`.
 
 ***
@@ -371,7 +372,7 @@ Um menu com funções mais avançadas do servidor com intuito de sanar todo tipo
 ### 45. Boosters
 
 * Descrição: Acelere sua evolução (XP, Skills, etc).
-* Comando: `/booster`.
+* Comando: `/boosts`.
 
 
 

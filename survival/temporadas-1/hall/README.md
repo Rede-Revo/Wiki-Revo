@@ -1,10 +1,13 @@
 ---
+description: Lista de todas as temporadas e seus respectivos jogadores destaque.
 icon: earth-americas
 cover: ../../../.gitbook/assets/bannercomfundorevo.png
 coverY: 0
 ---
 
 # Hall da fama
+
+
 
 {% hint style="warning" %}
 Esta seção ainda está sendo criada. Por esse motivo, algumas páginas podem apresentar informações incompletas.

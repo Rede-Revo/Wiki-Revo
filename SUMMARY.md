@@ -77,6 +77,7 @@
     * [Editor de Suporte de Armadura](survival/itens-personalizados/outros/ase.md)
 * [🎲 Temporadas](survival/temporadas-1/README.md)
   * [Hall da fama](survival/temporadas-1/hall/README.md)
+    * [Temporada XXII](survival/temporadas-1/hall/xxii.md)
     * [Temporada XXI](survival/temporadas-1/hall/xxi.md)
     * [Temporada XX](survival/temporadas-1/hall/xx.md)
     * [Temporadas XV - XIX](survival/temporadas-1/hall/filter4/README.md)

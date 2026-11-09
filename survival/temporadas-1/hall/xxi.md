@@ -31,9 +31,9 @@ Confira abaixo os Clãs que mais pontuaram nessa temporada.
 
 [^1]: 52 Eventos
 
-[^2]: 45
+[^2]: 45 Eventos
 
-[^3]: 27
+[^3]: 27 Eventos
 
 [^4]: 857 Votos
 

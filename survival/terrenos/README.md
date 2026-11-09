@@ -36,5 +36,5 @@ Cada bloco de proteção para reivindicação custa 250 Coins, mas reduz 1 coin 
 Os terrenos de jogadores banidos seguem o mesmo prazo.
 {% endhint %}
 
-<sup><sub>\*Atualmente foi adicionado um limite máximo de 250.000 blocos por terrenos, não sendo possível expandir mais que isso.<sub></sup>
+<sup><sub>\*Atualmente foi adicionado um limite máximo de 250.000 blocos por terrenos, não sendo possível expandir mais que isso. Máximo (500x500)<sub></sup>
 

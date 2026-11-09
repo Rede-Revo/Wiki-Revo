@@ -24,7 +24,7 @@ Alguns pets foram disponibilizados em forma de item ativável e ainda podem ser 
 
 Atualmente, os pets podem ser obtidos através das caixas.
 
-<table><thead><tr><th width="167">Caixa</th><th width="211">Pet</th></tr></thead><tbody><tr><td><a href="../caixas/comum.md">Caixa Comum</a></td><td>Pet Galinha</td></tr><tr><td><a href="../caixas/rara.md#itens">Caixa Rara</a></td><td>Pet Porco</td></tr><tr><td><a href="../caixas/epica.md#itens">Caixa Épica</a></td><td>Pet Abelha</td></tr><tr><td><a href="../caixas/temporada.md#itens-da-temporada-futurista-xxi">Caixa Temporada</a></td><td>Pet Piglin zumbificado</td></tr></tbody></table>
+<table><thead><tr><th width="167">Caixa</th><th width="211">Pet</th></tr></thead><tbody><tr><td><a href="../caixas/comum.md">Caixa Comum</a></td><td>Pet Galinha</td></tr><tr><td><a href="../caixas/rara.md#itens">Caixa Rara</a></td><td>Pet Porco</td></tr><tr><td><a href="../caixas/epica.md#itens">Caixa Épica</a></td><td>Pet Abelha</td></tr><tr><td><a href="../caixas/temporada.md#itens-da-temporada-futurista-xxi">Caixa Temporada</a></td><td>Pet Náutilo zumbi</td></tr></tbody></table>
 
 {% hint style="info" %}
 O pet da Caixa Temporada é alterado a cada troca de temporada.

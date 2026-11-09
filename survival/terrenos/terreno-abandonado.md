@@ -50,8 +50,7 @@ Proteções são consideradas abandonadas de acordo com o tempo que o dono da pr
 
 ### Remoção
 
-* Verifique a quantidade de blocos de proteção da proteção com o graveto.
-* Verificar o tempo offline do jogador dono da proteção através do graveto ou utilizando `/seen <nick>`.
+* Verificar o tempo offline do jogador dono da proteção utilizando `/seen <nick>`.
 * Utilize o comando `/terreno reivindicar` verifique o valor necessário para reivindicação e confirme digitando `confirmar` no chat.
 
 {% hint style="warning" %}
