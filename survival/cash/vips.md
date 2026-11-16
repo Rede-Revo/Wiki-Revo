@@ -37,6 +37,7 @@ coverY: 0
 |         Homes        |     100    |     50    |     25    |
 |        pWarps        |      5     |     4     |     3     |
 | Anúncios no /mercado |     10     |     7     |     5     |
+|     Pets Expostos    |      4     |     3     |     2     |
 
 ### mcMMO
 

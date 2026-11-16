@@ -18,7 +18,7 @@ Nessas caixas, é possível encontrar tags, cosméticos, pets, ferramentas e out
 
 <summary><strong>Halloween</strong> <strong>2026</strong></summary>
 
-## Recompensas
+## Recompensas <a href="#halloween2026" id="halloween2026"></a>
 
 A caixa Halloween 2026 ficou disponível de 14/10/2026  até 31/10/2026.
 
@@ -52,7 +52,7 @@ Paxel de Halloween: Ferramenta que funciona como machado, picareta, pá, clava e
 
 <summary><strong>Aniversário 2026</strong></summary>
 
-## Recompensas
+## Recompensas <a href="#aniversario2026" id="aniversario2026"></a>
 
 A caixa Aniversário 2026 ficou disponível de 17/06/2026 até 26/07/2026.
 
@@ -145,13 +145,13 @@ Enxada Natalina: Essa enxada permite quebrar plantações em uma determinada ár
 
 <summary><strong>Halloween</strong> <strong>2025</strong></summary>
 
-## Recompensas
+## Recompensas <a href="#halloween2025" id="halloween2025"></a>
 
 A caixa Halloween 2025 ficou disponível de 17/10/2025 até 31/10/2025.
 
 ## Tags
 
-<table><thead><tr><th width="264">Tag</th><th>Visualização da tag</th></tr></thead><tbody><tr><td>Alucard</td><td><img src="../../.gitbook/assets/tag_Alucard.png" alt="[Alucard]" data-size="line"></td></tr><tr><td>Annabelle</td><td><img src="../../.gitbook/assets/tag_Annabelle.png" alt="[Annabelle]" data-size="line"></td></tr><tr><td>Corvo</td><td><img src="../../.gitbook/assets/tag_Corvo.png" alt="[Corvo]" data-size="line"></td></tr><tr><td>Gárgula</td><td><img src="../../.gitbook/assets/tag_Gárgula.png" alt="[Gárgula]" data-size="line"></td></tr><tr><td>Ghostface</td><td><img src="../../.gitbook/assets/tag_Ghostface.png" alt="[Ghostface]" data-size="line"></td></tr><tr><td>Medonha</td><td><img src="../../.gitbook/assets/tag_Medonha.png" alt="[Medonha]" data-size="line"></td></tr><tr><td>Medonho</td><td><img src="../../.gitbook/assets/tag_Medonho.png" alt="[Medonho]" data-size="line"></td></tr><tr><td>Pavorosa</td><td><img src="../../.gitbook/assets/tag_Pavorosa.png" alt="[Pavorosa]" data-size="line"></td></tr><tr><td>Pavorosa</td><td><img src="../../.gitbook/assets/tag_Pavoroso.png" alt="[Pavoroso]" data-size="line"></td></tr></tbody></table>
+<table><thead><tr><th width="264">Tag</th><th>Visualização da tag</th></tr></thead><tbody><tr><td>Alucard</td><td><img src="../../.gitbook/assets/tag_Alucard.png" alt="[Alucard]" data-size="line"></td></tr><tr><td>Annabelle</td><td><img src="../../.gitbook/assets/tag_Annabelle.png" alt="[Annabelle]" data-size="line"></td></tr><tr><td>Corvo</td><td><img src="../../.gitbook/assets/tag_Corvo.png" alt="[Corvo]" data-size="line"></td></tr><tr><td>Gárgula</td><td><img src="../../.gitbook/assets/tag_Gárgula.png" alt="[Gárgula]" data-size="line"></td></tr><tr><td>Ghostface</td><td><img src="../../.gitbook/assets/tag_Ghostface.png" alt="[Ghostface]" data-size="line"></td></tr><tr><td>Medonha</td><td><img src="../../.gitbook/assets/tag_Medonha.png" alt="[Medonha]" data-size="line"></td></tr><tr><td>Medonho</td><td><img src="../../.gitbook/assets/tag_Medonho.png" alt="[Medonho]" data-size="line"></td></tr><tr><td>Pavorosa</td><td><img src="../../.gitbook/assets/tag_Pavorosa.png" alt="[Pavorosa]" data-size="line"></td></tr><tr><td>Pavoroso</td><td><img src="../../.gitbook/assets/tag_Pavoroso.png" alt="[Pavoroso]" data-size="line"></td></tr></tbody></table>
 
 ## Cosméticos
 
@@ -264,7 +264,7 @@ Arco Natalino: Ao atingir o oponente tem chance de aplicar o efeito de congelame
 
 <summary><strong>Halloween 2024</strong></summary>
 
-## Recompensas
+## Recompensas <a href="#halloween2024" id="halloween2024"></a>
 
 A caixa Halloween 2024 ficou disponível de 19/10/2024 até 08/11/2024.
 
@@ -382,7 +382,7 @@ Na caixa natalina 2023, foi possível obter o pet Gato.
 
 <summary><strong>Halloween 2023</strong></summary>
 
-## Recompensas
+## Recompensas <a href="#halloween2023" id="halloween2023"></a>
 
 A caixa Halloween 2023 ficou disponível de 24/10/2023 até 05/11/2023.
 
@@ -497,7 +497,7 @@ Na caixa natalina 2022, foi possível obter o pet Urso Polar.
 
 <summary><strong>Halloween 2022</strong></summary>
 
-## Recompensas
+## Recompensas <a href="#halloween2022" id="halloween2022"></a>
 
 A caixa Halloween 2022 ficou disponível de 23/10/2022 até 06/11/2022.
 
@@ -588,7 +588,7 @@ Na caixa natalina 2021, foi possível obter o pet Boneco de Neve.
 
 <summary><strong>Halloween 2021</strong></summary>
 
-## Recompensas
+## Recompensas <a href="#halloween2021" id="halloween2021"></a>
 
 A caixa Halloween 2021 ficou disponível de 24/10/2021 até 31/10/2021.
 

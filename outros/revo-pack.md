@@ -9,6 +9,12 @@ coverY: 0
 
 # 🎮 Revo Pack
 
+{% hint style="danger" %}
+**IMPORTANTE**
+
+Sistema está desativado no momento.
+{% endhint %}
+
 ### Lista de emojis para utilizar no servidor
 
 <img src="../.gitbook/assets/peposleep.png" alt="" data-size="line"> = :peposleep:\
@@ -29,3 +35,8 @@ coverY: 0
 <img src="../.gitbook/assets/sunglasso_bravo.png" alt="" data-size="line"> = :sunglasso\_bravo: \
 <img src="../.gitbook/assets/rofl.png" alt="" data-size="line"> = :rofl: ou :risos:
 
+{% hint style="danger" %}
+**IMPORTANTE**
+
+Sistema está desativado no momento.
+{% endhint %}

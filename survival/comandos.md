@@ -227,7 +227,7 @@ Um menu com funções mais avançadas do servidor com intuito de sanar todo tipo
 ### 26. Elevadores
 
 * Descrição: Suba e desça andares de forma prática.
-* Como criar: Posicione um bloco de minério e outro na mesma direção vertical (Y) a no máximo 50 blocos. Agache/pule para usar.
+* Como criar: Posicione um bloco de minério e outro na mesma direção vertical (Y). Agache/pule para usar.
 
 ***
 
@@ -258,6 +258,7 @@ Um menu com funções mais avançadas do servidor com intuito de sanar todo tipo
 
 * Descrição: Mensagem de entrada personalizada no servidor.
 * Como obter: Liberando categorias de tags, sendo o MITO ou TOP 1 de um ranking.
+* Comando: `/entradas`
 
 ***
 

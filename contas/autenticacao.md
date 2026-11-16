@@ -1,4 +1,7 @@
 ---
+description: >-
+  Nesta página destacará todas as formas de autenticação de uma conta Minecraft
+  Java.
 icon: key
 ---
 

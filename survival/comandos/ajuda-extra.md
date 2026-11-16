@@ -149,6 +149,7 @@ description: >-
 
 * Descrição: Mensagens de destaque exibidas para todos quando você entra no servidor.
 * Como obter: Sendo TOP 1 de um ranking, o MITO do servidor ou completando categorias de Tags.
+* Comando: `/entradas`
 
 ***
 

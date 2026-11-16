@@ -1,4 +1,5 @@
 ---
+description: Lista com todos os pets do Survival.
 icon: cat
 cover: ../../.gitbook/assets/Inserir_um_titulo_3.png
 coverY: 0
@@ -74,3 +75,12 @@ Os pets possuem interação quando estão em exibição.
 Existe um limite de pets em exibição, que varia conforme o seu vip.
 {% endhint %}
 
+## Limite
+
+O sistema possui limite de pets expostos simultaneamente não de ativações, segue a tabela conforme cada vip
+
+<table data-header-hidden="false" data-header-sticky><thead><tr><th width="196">VIP</th><th width="197">Limite</th></tr></thead><tbody><tr><td>Membro(Sem vip)</td><td>1 pet exposto</td></tr><tr><td>Super</td><td>2 pets expostos</td></tr><tr><td>Ultra </td><td>3 pets expostos</td></tr><tr><td>Legend</td><td>4 pets expostos</td></tr><tr><td>Especial(Infância)</td><td>5 pets expostos</td></tr></tbody></table>
+
+{% hint style="info" %}
+O limite é referente aos pets expostos, não a quantidade de pets ativados, não existe um limite máximo de pets que um jogador pode ter, existe é um limite máximo de pets em exibição.
+{% endhint %}

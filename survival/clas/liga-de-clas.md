@@ -22,16 +22,17 @@ Visualize todas informações com o comando `/liga` e visualize o desempenho de 
 
 Pontos que podem ser obtidos a qualquer momento:
 
-|                Ação               | Pontos |
-| :-------------------------------: | :----: |
-|       Abater o Dragão do Fim      |    1   |
-|        Vencer Evento (Chat)       |    2   |
-|        Vencer Evento (Ação)       |    3   |
-|     Vencer Evento (Presencial)    |    5   |
-|  Vencer evento Dominador (Arena)  |   25   |
-| Vencer evento Dominador (The End) |   50   |
-|            Desbravador            |   250  |
-|               Slayer              |   250  |
+|                Ação                | Pontos |
+| :--------------------------------: | :----: |
+|       Abater o Dragão do Fim       |    1   |
+|        Vencer Evento (Chat)        |    2   |
+|        Vencer Evento (Ação)        |    3   |
+| Vencer Evento (Presencial de time) |    3   |
+|     Vencer Evento (Presencial)     |    5   |
+|   Vencer evento Dominador (Arena)  |   25   |
+|  Vencer evento Dominador (The End) |   50   |
+|             Desbravador            |   250  |
+|               Slayer               |   250  |
 
 ### Eventos Agendados
 
@@ -70,6 +71,8 @@ No momento de finalização de pontuação para decidir quais clãs serão defin
 |  Segundo Lugar |   200  |
 | Terceiro Lugar |   150  |
 
+
+
 {% hint style="info" %}
 **Exemplo:** Jogador(a) finalizou em **segundo lugar** no ranking dos **eventos top**, no fim da temporada _(momento de decidir o clã vencedor da liga de temporada)_ será adicionado **+200 pontos** ao seu respectivo clã.
 
@@ -81,11 +84,11 @@ No momento de finalização de pontuação para decidir quais clãs serão defin
 
 ### Recompensa liga (Mensal)
 
-|     Posição    |                                       Recompensa                                       |
-| :------------: | :------------------------------------------------------------------------------------: |
-| Primeiro Lugar | <ul><li>5M Coins </li><li>Tag Especial (30d) [10 Membros] </li><li>4500 Cash</li></ul> |
-|  Segundo Lugar |                     <ul><li>2.5M Coins</li><li>3000 Cash</li></ul>                     |
-| Terceiro Lugar |                      <ul><li>1M Coins </li><li>1500 Cash</li></ul>                     |
+|     Posição    |                                                       Recompensa                                                      |
+| :------------: | :-------------------------------------------------------------------------------------------------------------------: |
+| Primeiro Lugar | <ul><li>5M Coins </li><li>Tag Especial (30d) [10 Membros] </li><li>7500 Cash</li><li>300 Fragmento de Chave</li></ul> |
+|  Segundo Lugar |                     <ul><li>2.5M Coins</li><li>5000 Cash</li><li>200 Fragmento de Chave</li></ul>                     |
+| Terceiro Lugar |                      <ul><li>1M Coins </li><li>2500 Cash</li><li>100 Fragmento de Chave</li></ul>                     |
 
 ### Recompensa liga (Temporada)
 
@@ -94,6 +97,8 @@ No momento de finalização de pontuação para decidir quais clãs serão defin
 | Primeiro Lugar | <ul><li>800R$ ou 200k Cash</li><li>Troféu (Item exclusivo)</li><li>Banner destaque enviado pelo clã exposto no <strong>/spawn</strong>.</li></ul> |
 |  Segundo Lugar |                                                                 400R$ ou 100k Cash                                                                |
 | Terceiro Lugar |                                                                 200R$ ou 50k Cash                                                                 |
+
+
 
 {% hint style="info" %}
 Sempre ao fim de um ciclo de liga, as recompensas deverão ser reivindicadas por um **Líder** do clã através de **Ticket** no discord do servidor.&#x20;
