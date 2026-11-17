@@ -207,7 +207,6 @@
   * [🪧 Loja Física dos Jogadores](survival/economia/loja-fisica-dos-jogadores.md)
   * [🛒 Mercado](survival/economia/ah.md)
 * [Mecânicas](survival/mecanicas/README.md)
-  * [Aldeões](survival/mecanicas/aldeoes.md)
   * [Elevadores](survival/mecanicas/elevador.md)
   * [Pets](survival/mecanicas/pet.md)
   * [Tags](survival/mecanicas/tags/README.md)

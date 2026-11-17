@@ -10,9 +10,16 @@ coverY: 0
 
 Dentro de um terreno protegido de sua posse digite **/terreno vender \<valor>**.
 
+* 1.000 Coins serão cobrado por anúncio de venda criado.&#x20;
+* Valor mínimo de venda de 100 Coins.
+
 ## Comprar
 
 Visualize os terrenos a venda em **/imobiliaria**.
+
+## Remoção
+
+Para remover o terreno basta quebrar a placa.
 
 ## Proteções
 
